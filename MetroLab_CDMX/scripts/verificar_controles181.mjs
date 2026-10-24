@@ -66,3 +66,22 @@ const before181=camera.position.clone();dispatch181(dialog,'keydown','Control',{
 const helper181=view.walk176.help181;assert(helper181);dispatch181(dialog,'keydown','h');assert(helper181.open,'H opens actual keyboard help');dispatch181(dialog,'keydown','h',{repeat:true});assert(helper181.open,'Held H does not flicker');dispatch181(dialog,'keydown','h');assert(!helper181.open);const padToggle181=helper181.querySelector('[data-pad181]');padToggle181.onclick();assert.equal(ui.checklist179.pad.dataset.visible181,'true');padToggle181.onclick();assert.equal(ui.checklist179.pad.dataset.visible181,'false');
 const bag181=ui.play135.bag156;bag181.host.getClientRects=()=>[{}];dispatch181(doc,'keydown','Tab');for(let i=0;i<30&&!bag181.open;i++)await new Promise(resolve=>setImmediate(resolve));assert(bag181.open,'Tab opens the real floor bag');await bag181.openTask176;dispatch181(doc,'keydown','Tab',{repeat:true});assert(bag181.open,'Held Tab does not close/reopen inventory');dispatch181(doc,'keydown','Tab');assert(!bag181.open&&bag181.browser.phase==='closed','Tab closes the floor bag');ui.state.choose('driver');bag181.sync('driver');dispatch181(doc,'keydown','q');assert.equal(ui.state.tool,'hand','Q holsters the tool through the native hand button');assert.equal(bag181.selected,'hand');
 bag181.prepared176.add('driver');const driver181=ui.dialog.querySelector('[data-sr128-tool="driver"]');driver181.click();assert.equal(ui.state.tool,'driver');assert(!bag181.open,'A prepared tool can be selected without reopening the bag');console.log('181 PASS: Ctrl + WASD crouch and movement, release restores posture, native H help and optional buttons, Tab inventory/repeat/close, Q holster, prepared tool quick selection. CPU/DOM.');
+
+// First-person maintenance uses the native Pointer Lock lifecycle and real mission state.
+let lockRequests182=0,lockExits182=0;
+canvas.requestPointerLock=()=>{lockRequests182++;doc.pointerLockElement=canvas;for(const f of doc.events.pointerlockchange||[])f({});};
+doc.exitPointerLock=()=>{lockExits182++;doc.pointerLockElement=null;for(const f of doc.events.pointerlockchange||[])f({});};
+ui.checklist179.setJournal182(true);assert.equal(dialog.dataset.journal182,'true');
+view.walk176.firstPersonButton.onclick();assert.equal(lockRequests182,1);assert(view.walk176.locked182());assert.equal(dialog.dataset.journal182,'false');assert.equal(dialog.dataset.fps182,'true');
+const yaw182=view.walk176.yaw,pitch182=view.walk176.pitch;
+for(const f of doc.events.mousemove||[])f({movementX:70,movementY:-20});
+assert(view.walk176.yaw<yaw182);assert(view.walk176.pitch>pitch182,'Relative mouse moves the first person camera without a held button');
+view.walk176.keys.add('w');dispatch181(dialog,'keydown','j');assert.equal(dialog.dataset.journal182,'true');assert(!view.walk176.locked182());assert.equal(view.walk176.keys.size,0);assert.equal(ui.checklist179.toggle182.getAttribute('aria-expanded'),'true');
+dispatch181(dialog,'keydown','j');assert.equal(dialog.dataset.journal182,'false');
+view.walk176.firstPersonButton.onclick();dispatch181(dialog,'keydown','h');assert(!view.walk176.locked182(),'Help releases the mouse');
+view.walk176.firstPersonButton.onclick();view.walk176.keys.add('w');dispatch181(dialog,'keydown','Escape');assert(!view.walk176.locked182());assert.equal(view.walk176.keys.size,0);assert(lockExits182>=3);
+view.walk176.firstPersonButton.onclick();const index182=ui.state.index,oldPick182=ui.play135.pick;ui.play135.pick=()=>null;ui.play135.action();assert.equal(ui.state.index,index182,'E cannot remotely advance a step without an aimed target');ui.play135.pick=oldPick182;
+ui.nav177.set('orbit');assert(!view.walk176.locked182(),'Inspection releases pointer lock');
+canvas.requestPointerLock=undefined;view.walk176.firstPersonButton.onclick();assert(view.walk176.firstPersonButton.textContent.includes('botón derecho'),'Unsupported browsers retain drag navigation');
+assert(ui.checklist179.objective182.querySelector('[data-fps182-title]').textContent===ui.state.mission.title);
+console.log('182 PASS: pointer lock entry, relative mouse yaw/pitch, J journal toggle, help/Escape/inspection release, cleared movement, aimed interaction guard, fallback and current mission HUD. CPU/DOM; no GPU rendering.');

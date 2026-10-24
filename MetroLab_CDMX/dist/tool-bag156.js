@@ -17,7 +17,7 @@ export class ToolBag156{
  create178(ctx){this.browser=new PhysicalBag157(ctx.view,{...ctx,ids:this.buttons.map(this.getId).filter(x=>!['hand','inspect','test','spare'].includes(x)),notify:t=>{this.status.textContent=t;},onEquip:id=>{const b=this.buttons.find(b=>this.getId(b)===id);if(b&&!b.disabled)b.click();},onClose:()=>{this.open=false;this.toggle.setAttribute('aria-expanded','false');this.toggle.querySelector('small').textContent='Tab · Abrir bolsa';}});this.browser.onRequestOpen178=()=>this.setOpen(true);}
  async setOpen(open){
   if(!open){this.close();return;}if(this.open&&this.browser?.phase!=='closed'){await this.openTask176;if(this.browser?.phase==='closed'){this.open=false;this.toggle.setAttribute('aria-expanded','false');this.toggle.querySelector('small').textContent='Tab · Abrir bolsa';}return;}const ctx=this.getContext();if(!ctx?.view?.camera||!ctx.view.canvas){this.status.textContent='Espera a que el equipo termine de cargar';return;}
-  await this.ensure178(ctx);
+  ctx.view.walk176?.releaseMouse182();await this.ensure178(ctx);
   this.open=true;this.toggle.setAttribute('aria-expanded','true');this.toggle.querySelector('small').textContent='Incorporarme · Esc';this.openTask176=this.browser.open();await this.openTask176;if(this.browser?.phase==='closed'){this.open=false;this.toggle.setAttribute('aria-expanded','false');this.toggle.querySelector('small').textContent='Tab · Abrir bolsa';}
  }
  close(){this.open=false;this.browser?.close();this.toggle.setAttribute('aria-expanded','false');this.toggle.querySelector('small').textContent='Tab · Abrir bolsa';this.sync(this.selected||'hand');}
