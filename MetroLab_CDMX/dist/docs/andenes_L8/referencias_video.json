@@ -1,0 +1,116 @@
+[
+  {
+    "id": "L8-01",
+    "nombre": "Garibaldi-Lagunilla",
+    "segundo": 1530,
+    "fotograma": "L8_01_1530s.jpg"
+  },
+  {
+    "id": "L8-02",
+    "nombre": "Bellas Artes",
+    "segundo": 1445,
+    "fotograma": "L8_02_1445s.jpg"
+  },
+  {
+    "id": "L8-03",
+    "nombre": "San Juan de Letrán",
+    "segundo": 1390,
+    "fotograma": "L8_03_1390s.jpg"
+  },
+  {
+    "id": "L8-04",
+    "nombre": "Salto del Agua",
+    "segundo": 1350,
+    "fotograma": "L8_04_1350s.jpg"
+  },
+  {
+    "id": "L8-05",
+    "nombre": "Doctores",
+    "segundo": 1290,
+    "fotograma": "L8_05_1290s.jpg"
+  },
+  {
+    "id": "L8-06",
+    "nombre": "Obrera",
+    "segundo": 1230,
+    "fotograma": "L8_06_1230s.jpg"
+  },
+  {
+    "id": "L8-07",
+    "nombre": "Chabacano",
+    "segundo": 1130,
+    "fotograma": "L8_07_1130s.jpg"
+  },
+  {
+    "id": "L8-08",
+    "nombre": "La Viga",
+    "segundo": 1070,
+    "fotograma": "L8_08_1070s.jpg"
+  },
+  {
+    "id": "L8-09",
+    "nombre": "Santa Anita",
+    "segundo": 980,
+    "fotograma": "L8_09_980s.jpg"
+  },
+  {
+    "id": "L8-10",
+    "nombre": "Coyuya",
+    "segundo": 887,
+    "fotograma": "L8_10_887s.jpg"
+  },
+  {
+    "id": "L8-11",
+    "nombre": "Iztacalco",
+    "segundo": 810,
+    "fotograma": "L8_11_810s.jpg"
+  },
+  {
+    "id": "L8-12",
+    "nombre": "Apatlaco",
+    "segundo": 748,
+    "fotograma": "L8_12_748s.jpg"
+  },
+  {
+    "id": "L8-13",
+    "nombre": "Aculco",
+    "segundo": 685,
+    "fotograma": "L8_13_685s.jpg"
+  },
+  {
+    "id": "L8-14",
+    "nombre": "Escuadrón 201",
+    "segundo": 610,
+    "fotograma": "L8_14_610s.jpg"
+  },
+  {
+    "id": "L8-15",
+    "nombre": "Atlalilco",
+    "segundo": 490,
+    "fotograma": "L8_15_490s.jpg"
+  },
+  {
+    "id": "L8-16",
+    "nombre": "Iztapalapa",
+    "segundo": 410,
+    "fotograma": "L8_16_410s.jpg"
+  },
+  {
+    "id": "L8-17",
+    "nombre": "Cerro de la Estrella",
+    "segundo": 345,
+    "fotograma": "L8_17_345s.jpg"
+  },
+  {
+    "id": "L8-18",
+    "nombre": "UAM-I",
+    "segundo": 270,
+    "fotograma": "L8_18_270s.jpg"
+  },
+  {
+    "id": "L8-19",
+    "nombre": "Constitución de 1917",
+    "segundo": 87,
+    "fotograma": "L8_19_87s.jpg"
+  }
+]

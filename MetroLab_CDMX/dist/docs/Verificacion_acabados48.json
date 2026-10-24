@@ -1,0 +1,239 @@
+{
+  "metodo": "Geometr\u00eda y UV desde bytes glTF; decodificaci\u00f3n real PNG/JPEG con Pillow. Comparaci\u00f3n contra v47. No prueba WebGL.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-02",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-03",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-04",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-05",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-06",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-07",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-08",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-09",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-10",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-11",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-12",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-13",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-14",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-15",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-16",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-17",
+      "caras_uv_verificadas": 1776,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-18",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-19",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 11,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L1-20",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 10,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-01",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-02",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-03",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-04",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-05",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-06",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-07",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-08",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-09",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-10",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-11",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-12",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-13",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-14",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-15",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-16",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-17",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-18",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    },
+    {
+      "id": "L8-19",
+      "caras_uv_verificadas": 1536,
+      "texturas_embebidas_decodificadas": 8,
+      "geometria_funcional_preservada": true
+    }
+  ]
+}

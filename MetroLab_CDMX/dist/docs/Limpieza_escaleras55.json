@@ -1,0 +1,97 @@
+[
+  {
+    "id": "L1-01",
+    "nombre": "Pantitlán",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-02",
+    "nombre": "Zaragoza",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-03",
+    "nombre": "Gómez Farías",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-04",
+    "nombre": "Boulevard Puerto Aéreo",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-05",
+    "nombre": "Balbuena",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-06",
+    "nombre": "Moctezuma",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-07",
+    "nombre": "San Lázaro",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-08",
+    "nombre": "Candelaria",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-09",
+    "nombre": "Merced",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-10",
+    "nombre": "Pino Suárez",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-11",
+    "nombre": "Isabel la Católica",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-12",
+    "nombre": "Salto del Agua",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-13",
+    "nombre": "Balderas",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-14",
+    "nombre": "Cuauhtémoc",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-15",
+    "nombre": "Insurgentes",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-16",
+    "nombre": "Sevilla",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-17",
+    "nombre": "Chapultepec",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-18",
+    "nombre": "Juanacatlán",
+    "piezas_retiradas": 40
+  },
+  {
+    "id": "L1-19",
+    "nombre": "Tacubaya",
+    "piezas_retiradas": 40
+  }
+]

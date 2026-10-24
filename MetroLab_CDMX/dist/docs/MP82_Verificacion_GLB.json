@@ -1,0 +1,40 @@
+[
+  {
+    "archivo": "MP82_cabina.glb",
+    "bytes": 8918696,
+    "meshes": 82,
+    "triangles": 164194,
+    "hojas_puerta": 16,
+    "vidrios": 20,
+    "animaciones": 16,
+    "dimensiones_glb": {
+      "X": 17.63000514960905,
+      "Y": 3.655001185165287,
+      "Z": 2.647999918088317
+    },
+    "animacion_verificada": {
+      "hojas_animadas": 16,
+      "recorrido_m": 0.68,
+      "carga_Three_js": "correcta"
+    }
+  },
+  {
+    "archivo": "MP82_intermedio.glb",
+    "bytes": 8332768,
+    "meshes": 70,
+    "triangles": 151474,
+    "hojas_puerta": 16,
+    "vidrios": 19,
+    "animaciones": 16,
+    "dimensiones_glb": {
+      "X": 17.330004878258833,
+      "Y": 3.65500009059906,
+      "Z": 2.647999918088317
+    },
+    "animacion_verificada": {
+      "hojas_animadas": 16,
+      "recorrido_m": 0.68,
+      "carga_Three_js": "correcta"
+    }
+  }
+]

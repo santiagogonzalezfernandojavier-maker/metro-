@@ -1,0 +1,9 @@
+# Revisión 156 · Mantenimiento sobre el tren y bolsa personal
+
+Las cuatro prácticas de trenes se realizan en una vía de mantenimiento con el convoy estacionado. La puerta permanece en su hueco, con acceso desde una pasarela; los equipos auxiliares se montan en la zona de servicio y la rodadura conserva un apoyo local. La bandeja recibe únicamente las piezas retiradas durante el ejercicio. El entorno utiliza los GLB existentes de NM-22, NM-79 y MP-82; ocho coches de contexto usan geometría instanciada alrededor del coche intervenido. Los emplazamientos de los equipos del ejercicio son aproximaciones didácticas, no planos de montaje del fabricante.
+
+Ver tren encuadra el convoy completo; Acercar equipo y Enfocar pieza devuelven la vista al trabajo. PAN y zoom siguen disponibles. La carga de la misión espera también a que el contexto del tren esté preparado.
+
+Mi bolsa de herramientas sustituye la barra permanentemente desplegada tanto en trenes como en subestaciones. Conserva los botones originales y sus atajos, permite abrir, elegir y cerrar, e indica la herramienta equipada. Al elegir una herramienta, el guante se aproxima a la bolsa 3D, la toma y se retira. La asistencia de herramienta automática sigue disponible; elegir manualmente desactiva esa asistencia. La bolsa y la animación se cancelan al salir o cambiar de práctica.
+
+Validación: cuatro misiones de tren completadas con 175 acciones de mouse proyectadas sobre piezas reales; seis misiones de subestación completadas con sus acciones nativas; las doce combinaciones de modelo y práctica mantienen el convoy y los anclajes, sin alterar los activos originales. Bolsa: apertura, elección, cierre, ocho tipos de herramienta, guante GLB, cancelación y reutilización de geometría. Pruebas DOM/CPU; no se realizó inspección visual en navegador ni medición de FPS.

@@ -1,0 +1,1267 @@
+{
+  "criterio": "Sin intersección en proyección frontal con columnas o machones; margen lateral 0.16 m. Los ángulos oblicuos pueden ocultar parcialmente un cartel.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "diagrama",
+          "lado": -1,
+          "x_anterior": 0.0,
+          "desplazamiento": 3.0
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "diagrama",
+          "lado": 1,
+          "x_anterior": 0.0,
+          "desplazamiento": 3.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 2.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 0.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": 2.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 2.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -0.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": 2.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "cdd7379b50853e8cf80184d6100da4b6b46b96d560b7b77ce4460abaa097c2ff"
+    },
+    {
+      "id": "L1-02",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "20040d1a0ae16ce2b8dfc0dab7231df8ae82d859401973e6f7ce091560754350"
+    },
+    {
+      "id": "L1-03",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "ad104b1533f2ac43a2b4da3d0bb486f2d0bb1bbb267a30a7c0aff1723745f513"
+    },
+    {
+      "id": "L1-04",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 1.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -1.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 1.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -1.0
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "35b1c01cd2dade327d6fa53fa4f16fc826e38540451e1064188b67d4bccb6d2e"
+    },
+    {
+      "id": "L1-05",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [],
+      "mapas_runtime": [],
+      "sha256": "6093e82e916ed67438eebbc9a46c2232649fd88b2f72018415354cf88530482b"
+    },
+    {
+      "id": "L1-06",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [],
+      "mapas_runtime": [],
+      "sha256": "8f47e2e3cc8647bf32884200af3f71caae0ceaeab03f84675ee85754b41d5686"
+    },
+    {
+      "id": "L1-07",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "27660cbca3c558bdd66c544f4511e720248f2851febecd0ac48ada80ef9173bd"
+    },
+    {
+      "id": "L1-08",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "d46444a0e9f2a5b7c720e376a47f827db46a5bae4a0b2a836c1ecae633ab205d"
+    },
+    {
+      "id": "L1-09",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "988c90c60091c80bc0d424ff255769b6ac37b226fe4a78e3dcffeef855f0d2bd"
+    },
+    {
+      "id": "L1-10",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [],
+      "mapas_runtime": [],
+      "sha256": "e864f7b24c5dfbb8fb6369130436da5f1f021be64cd05ea99cb6f562dc27fe43"
+    },
+    {
+      "id": "L1-11",
+      "grupos_verificados": 28,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.01,
+          "desplazamiento": 0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 28.99,
+          "desplazamiento": -0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -28.99,
+          "desplazamiento": 0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.01,
+          "desplazamiento": -0.5
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "898e8e14262de739db6eba86ce79a2bdfb5659971f4fa43199d6ccdb913774ba"
+    },
+    {
+      "id": "L1-12",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.5
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "3790961ec6a12f184ad99765a67b6f825dfef2a5114534fdd616e00e56ab6f25"
+    },
+    {
+      "id": "L1-13",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "fbd0c19dfefe7730d3dfd08a4f41fa2b0fe9d7ef02ac7633a1523f23722b71a5"
+    },
+    {
+      "id": "L1-14",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "12c57dac0bdc5bf030e566539343ac5d27b9603dc4ca728ccdf11b57a850c9a9"
+    },
+    {
+      "id": "L1-15",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "d916d70e3bb3f9daff8d4a760d544709cf703714ac5a32e450e021dc6b7cdac1"
+    },
+    {
+      "id": "L1-16",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [],
+      "mapas_runtime": [],
+      "sha256": "7b4bda22b19cc409748dcaad7cbfab86463353c8182aab6e2ec668466a9af7a2"
+    },
+    {
+      "id": "L1-17",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": -1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": -42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "mapa",
+          "lado": 1,
+          "x_anterior": 42.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -29.0,
+          "desplazamiento": 0.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 29.0,
+          "desplazamiento": -0.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "40cbfca7ad33e2a19d3c661913e8a2cf819f788418c36859062ec0594e209813"
+    },
+    {
+      "id": "L1-18",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [],
+      "mapas_runtime": [],
+      "sha256": "609b96e547e37b94d2d7c5aa2c282ef6578e3e5ca4c070fe9f8f27c529a2ac0a"
+    },
+    {
+      "id": "L1-19",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.0,
+          "desplazamiento": 3.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.0,
+          "desplazamiento": 3.0
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "d1a293b02a79b3c6e236b8d7e1b4843746ec5ef26fe1c110dfa0d99074b0c9c9"
+    },
+    {
+      "id": "L1-20",
+      "grupos_verificados": 26,
+      "grupos_reubicados": [
+        {
+          "grupo": "diagrama",
+          "lado": -1,
+          "x_anterior": 0.0,
+          "desplazamiento": 2.75
+        },
+        {
+          "grupo": "diagrama",
+          "lado": 1,
+          "x_anterior": 0.0,
+          "desplazamiento": 2.75
+        },
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.0,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.0,
+          "desplazamiento": 1.25
+        }
+      ],
+      "mapas_runtime": [],
+      "sha256": "a836ded4118a14aa773d52340dbc5fd85c7b571c5cb36f9ec9f89cb35f11ddd5"
+    },
+    {
+      "id": "L8-01",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.01,
+          "desplazamiento": 2.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.01,
+          "desplazamiento": 2.0
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "7f51f70da40f9e60dcc5ccb7c688b8599e0ac643acee427080fe05049d2664fe"
+    },
+    {
+      "id": "L8-02",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.01,
+          "desplazamiento": 1.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.01,
+          "desplazamiento": 1.5
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "18308ad50d88f184d1b56b5c39893d5e0a61cdc405b19fd59502be6995c41178"
+    },
+    {
+      "id": "L8-03",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 0.0,
+          "desplazamiento": 1.75
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -0.0,
+          "desplazamiento": 1.75
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "9bff175c0dc7de17bd8bc6359df854da673e9d92a9a715b62c6ea967ea0fa31a"
+    },
+    {
+      "id": "L8-04",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "6f68f2c8d793c0dd601d0b19f71c0bcd1cc8fbdf91b5cce79212071b7d2e0fa8"
+    },
+    {
+      "id": "L8-05",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "0d3058a5e5ee2b3023d63cec227656f1f056b2d9f5acd720cbbfb86d91dfde06"
+    },
+    {
+      "id": "L8-06",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "872806f6d6ca01aac55beb75627802e10a7442ecc01e9ac05b1da0c1e470e744"
+    },
+    {
+      "id": "L8-07",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.0,
+          "desplazamiento": 1.5
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.0,
+          "desplazamiento": 1.5
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "18dbba7811af6452ba1039422128403cc363672c46b8f9d05e3b263865b9b928"
+    },
+    {
+      "id": "L8-08",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.01,
+          "desplazamiento": 1.25
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.01,
+          "desplazamiento": 1.25
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "8ff440a812fc33bacdc3b047e915d24060366cc689c8917457cb5e89d75a2f56"
+    },
+    {
+      "id": "L8-09",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "5277aadf95fe3ef604eb27d70b2a2e0600591aee503ce00c423ceb133aa9bc6f"
+    },
+    {
+      "id": "L8-10",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "1b3dc1d3c4e03fc8821d558c59959bc4a617f7c53ffb411c81ed830eb75fbaa9"
+    },
+    {
+      "id": "L8-11",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "b8786b9359f7936813c2720c88dc5bb30f9962e69591bf8756e491479b4b74cc"
+    },
+    {
+      "id": "L8-12",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "9a1cb0a8bfd8fca568e3fc1b5d2f91d07d67e8abdf0cb5606780e11a8c838868"
+    },
+    {
+      "id": "L8-13",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "eb603492d22458f150c400218d3d11223f200af2d4e162dc0742a5ed602e9fce"
+    },
+    {
+      "id": "L8-14",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "fb711233a584582f3d1c1c90c55d85457f0adad866d8ae5dc1aa337afe0ce169"
+    },
+    {
+      "id": "L8-15",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "a9050459d29dab1482d0b3326188c912adb3896ca81a71cddf5219ebd5d67222"
+    },
+    {
+      "id": "L8-16",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "0dc027909a80d7167cad5db2697f9e649707aa44c65e2f33254bbe6cb87176ed"
+    },
+    {
+      "id": "L8-17",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": -0.01,
+          "desplazamiento": 2.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": 0.01,
+          "desplazamiento": 2.0
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "2ab792abff15045b705f453b3c46fc2432e404e61d7e5bcdd0321cabf69f86b7"
+    },
+    {
+      "id": "L8-18",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [
+        {
+          "grupo": "rotulo",
+          "lado": 1,
+          "x_anterior": 0.0,
+          "desplazamiento": 1.0
+        },
+        {
+          "grupo": "rotulo",
+          "lado": -1,
+          "x_anterior": -0.0,
+          "desplazamiento": 1.0
+        }
+      ],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "dc392d730a259498c4c03d665a64f922bcb896b735bf30a722b0248d4644a9af"
+    },
+    {
+      "id": "L8-19",
+      "grupos_verificados": 16,
+      "grupos_reubicados": [],
+      "mapas_runtime": [
+        {
+          "side": -1,
+          "x": 12,
+          "y": 2.9,
+          "z": -7.72
+        },
+        {
+          "side": 1,
+          "x": 12,
+          "y": 2.9,
+          "z": 7.72
+        }
+      ],
+      "sha256": "278b15a4714724540eac1a616d70e405230c4607b1bcab5b8b39a409f92a6762"
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "revision": 16,
+  "blender": [
+    {
+      "archivo": "Linea_1/Blender/L1_01_Pantitlan.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_02_Zaragoza.blend",
+      "ajustes": 25,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura rosa de barandal",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_03_Gomez_Farias.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_04_Boulevard_Puerto_Aereo.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_05_Balbuena.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_06_Moctezuma.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_07_San_Lazaro.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_08_Candelaria.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_09_Merced.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_10_Pino_Suarez.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_11_Isabel_la_Catolica.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_12_Salto_del_Agua.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_13_Balderas.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_14_Cuauhtemoc.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_15_Insurgentes.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_16_Sevilla.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_17_Chapultepec.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_18_Juanacatlan.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_19_Tacubaya.blend",
+      "ajustes": 23,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "Linea_1/Blender/L1_20_Observatorio.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Piso gris en piezas PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_01_Garibaldi_Lagunilla.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_02_Bellas_Artes.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_03_San_Juan_de_Letran.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_04_Salto_del_Agua.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_05_Doctores.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_06_Obrera.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_07_Chabacano.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_08_La_Viga.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_09_Santa_Anita.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_10_Coyuya.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_11_Iztacalco.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_12_Apatlaco.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_13_Aculco.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_14_Escuadron_201.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_15_Atlalilco.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_16_Iztapalapa.blend",
+      "ajustes": 15,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_17_Cerro_de_la_Estrella.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_18_UAM_I.blend",
+      "ajustes": 21,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Pintura verde pálido"
+      ]
+    },
+    {
+      "archivo": "Linea_8/Blender/L8_19_Constitucion_de_1917.blend",
+      "ajustes": 19,
+      "materiales": [
+        "Acero satinado",
+        "Borde amarillo seguridad",
+        "Concreto fino PBR",
+        "Vidrio opalino"
+      ]
+    },
+    {
+      "archivo": "MP82/MP82_referencias.blend",
+      "ajustes": 40,
+      "materiales": [
+        "Acero puertas cepillado",
+        "Asientos naranja",
+        "Carcasa asientos gris",
+        "Cristal gris azul",
+        "Goma negra",
+        "Interior marfil",
+        "Naranja esmalte",
+        "Pasamanos pulido",
+        "Piso verde"
+      ]
+    }
+  ],
+  "glb": [
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_01_Pantitlan.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_02_Zaragoza.glb",
+      "ajustes": 13,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_03_Gomez_Farias.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_04_Boulevard_Puerto_Aereo.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_05_Balbuena.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_06_Moctezuma.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_07_San_Lazaro.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_08_Candelaria.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_09_Merced.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_10_Pino_Suarez.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_11_Isabel_la_Catolica.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_12_Salto_del_Agua.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_13_Balderas.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_14_Cuauhtemoc.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_15_Insurgentes.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_16_Sevilla.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_17_Chapultepec.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_18_Juanacatlan.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_19_Tacubaya.glb",
+      "ajustes": 13,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/GLB/L1_20_Observatorio.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/Material_rodante/NM22_cabina.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_1/Material_rodante/NM22_intermedio.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_01_Garibaldi_Lagunilla.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_02_Bellas_Artes.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_03_San_Juan_de_Letran.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_04_Salto_del_Agua.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_05_Doctores.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_06_Obrera.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_07_Chabacano.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_08_La_Viga.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_09_Santa_Anita.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_10_Coyuya.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_11_Iztacalco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_12_Apatlaco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_13_Aculco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_14_Escuadron_201.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_15_Atlalilco.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_16_Iztapalapa.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_17_Cerro_de_la_Estrella.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_18_UAM_I.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/Linea_8/GLB/L8_19_Constitucion_de_1917.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/MP82/MP82_cabina.glb",
+      "ajustes": 18,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "modelado/MP82/MP82_intermedio.glb",
+      "ajustes": 18,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/MP82_cabina.glb",
+      "ajustes": 18,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/MP82_intermedio.glb",
+      "ajustes": 18,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/NM22_cabina.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/NM22_intermedio.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/NM79_cabina.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/NM79_intermedio.glb",
+      "ajustes": 16,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_01_Pantitlan.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_02_Zaragoza.glb",
+      "ajustes": 13,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_03_Gomez_Farias.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_05_Balbuena.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_06_Moctezuma.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_07_San_Lazaro.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_08_Candelaria.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_09_Merced.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_10_Pino_Suarez.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_12_Salto_del_Agua.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_13_Balderas.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_14_Cuauhtemoc.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_15_Insurgentes.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_16_Sevilla.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_17_Chapultepec.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_18_Juanacatlan.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_19_Tacubaya.glb",
+      "ajustes": 13,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L1/L1_20_Observatorio.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_02_Bellas_Artes.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_03_San_Juan_de_Letran.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_04_Salto_del_Agua.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_05_Doctores.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_06_Obrera.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_07_Chabacano.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_08_La_Viga.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_09_Santa_Anita.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_10_Coyuya.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_11_Iztacalco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_12_Apatlaco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_13_Aculco.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_14_Escuadron_201.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_15_Atlalilco.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_16_Iztapalapa.glb",
+      "ajustes": 9,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_18_UAM_I.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    },
+    {
+      "archivo": "simulador/models/andenes/L8/L8_19_Constitucion_de_1917.glb",
+      "ajustes": 11,
+      "geometria_y_texturas_sin_perdida": true
+    }
+  ],
+  "validacion": "Estructura SDNA y diferencias de bytes verificadas. No se ha abierto Blender en este entorno."
+}

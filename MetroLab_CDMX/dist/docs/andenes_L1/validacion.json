@@ -1,0 +1,302 @@
+[
+  {
+    "estacion": "Pantitlán",
+    "archivo": "GLB/L1_01_Pantitlan.glb",
+    "bytes": 417352,
+    "meshes": 1015,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.095000192523003,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Zaragoza",
+    "archivo": "GLB/L1_02_Zaragoza.glb",
+    "bytes": 408840,
+    "meshes": 1031,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Gómez Farías",
+    "archivo": "GLB/L1_03_Gomez_Farias.glb",
+    "bytes": 467112,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Boulevard Puerto Aéreo",
+    "archivo": "GLB/L1_04_Boulevard_Puerto_Aereo.glb",
+    "bytes": 668320,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.28000020980835,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Balbuena",
+    "archivo": "GLB/L1_05_Balbuena.glb",
+    "bytes": 407572,
+    "meshes": 985,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.28000020980835,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Moctezuma",
+    "archivo": "GLB/L1_06_Moctezuma.glb",
+    "bytes": 409500,
+    "meshes": 985,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.28000020980835,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "San Lázaro",
+    "archivo": "GLB/L1_07_San_Lazaro.glb",
+    "bytes": 461956,
+    "meshes": 1013,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.579999923706055,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Candelaria",
+    "archivo": "GLB/L1_08_Candelaria.glb",
+    "bytes": 411488,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Merced",
+    "archivo": "GLB/L1_09_Merced.glb",
+    "bytes": 419240,
+    "meshes": 1013,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Pino Suárez",
+    "archivo": "GLB/L1_10_Pino_Suarez.glb",
+    "bytes": 440452,
+    "meshes": 985,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Isabel la Católica",
+    "archivo": "GLB/L1_11_Isabel_la_Catolica.glb",
+    "bytes": 514596,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.28000020980835,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Salto del Agua",
+    "archivo": "GLB/L1_12_Salto_del_Agua.glb",
+    "bytes": 461796,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Balderas",
+    "archivo": "GLB/L1_13_Balderas.glb",
+    "bytes": 465596,
+    "meshes": 1013,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.579999923706055,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Cuauhtémoc",
+    "archivo": "GLB/L1_14_Cuauhtemoc.glb",
+    "bytes": 449408,
+    "meshes": 997,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Insurgentes",
+    "archivo": "GLB/L1_15_Insurgentes.glb",
+    "bytes": 514964,
+    "meshes": 1013,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.579999923706055,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Sevilla",
+    "archivo": "GLB/L1_16_Sevilla.glb",
+    "bytes": 335740,
+    "meshes": 985,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.380000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Chapultepec",
+    "archivo": "GLB/L1_17_Chapultepec.glb",
+    "bytes": 495072,
+    "meshes": 1013,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.579999923706055,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Juanacatlán",
+    "archivo": "GLB/L1_18_Juanacatlan.glb",
+    "bytes": 422228,
+    "meshes": 985,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.28000020980835,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Tacubaya",
+    "archivo": "GLB/L1_19_Tacubaya.glb",
+    "bytes": 457528,
+    "meshes": 1061,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.679999828338623,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Observatorio",
+    "archivo": "GLB/L1_20_Observatorio.glb",
+    "bytes": 518284,
+    "meshes": 1085,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      6.880000114440918,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  }
+]

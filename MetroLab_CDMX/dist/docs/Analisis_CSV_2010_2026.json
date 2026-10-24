@@ -1,0 +1,1286 @@
+{
+  "archivos": {
+    "diaria": {
+      "archivo": "0e8ffe58-28bb-4dde-afcd-e5f5b4de4ccb.csv",
+      "filas_totales": 1180920,
+      "fecha_min": "2010-01-01",
+      "fecha_max": "2026-07-31",
+      "filas_L1_L8": 236184,
+      "claves_repetidas": 0,
+      "filas_invalidas": [],
+      "filas_invalidas_total": 0,
+      "tipos_pago": {},
+      "lineas_observadas": [
+        "1",
+        "12",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "a",
+        "b"
+      ],
+      "codificacion": "Lectura byte-preservante latin-1 y reparación UTF-8 por celda cuando es reversible; originales intactos"
+    },
+    "pagos": {
+      "archivo": "cce544e1-dc6b-42b4-bc27-0d8e6eb3ed72.csv",
+      "filas_totales": 1192230,
+      "fecha_min": "2021-01-01",
+      "fecha_max": "2026-07-31",
+      "filas_L1_L8": 238446,
+      "claves_repetidas": 0,
+      "filas_invalidas": [],
+      "filas_invalidas_total": 0,
+      "tipos_pago": {
+        "Boleto": 173302520,
+        "Prepago": 865337677,
+        "Gratuidad": 180112574
+      },
+      "lineas_observadas": [
+        "1",
+        "12",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "a",
+        "b"
+      ],
+      "codificacion": "Lectura byte-preservante latin-1 y reparación UTF-8 por celda cuando es reversible; originales intactos"
+    }
+  },
+  "comparacion": {
+    "claves_comparables": 79482,
+    "claves_iguales": 79482,
+    "claves_distintas": 0,
+    "ejemplos_diferencias": [],
+    "solo_diaria": 156702,
+    "solo_pagos": 0,
+    "regla": "No sumar ambas series. Utilizar diaria como serie base; pagos como desglose y comprobación independiente."
+  },
+  "no_mapeadas": [],
+  "ultimo_mes": [
+    {
+      "linea": 1,
+      "mes": "2026-07",
+      "estaciones": 20,
+      "registros": 620,
+      "total_mes": 14357334,
+      "promedio_dia_calendario": 463139.81,
+      "mayores_estaciones": [
+        {
+          "estacion_id": "L1-20",
+          "linea": 1,
+          "nombre": "Observatorio",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 1337507,
+          "promedio_diario_registrado": 43145.39,
+          "promedio_por_dia_semana": {
+            "2": 40708.4,
+            "3": 42349.0,
+            "4": 45426.4,
+            "5": 40887.25,
+            "6": 38008.0,
+            "0": 53850.25,
+            "1": 41026.5
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L1-15",
+          "linea": 1,
+          "nombre": "Insurgentes",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 1251817,
+          "promedio_diario_registrado": 40381.19,
+          "promedio_por_dia_semana": {
+            "2": 46057.0,
+            "3": 45586.0,
+            "4": 45306.8,
+            "5": 31628.0,
+            "6": 23910.5,
+            "0": 42635.0,
+            "1": 43593.5
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L1-17",
+          "linea": 1,
+          "nombre": "Chapultepec",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 1229662,
+          "promedio_diario_registrado": 39666.52,
+          "promedio_por_dia_semana": {
+            "2": 45260.6,
+            "3": 43589.2,
+            "4": 42313.6,
+            "5": 28809.75,
+            "6": 32553.5,
+            "0": 37969.0,
+            "1": 44129.0
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L1-09",
+          "linea": 1,
+          "nombre": "Merced",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 1123311,
+          "promedio_diario_registrado": 36235.84,
+          "promedio_por_dia_semana": {
+            "2": 35071.8,
+            "3": 36361.0,
+            "4": 37916.4,
+            "5": 46153.5,
+            "6": 31339.25,
+            "0": 33125.75,
+            "1": 33522.75
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L1-01",
+          "linea": 1,
+          "nombre": "Pantitlán",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 1062637,
+          "promedio_diario_registrado": 34278.61,
+          "promedio_por_dia_semana": {
+            "2": 37161.0,
+            "3": 37394.8,
+            "4": 38408.6,
+            "5": 31439.0,
+            "6": 20159.75,
+            "0": 35815.5,
+            "1": 37039.5
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        }
+      ]
+    },
+    {
+      "linea": 8,
+      "mes": "2026-07",
+      "estaciones": 19,
+      "registros": 589,
+      "total_mes": 9508198,
+      "promedio_dia_calendario": 306716.06,
+      "mayores_estaciones": [
+        {
+          "estacion_id": "L8-19",
+          "linea": 8,
+          "nombre": "Constitución de 1917",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 2845476,
+          "promedio_diario_registrado": 91789.55,
+          "promedio_por_dia_semana": {
+            "2": 101125.8,
+            "3": 101564.2,
+            "4": 100153.0,
+            "5": 83215.25,
+            "6": 49375.75,
+            "0": 98777.0,
+            "1": 101447.25
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L8-10",
+          "linea": 8,
+          "nombre": "Coyuya",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 779132,
+          "promedio_diario_registrado": 25133.29,
+          "promedio_por_dia_semana": {
+            "2": 27668.0,
+            "3": 28245.2,
+            "4": 29350.0,
+            "5": 21190.5,
+            "6": 12886.25,
+            "0": 26969.25,
+            "1": 27158.0
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L8-03",
+          "linea": 8,
+          "nombre": "San Juan de Letrán",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 689334,
+          "promedio_diario_registrado": 22236.58,
+          "promedio_por_dia_semana": {
+            "2": 22768.4,
+            "3": 22966.0,
+            "4": 23575.6,
+            "5": 27089.5,
+            "6": 14254.75,
+            "0": 21681.25,
+            "1": 22670.5
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L8-18",
+          "linea": 8,
+          "nombre": "UAM-I",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 627124,
+          "promedio_diario_registrado": 20229.81,
+          "promedio_por_dia_semana": {
+            "2": 22420.6,
+            "3": 22773.6,
+            "4": 22954.0,
+            "5": 17494.5,
+            "6": 10546.25,
+            "0": 21437.25,
+            "1": 22117.75
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        },
+        {
+          "estacion_id": "L8-14",
+          "linea": 8,
+          "nombre": "Escuadrón 201",
+          "mes": "2026-07",
+          "dias_con_registro": 31,
+          "dias_cero": 0,
+          "total_mes": 553451,
+          "promedio_diario_registrado": 17853.26,
+          "promedio_por_dia_semana": {
+            "2": 21199.6,
+            "3": 19582.2,
+            "4": 19781.6,
+            "5": 15189.75,
+            "6": 8489.75,
+            "0": 19037.0,
+            "1": 19942.0
+          },
+          "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+        }
+      ]
+    }
+  ],
+  "resumen_estaciones_ultimo_mes": [
+    {
+      "estacion_id": "L1-01",
+      "linea": 1,
+      "nombre": "Pantitlán",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 1062637,
+      "promedio_diario_registrado": 34278.61,
+      "promedio_por_dia_semana": {
+        "2": 37161.0,
+        "3": 37394.8,
+        "4": 38408.6,
+        "5": 31439.0,
+        "6": 20159.75,
+        "0": 35815.5,
+        "1": 37039.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-02",
+      "linea": 1,
+      "nombre": "Zaragoza",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 815196,
+      "promedio_diario_registrado": 26296.65,
+      "promedio_por_dia_semana": {
+        "2": 28487.4,
+        "3": 29059.4,
+        "4": 29162.4,
+        "5": 23214.75,
+        "6": 14947.0,
+        "0": 29100.25,
+        "1": 28150.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-03",
+      "linea": 1,
+      "nombre": "Gómez Farías",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 650458,
+      "promedio_diario_registrado": 20982.52,
+      "promedio_por_dia_semana": {
+        "2": 22066.0,
+        "3": 22345.6,
+        "4": 22950.6,
+        "5": 20356.0,
+        "6": 14677.5,
+        "0": 21801.75,
+        "1": 21576.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-04",
+      "linea": 1,
+      "nombre": "Boulevard Puerto Aéreo",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 539010,
+      "promedio_diario_registrado": 17387.42,
+      "promedio_por_dia_semana": {
+        "2": 18344.6,
+        "3": 18111.0,
+        "4": 18862.2,
+        "5": 16467.0,
+        "6": 12375.25,
+        "0": 18731.75,
+        "1": 18031.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-05",
+      "linea": 1,
+      "nombre": "Balbuena",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 259708,
+      "promedio_diario_registrado": 8377.68,
+      "promedio_por_dia_semana": {
+        "2": 9011.8,
+        "3": 8927.6,
+        "4": 9182.6,
+        "5": 7656.5,
+        "6": 5108.25,
+        "0": 9158.75,
+        "1": 9101.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-06",
+      "linea": 1,
+      "nombre": "Moctezuma",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 552446,
+      "promedio_diario_registrado": 17820.84,
+      "promedio_por_dia_semana": {
+        "2": 19319.6,
+        "3": 19173.8,
+        "4": 20303.4,
+        "5": 15880.5,
+        "6": 10462.25,
+        "0": 19225.5,
+        "1": 19047.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-07",
+      "linea": 1,
+      "nombre": "San Lázaro",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 682971,
+      "promedio_diario_registrado": 22031.32,
+      "promedio_por_dia_semana": {
+        "2": 22189.0,
+        "3": 21426.6,
+        "4": 22753.6,
+        "5": 19486.0,
+        "6": 18949.0,
+        "0": 26836.75,
+        "1": 22509.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-08",
+      "linea": 1,
+      "nombre": "Candelaria",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 537237,
+      "promedio_diario_registrado": 17330.23,
+      "promedio_por_dia_semana": {
+        "2": 17173.6,
+        "3": 17428.2,
+        "4": 18427.8,
+        "5": 21339.5,
+        "6": 13402.25,
+        "0": 16603.75,
+        "1": 16676.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-09",
+      "linea": 1,
+      "nombre": "Merced",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 1123311,
+      "promedio_diario_registrado": 36235.84,
+      "promedio_por_dia_semana": {
+        "2": 35071.8,
+        "3": 36361.0,
+        "4": 37916.4,
+        "5": 46153.5,
+        "6": 31339.25,
+        "0": 33125.75,
+        "1": 33522.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-10",
+      "linea": 1,
+      "nombre": "Pino Suárez",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 854851,
+      "promedio_diario_registrado": 27575.84,
+      "promedio_por_dia_semana": {
+        "2": 26693.2,
+        "3": 26916.2,
+        "4": 28670.0,
+        "5": 37695.5,
+        "6": 21393.25,
+        "0": 25635.0,
+        "1": 26139.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-11",
+      "linea": 1,
+      "nombre": "Isabel la Católica",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 493629,
+      "promedio_diario_registrado": 15923.52,
+      "promedio_por_dia_semana": {
+        "2": 17060.0,
+        "3": 17292.4,
+        "4": 18135.8,
+        "5": 16217.75,
+        "6": 8703.25,
+        "0": 16351.5,
+        "1": 16524.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-12",
+      "linea": 1,
+      "nombre": "Salto del Agua",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 428520,
+      "promedio_diario_registrado": 13823.23,
+      "promedio_por_dia_semana": {
+        "2": 15592.4,
+        "3": 15559.4,
+        "4": 15333.0,
+        "5": 11605.0,
+        "6": 6283.75,
+        "0": 15585.5,
+        "1": 15549.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-13",
+      "linea": 1,
+      "nombre": "Balderas",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 484474,
+      "promedio_diario_registrado": 15628.19,
+      "promedio_por_dia_semana": {
+        "2": 17078.4,
+        "3": 16768.0,
+        "4": 16730.2,
+        "5": 15705.0,
+        "6": 10210.0,
+        "0": 15604.5,
+        "1": 16378.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-14",
+      "linea": 1,
+      "nombre": "Cuauhtémoc",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 454783,
+      "promedio_diario_registrado": 14670.42,
+      "promedio_por_dia_semana": {
+        "2": 16582.4,
+        "3": 15809.8,
+        "4": 16350.8,
+        "5": 11249.5,
+        "6": 10878.5,
+        "0": 14939.5,
+        "1": 15699.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-15",
+      "linea": 1,
+      "nombre": "Insurgentes",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 1251817,
+      "promedio_diario_registrado": 40381.19,
+      "promedio_por_dia_semana": {
+        "2": 46057.0,
+        "3": 45586.0,
+        "4": 45306.8,
+        "5": 31628.0,
+        "6": 23910.5,
+        "0": 42635.0,
+        "1": 43593.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-16",
+      "linea": 1,
+      "nombre": "Sevilla",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 725677,
+      "promedio_diario_registrado": 23408.94,
+      "promedio_por_dia_semana": {
+        "2": 28348.6,
+        "3": 27040.0,
+        "4": 26224.0,
+        "5": 15070.25,
+        "6": 11230.0,
+        "0": 25877.5,
+        "1": 27225.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-17",
+      "linea": 1,
+      "nombre": "Chapultepec",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 1229662,
+      "promedio_diario_registrado": 39666.52,
+      "promedio_por_dia_semana": {
+        "2": 45260.6,
+        "3": 43589.2,
+        "4": 42313.6,
+        "5": 28809.75,
+        "6": 32553.5,
+        "0": 37969.0,
+        "1": 44129.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-18",
+      "linea": 1,
+      "nombre": "Juanacatlán",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 200785,
+      "promedio_diario_registrado": 6476.94,
+      "promedio_por_dia_semana": {
+        "2": 7806.6,
+        "3": 7597.6,
+        "4": 7407.8,
+        "5": 4032.25,
+        "6": 2895.25,
+        "0": 7222.25,
+        "1": 7531.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-19",
+      "linea": 1,
+      "nombre": "Tacubaya",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 672655,
+      "promedio_diario_registrado": 21698.55,
+      "promedio_por_dia_semana": {
+        "2": 22607.4,
+        "3": 22632.8,
+        "4": 24617.8,
+        "5": 21817.25,
+        "6": 14199.0,
+        "0": 22587.5,
+        "1": 22237.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L1-20",
+      "linea": 1,
+      "nombre": "Observatorio",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 1337507,
+      "promedio_diario_registrado": 43145.39,
+      "promedio_por_dia_semana": {
+        "2": 40708.4,
+        "3": 42349.0,
+        "4": 45426.4,
+        "5": 40887.25,
+        "6": 38008.0,
+        "0": 53850.25,
+        "1": 41026.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-01",
+      "linea": 8,
+      "nombre": "Garibaldi/Lagunilla",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 354158,
+      "promedio_diario_registrado": 11424.45,
+      "promedio_por_dia_semana": {
+        "2": 11653.4,
+        "3": 12241.0,
+        "4": 11470.6,
+        "5": 12546.75,
+        "6": 10665.25,
+        "0": 9173.0,
+        "1": 11948.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-02",
+      "linea": 8,
+      "nombre": "Bellas Artes",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 413890,
+      "promedio_diario_registrado": 13351.29,
+      "promedio_por_dia_semana": {
+        "2": 13139.4,
+        "3": 13602.0,
+        "4": 14464.8,
+        "5": 17057.75,
+        "6": 10811.5,
+        "0": 12207.5,
+        "1": 11888.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-03",
+      "linea": 8,
+      "nombre": "San Juan de Letrán",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 689334,
+      "promedio_diario_registrado": 22236.58,
+      "promedio_por_dia_semana": {
+        "2": 22768.4,
+        "3": 22966.0,
+        "4": 23575.6,
+        "5": 27089.5,
+        "6": 14254.75,
+        "0": 21681.25,
+        "1": 22670.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-04",
+      "linea": 8,
+      "nombre": "Salto del Agua",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 382148,
+      "promedio_diario_registrado": 12327.35,
+      "promedio_por_dia_semana": {
+        "2": 13047.0,
+        "3": 13194.2,
+        "4": 13835.2,
+        "5": 13824.75,
+        "6": 6272.75,
+        "0": 12704.25,
+        "1": 12639.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-05",
+      "linea": 8,
+      "nombre": "Doctores",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 277259,
+      "promedio_diario_registrado": 8943.84,
+      "promedio_por_dia_semana": {
+        "2": 10256.8,
+        "3": 10432.6,
+        "4": 10313.8,
+        "5": 7054.25,
+        "6": 4101.0,
+        "0": 9613.75,
+        "1": 9791.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-06",
+      "linea": 8,
+      "nombre": "Obrera",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 317279,
+      "promedio_diario_registrado": 10234.81,
+      "promedio_por_dia_semana": {
+        "2": 11137.8,
+        "3": 11029.4,
+        "4": 11238.4,
+        "5": 9964.25,
+        "6": 5962.75,
+        "0": 10539.0,
+        "1": 11096.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-07",
+      "linea": 8,
+      "nombre": "Chabacano",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 116843,
+      "promedio_diario_registrado": 3769.13,
+      "promedio_por_dia_semana": {
+        "2": 4040.6,
+        "3": 3978.4,
+        "4": 4013.8,
+        "5": 4628.75,
+        "6": 1993.25,
+        "0": 3699.25,
+        "1": 3848.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-08",
+      "linea": 8,
+      "nombre": "La Viga",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 187530,
+      "promedio_diario_registrado": 6049.35,
+      "promedio_por_dia_semana": {
+        "2": 6611.4,
+        "3": 6562.4,
+        "4": 6467.6,
+        "5": 5953.75,
+        "6": 4078.0,
+        "0": 5936.0,
+        "1": 6363.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-09",
+      "linea": 8,
+      "nombre": "Santa Anita",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 111825,
+      "promedio_diario_registrado": 3607.26,
+      "promedio_por_dia_semana": {
+        "2": 3870.2,
+        "3": 3945.0,
+        "4": 4170.2,
+        "5": 3234.5,
+        "6": 2223.25,
+        "0": 3694.0,
+        "1": 3822.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-10",
+      "linea": 8,
+      "nombre": "Coyuya",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 779132,
+      "promedio_diario_registrado": 25133.29,
+      "promedio_por_dia_semana": {
+        "2": 27668.0,
+        "3": 28245.2,
+        "4": 29350.0,
+        "5": 21190.5,
+        "6": 12886.25,
+        "0": 26969.25,
+        "1": 27158.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-11",
+      "linea": 8,
+      "nombre": "Iztacalco",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 383602,
+      "promedio_diario_registrado": 12374.26,
+      "promedio_por_dia_semana": {
+        "2": 13384.6,
+        "3": 14023.8,
+        "4": 13557.2,
+        "5": 11687.75,
+        "6": 7534.75,
+        "0": 12446.5,
+        "1": 13024.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-12",
+      "linea": 8,
+      "nombre": "Apatlaco",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 320994,
+      "promedio_diario_registrado": 10354.65,
+      "promedio_por_dia_semana": {
+        "2": 11120.2,
+        "3": 11215.0,
+        "4": 11327.2,
+        "5": 9451.75,
+        "6": 7224.25,
+        "0": 10531.75,
+        "1": 10962.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-13",
+      "linea": 8,
+      "nombre": "Aculco",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 230878,
+      "promedio_diario_registrado": 7447.68,
+      "promedio_por_dia_semana": {
+        "2": 8434.6,
+        "3": 8414.2,
+        "4": 8481.6,
+        "5": 6253.75,
+        "6": 3500.75,
+        "0": 7943.5,
+        "1": 8358.5
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-14",
+      "linea": 8,
+      "nombre": "Escuadrón 201",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 553451,
+      "promedio_diario_registrado": 17853.26,
+      "promedio_por_dia_semana": {
+        "2": 21199.6,
+        "3": 19582.2,
+        "4": 19781.6,
+        "5": 15189.75,
+        "6": 8489.75,
+        "0": 19037.0,
+        "1": 19942.0
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-15",
+      "linea": 8,
+      "nombre": "Atlalilco",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 375368,
+      "promedio_diario_registrado": 12108.65,
+      "promedio_por_dia_semana": {
+        "2": 13101.4,
+        "3": 13566.6,
+        "4": 13691.0,
+        "5": 11029.75,
+        "6": 6934.25,
+        "0": 12644.0,
+        "1": 12785.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-16",
+      "linea": 8,
+      "nombre": "Iztapalapa",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 256548,
+      "promedio_diario_registrado": 8275.74,
+      "promedio_por_dia_semana": {
+        "2": 8792.6,
+        "3": 8869.2,
+        "4": 9283.8,
+        "5": 7484.75,
+        "6": 6034.25,
+        "0": 8267.25,
+        "1": 8668.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-17",
+      "linea": 8,
+      "nombre": "Cerro de la Estrella",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 285359,
+      "promedio_diario_registrado": 9205.13,
+      "promedio_por_dia_semana": {
+        "2": 10101.8,
+        "3": 10245.2,
+        "4": 10501.0,
+        "5": 8075.5,
+        "6": 4819.75,
+        "0": 9769.25,
+        "1": 10115.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-18",
+      "linea": 8,
+      "nombre": "UAM-I",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 627124,
+      "promedio_diario_registrado": 20229.81,
+      "promedio_por_dia_semana": {
+        "2": 22420.6,
+        "3": 22773.6,
+        "4": 22954.0,
+        "5": 17494.5,
+        "6": 10546.25,
+        "0": 21437.25,
+        "1": 22117.75
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    },
+    {
+      "estacion_id": "L8-19",
+      "linea": 8,
+      "nombre": "Constitución de 1917",
+      "mes": "2026-07",
+      "dias_con_registro": 31,
+      "dias_cero": 0,
+      "total_mes": 2845476,
+      "promedio_diario_registrado": 91789.55,
+      "promedio_por_dia_semana": {
+        "2": 101125.8,
+        "3": 101564.2,
+        "4": 100153.0,
+        "5": 83215.25,
+        "6": 49375.75,
+        "0": 98777.0,
+        "1": 101447.25
+      },
+      "nota": "Promedio de registros diarios del mes; no ocupación simultánea ni demanda por hora."
+    }
+  ],
+  "totales_anuales": [
+    {
+      "anio": 2010,
+      "linea": 1,
+      "afluencia": 255111747,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2010,
+      "linea": 8,
+      "afluencia": 141965392,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2011,
+      "linea": 1,
+      "afluencia": 259572259,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2011,
+      "linea": 8,
+      "afluencia": 147913399,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2012,
+      "linea": 1,
+      "afluencia": 265823822,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2012,
+      "linea": 8,
+      "afluencia": 145310596,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2013,
+      "linea": 1,
+      "afluencia": 269003426,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2013,
+      "linea": 8,
+      "afluencia": 133728378,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2014,
+      "linea": 1,
+      "afluencia": 263708660,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2014,
+      "linea": 8,
+      "afluencia": 134427317,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2015,
+      "linea": 1,
+      "afluencia": 267604987,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2015,
+      "linea": 8,
+      "afluencia": 138985549,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2016,
+      "linea": 1,
+      "afluencia": 260544843,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2016,
+      "linea": 8,
+      "afluencia": 136224219,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2017,
+      "linea": 1,
+      "afluencia": 244519946,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2017,
+      "linea": 8,
+      "afluencia": 130644337,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2018,
+      "linea": 1,
+      "afluencia": 243150084,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2018,
+      "linea": 8,
+      "afluencia": 133719638,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2019,
+      "linea": 1,
+      "afluencia": 237504859,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2019,
+      "linea": 8,
+      "afluencia": 133620679,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2020,
+      "linea": 1,
+      "afluencia": 137479354,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2020,
+      "linea": 8,
+      "afluencia": 76407157,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2021,
+      "linea": 1,
+      "afluencia": 128013333,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2021,
+      "linea": 8,
+      "afluencia": 82734948,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2022,
+      "linea": 1,
+      "afluencia": 107961910,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2022,
+      "linea": 8,
+      "afluencia": 115644493,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2023,
+      "linea": 1,
+      "afluencia": 63327549,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2023,
+      "linea": 8,
+      "afluencia": 128239286,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2024,
+      "linea": 1,
+      "afluencia": 67799070,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2024,
+      "linea": 8,
+      "afluencia": 124612151,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2025,
+      "linea": 1,
+      "afluencia": 120055567,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2025,
+      "linea": 8,
+      "afluencia": 118156971,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2026,
+      "linea": 1,
+      "afluencia": 95157648,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    },
+    {
+      "anio": 2026,
+      "linea": 8,
+      "afluencia": 67049845,
+      "nota": "Periodo parcial si no cubre el año completo; años de obras no son referencia de servicio normal."
+    }
+  ],
+  "limitaciones": [
+    "Las series son diarias, sin hora, sentido ni matriz origen-destino.",
+    "Los nombres históricos se mapearon a los 39 registros actuales; no son prueba de geometría histórica.",
+    "La semántica exacta de gratuidad/transbordo y cobertura debe contrastarse con metodología del publicador.",
+    "El diccionario aportado no coincide exactamente con columnas de cada CSV."
+  ]
+}

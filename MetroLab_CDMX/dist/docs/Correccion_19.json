@@ -1,0 +1,200 @@
+{
+  "correccion": "Retirada de bancos genéricos de las estaciones de L1 y L8",
+  "modelos": [
+    {
+      "modelo": "models/andenes/L1/L1_01_Pantitlan.glb",
+      "componentes_retirados": 28,
+      "sha256": "183ebb5696066c48c99ce31784f9e7bff0e185a5d8a7ae4992bd2d3688dc77ea"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_02_Zaragoza.glb",
+      "componentes_retirados": 28,
+      "sha256": "8eae09df2b4b90bc34e4415ca45115b0b8929fe572ef17e9075c6d854a7c6006"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_03_Gomez_Farias.glb",
+      "componentes_retirados": 28,
+      "sha256": "12cc4ebd338203cc1183f86477beb5f4b00a26991905139214303c654f66765b"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+      "componentes_retirados": 28,
+      "sha256": "b5e895ef3d660c29cfbc01b69b5530b038bd7b341d6b90edf667763a5b1ae882"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_05_Balbuena.glb",
+      "componentes_retirados": 28,
+      "sha256": "4b2114a4023d9ba9f90d9816615acd1fabd67f6cb2dd98dbec1d01522d2df8e8"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_06_Moctezuma.glb",
+      "componentes_retirados": 28,
+      "sha256": "b28155c0d658c1976dedfecb7d4e36156d90ec8850235ac585915acfd1b36f49"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_07_San_Lazaro.glb",
+      "componentes_retirados": 28,
+      "sha256": "7027dc847d89b3127100ee97afb0506a5ec017b92655746610b3bc293e90c429"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_08_Candelaria.glb",
+      "componentes_retirados": 28,
+      "sha256": "3076464d220d705d22d562cfdc935c6ceec181e48dc9d7adb4da5e7faf0ed350"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_09_Merced.glb",
+      "componentes_retirados": 28,
+      "sha256": "cf8a53c4f3234107bb425c57963ed32351a34f4900ed33ca6631ddf3da145846"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_10_Pino_Suarez.glb",
+      "componentes_retirados": 28,
+      "sha256": "557ac2812e238158f95d1db15b2dd63f55acc7be6e6feeef796f37fddebeea20"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+      "componentes_retirados": 28,
+      "sha256": "bf1b9caa3145c1feeb6a5883733e21206e1d1041623bb9adb45af66f588555e8"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_12_Salto_del_Agua.glb",
+      "componentes_retirados": 28,
+      "sha256": "ca1f9387a21d408435fd14e7538669fe390c6b6988602d20850b3055134eed47"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_13_Balderas.glb",
+      "componentes_retirados": 28,
+      "sha256": "f5871db49e896890c1a4627cce83353c192bda9d5aee7b15eb3b3120352d0402"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_14_Cuauhtemoc.glb",
+      "componentes_retirados": 28,
+      "sha256": "d416d6dca566222d7cfbf01e715c0657e8b4c334c4007949d62bacbd3718fe41"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_15_Insurgentes.glb",
+      "componentes_retirados": 28,
+      "sha256": "a81411fd28bd441947011d4baedabc5a624f02a19a6ab8311c32542c1c6b6b4e"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_16_Sevilla.glb",
+      "componentes_retirados": 28,
+      "sha256": "8e117d265c0e34aa39ff6321676dfe7bbe48690b2005bde3b7a3940733c46962"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_17_Chapultepec.glb",
+      "componentes_retirados": 28,
+      "sha256": "92fb3656e85d27bd1422d3f8ae4bed49fa8309c6a02dbecfbda46ebbcdf8fd22"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_18_Juanacatlan.glb",
+      "componentes_retirados": 28,
+      "sha256": "132814cd3c6709e8add75f1bcdca42bbb4ca5d755838cab29fbe0a8f06864d6a"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_19_Tacubaya.glb",
+      "componentes_retirados": 28,
+      "sha256": "e5affded8216b0812add49c0a8159981108e8414f261acb09866de4f0106b1c0"
+    },
+    {
+      "modelo": "models/andenes/L1/L1_20_Observatorio.glb",
+      "componentes_retirados": 28,
+      "sha256": "f1db011a93580e3e2b391be750b77136a2917a2a3363ed0adcbf3afbe56de8e8"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb",
+      "componentes_retirados": 28,
+      "sha256": "7705f69fa9df619e295a1769ffd6de8c657d770a2d2bb1abed71b82eb1a94de6"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_02_Bellas_Artes.glb",
+      "componentes_retirados": 28,
+      "sha256": "077b9a002afa140dcc3bfec32ac05e7bdd29cd247753b1ff9a222132dce5b034"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_03_San_Juan_de_Letran.glb",
+      "componentes_retirados": 28,
+      "sha256": "2e5686480f73d6ce45037fee341764972f4eb951e854c3ea408377a9ce25a7c7"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_04_Salto_del_Agua.glb",
+      "componentes_retirados": 28,
+      "sha256": "cf4b0b3de1c770e21dfce62877f8aa84f0a830f2fe89339cbdfb48c53ccd762d"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_05_Doctores.glb",
+      "componentes_retirados": 28,
+      "sha256": "38458ae80ac6a74b4b1ade2ece6a794c835027c8d857588ae9b4f8fa0f4ec673"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_06_Obrera.glb",
+      "componentes_retirados": 28,
+      "sha256": "db4c7762ea8987953ebc9936c4028518782518b46cdb29357124e6396bc82b0e"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_07_Chabacano.glb",
+      "componentes_retirados": 28,
+      "sha256": "98f5d909f3840f97e07e61b0024fe331dcd4b1858da01e578735bea83e6946b4"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_08_La_Viga.glb",
+      "componentes_retirados": 28,
+      "sha256": "3b5e6a078e5cb00833fccb9cfa65cce8f5611315a8e1b914bdf2a87761887b5c"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_09_Santa_Anita.glb",
+      "componentes_retirados": 28,
+      "sha256": "e3d380af3aba2d2576ea4d79e80483b865debe20dc72cfcad43d9f71a9e02aa0"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_10_Coyuya.glb",
+      "componentes_retirados": 28,
+      "sha256": "4594c4078c4ee061eebb547b89b768572c0afd97c5c374b762ccee1874b9cb41"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_11_Iztacalco.glb",
+      "componentes_retirados": 28,
+      "sha256": "f00a06e6a441c14a7127d1f32e2e8e76c5249b77e4f1f94f902bc202193513df"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_12_Apatlaco.glb",
+      "componentes_retirados": 28,
+      "sha256": "331ef73fd38a7ee5f63cd425efb7273eb748c880353d4e2cd90edbcea35e472f"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_13_Aculco.glb",
+      "componentes_retirados": 28,
+      "sha256": "ee8c2c93d1306359eeb75fb91fc6cdb43b39df396e1c1308cd1a5b15a03b32d8"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_14_Escuadron_201.glb",
+      "componentes_retirados": 28,
+      "sha256": "0990be0461c6953a8343617a2c52924951732d1329ab1b53b08bb8050295bc1b"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_15_Atlalilco.glb",
+      "componentes_retirados": 28,
+      "sha256": "823aefe3ad8d13ba9ad94750de367705879b6af0c5423bfca6a4556f6f602921"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_16_Iztapalapa.glb",
+      "componentes_retirados": 28,
+      "sha256": "504f652bd03c53feeff557b36f7fa866316f68c302330ca2c52afd1ea57553ed"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb",
+      "componentes_retirados": 28,
+      "sha256": "161546e68136f87e4368c782ed068fac550d273ebbedafbdda938ee1ebfeba69"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_18_UAM_I.glb",
+      "componentes_retirados": 28,
+      "sha256": "bdb94be2ce3cd90a5c90102a4a0193b8e63c9dcf14e74a2c98ef6ff096c5f516"
+    },
+    {
+      "modelo": "models/andenes/L8/L8_19_Constitucion_de_1917.glb",
+      "componentes_retirados": 28,
+      "sha256": "2527bddec18f6cfb9c1892d296199fcce8d467d2de57d22c0c0e113f027ddf7d"
+    }
+  ]
+}

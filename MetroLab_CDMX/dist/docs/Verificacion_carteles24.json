@@ -1,0 +1,161 @@
+{
+  "verificacion": "Bounding boxes reales del GLTFLoader; proyección frontal. No prueba WebGL.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-02",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-03",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-04",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-05",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-06",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-07",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-08",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-09",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-10",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-11",
+      "carteles_verificados": 34
+    },
+    {
+      "id": "L1-12",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-13",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-14",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-15",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-16",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-17",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-18",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-19",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L1-20",
+      "carteles_verificados": 32
+    },
+    {
+      "id": "L8-01",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-02",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-03",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-04",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-05",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-06",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-07",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-08",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-09",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-10",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-11",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-12",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-13",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-14",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-15",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-16",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-17",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-18",
+      "carteles_verificados": 66
+    },
+    {
+      "id": "L8-19",
+      "carteles_verificados": 66
+    }
+  ]
+}

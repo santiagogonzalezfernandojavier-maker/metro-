@@ -1,0 +1,348 @@
+{
+  "passed": true,
+  "estaciones": 19,
+  "resultados": [
+    {
+      "estacion": "Garibaldi-Lagunilla",
+      "archivo": "L8_01_Garibaldi_Lagunilla.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Bellas Artes",
+      "archivo": "L8_02_Bellas_Artes.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "San Juan de Letrán",
+      "archivo": "L8_03_San_Juan_de_Letran.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Salto del Agua",
+      "archivo": "L8_04_Salto_del_Agua.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Doctores",
+      "archivo": "L8_05_Doctores.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Obrera",
+      "archivo": "L8_06_Obrera.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Chabacano",
+      "archivo": "L8_07_Chabacano.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "La Viga",
+      "archivo": "L8_08_La_Viga.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Santa Anita",
+      "archivo": "L8_09_Santa_Anita.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Coyuya",
+      "archivo": "L8_10_Coyuya.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Iztacalco",
+      "archivo": "L8_11_Iztacalco.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Apatlaco",
+      "archivo": "L8_12_Apatlaco.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Aculco",
+      "archivo": "L8_13_Aculco.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Escuadrón 201",
+      "archivo": "L8_14_Escuadron_201.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Atlalilco",
+      "archivo": "L8_15_Atlalilco.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Iztapalapa",
+      "archivo": "L8_16_Iztapalapa.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Cerro de la Estrella",
+      "archivo": "L8_17_Cerro_de_la_Estrella.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "UAM-I",
+      "archivo": "L8_18_UAM_I.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Constitución de 1917",
+      "archivo": "L8_19_Constitucion_de_1917.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    }
+  ]
+}

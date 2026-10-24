@@ -1,0 +1,102 @@
+{
+  "estaciones": 19,
+  "rayos": 1724,
+  "resultado": "OK",
+  "detalle": [
+    {
+      "id": "L8-01",
+      "acceso": "escalera_ascendente",
+      "lotes": 48
+    },
+    {
+      "id": "L8-02",
+      "acceso": "escalera_ascendente",
+      "lotes": 48
+    },
+    {
+      "id": "L8-03",
+      "acceso": "pasillo_lateral",
+      "lotes": 49
+    },
+    {
+      "id": "L8-04",
+      "acceso": "pasillo_lateral",
+      "lotes": 46
+    },
+    {
+      "id": "L8-05",
+      "acceso": "pasillo_lateral",
+      "lotes": 48
+    },
+    {
+      "id": "L8-06",
+      "acceso": "pasillo_lateral",
+      "lotes": 48
+    },
+    {
+      "id": "L8-07",
+      "acceso": "escalera_descendente",
+      "lotes": 49
+    },
+    {
+      "id": "L8-08",
+      "acceso": "escalera_ascendente",
+      "lotes": 48
+    },
+    {
+      "id": "L8-09",
+      "acceso": "escalera_ascendente",
+      "lotes": 46
+    },
+    {
+      "id": "L8-10",
+      "acceso": "pasillo_lateral",
+      "lotes": 51
+    },
+    {
+      "id": "L8-11",
+      "acceso": "escalera_ascendente",
+      "lotes": 52
+    },
+    {
+      "id": "L8-12",
+      "acceso": "escalera_ascendente",
+      "lotes": 52
+    },
+    {
+      "id": "L8-13",
+      "acceso": "escalera_ascendente",
+      "lotes": 52
+    },
+    {
+      "id": "L8-14",
+      "acceso": "pasillo_lateral",
+      "lotes": 50
+    },
+    {
+      "id": "L8-15",
+      "acceso": "pasillo_lateral",
+      "lotes": 48
+    },
+    {
+      "id": "L8-16",
+      "acceso": "pasillo_lateral",
+      "lotes": 48
+    },
+    {
+      "id": "L8-17",
+      "acceso": "pasillo_lateral",
+      "lotes": 50
+    },
+    {
+      "id": "L8-18",
+      "acceso": "pasillo_lateral",
+      "lotes": 50
+    },
+    {
+      "id": "L8-19",
+      "acceso": "escalera_ascendente",
+      "lotes": 52
+    }
+  ]
+}

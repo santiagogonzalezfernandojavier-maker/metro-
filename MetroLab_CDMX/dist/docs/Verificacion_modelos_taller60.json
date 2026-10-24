@@ -1,0 +1,80 @@
+[
+  {
+    "modelo": "NM22",
+    "unidad": "cabina",
+    "piezas": {
+      "body": 20,
+      "doors": 80,
+      "interior": 120,
+      "roof": 16,
+      "mechanics": 366,
+      "cab": 13
+    },
+    "texturizadas": 71
+  },
+  {
+    "modelo": "NM22",
+    "unidad": "intermedio",
+    "piezas": {
+      "body": 20,
+      "doors": 80,
+      "interior": 145,
+      "roof": 16,
+      "mechanics": 366,
+      "cab": 0
+    },
+    "texturizadas": 71
+  },
+  {
+    "modelo": "NM79",
+    "unidad": "cabina",
+    "piezas": {
+      "body": 23,
+      "doors": 80,
+      "interior": 56,
+      "roof": 11,
+      "mechanics": 366,
+      "cab": 13
+    },
+    "texturizadas": 66
+  },
+  {
+    "modelo": "NM79",
+    "unidad": "intermedio",
+    "piezas": {
+      "body": 18,
+      "doors": 80,
+      "interior": 56,
+      "roof": 11,
+      "mechanics": 366,
+      "cab": 0
+    },
+    "texturizadas": 66
+  },
+  {
+    "modelo": "MP82",
+    "unidad": "cabina",
+    "piezas": {
+      "body": 16,
+      "doors": 48,
+      "interior": 56,
+      "roof": 11,
+      "mechanics": 366,
+      "cab": 10
+    },
+    "texturizadas": 66
+  },
+  {
+    "modelo": "MP82",
+    "unidad": "intermedio",
+    "piezas": {
+      "body": 14,
+      "doors": 48,
+      "interior": 56,
+      "roof": 11,
+      "mechanics": 366,
+      "cab": 0
+    },
+    "texturizadas": 66
+  }
+]

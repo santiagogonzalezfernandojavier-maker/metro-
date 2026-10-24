@@ -1,0 +1,131 @@
+{
+  "fuente": "VIDEO-L1-USUARIO-2",
+  "duracion_s": 1705.08771,
+  "resolucion": [
+    640,
+    360
+  ],
+  "fecha_grabacion": "No confirmada",
+  "fotogramas": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "nuevo_segundo": 14,
+      "nuevo_fotograma": "L1-01_14s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "nuevo_segundo": 190,
+      "nuevo_fotograma": "L1-02_190s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "nuevo_segundo": 266,
+      "nuevo_fotograma": "L1-03_266s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "nuevo_segundo": 338,
+      "nuevo_fotograma": "L1-04_338s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "nuevo_segundo": 394,
+      "nuevo_fotograma": "L1-05_394s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "nuevo_segundo": 474,
+      "nuevo_fotograma": "L1-06_474s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "nuevo_segundo": 550,
+      "nuevo_fotograma": "L1-07_550s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "nuevo_segundo": 642,
+      "nuevo_fotograma": "L1-08_642s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "nuevo_segundo": 730,
+      "nuevo_fotograma": "L1-09_730s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "nuevo_segundo": 838,
+      "nuevo_fotograma": "L1-10_838s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "nuevo_segundo": 894,
+      "nuevo_fotograma": "L1-11_894s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "nuevo_segundo": 942,
+      "nuevo_fotograma": "L1-12_942s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "nuevo_segundo": 1002,
+      "nuevo_fotograma": "L1-13_1002s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "nuevo_segundo": 1086,
+      "nuevo_fotograma": "L1-14_1086s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "nuevo_segundo": 1174,
+      "nuevo_fotograma": "L1-15_1174s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "nuevo_segundo": 1242,
+      "nuevo_fotograma": "L1-16_1242s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "nuevo_segundo": 1290,
+      "nuevo_fotograma": "L1-17_1290s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "nuevo_segundo": 1398,
+      "nuevo_fotograma": "L1-18_1398s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "nuevo_segundo": 1502,
+      "nuevo_fotograma": "L1-19_1502s_perspectiva2.jpg"
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "nuevo_segundo": 1638,
+      "nuevo_fotograma": "L1-20_1638s_perspectiva2.jpg"
+    }
+  ]
+}

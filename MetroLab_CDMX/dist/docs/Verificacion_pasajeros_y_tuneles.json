@@ -1,0 +1,135 @@
+{
+  "passed": true,
+  "crossingSamples": 402,
+  "cases": [
+    {
+      "modelo": "MP-82",
+      "sentido": 1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": 1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": 1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": -1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": -1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": -1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": 1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": 1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": 1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": -1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": -1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": -1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": 1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": 1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": 1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": -1,
+      "parada_s": 10,
+      "portales": 36,
+      "recorridos": 4
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": -1,
+      "parada_s": 30,
+      "portales": 36,
+      "recorridos": 11
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": -1,
+      "parada_s": 120,
+      "portales": 36,
+      "recorridos": 11
+    }
+  ],
+  "tunnelClosedByDefault": true,
+  "platformWalkersStayOnPlatform": true,
+  "noTransferWhileMoving": true
+}

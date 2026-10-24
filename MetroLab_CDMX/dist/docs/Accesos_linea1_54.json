@@ -1,0 +1,768 @@
+[
+  {
+    "id": "L1-01",
+    "nombre": "Pantitlán",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-02",
+    "nombre": "Zaragoza",
+    "retirados": 102,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-03",
+    "nombre": "Gómez Farías",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-04",
+    "nombre": "Boulevard Puerto Aéreo",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-05",
+    "nombre": "Balbuena",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-06",
+    "nombre": "Moctezuma",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-07",
+    "nombre": "San Lázaro",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 17.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -18.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-08",
+    "nombre": "Candelaria",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": -57.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -57.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-09",
+    "nombre": "Merced",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-10",
+    "nombre": "Pino Suárez",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-11",
+    "nombre": "Isabel la Católica",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-12",
+    "nombre": "Salto del Agua",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 17.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -18.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-13",
+    "nombre": "Balderas",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 17.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -18.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-14",
+    "nombre": "Cuauhtémoc",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-15",
+    "nombre": "Insurgentes",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-16",
+    "nombre": "Sevilla",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-17",
+    "nombre": "Chapultepec",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": -57.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -57.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-18",
+    "nombre": "Juanacatlán",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": -5.95,
+        "lado": -1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": -74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_extremo",
+        "x": 74.9,
+        "z": 5.95,
+        "lado": 1,
+        "direccion": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-19",
+    "nombre": "Tacubaya",
+    "retirados": 66,
+    "accesos": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 17.0,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -18.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.4,
+        "altura_libre": 2.45,
+        "cotas": "aproximadas"
+      }
+    ]
+  },
+  {
+    "id": "L1-20",
+    "criterio": "Escaleras visibles en la referencia de Observatorio; conservadas, ubicación aproximada.",
+    "retirados": 0
+  }
+]

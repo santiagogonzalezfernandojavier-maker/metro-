@@ -1,0 +1,122 @@
+[
+  {
+    "stationId": "L1-20",
+    "name": "Observatorio",
+    "page": 2,
+    "preview": "documentacion/L1-20.webp"
+  },
+  {
+    "stationId": "L1-19",
+    "name": "Tacubaya",
+    "page": 3,
+    "preview": "documentacion/L1-19.webp"
+  },
+  {
+    "stationId": "L1-18",
+    "name": "Juanacatlán",
+    "page": 4,
+    "preview": "documentacion/L1-18.webp"
+  },
+  {
+    "stationId": "L1-17",
+    "name": "Chapultepec",
+    "page": 5,
+    "preview": "documentacion/L1-17.webp"
+  },
+  {
+    "stationId": "L1-16",
+    "name": "Sevilla",
+    "page": 6,
+    "preview": "documentacion/L1-16.webp"
+  },
+  {
+    "stationId": "L1-15",
+    "name": "Insurgentes",
+    "page": 7,
+    "preview": "documentacion/L1-15.webp"
+  },
+  {
+    "stationId": "L1-14",
+    "name": "Cuauhtémoc",
+    "page": 8,
+    "preview": "documentacion/L1-14.webp"
+  },
+  {
+    "stationId": "L1-13",
+    "name": "Balderas",
+    "page": 9,
+    "preview": "documentacion/L1-13.webp"
+  },
+  {
+    "stationId": "L1-12",
+    "name": "Salto del Agua",
+    "page": 10,
+    "preview": "documentacion/L1-12.webp"
+  },
+  {
+    "stationId": "L1-11",
+    "name": "Isabel la Católica",
+    "page": 11,
+    "preview": "documentacion/L1-11.webp"
+  },
+  {
+    "stationId": "L1-10",
+    "name": "Pino Suárez",
+    "page": 12,
+    "preview": "documentacion/L1-10.webp"
+  },
+  {
+    "stationId": "L1-09",
+    "name": "Merced",
+    "page": 13,
+    "preview": "documentacion/L1-09.webp"
+  },
+  {
+    "stationId": "L1-08",
+    "name": "Candelaria",
+    "page": 14,
+    "preview": "documentacion/L1-08.webp"
+  },
+  {
+    "stationId": "L1-07",
+    "name": "San Lázaro",
+    "page": 15,
+    "preview": "documentacion/L1-07.webp"
+  },
+  {
+    "stationId": "L1-06",
+    "name": "Moctezuma",
+    "page": 16,
+    "preview": "documentacion/L1-06.webp"
+  },
+  {
+    "stationId": "L1-05",
+    "name": "Balbuena",
+    "page": 17,
+    "preview": "documentacion/L1-05.webp"
+  },
+  {
+    "stationId": "L1-04",
+    "name": "Boulevard Puerto Aéreo",
+    "page": 18,
+    "preview": "documentacion/L1-04.webp"
+  },
+  {
+    "stationId": "L1-03",
+    "name": "Gómez Farías",
+    "page": 19,
+    "preview": "documentacion/L1-03.webp"
+  },
+  {
+    "stationId": "L1-02",
+    "name": "Zaragoza",
+    "page": 20,
+    "preview": "documentacion/L1-02.webp"
+  },
+  {
+    "stationId": "L1-01",
+    "name": "Pantitlán",
+    "page": 21,
+    "preview": "documentacion/L1-01.webp"
+  }
+]

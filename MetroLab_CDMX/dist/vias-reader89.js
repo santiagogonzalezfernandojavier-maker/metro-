@@ -1,0 +1,13 @@
+import {searchPages89} from './knowledge89.js?v=104';
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function mountViaReader89(host){
+ const panel=document.createElement('details');panel.className='k89-card';panel.innerHTML='<summary>Consultar los paquetes de vía · 217 PDF</summary><div data-via-content></div>';host.append(panel);let loaded=false;
+ panel.addEventListener('toggle',async()=>{if(!panel.open||loaded)return;const root=panel.querySelector('[data-via-content]');root.textContent='Cargando textos de los paquetes de vía…';
+ try{const r=await fetch('documentacion/estudio89/vias.json.gz');if(!r.ok)throw Error('Archivo no disponible');const docs=JSON.parse(await new Response(r.body.pipeThrough(new DecompressionStream('gzip'))).text());loaded=true;
+ root.innerHTML=`<p>${docs.length} PDF distintos · ${docs.reduce((n,d)=>n+d.pages,0)} páginas procesadas. Texto extraído y OCR sin corregir: no es una revisión técnica de cada cota ni una reproducción de las láminas. Parte del material corresponde a Línea B y a fechas históricas; su aplicación a L1/L8 requiere validación.</p><label>Buscar en los paquetes<input type="search" data-via-query placeholder="aislador, fijación, durmiente…"></label><p data-via-count role="status"></p><div data-via-results></div><button data-via-more hidden>Mostrar más resultados</button><article data-via-page hidden><h4 data-via-title></h4><p data-via-origin></p><pre data-via-text></pre></article><a href="documentacion/estudio89/vias.json.gz" download>Descargar texto, inventario y huellas SHA-256 · JSON comprimido</a>`;
+ const $=s=>root.querySelector('[data-via-'+s+']');let matches=[],limit=30;
+ function draw(){ $('count').textContent=matches.length+' páginas encontradas · mostrando '+Math.min(limit,matches.length);$('results').innerHTML=matches.slice(0,limit).map((p,i)=>`<button data-via-index="${i}">${esc(p.name)} · pág. ${p.page}</button>`).join('');$('more').hidden=limit>=matches.length;}
+ $('query').oninput=()=>{matches=$('query').value.trim()?searchPages89(docs,$('query').value):[];limit=30;$('page').hidden=true;draw();};$('more').onclick=()=>{limit+=30;draw();};root.addEventListener('click',e=>{const b=e.target.closest('[data-via-index]');if(!b)return;const p=matches[Number(b.dataset.viaIndex)],d=docs.find(d=>d.id===p.source);$('page').hidden=false;$('title').textContent=p.name+' · página '+p.page;$('origin').textContent='Original en '+d.archive+' · SHA-256 '+d.sha256;$('text').textContent=p.text;$('page').scrollIntoView({block:'nearest'});});$('count').textContent='Escribe una o más palabras para buscar.';
+ }catch{root.textContent='No se pudo cargar. Cierra y abre este apartado para reintentar.';}
+ });
+}

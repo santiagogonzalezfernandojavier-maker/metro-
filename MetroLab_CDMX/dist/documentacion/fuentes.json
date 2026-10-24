@@ -1,0 +1,50 @@
+[
+  {
+    "original": "0e8ffe58-28bb-4dde-afcd-e5f5b4de4ccb (1).csv",
+    "file": "afluencia-diaria.csv.gz",
+    "sha256": "2d328ec615ae1249f3f6fa2896d66647409225b7d4419e78c6f78cccd4b9f78a",
+    "bytes": 59917547
+  },
+  {
+    "original": "cce544e1-dc6b-42b4-bc27-0d8e6eb3ed72 (1).csv",
+    "file": "afluencia-tipo-pago.csv.gz",
+    "sha256": "6a7c9030b3f87912c43a6aca9d14bd36f4307647289c35e9d5248b14f7ef4405",
+    "bytes": 69892431
+  },
+  {
+    "original": "7abf61db-a045-4b72-b5cd-c22ea0de6467 (1).csv",
+    "file": "diccionario-simple.csv",
+    "sha256": "62f4ce5279609082289043293ae9195c5149fb81c0ea3d6793aeb1d402e7854e",
+    "bytes": 1124
+  },
+  {
+    "original": "b1b48bbf-1c80-4988-8856-883b140d3fc7 (1).csv",
+    "file": "diccionario-pago.csv",
+    "sha256": "701db5be5b5d5b1ea689842b721e125f8e6100b2d9b90dcb35e201f5990d6834",
+    "bytes": 1717
+  },
+  {
+    "original": "boletin-locales-tecnicos.pdf",
+    "file": "boletin-locales-tecnicos.pdf",
+    "sha256": "23fad7529931c8aad67de8c28ff5feeb7138c5aba8e2682f763baa683badb27e",
+    "bytes": 4115032
+  },
+  {
+    "original": "especificacion-funcional-cbtc.pdf",
+    "file": "especificacion-funcional-cbtc.pdf",
+    "sha256": "7333f49162aa2f2d486fa6a8de004890351492c5d30ca5ee814e38cdd25aea57",
+    "bytes": 1628135
+  },
+  {
+    "original": "relacion-planos-linea-1.xlsx",
+    "file": "relacion-planos-linea-1.xlsx",
+    "sha256": "9341babd9f590ad6b94c2c6a46e8bc01f2a73e1d357b7b9730bd79e7424ce23c",
+    "bytes": 16997
+  },
+  {
+    "original": "gcsadocs-8095-v3-segundanotaaclaratoria-002.docx",
+    "file": "segunda-nota-aclaratoria.docx",
+    "sha256": "26c8fab6d910fa1c3dc6244a81fb5d15faa5f776063d69bfeb424bb94cca65ba",
+    "bytes": 76228
+  }
+]

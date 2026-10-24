@@ -1,0 +1,46 @@
+{
+  "pruebas": [
+    {
+      "modelo": "NM-22",
+      "sentido": 1,
+      "puertas_abiertas": 72,
+      "lado": "hacia andén lateral"
+    },
+    {
+      "movimiento": "tren avanza; infraestructura y estación permanecen fijas"
+    },
+    {
+      "modelo": "NM-22",
+      "sentido": -1,
+      "puertas_abiertas": 72,
+      "lado": "hacia andén lateral"
+    },
+    {
+      "camara_anden": "dentro de los bordes y paredes del andén",
+      "cubiertas_y_paredes": "corte reversible"
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": 1,
+      "puertas_abiertas": 72,
+      "lado": "hacia andén lateral"
+    },
+    {
+      "modelo": "NM-79",
+      "sentido": -1,
+      "puertas_abiertas": 72,
+      "lado": "hacia andén lateral"
+    },
+    {
+      "modelo": "MP-82",
+      "sentido": -1,
+      "puertas_abiertas": 72,
+      "lado": "hacia andén lateral"
+    },
+    {
+      "seleccion": "cambio entre L1 y L8 correcto",
+      "mp82": "geometría genérica identificada"
+    }
+  ],
+  "nota": "Comprobación de estado y geometría con Three.js; sin prueba visual en navegador ni medición de FPS"
+}

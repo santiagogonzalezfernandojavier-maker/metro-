@@ -1,0 +1,287 @@
+[
+  {
+    "estacion": "Garibaldi-Lagunilla",
+    "archivo": "GLB/L8_01_Garibaldi_Lagunilla.glb",
+    "bytes": 535984,
+    "meshes": 835,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      6.9408226597758595,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Bellas Artes",
+    "archivo": "GLB/L8_02_Bellas_Artes.glb",
+    "bytes": 439092,
+    "meshes": 813,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      8.038768062883383,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "San Juan de Letrán",
+    "archivo": "GLB/L8_03_San_Juan_de_Letran.glb",
+    "bytes": 487804,
+    "meshes": 813,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      6.9408226597758595,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Salto del Agua",
+    "archivo": "GLB/L8_04_Salto_del_Agua.glb",
+    "bytes": 433204,
+    "meshes": 791,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      6.9408226597758595,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Doctores",
+    "archivo": "GLB/L8_05_Doctores.glb",
+    "bytes": 365872,
+    "meshes": 747,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.470000021159649,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Obrera",
+    "archivo": "GLB/L8_06_Obrera.glb",
+    "bytes": 340092,
+    "meshes": 745,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.669999830424786,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "baja"
+  },
+  {
+    "estacion": "Chabacano",
+    "archivo": "GLB/L8_07_Chabacano.glb",
+    "bytes": 402992,
+    "meshes": 813,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.439867036414752,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "La Viga",
+    "archivo": "GLB/L8_08_La_Viga.glb",
+    "bytes": 316396,
+    "meshes": 835,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.140436908208365,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Santa Anita",
+    "archivo": "GLB/L8_09_Santa_Anita.glb",
+    "bytes": 334928,
+    "meshes": 745,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.470000021159649,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Coyuya",
+    "archivo": "GLB/L8_10_Coyuya.glb",
+    "bytes": 330764,
+    "meshes": 772,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.839128241161712,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Iztacalco",
+    "archivo": "GLB/L8_11_Iztacalco.glb",
+    "bytes": 359436,
+    "meshes": 772,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.839128241161712,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "media"
+  },
+  {
+    "estacion": "Apatlaco",
+    "archivo": "GLB/L8_12_Apatlaco.glb",
+    "bytes": 356220,
+    "meshes": 772,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.839128241161712,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Aculco",
+    "archivo": "GLB/L8_13_Aculco.glb",
+    "bytes": 338708,
+    "meshes": 772,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.93894714895381,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Escuadrón 201",
+    "archivo": "GLB/L8_14_Escuadron_201.glb",
+    "bytes": 441932,
+    "meshes": 745,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.470000021159649,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Atlalilco",
+    "archivo": "GLB/L8_15_Atlalilco.glb",
+    "bytes": 306484,
+    "meshes": 745,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.470000021159649,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Iztapalapa",
+    "archivo": "GLB/L8_16_Iztapalapa.glb",
+    "bytes": 329788,
+    "meshes": 745,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      5.569999925792217,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "baja"
+  },
+  {
+    "estacion": "Cerro de la Estrella",
+    "archivo": "GLB/L8_17_Cerro_de_la_Estrella.glb",
+    "bytes": 561292,
+    "meshes": 835,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      7.0406288811447375,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "UAM-I",
+    "archivo": "GLB/L8_18_UAM_I.glb",
+    "bytes": 305360,
+    "meshes": 835,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      6.9408226597758595,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  },
+  {
+    "estacion": "Constitución de 1917",
+    "archivo": "GLB/L8_19_Constitucion_de_1917.glb",
+    "bytes": 516276,
+    "meshes": 750,
+    "andenes_laterales": 2,
+    "rotulos_estacion": 10,
+    "extension_glb_xyz_m": [
+      162,
+      8.038768062883383,
+      17
+    ],
+    "importacion": "correcta",
+    "confianza_visual": "alta"
+  }
+]

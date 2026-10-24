@@ -1,0 +1,386 @@
+{
+  "passed": true,
+  "estaciones": 20,
+  "resultados": [
+    {
+      "estacion": "Pantitlán",
+      "archivo": "L1_01_Pantitlan.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1332,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Zaragoza",
+      "archivo": "L1_02_Zaragoza.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1362,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Gómez Farías",
+      "archivo": "L1_03_Gomez_Farias.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Boulevard Puerto Aéreo",
+      "archivo": "L1_04_Boulevard_Puerto_Aereo.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Balbuena",
+      "archivo": "L1_05_Balbuena.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1282,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Moctezuma",
+      "archivo": "L1_06_Moctezuma.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1282,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "San Lázaro",
+      "archivo": "L1_07_San_Lazaro.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Candelaria",
+      "archivo": "L1_08_Candelaria.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Merced",
+      "archivo": "L1_09_Merced.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Pino Suárez",
+      "archivo": "L1_10_Pino_Suarez.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1282,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Isabel la Católica",
+      "archivo": "L1_11_Isabel_la_Catolica.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Salto del Agua",
+      "archivo": "L1_12_Salto_del_Agua.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Balderas",
+      "archivo": "L1_13_Balderas.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Cuauhtémoc",
+      "archivo": "L1_14_Cuauhtemoc.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Insurgentes",
+      "archivo": "L1_15_Insurgentes.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Sevilla",
+      "archivo": "L1_16_Sevilla.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1282,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Chapultepec",
+      "archivo": "L1_17_Chapultepec.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1322,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Juanacatlán",
+      "archivo": "L1_18_Juanacatlan.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1282,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Tacubaya",
+      "archivo": "L1_19_Tacubaya.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1438,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    },
+    {
+      "estacion": "Observatorio",
+      "archivo": "L1_20_Observatorio.blend",
+      "pasillos_libres_y_m": [
+        [
+          -5.3,
+          -4.3
+        ],
+        [
+          4.3,
+          5.3
+        ]
+      ],
+      "obstaculos_en_pasillos": [],
+      "andenes": 2,
+      "componentes": 1442,
+      "geometria_editable": true,
+      "texturas_empaquetadas": true
+    }
+  ]
+}

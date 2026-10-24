@@ -1,0 +1,14 @@
+import * as THREE from 'three';
+import {createGlove104} from './repair-glove104.js?v=179';
+import {InteractionHand117} from './interaction-hand117.js?v=179';
+export class SubstationHand134{
+ constructor(view){this.view=view;this.glove=createGlove104();view.camera.add(this.glove.root);this.handView145={camera:view.camera,canvas:view.canvas,glove:this.glove,rollOffset145:0,onReach179:()=>{if(view.service128?.active)view.status.textContent="Acércate a la pieza con WASD o las flechas. C permite agacharte.";const output=view.service128?.panel.querySelector("[data-sr128-feedback]");if(output)output.textContent=view.status.textContent;}};this.hand=new InteractionHand117(this.handView145);this.hand.hide();this.ready=this.glove.ready;this.operation145=null;this.time145=0;}
+ show(target,tool,partial=1,contact=null){if(!target)return;const bench=this.view.service128?.bench;if(tool==='meter'&&this.view.service128?.state.id==='ventilation'&&bench?.instrument142){target=bench.instrument142;contact=target.localToWorld(new THREE.Vector3(.11,-.05,.11));tool='carry';}this.tool145=tool;const name=tool==='driver'?'screwdriver':tool==='meter'?'meter':tool==='brush'?'brush':'hand';this.glove.set(name,!['test','inspect'].includes(tool));this.glove.work(partial);const box=new THREE.Box3().setFromObject(target),point=contact?.isVector3?contact.clone():box.clampPoint(this.view.camera.getWorldPosition(new THREE.Vector3()),new THREE.Vector3());this.hand.engage({target,point});this.baseContact145=this.hand.contact?.local.clone();}
+ play145(target,tool,effect=''){if(!target||['red','black','release'].includes(effect))return;this.operation145={target,tool,effect,time:0,duration:tool==='meter'?1.25:tool==='brush'?.75:tool==='driver'?.7:.8};this.time145=0;}
+ update(dt){dt=Math.max(0,Math.min(.05,dt));this.time145+=dt;const op=this.operation145,play=this.view.service128?.play135,held=!!(play?.gesture?.hold&&!play.gesture.hold.done||play?.drag);if(op){op.time+=dt;if(op.time>=op.duration)this.operation145=null;else if(op.tool==='driver')this.glove.work(op.time/op.duration);}
+  const working=!!this.operation145||held;this.handView145.rollOffset145=this.tool145==='driver'&&working?Math.sin(this.time145*9)*.10:0;const c=this.hand.contact;if(c&&this.baseContact145&&this.tool145==='brush'&&working){c.local.copy(this.baseContact145);c.local.x+=Math.sin(this.time145*15)*.026;c.local.y+=Math.cos(this.time145*8)*.009;}
+  this.glove.update(dt);if(this.glove.loaded142&&['test','inspect'].includes(this.tool145)&&this.glove.fingers){const key=c?.object?.userData.srTarget128||'';if(/power|command|measure|dial|fan|indicator/.test(key))for(let i=0;i<5;i++)for(let j=0;j<3;j++){const b=this.glove.fingers[i]?.[j];if(b)b.rotation.x=i===0?.025:i===4?.25:.55;}}
+  this.hand.step(performance.now(),working);this.view.canvas.style.cursor=this.glove.root.visible?'none':'';
+ }
+ hide(){this.operation145=null;this.handView145.rollOffset145=0;this.hand.hide();}
+}

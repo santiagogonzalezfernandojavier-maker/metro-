@@ -1,0 +1,163 @@
+{
+  "metodo": "Carga real GLTFLoader; centro geométrico del paño; 9 puntos del marco a -45, -30, 0, 30 y 45 grados. No prueba WebGL.",
+  "paneles": 40,
+  "rayos": 1800,
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-02",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-03",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-04",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-05",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-06",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-07",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-08",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-09",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-10",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-11",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-12",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-13",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-14",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-15",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-16",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-17",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-18",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-19",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L1-20",
+      "paneles_verificados": 2
+    },
+    {
+      "id": "L8-01",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-02",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-03",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-04",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-05",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-06",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-07",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-08",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-09",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-10",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-11",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-12",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-13",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-14",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-15",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-16",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-17",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-18",
+      "paneles_verificados": 0
+    },
+    {
+      "id": "L8-19",
+      "paneles_verificados": 0
+    }
+  ]
+}

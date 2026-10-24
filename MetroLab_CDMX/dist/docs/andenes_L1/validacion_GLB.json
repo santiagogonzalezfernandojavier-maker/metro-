@@ -1,0 +1,426 @@
+{
+  "passed": true,
+  "estaciones": 20,
+  "resultados": [
+    {
+      "archivo": "L1_01_Pantitlan.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 31,
+      "triangulos": 92416,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.454999960958958,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_02_Zaragoza.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 31,
+      "triangulos": 96736,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_03_Gomez_Farias.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 94256,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_04_Boulevard_Puerto_Aereo.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 100016,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.836825979585279,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_05_Balbuena.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 30,
+      "triangulos": 88496,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.836825979585279,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_06_Moctezuma.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 30,
+      "triangulos": 88336,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.836825979585279,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_07_San_Lazaro.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 92816,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.136424857651233,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_08_Candelaria.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 92736,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_09_Merced.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 91736,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_10_Pino_Suarez.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 30,
+      "triangulos": 89296,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_11_Isabel_la_Catolica.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 95456,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.836825979585279,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_12_Salto_del_Agua.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 94096,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_13_Balderas.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 93056,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.136424857651233,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_14_Cuauhtemoc.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 93736,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_15_Insurgentes.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 94256,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.136424857651233,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_16_Sevilla.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 30,
+      "triangulos": 86256,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.936694013469516,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_17_Chapultepec.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 152,
+      "meshes_runtime": 30,
+      "triangulos": 93656,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.136424857651233,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_18_Juanacatlan.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 30,
+      "triangulos": 88616,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          4.836825979585279,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_19_Tacubaya.glb",
+      "imagenes_embebidas": 5,
+      "meshes_con_textura": 138,
+      "meshes_runtime": 33,
+      "triangulos": 99608,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          7.154999770224094,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L1_20_Observatorio.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 132,
+      "meshes_runtime": 31,
+      "triangulos": 108336,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.355000056326389,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    }
+  ]
+}

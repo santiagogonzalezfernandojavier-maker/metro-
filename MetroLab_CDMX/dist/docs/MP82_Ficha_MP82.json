@@ -1,0 +1,25 @@
+{
+  "modelo": "MP-82",
+  "variante": "naranja sin franja plata",
+  "unidades": "metros",
+  "dimensiones_aproximadas": {
+    "largo_cuerpo": 16.6,
+    "ancho": 2.5,
+    "altura": 3.69
+  },
+  "puertas_pasajeros_por_lado": 4,
+  "hojas_animadas_por_coche": 16,
+  "referencias": 7,
+  "no_verificado": [
+    "cotas reales",
+    "distribucion de equipo bajo piso",
+    "pupitre de cabina",
+    "rotulos y destino operativo actuales"
+  ],
+  "archivos": [
+    "MP82_referencias.blend",
+    "MP82_cabina.glb",
+    "MP82_intermedio.glb",
+    "crear_MP82.py"
+  ]
+}

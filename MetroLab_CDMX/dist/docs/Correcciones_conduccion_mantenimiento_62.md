@@ -1,0 +1,7 @@
+# Conducción y mantenimiento · revisión 62
+
+La cámara de conducción conserva una posición fija a 72.5 m del centro del convoy hacia el extremo delantero, mira en el sentido de marcha y elimina residuos de órbita o desplazamiento cada fotograma. Su plano cercano pasa a 3.3 m para recortar el panel frontal opaco del MP-82 que bloqueaba la vista. Esta solución da una vista frontal utilizable: recorta también los elementos próximos del pupitre y no equivale a una reconstrucción completa del puesto real. Las otras cámaras conservan sus distancias de recorte.
+
+El mantenimiento muestra el panel junto al visor, una barra de cuatro pasos y mensajes sobre la escena. Enfoca y aísla el conjunto de la incidencia, marca en rojo el elemento a inspeccionar, cambia la marca a amarillo tras la inspección y la retira al corregir. La comprobación de puertas presenta un ciclo de 2.4 segundos, ocultando las hojas durante la apertura para evitar superposiciones; ventilación y rodaje conservan comprobaciones simuladas con confirmación visible. Reiniciar recupera la incidencia y el progreso. Las prácticas siguen siendo didácticas, sin procedimientos reales del fabricante.
+
+Verificación: seis vistas con los GLB reales y 54 rayos frontales libres de superficies opacas después del recorte. Tres prácticas completas ejecutadas con los manejadores reales de botones y mensajes. Pasaron además las comprobaciones de operación, interbloqueos, mantenimiento y Pan anteriores. No se dispone de verificación visual interactiva en navegador.

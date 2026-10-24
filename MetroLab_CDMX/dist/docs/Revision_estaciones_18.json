@@ -1,0 +1,170 @@
+{
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "glb": "models/andenes/L1/L1_01_Pantitlan.glb",
+      "pictograma": "20261010-075617",
+      "sha256": "cf515464a82a6f824290fdaa4f17a5e65489e3be4306977b0f6242fe2b3394ae",
+      "bytes": 4756052
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "glb": "models/andenes/L1/L1_02_Zaragoza.glb",
+      "pictograma": "20261010-075400",
+      "sha256": "388ecaf3ce4b13d747d3769212c2e17f8e0587d0fa97bbe73ab657836d6f0212",
+      "bytes": 4931144
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "glb": "models/andenes/L1/L1_03_Gomez_Farias.glb",
+      "pictograma": "20261010-075233",
+      "sha256": "1263bccfeb874a00ca43b94a536ade4ecf38702feb055063f725815bdc362459",
+      "bytes": 4768968
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "glb": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+      "pictograma": "20261010-074907",
+      "sha256": "430f5ece8055d62dc9429df3f18379e84c25281e9c15420c27bb3434aafe1338",
+      "bytes": 4896236
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "glb": "models/andenes/L1/L1_05_Balbuena.glb",
+      "pictograma": "20261010-074726",
+      "sha256": "83d1bd4b0555a4eeec0150e704576022bc2378dab2985accd4a2e8c12a40cbe6",
+      "bytes": 4528280
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "glb": "models/andenes/L1/L1_06_Moctezuma.glb",
+      "pictograma": "20261010-074558",
+      "sha256": "ed8ac69d90b1ef3facea40cc6e5fba84619a1272783d59ab45c2397586bba53b",
+      "bytes": 4529196
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "glb": "models/andenes/L1/L1_07_San_Lazaro.glb",
+      "pictograma": "20261010-074429",
+      "sha256": "f4a2bf47c7cd9dfa14f3fe0876b955f496a0bffd5fa7a175ef56f4c9e4630e36",
+      "bytes": 4736616
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "glb": "models/andenes/L1/L1_08_Candelaria.glb",
+      "pictograma": "20261010-074322",
+      "sha256": "ee4560570b46a796cff452aa91f29009bc5d784ddc5dca38e412f6406706ee5f",
+      "bytes": 4732268
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "glb": "models/andenes/L1/L1_09_Merced.glb",
+      "pictograma": "20261010-074124",
+      "sha256": "9535ef673f9d65e9fb1ac6ece99d096aaf8d71e06dd9ca3dcdbd54a9927f3277",
+      "bytes": 4712960
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "glb": "models/andenes/L1/L1_10_Pino_Suarez.glb",
+      "pictograma": "20261009-063742",
+      "sha256": "92246ca499862c96dc6b54f529261c9d1a107516efd93f2fc8651d2af89d63fe",
+      "bytes": 4552088
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "glb": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+      "pictograma": "20261009-063407",
+      "sha256": "d00aece76b637ac0ded825061fa6ff3bace9757ddb2d3ca00633bbcb46f47980",
+      "bytes": 4800292
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "glb": "models/andenes/L1/L1_12_Salto_del_Agua.glb",
+      "pictograma": "20261009-063107",
+      "sha256": "22ae2bb0d7c5520e72e14af925cfa8f3221cf830c0985a931ac69cc948c0f43e",
+      "bytes": 4770304
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "glb": "models/andenes/L1/L1_13_Balderas.glb",
+      "pictograma": "20261009-062725",
+      "sha256": "bc8ee2217c48a0b6641e719d66bc63b829ff6d5899c66c44a94e63b25a86e71d",
+      "bytes": 4738568
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "glb": "models/andenes/L1/L1_14_Cuauhtemoc.glb",
+      "pictograma": "20261009-061732",
+      "sha256": "8a30653f11a37b6721453ca73a50f1cd1362378b4b2c32cde94dee9e3cefedb9",
+      "bytes": 4758620
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "glb": "models/andenes/L1/L1_15_Insurgentes.glb",
+      "pictograma": "20261009-061524",
+      "sha256": "aee4d650caaf5bd7b1e80e2c11efb04ae05f1c89b091280c14ceb9352bca679e",
+      "bytes": 4761268
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "glb": "models/andenes/L1/L1_16_Sevilla.glb",
+      "pictograma": "20261009-061135",
+      "sha256": "e31513a41ce99be97366691b1a9fdf6a40cb88022f8c665781cc5c006c0a82f1",
+      "bytes": 4478356
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "glb": "models/andenes/L1/L1_17_Chapultepec.glb",
+      "pictograma": "20261009-060813",
+      "sha256": "8bc48ad691777bd4f805fd26e6ecf1fcc6418f04500f6eee477b71f852d0752d",
+      "bytes": 4751020
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "glb": "models/andenes/L1/L1_18_Juanacatlan.glb",
+      "pictograma": "20261009-055331",
+      "sha256": "08b11cb49e311da5b66318c03d3dadeb8a04ac5d9a1b405b4cf7ff22081698ad",
+      "bytes": 4529556
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "glb": "models/andenes/L1/L1_19_Tacubaya.glb",
+      "pictograma": "20261009-055019",
+      "sha256": "6f482b78e5fa94168d927765d469723a2f41281ea8ed5c387ad5699fd8edaa36",
+      "bytes": 5231360
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "glb": "models/andenes/L1/L1_20_Observatorio.glb",
+      "pictograma": "20261009-054444",
+      "sha256": "c64e33bdb0ea18e3b74cce7d26d239e4f5aa1a08447e4f113a76446b0e0b7be6",
+      "bytes": 5453132
+    }
+  ],
+  "limitaciones": [
+    "Dimensiones y ubicación de accesos provisionales.",
+    "Vistas antiguas o ambiguas no usadas para cambiar la planta.",
+    "El mapa interactivo sigue el esquema, no es un levantamiento geográfico.",
+    "GLB editados directamente; no se ejecutó Blender."
+  ]
+}

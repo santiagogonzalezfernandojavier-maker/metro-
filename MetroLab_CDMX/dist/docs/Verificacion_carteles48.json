@@ -1,0 +1,162 @@
+{
+  "metodo": "Raycast frontal real Three.js en tres puntos por cartel; sin prueba WebGL.",
+  "puntos": 954,
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-02",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-03",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-04",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-05",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-06",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-07",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-08",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-09",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-10",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-11",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-12",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-13",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-14",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-15",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-16",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-17",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-18",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-19",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L1-20",
+      "carteles_visibles": 14
+    },
+    {
+      "id": "L8-01",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-02",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-03",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-04",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-05",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-06",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-07",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-08",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-09",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-10",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-11",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-12",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-13",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-14",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-15",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-16",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-17",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-18",
+      "carteles_visibles": 2
+    },
+    {
+      "id": "L8-19",
+      "carteles_visibles": 2
+    }
+  ]
+}

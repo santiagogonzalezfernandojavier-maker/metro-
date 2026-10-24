@@ -1,0 +1,9 @@
+Revisión 27 · Embarque, ocupación y distribución
+
+Se usa una figura de cabina por cuatro pasajeros, hasta 144, en lugar de una por veinte con límite de 36. La cabina distribuye pasajeros entre nueve vagones, ocho posiciones longitudinales y dos filas transversales. El embarque se representa en las 36 puertas extraídas de los GLB; la ocupación visual aumenta durante la parada, antes de que el motor liquide los conteos al salir. Los grupos que terminan de entrar se integran en la población distribuida de cabina, evitando dejarlos todos en la puerta.
+
+Se reemplaza el máximo fijo de 160 embarques por una estimación operativa: 36 puertas × 0,7 personas/s × (estancia−8 s), limitada por espera y capacidad. Es una hipótesis del simulador, no un dato medido aportado por el usuario. La cola inicial mantiene los tres minutos previos. Los trenes de estaciones intermedias empiezan con carga estimada: 60 % de los ingresos de tres minutos a la hora seleccionada, con máximo del 75 % de capacidad. Los trenes en terminal empiezan vacíos. initialOnboard registra esas personas separadas de los nuevos ingresos, preservando la conservación.
+
+Las posiciones de andén usan una permutación espacial: las primeras figuras cubren extremos y centro, en vez de rellenar primero un extremo. Presupuesto total: 320 figuras articuladas instanciadas; puertas y cabina tienen prioridad, y el remanente de andén sigue repartido. No se añaden nuevos modelos ni texturas pesadas.
+
+Pruebas: verificar_embarque27 reconstruye jerarquías y transformaciones de seis GLB reales y verifica 36 puertas para NM-22, NM-79 y MP-82 en ambos sentidos, cruce con puertas abiertas, aumento de ocupación, nueve vagones, cobertura de andén con poca gente, capacidad y conservación durante 600 s, así como estancias de 10–60 s. Se conservan pruebas de afluencia, geometría y circulación. No hay QA visual WebGL disponible en este entorno.

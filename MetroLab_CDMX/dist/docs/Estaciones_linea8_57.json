@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "L8-01",
+    "nombre": "Garibaldi/Lagunilla",
+    "analisis": "Paneles claros, piso pétreo y columnas; las referencias muestran áreas centrales y laterales. Escalera visible en vista central; su ubicación en la representación lateral es provisional.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "x": 5.3,
+        "z": -7.05,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 31,
+        "contrahuella_m": 0.1663711104752688,
+        "huella_m": 0.29,
+        "altura_destino": 6.367504424733333,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "x": -13.8,
+        "z": 7.05,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 31,
+        "contrahuella_m": 0.1663711104752688,
+        "huella_m": 0.29,
+        "altura_destino": 6.367504424733333,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2905532
+  },
+  {
+    "id": "L8-02",
+    "nombre": "Bellas Artes",
+    "analisis": "Paneles claros con juntas negras, columnas redondas y escalera visible. Se excluye la toma oscura con otros acabados.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "x": 5.3,
+        "z": -7.05,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1691217515190016,
+        "huella_m": 0.29,
+        "altura_destino": 7.46750480620306,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "x": -13.8,
+        "z": 7.05,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1691217515190016,
+        "huella_m": 0.29,
+        "altura_destino": 7.46750480620306,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2916712
+  },
+  {
+    "id": "L8-03",
+    "nombre": "San Juan de Letrán",
+    "analisis": "Columnas redondas claras, collar metálico y franja negra. No se confirma escalera directa en estas vistas.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2907080
+  },
+  {
+    "id": "L8-04",
+    "nombre": "Salto del Agua",
+    "analisis": "Revestimiento metálico cuadriculado y marcos oscuros. Varias zonas del complejo; no se reconstruye su planta completa.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2505632
+  },
+  {
+    "id": "L8-05",
+    "nombre": "Doctores",
+    "analisis": "Paneles y columnas azules con banda negra, decoración de mosaico. Acceso lateral aproximado; no se infiere una escalera en el andén.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 8.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            8.5,
+            1.21,
+            -8.05
+          ],
+          [
+            8.5,
+            1.21,
+            -11
+          ],
+          [
+            8.5,
+            1.21,
+            -14.8
+          ],
+          [
+            14.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [
+      {
+        "lado": -1,
+        "x": 55.0,
+        "tipo": "interpretacion parcial de motivo"
+      },
+      {
+        "lado": 1,
+        "x": 55.0,
+        "tipo": "interpretacion parcial de motivo"
+      }
+    ],
+    "bytes": 2506980
+  },
+  {
+    "id": "L8-06",
+    "nombre": "Obrera",
+    "analisis": "Paneles y columnas ocres, banda negra y mosaico geométrico. Acceso lateral aproximado.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [
+      {
+        "lado": -1,
+        "x": 55.0,
+        "tipo": "fragmento fotografico"
+      },
+      {
+        "lado": 1,
+        "x": 55.0,
+        "tipo": "fragmento fotografico"
+      }
+    ],
+    "bytes": 2798188
+  },
+  {
+    "id": "L8-07",
+    "nombre": "Chabacano",
+    "analisis": "Piso gris geométrico, cubierta de vigas y acceso descendente delimitado por murete claro y barandales.",
+    "geometria": [
+      {
+        "tipo": "escalera_descendente",
+        "x": 5.3,
+        "z": -7.05,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 20,
+        "altura_destino": -1.9900000000000002,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_descendente",
+        "x": -13.8,
+        "z": 7.05,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 20,
+        "altura_destino": -1.9900000000000002,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2624612
+  },
+  {
+    "id": "L8-08",
+    "nombre": "La Viga",
+    "analisis": "Paneles azul/lila, columnas y escalera directa a pasarela superior.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "x": 5.3,
+        "z": -7.05,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 32,
+        "contrahuella_m": 0.16742202221361338,
+        "huella_m": 0.29,
+        "altura_destino": 6.567504710835628,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "x": -13.8,
+        "z": 7.05,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 32,
+        "contrahuella_m": 0.16742202221361338,
+        "huella_m": 0.29,
+        "altura_destino": 6.567504710835628,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2983136
+  },
+  {
+    "id": "L8-09",
+    "nombre": "Santa Anita",
+    "analisis": "Revestimiento crema con vetas verticales y columnas turquesa; escalera y estructura de acceso visibles.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "x": 5.3,
+        "z": -7.05,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 30,
+        "contrahuella_m": 0.16525015384893987,
+        "huella_m": 0.29,
+        "altura_destino": 6.1675046154681965,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "x": -13.8,
+        "z": 7.05,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 30,
+        "contrahuella_m": 0.16525015384893987,
+        "huella_m": 0.29,
+        "altura_destino": 6.1675046154681965,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2710348
+  },
+  {
+    "id": "L8-10",
+    "nombre": "Coyuya",
+    "analisis": "Estructura diagonal gris, malla lateral y cubierta de cerchas. Acceso por pasillo provisional; no se inventa una escalera directa no mostrada.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 14.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            14.5,
+            1.21,
+            -8.05
+          ],
+          [
+            14.5,
+            1.21,
+            -11
+          ],
+          [
+            14.5,
+            1.21,
+            -14.8
+          ],
+          [
+            20.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 3009356
+  },
+  {
+    "id": "L8-11",
+    "nombre": "Iztacalco",
+    "analisis": "Estructura diagonal, cerchas y escalera directa. La toma de correspondencia con Mixcoac/Tláhuac se excluye.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": 14.0,
+        "z": -6.2,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 36,
+        "contrahuella_m": 0.16826401444724348,
+        "huella_m": 0.29,
+        "altura_destino": 7.267504520100765,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": -10.0,
+        "z": 6.2,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 36,
+        "contrahuella_m": 0.16826401444724348,
+        "huella_m": 0.29,
+        "altura_destino": 7.267504520100765,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 3189160
+  },
+  {
+    "id": "L8-12",
+    "nombre": "Apatlaco",
+    "analisis": "Estructura abierta, malla, cerchas y escalera directa al nivel superior.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": 14.0,
+        "z": -6.2,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 36,
+        "contrahuella_m": 0.16826401444724348,
+        "huella_m": 0.29,
+        "altura_destino": 7.267504520100765,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": -10.0,
+        "z": 6.2,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 36,
+        "contrahuella_m": 0.16826401444724348,
+        "huella_m": 0.29,
+        "altura_destino": 7.267504520100765,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 3186724
+  },
+  {
+    "id": "L8-13",
+    "nombre": "Aculco",
+    "analisis": "Edificio de diagonales claras, malla y escalera visible. Se excluyen las vistas de otra estructura/señalización.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": 14.0,
+        "z": -6.2,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1664190385063063,
+        "huella_m": 0.29,
+        "altura_destino": 7.367504424733333,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": -10.0,
+        "z": 6.2,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1664190385063063,
+        "huella_m": 0.29,
+        "altura_destino": 7.367504424733333,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 3193344
+  },
+  {
+    "id": "L8-14",
+    "nombre": "Escuadrón 201",
+    "analisis": "Paneles claros, columnas rectangulares y mural de aeronaves. Acceso lateral provisional; escaleras no confirmadas.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 8.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            8.5,
+            1.21,
+            -8.05
+          ],
+          [
+            8.5,
+            1.21,
+            -11
+          ],
+          [
+            8.5,
+            1.21,
+            -14.8
+          ],
+          [
+            14.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [
+      {
+        "lado": -1,
+        "x": 55.0,
+        "tipo": "interpretacion parcial de motivo"
+      },
+      {
+        "lado": 1,
+        "x": 55.0,
+        "tipo": "interpretacion parcial de motivo"
+      }
+    ],
+    "bytes": 2510560
+  },
+  {
+    "id": "L8-15",
+    "nombre": "Atlalilco",
+    "analisis": "Paneles crema con juntas y franja negra; columnas claras. Acceso lateral provisional.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 8.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            8.5,
+            1.21,
+            -8.05
+          ],
+          [
+            8.5,
+            1.21,
+            -11
+          ],
+          [
+            8.5,
+            1.21,
+            -14.8
+          ],
+          [
+            14.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2503076
+  },
+  {
+    "id": "L8-16",
+    "nombre": "Iztapalapa",
+    "analisis": "Paneles crema amarillentos, franja negra y columnas claras. Acceso lateral provisional.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 2509656
+  },
+  {
+    "id": "L8-17",
+    "nombre": "Cerro de la Estrella",
+    "analisis": "Paneles y columnas verde claro, mural de mosaicos azules/turquesas/rosas. Acceso lateral provisional.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [
+      {
+        "lado": -1,
+        "x": 21.0,
+        "tipo": "fragmento fotografico"
+      },
+      {
+        "lado": 1,
+        "x": 21.0,
+        "tipo": "fragmento fotografico"
+      }
+    ],
+    "bytes": 2946612
+  },
+  {
+    "id": "L8-18",
+    "nombre": "UAM-I",
+    "analisis": "Paneles y columnas azules, banda negra, murales figurativos. Acceso lateral provisional.",
+    "geometria": [
+      {
+        "tipo": "pasillo_lateral",
+        "x": 9.5,
+        "z": -8,
+        "lado": -1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            9.5,
+            1.21,
+            -8.05
+          ],
+          [
+            9.5,
+            1.21,
+            -11
+          ],
+          [
+            9.5,
+            1.21,
+            -14.8
+          ],
+          [
+            15.05,
+            1.21,
+            -14.8
+          ]
+        ]
+      },
+      {
+        "tipo": "pasillo_lateral",
+        "x": -10.0,
+        "z": 8,
+        "lado": 1,
+        "ancho": 2.7,
+        "altura_libre": 2.7,
+        "cotas": "aproximadas",
+        "ruta_local": [
+          [
+            -10.0,
+            1.21,
+            8.05
+          ],
+          [
+            -10.0,
+            1.21,
+            11
+          ],
+          [
+            -10.0,
+            1.21,
+            14.8
+          ],
+          [
+            -4.45,
+            1.21,
+            14.8
+          ]
+        ]
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [
+      {
+        "lado": -1,
+        "x": 21.0,
+        "tipo": "fragmento fotografico"
+      },
+      {
+        "lado": 1,
+        "x": 21.0,
+        "tipo": "fragmento fotografico"
+      }
+    ],
+    "bytes": 2911764
+  },
+  {
+    "id": "L8-19",
+    "nombre": "Constitución de 1917",
+    "analisis": "Diagonales blancas, laterales abiertos, escaleras directas con muretes blancos y pasamanos; cubierta exterior anaranjada.",
+    "geometria": [
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": 14.0,
+        "z": -6.2,
+        "lado": -1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1691217515190016,
+        "huella_m": 0.29,
+        "altura_destino": 7.46750480620306,
+        "cotas": "aproximadas"
+      },
+      {
+        "tipo": "escalera_ascendente",
+        "orientacion": "perpendicular",
+        "x": -10.0,
+        "z": 6.2,
+        "lado": 1,
+        "ancho": 1.65,
+        "peldaños": 37,
+        "contrahuella_m": 0.1691217515190016,
+        "huella_m": 0.29,
+        "altura_destino": 7.46750480620306,
+        "cotas": "aproximadas"
+      }
+    ],
+    "piezas_obsoletas_retiradas": 106,
+    "murales": [],
+    "bytes": 3204216
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "estaciones": 20,
+  "pasillos": 64,
+  "rayos": 768,
+  "resultado": "OK",
+  "estaciones_revisadas": [
+    {
+      "id": "L1-01",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-02",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-03",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-04",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-05",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-06",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-07",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-08",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-09",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-10",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-11",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-12",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-13",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-14",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-15",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-16",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-17",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-18",
+      "escalones": 0,
+      "pasillos": 4
+    },
+    {
+      "id": "L1-19",
+      "escalones": 0,
+      "pasillos": 2
+    },
+    {
+      "id": "L1-20",
+      "escalones": 40,
+      "pasillos": 0
+    }
+  ]
+}

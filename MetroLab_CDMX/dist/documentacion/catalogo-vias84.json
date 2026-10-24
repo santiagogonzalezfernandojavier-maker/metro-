@@ -1,0 +1,1530 @@
+{
+  "pdfCount": 217,
+  "pageCount": 1503,
+  "uniquePDFs": 217,
+  "indexSpecifications": 34,
+  "indexInspectionEntries": 176,
+  "scope": "Inventario completo y revisión visual de cuatro portadas; no se transcribieron todas las cotas, procedimientos ni páginas. Algunos documentos refieren Línea B y no acreditan las instalaciones actuales de L1/L8.",
+  "use": "Componentes de vía, control de calidad y referencias para ejercicios de infraestructura. No son manuales completos de mantenimiento de trenes.",
+  "items": [
+    {
+      "file": "PLACA AISLANTE DE FIBRA DE VIDRIO 4102234 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 5,
+      "sha256": "cfea45dc334ece87491a4adc73012ea6de9add7f19daca3d0e459b6198419b49",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLACA DE ACERO INOXIDABLE 4X152X305 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "b0d06b9ac91708cb9c968f0bcfe1d3d0ac45a93603cc4e46e4fb3a6950e338fc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLACA DE EXTREMO 4101244 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "d5d50987984e1fe2e31ccd1e92b89417bf76a834c24edcaf8f38db843f4c713a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLACA RESORTE APGV RECORTADA PARA JUNTAS 4103573  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "5ed10b1b53c9ac67b5d643da611875d0c7305b1785512bec122b968d8c597a9b",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLACA RESORTE TIPO APGV 4102463 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "970d0d5a74fc3e7d83abdeb99318c1c71c9b157b59f74c0098ac226215fcc7dd",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLACA SOPORTE DE ESCUADRA DE RETORNO 4101294 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "9a64a304550b31e974b94ad88f7222a2795c66cf9a837f14657b9f2f501ca9dc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA  METALICA DE 6 ORIFICIOS PARA JUNTA MECANICA DESLIZANTE PARA RIEL 4103581  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d5ba13c31d369b3d1d6f2e3fab4f4c01b2cca91c64654ce559f4e1373f315252",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE DE 6 BARRENOS PARA EMBRIADO DE RIEL DE 80 LB-YD 4103583 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "76420f06be64a4831376da2ed6e59ede28529dc95fb7f98d3fdbba2998432674",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE DE 6 BARRENOS PARA RIEL DE 80 LB-YD 4102031  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "fb016471f7e96f2e0d566827d1e67b727c6f5dd4c4455a34353c52f433077981",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE EXTERIOR PARA RIEL DE 100LB-YD 4102163 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "2d51aea6b83a6bd8d94830c6bd86686d6a6f8f8af74f0284af2390d6f29a1ed1",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE EXTERIOR PERA EMBRIADO DE RIEL DE 100 LB-YD 4103584  REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "ca315fb93f07b0a24548b0fa50cb8b9b0ed512e5702a746e81519ce1c5299397",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE INTERIOR PARA EMBRIADO DE RIEL DE 100 LB-YD 4103586  REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "2ca81c7ef489e045aaac948297822bbbe8740fe8f475fcf2adcffe43f7bee4d6",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE INTERIOR PARA RIEL DE 100 LB-YD 4102162 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "f8977f6567163656d5f89fb9b4ecdb0c059023d6f7067f4a9b46479b442186fc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE PARA EMBRIADO DE PISTA DE RODAMIENTO  EN ZONA DE APARATOS 4103587 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "d81902c2428bb57add239a7ca456cc893b4eadcb32aa108a9908fc6a4a2b0354",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE PARA EMBRIADO DE PISTA DE RODAMIENTO DE 6 BARRENOS 4103585 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "28382cc07eaefac634dc61a619aa9b2b866b5f88fc3c2624369692915ffbf77f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA AISLANTE PARA PISTA DE RODAMEINTO EN ZONA DE APARATOS 4102161  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "204132797b9704030c2b5867de80d8ce1f233fbb5462617f885601472c0b363d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA INCLINADA EXTERIOR DE TIRANTE 4101224 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "2661f27942a3499af62d29d34b78b94317b3fd450aa636bd653f60eab8aa620f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA INTERIOR PARA AGUJAS A DERECHA 4101225-4102490 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d3e53849cd9ae9c45753a53cf8215c2c22a6ae389937809c238c382984a72d06",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA INTERIOR PARA AGUJAS A IZQUIERDA 4102310 - 4102312 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "4604932f374b3ec16af290ed45fd721852981b1ed6e52c2c445a0264369f8390",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA METALICA EXTERIOR PARA JUNTA MECANICA DE RIEL DE 80 LB-YD 4103500 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "57967c3c7d72be3a634d9c661be55f0339f883e57645049bfbc55a559ef63b1d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA METALICA INTERIOR PARA JUNTA MECANICA DE RIEL DE 80 LB-YD 4103377 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "ee9185ba42fd465388fb4d14a86994185a747c347b654d527e385fbcf0ecaa53",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA METALICA PARA JUNTA MECANICA DE PISTA 4103501 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "c0caab834e41dcf2a882ff4bac8c75a265f8ed23096543afe6dacc80ec85e802",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLANCHUELA METALICA PARA PISTA DE RODAMIENTO 4102227 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d67eec7c57e3d9d9f6074e30f912f984acaafc8fa2bdb048ceae1aafe38550d3",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "planchuela-aislante-para-pista-de-6-barrenos-modificada-4102035-rev-1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "6dc66cb6a07cbc23b7154f91bb8d57122aaa73fe6843331eb56746ca78a205ee",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "planchuela-metalica-de-6-orificios-para-junta-mecanica-deslizante-para-pista-4103582-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "a9870c451a413878a2dc54bc5bdf5512ff57b211ee8ed9cfd86003bdb61eb6eb",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "planchuela-metalica-para-riel-de-80-lb-yd-junta-de-dilatacion-de-riel-4102228-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "7cf1ab6b9bf2c96d1fdd13ff75568e71da3589b9125f7c3c54e6b51413e34b21",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA AISLANTE 250X90X10 4101243 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "1168085ce17cc2fda61103df6aa4b2341740c49be72d8197eb0000c336397dc6",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA AISLANTE 4101223  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "023f1b4acec6ec05884550b7577a658b78f8d24c3fafe4ba199b05ec51751401",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA AISLANTE DE PISTA 4102073 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "2f6243b57b338affe20865106265b742be282367311a0a653207a7eb318997d0",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA AISLANTE DE RIEL DE 80 LB-YD 4102072 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "fdf0c24cb2146d6094ae147b108e6ce968fbd07534c8a1bc163c31b894b63e5d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA AISLANTE TIPO Z 4102066 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "5577dc2d6b1ced58dd5e35b8322dd74812d2bf0a1f69b579cd8185daa998adbe",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA DE AJUSTE 4101247-4103491-4103492 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ad095c971ddca685fb9872a09d0cdaf02a794db50269f3fa7af64ff5a136e92f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA INCLINADA 45 X 40 4102052 4102152 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "75f3e790ff453d6355808ec021522bdf1a4693e50de2310bb08b753b4feba4b9",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA METALICA DE 2 ORIFICIOS PARA JUNTA AISLANTE DE PISTA 4102272 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "3590772ec6f7d5d6dd4f517be3498babd0c4264626d47e8710806e8bec21280d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA METALICA DE 2 ORIFICIOS PARA JUNTA AISLANTE DE RIEL DE 100 LB-YD 4102470 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "fb2d42f90f21893d07d592f31bc3ffbbb6ceb5342d403c2641fa2119436e64cb",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA PARA JUNTA AISLANTE DE PISTA 4102036 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "017ca9afe80c447c41ee44e61792c39d22f6a9a3e995210d702158dd114bae1b",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PLAQUETA PARA JUNTA AISLANTE DE RIEL DE 80 LB-YD 4102753 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "5d2b62be5d006d060c830f8d57bd5d2f1cc7358f14aec454e01a2b0b64b0ea5e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "plaqueta-metalica-de-60x45x6-ara-junta-de-dilatacion-de-riel-y-pista-4102229-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "0bcdffd8eb89ba2eb92babbfc8d11180719887af6e852d75a3c92f30dc51b4bc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PROTECCION DE NEUMATICO PORTADOR PONCHADO 4103246 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 13,
+      "sha256": "a09e6b34664d2bae870ce29f838d70dfb7bdddc4e3b291ed80dd9937bb2a73c3",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ROLDANA M 16 N  4102104  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "20ff10e6f55c3b6ce3af62bb31cddb73ee2e074f49da2da1e9439a07a560e1e5",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ROLDANA PLANA ALARGADA 4102191 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "06164978ef9f4bdc6f6a573ad2c22a65c0f9c3770830d69ef33bd80804be3a23",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "roldana-aislante-40-x-22-e5-4101243-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "3a2ec3ad4606dd95f3d143840cc601b8b50938a57c86192524b189edf9cab4fa",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "roldana-metalica-l16n-4103370.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ce552c0154ba4f8038a599969a851ddf243bcd528e0bb1cdc79ade653a11d99d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "roldana-plana-metalica-4102150-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "7a1122ba7f925db74248043f8e2c8174a9f4330ce92eb722c7ca77a50a775a8a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ROLDANAS AISLANTES 4101227-4101241-4101267-4102106-4102174 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ffdcf7ee1150467dd7858180220e3d4bf5f1b9237978d410cd0c2b40baa85158",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ROLDANAS ELASTICAS D1 X DE X E 4102102 - 4102299  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "cc972a088375ef8a435ff9f91b5502a3f073b9fcea3906986b38d5af5461b38f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "roldanas-planas-4101270-410129-4102108-4102120-4102515-rev-1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "56c074b615a2e9c87f365bed7bb9c289d3d691b610ccbca5a9791ececd50a85a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "seguros-para-sujecion-de-anclas-4103493-rev-1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "e70ea0f3992dcb6a50e11c7cf21e7ddd4c60fd698e731f311a0e417e8d74da9d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SEPARADOR PARA JUNTA AISLANTE DE CONTRA RIEL ENTRE CORAZON Y PISTA 4102181 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ff4a5d0bb81da3c83764732e6f447aea5b3a577dbe7f823a23f4c4c5beb53084",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SILLA PARA RIEL Y PISTA 4103510  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "e9a4f86c40455e73f7be7d46ac35eea8dfa57a25eebe6e111cb4983868d9374f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SOLVENTE DIELECTRICO LIBRE DE CLORADO 3701029   REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "52be1dc3e20b403a8c3148f9b8ef0b76cde8c3e01bdbc585aef51dafad1bb674",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SOPORTE DE CERROJO INDIVIDUAL  4101255 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 5,
+      "sha256": "ed4bda3654b906ce93d9e53b55b436b183121322f70fcb4961dc2e88a74c92dd",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SOPORTE DE TABLA PROTECTORA DE FROTADOR 4102544  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "c4e4545d7fe888f72144feb8d4f69e8d1e55edba40d833231b5a44d593d9359f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "SOPORTE DE TABLA PROTECTORA DE MOTOR 4102080  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "feba5e9a747d56ce4ce5385707fe7e9d52efbfa0f71b3d93507b4bd9593781ae",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TAPA DE BLOCK AISLANTE  4103450 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 5,
+      "sha256": "57995c03fda4857a13e3019a3d4ab8fde5f89ecb6e7409e1d58f05dee86d06ac",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TAPA PULTRUIDA DE PLASTICO REFORZADO CON FIBRA DE VIDRIO 4103521  REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "b9d19a9a30bd5db8f654d63e3e3f3b5e6b6714196a29d53d3c5fa45e905bb679",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TAQUETE DE ANCLAJE PARA FIJACION DE AISLADOR SOBBRE LOSA DE CONCRETO 4103496  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "42baea1aaa0b2f6c749a7a8711d5372e309f83d00cfea4adce6e1463b89bf155",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TIRAFONDO A 23-115   4102124 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "327b70a434b0b217a48613916a7eb53f947a11bf209e3b8c2e77e26cc2246068",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TIRAFONDO C 23-135  4102125  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d0dcbc5db29ac0a64bba2e32a67ce8d008a41a19d53e4e4cd2909e55112f9f0e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TIRAFONDO ESPECIAL 22 X 130 4103502-4103557-4103556-4103497  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "a973fafbdb09d65f29fa0700e55d5bb16a1de5cd006c6fe111fec4947c664d9e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TIRANTE DE SEPARACION 4101214 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "5c9e386923a99b013dc6a8b88361e20690e2e76ace672b8628daccbb8c3ac6b8",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TOPE AISLANTE 4103489 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "8fd125947780c6a3ab6f39197e2fd887e342cc9a7e7c7f86183a1da790c365cf",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TOPE AISLANTE CON RECORTE 4103558  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "0a871ac34ff3ff5fadc82d1ed07e886292844f8b45930886759ecd98d4c81bac",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA CUADRADA MQ-24 4101258-4101287-4102088 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "af54753da9bf96d34fa6decbb6c892d90d09a098df77bc7e6500e4841131b2a8",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA CUADRADA QM - 22 4102112-4102113-4102114-4102448-4102588-4102589-4102590 REV 2.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ea9d46c02afd7b5dedb895ff02949c46cb49df0840282438597ae7359248d7e8",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 100 - 48.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "8fddef9a5493ff6441c754ac8dd2ace60cbad760478e64dfd626b648720be0ca",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 110 - 48.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "9b07f0c47dbdf047618935cf61ce0a6e952889f65b48638227b511acf6f0a225",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 170 - 48.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "28a6fbe3c9029fb5dfe8b198f55e711cd268ce37df78fd70b111b943792b6cda",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 225 - 65.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "9e31dab7c6de0ba9908c2c0f56463614673927e849bcb60efedbd76dba1d7473",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 275 - 65.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "1927b0bf595e05eba7f23b28eaea04a07dc90e7b612f33728c76a00efad48072",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 400 - 65.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "f2e7afbfbff55413749c509239ffa4423ad8687fc07cc38089c94b7d72e43f4f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 480 - 65.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "d4a8eb48a13dcb13070a5af54e92e67291b3aca61fa4014e3d0ade4354250a24",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE 20 - 90 - 48.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "973397667f312cfc78ac1ca5e71a94e87ceb2d1487e470972adf15c95c317694",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE DIAMETRO 20 4101259-4102089-4102091-4102092-102093 REV 3.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "5414f160a5553354123b0c48056c095808baba4bbb4d612428fca9e6942f5ccf",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE DIAMETRO 20 CON CHAVETERO 4102467 4102476 REV 3.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "c61789166951a42bf230a73635cfa129c4e2010550dae8a02cf03fff5b0406a6",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA DE DIAMANTE DIAMETRO 22-110-48 4102578 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "e91f20fc6cc1febd40fb6a3cc6d9e02055e7c206a095abe4da8dd14bee0b52bf",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA HEXAGONAL PARA TOPE DE JUNTA DE DILATACION DE PISTA 4102681 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "02d3f80b2820db4b4b9aa01bc64ba61cfc1b869c00b40956025f7386060acc8e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO CABEZA HEXAGONAL PARA TOPE DE JUNTA DE DILATACION DE RIEL 4102682  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "3b50576e2d532c404edd92b70c9bb44ec4c8812fc920d1439273516a6ce9bc3e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO DE AJUSTE PARA CERROJO AXIAL HM-14 4101233 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "70160cc1c2020815e7081009d4202e1635ed1a8e8213d64634c0a0d54e0f2f02",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO EJE DE BARRA DE SEPARACION 4101263 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "8518640e32903a661146b7d8f1a464c2e10179ffb53162386ac0b09d574aba9d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO H24 - 150-60 4102119  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "e4de87dda5f08ee04d7917495f5690d6fab2e943df68883ee5805fc8c9511319",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO HM 12-45-28 CON TUERCA HM 12  4101269 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "df55cbfc410a0749011aa0d0a062ca619c6099e79b27a5074553678ce5bf9452",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO HM-12 CON TUERCA HM-12  4101239 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "577cb1b568b14c8e699f4f765b2a7c92aec783ce5d0fbfc9b445438c94e355b6",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO O EJE DE LA BARRA DE MANDO DE CERROJP INDIVIDUAL 4101264 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "1611c9720f834fd9eeb87ffc420e04ab2d269d2dd126d7576efe996b7ebf43fd",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO OM -10-40 DE MATERIAL AISLANTE 4103484  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "437d0db38b1cbb841f5bff7518770a25bcca3d5246b5c9fbcd3f1d05c587d6c4",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TORNILLO PARA MADERA  Q-12 4102076-4103552-4103553  REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "685e349f27baa1e11b009dcda6bb4482dcc50d8729f1fff89349a1a03d6fe289",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "tubo-de-pvc-diam-2223-e-2mm-l117-mm-4103511-rev-0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "d725309e83220b17b7da34f0cde1f6c67cd8ce064ce348169575c2c924c75803",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA AUNTOFRENADA M-16 4102110 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "dc39c3869b3a387404a717191932453f310ceeb52bde706218a2511b66886d16",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA AUTOFRENADA M-8 4102595 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "a99753035d69e5226af16a5971096be2f093600268f89869c3fca38feb0b6125",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA ESPECIAL AUTOFRENADA 4103486  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "946026dd915f25ff2db9e0a3057a8586e19f753f15082f25a9c7200c629bcc1c",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA HEXAGONAL HKM 14 123416  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "a53a9a68031399d260000e19852194fdb8babad69a6eb6975f9393d39210226e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA HL 22 4103574  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "ba0987456193194be34d1bfa68002eefd8100ac85b2a5f74f2a02c2e2726b61b",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA HL- 20 4102128 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "f81a350a8c1d793f91c73cf085147bd6e18599509e6399e508e6fd753e137869",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA HL-24 4103459 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "b33f643711651f0bb313f82c1f1643dc8b7350404a417d27d0965045ed0f1dd2",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA HM 6- 12- 16- 22- 24 4102294-4103487-4102107-4102553-4102122  REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "db04febfac41c447c33cfac103d049e8dbad23b70d60c000e118d33b551748d5",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCA QM- 10 DE MATERIAL AISLANTE 4103488  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "91c57ef1ad142c7028fd0e0980fec23f032afae9401394aa2d53748f8d28e092",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "tuerca-hl-18-para-tirafondo-4102683-4103970-rev-1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "7c2694ec5cbed9514cce5a38b1d0833a7d68fc332865cee0b34d307eb1313a2a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCAS AUTOFRENADAS M-20 4102298 REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "fee45750b73977c635adaf1b6bb17555a8cdde21f7948c529c9bd125b8d41817",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "TUERCAS AUTOFRENADAS M-22 4102111.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "f9d1197fe4feeb1fb544f9d9bb4bd783070e10a29dc08bd384431d4710cb5e69",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "VARILLA DE FIJACION DIAMETRO 16 4102064 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "dcb07e69f268009805785d975f9d8e88ae2ad0e795e19f794876ee646c9d2bab",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "VARILLA DE FIJACION DIAMETRO 22 4102063 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "e51ccd42173b0df515ecd51b18378618d31acae591964c991e9e5345731a41a5",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "VARILLA DE FIJACION RP- 80 DIAMETRO 20 mm 4102541  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 3,
+      "sha256": "cb450602187ddd7e346de98ce4a8fd6962ce1f0c9e6f8028587eadc344fe606a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO AISLANTE DE PISTA DE RODAMIENTO 4102070  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "7463615b11bf518f33af8d4fc4e01f6b7c1b8f1a8470c4d6870e2addfafafd8f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO AISLANTE DE RIEL DE 80 LB-YD  4102069  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d97186dd06632dcdaed99b4381a8591aa64ee53d15b3f37efd53fbca7136136f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO AISLANTE PARA AISLADOR 4102068-4102071  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 5,
+      "sha256": "323a7f94478e490931b85a22694ca13b932034141518baa38a8eba54c67529e5",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO DE RIEL Y PISTA E.T. 19 C 4103506 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 7,
+      "sha256": "a8dec318b0067f8ad06c125b9ba5a2951730c96b2127c0c6c8364b19454ae805",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO METALICO DE BRIDAS LATERALES 4102040 REV 1.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 6,
+      "sha256": "de806c62f1047dd5294bd28e1af247ad7fe49098b54e9aec0a44ad9ba5fde08a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ZOCLO METALICO TIPO PLATO SOPORTE DE AISLADOR 4102268  REV 0.pdf",
+      "zip": "2026-10-13_metro.cdmx.gob.mx_licitacion_linea1(1).zip",
+      "pages": 4,
+      "sha256": "d54982130e5d5d706dec5f4c12cf6923c9fefd416b0f6e9cec85bbc946ad9b56",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ALMOHADILLA ACANALADA PARA PISTA Y RIEL SOBRE ZOCLO SILLA 4103523-4103504 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 5,
+      "sha256": "0f5489fcb5c04e762958791da370576e97c142042ffb978b83e245d2638d04bb",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ALMOHADILLA ACANALADA PARA RIEL Y PISTA COD 4102347-4102442 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 5,
+      "sha256": "34ef4bf7c1bdb54702274ba96a309a1d465beb3dc8ead56cae8315da5eb76fdc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ANCLAS PARA  SUJECCION TAPA DE BLOCK 4102244-4102572 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "a6092a00ed331133932cd8e77511deb8d0941a5a511d98e476f292ff6d20dc26",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ARANDELA DE PRESION CON DOBLE ESPIRAL 4103509 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "907629e828d07bf2ed74c538e262a78211a23bfbc2f58918485e6bc2c2e99719",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ARANDELA METALICA PARA PERNO TIRAFONDO 4102452-231293 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "af11fbe1b9b6d2e49041b94b8c9dd14416d7154e8fcb2890e32b50d58a5d1d45",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BALASTO PARA METRO SOBRE NEUMATICO 4102700 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "d4087c88f7d26a16c89c9b6020eb5617bf3fda0c349c3210324adec024d70b2d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BANDA AISLANTE DE NEOPRENO PARA RIEL Y PISTA 4102558-4102561 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "1d741f768fc3ad63096606c6e7e4ffd5bbbee932977b51e8166fe90fef0a651a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BARRA DE SEPARACION DE AGUJAS No 1 4101023 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "e36c8b1bdb3c2fa3a9171a982680aad9809a71631e1b0fe83a92ea0ce6d73069",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BARRA DE SEPARACION DE AGUJAS No 2 4101024 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "2775302c1e86588d2a9a4fc59af2269cdfe7695d9e2745d95e86462429307381",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BLOCK AISLANTE CON MAQUINADO PARA TAPA DE BLOCK 4103384 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 11,
+      "sha256": "2834710b949c583aba50992faf3d59a3106225dce17593316ff77e10e15e4a1d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BLOCK AISLANTE PARA ZONA NEUTRA DE 4 BLOCKS 4103385  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 9,
+      "sha256": "4dc76f266324d78060dbfbb1a5dfce8ef48cea296cfeb8d06b3956fc0f9a7f37",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BLOCK SILENCIADOR LONGITUD 30 4101265 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "bbd82006367ae093c23e40ad9e73bce76ce282eb1d7d8694b5b9dff01046ec31",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BLOCK SILENCIADOR LONGITUD 60 4101266 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "a04f241360d2ec9940cc4c118ed5fce75946794528cb154190596e2b1dd4e048",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BUJE ANTIFRICCION 4101262 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "26b2834f8383a7ed67d808a9fcae5b6bd91b5d0a758b2ba5cc9e4076126aca9d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BUJE SEPARADOR 44 x 34 L-26  4101221 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "d5660d934dddbd4fe4ea11dee3dacdde799655895c8e35e23f9fb3d23c44ec77",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "BUJES AISLANTES 4101030-4101226-4101242-4102105 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "ad3bb835f3d8fd979e0d8be74f775a89657bed64554ee90d3fd5bd7ec4ae3294",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA AISLANTE PARA AISLADOR 4100014-4100015-4102050 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "247cd1467c7cefc462d250c7807db36f9b5826c005a513f2d9c95cfbca06b964",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA AISLANTE PARA PISTA METALICA 4102729 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "c604653a389e099ccef176cd2fb0febada9d0aecb90fdf844ddbd1787f7ae8de",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA AISLANTE PARA RIEL DE 80 LB-YD 4102728 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "084d91213cc3e2fcdf21f9a4d994d28af7458d41bbf194588350b895ae2d087a",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA DE AJUSTE DE CONMUTADOR 4101246 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "95b46dcd5ce7aaa7b975dfdc3649216e6c8a131791b76603e0a516a82c884134",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA EXTERIOR TIPO U 4102233 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "b3ade4658725549ccd83737db4d0a5f32187e95e0e75a3dfe3ae758e9378a76d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA INCLINADA 4101275  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "819ac6a5e1b5bc924e5ba204eac162a31fe4bed319a02559315b5a307a058dd8",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA INCLINADA DIAMETRO 18 4102147 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "bf297e4ab5cbb8679d793acb87b66680e8ef2b53e441fc35036d6f96ae60fb27",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA INCLINADA DIAMETRO 25 4102075 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "a5255d4e894664d6daec9c7ef04ef2abb6ac02de824024dcedab4c0a0af0de84",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA INCLINADA PARA CRUCETAS  4102051-4102151 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "9fa98a9eebf36b7f444ba7ad59b20076d7d047578bc8885e8ee24aeca637983f",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA PARA AISLADOR EN VIA SOBRE CONCRETO 4102669-4103495-4103544-4103545 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "b0d507305efe6eba6e4b912cf27459fe814dd7bb187ec30e69acc5af0d71f595",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CALZA PERMANENTE TIPO TALON 4103365  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "18247ba80f4713e66c316b358ddb93a0fa29733d8da882d5cfc86d69eebbd293",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "calza-aumento-de-240mm-30mm-20mm-para-zoclo-de-riel-y-pista-silla-4103494-4103524-4103525-rev-0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "de48bae13eec7d1b24f7457bd316306d0983b019dff980f0a9bd3665f953df47",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "calza-metalica-permanente-galibo-4102046-4102232-4102245-rev-0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "82e4a1227c5f360e75394cc357bbf8586f8c3b13146d1f20fe9a0112921321dc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CANALETA DE 2000X150X150 ESPESOR 4mm 4102293 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "b6ca7d86ee7bac176ced6e06a7e34bce3460864df9f7273d6ff259d714139eed",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CANDELERO MODIFICADO 4102044 REV 2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "c59b033acf320f115ebcd3286f828a2558fbd23acf016f1338f841ca9d901a89",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CHAROLA DE PLASTICO PULTRUIDO REFORZADO 4103522 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "ce932ea29d0bf0b0dcc0d58c612a8306d325bd53d72ebb6d45ba25fd7244c19d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CHAVETAS 4101027-4101028-4102684-4103482 REV 2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "883307775a1aa44cc3bf1b706334ef5863b154c58cf7376af7ef8a2f055e9d68",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "clavo-tipo-hilti-para-madera-dura-4102045-rev-0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "c7ba6df146bcf67ec71a390495a383db7c37ab29cbc9336e9c5d59c4996fd671",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CORREDERA 4101220 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "6d87b2e322b05f643ca2e12bdb74039175ef0f60c32746c07113de01b3fcc621",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "CORTOCIRCUITADOR.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "15d43291665b4bb493348b78edc2a78d495052c8afee95ae1b381138720546cc",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "COSTAL DE VINILONA 65X90 237729 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "218a08f405c0d5ff8708d09b343b32f5572665201dc1028073f3d46b252942d6",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "cuna-o-candado-de-ensamble-de-zoclo-4102042-rev-2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "f992bef66dcafead5efc4fd755c7e55cf5b8955f8e398cec44d330c5e6acd4f0",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "DURMIENTE DE CONCRETO BIBLOCK TIPO O 4102363 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 7,
+      "sha256": "40af070cff1109dea46afa5d84f93502ea0daccd19a6ccb9bf3cc7d1a0f0a747",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "EJE DE CANDADO PARA  CERROJO INDIVIDUAL 4101260  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "c1d669c51ab70764680e1d373e58df80030c42c95545f210d00ffa612bb82bc2",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "END POST SEPARADO AISLANTE 8500225 -8500124 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "364ab9bf69ab9b40f966129c5172cbdecbe180bd4c502cd2be3647a3edcf443d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "EQUIPO DE TAPAS DE PLASTICO REFORZADO CON FIBRA DE VIDRIO 231841  REV 2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "42ae2b8047b51b62720a432a991e06ac1fb80810019d8065a141557fa41f89f3",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ESTRIBO LATERAL 4102451 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "89f6133ffbd8c957c717e541914bfc0423969743df1792d791c1c67984d49b9d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ESTRIBO PARA FOSA 4102074  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "b230f6716b96ba766cefdb205f8840786e0c3b9b91584ff140f448fcef469e2b",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "ET 08C SUMINISTRO TIRAFONDOS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 12,
+      "sha256": "631412986ccee32f1ad9daa1698c58e47206065112becd77e1fe26d190010ceb",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 12C SUM PISTA METALICA.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 32,
+      "sha256": "eb30fefa64685b4b8aefb8caf8dc0ff9ef0869a5363449cac61f6f27b82492bf",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 13CSUMINISTRO DE DURMIENTES MADERA AZOBE.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 25,
+      "sha256": "3acc1904fecda16fddf9d7b911c6e04fd31faa6551516bf14814cf4a2aa8f548",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 15C SUMINISTRO Y CALIDAD BALASTO.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 13,
+      "sha256": "e022c50026dde71a6ce44689eaaafcca51f715c8cbff138d7f4d4ec0b3689ead",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 17C SUMINISTRO SOLDADURA DE PERNOS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 22,
+      "sha256": "0540df264634014828f7ca3a0c723ad37695510240ed5e4bc2a2ac60fc090e19",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 18C EJEC. SOLDADURA ALUMINIO.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 27,
+      "sha256": "c6e8fc048a7b0b13ecbbd403d1f2bc3b2dc38625f1402a624056b50f6dd5d3af",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 19C FAB. Y SUM. SILLAS AISLANTES.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 17,
+      "sha256": "247336bc4c2df1b85dd5f8a632948ba2339af014ebf3e1c89649aa3e7c66e5e3",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 1C SUM. PIEZAS MOLDEADAS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 23,
+      "sha256": "d0768c9a12a21fbd7d6e58f6aad74433960589186eac7cb62578001694422878",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 20C SUMINISTRO TORNILLERIA.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 21,
+      "sha256": "642b4865384356031cad658d1fc39a10020628cbb7113c6dad6b94d10c3d8f60",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 23C SUMINISTRO DE PLANCHUELA.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 24,
+      "sha256": "1375eb8f527f07b4f3423907eed9e187da971010e110d9e8fe0c0ece5ed9b2dd",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 29C SUMINISTRO END POST.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 16,
+      "sha256": "e6a17bce94b407f075ab7dcc2cc96c2021637ddf111806fe1961fef78d0a4ea7",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 2C SUM. DE RIELES EN ACERO NO TRATADO.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 20,
+      "sha256": "ec4fcf8f4f62772d0009f1bc5383aa44b035c96a672ebb492246e27215ece136",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 32C SUMINISTRO PIEZAS MOLDEADAS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 18,
+      "sha256": "93ea085dac5eff7b3585244eb613a35ee47a5b8178ce253cbf665b478c76b3c3",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 33C SUM. PERNOS TIRAFONDO.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 21,
+      "sha256": "b4af51935e0ec31e4a45b8a67c49c6e1aeccd1e4ffccfa7cf5d1bbb0fa226ce8",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 36C SUMINISTRO GRAPAS AP.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 17,
+      "sha256": "ab72ffcc2f4168d664120e89d7a4a8db05100d11d2afb1f7f47e9018993f7af3",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 53C FAB Y SUM. TIRAFONDOS Y VAINAS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 20,
+      "sha256": "d8c98829a86d64506faa118481b229d5c7781fbbbfe4868b742862d1a88ef30c",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 54C FAB Y SUM. TOPES AISLANTES.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 19,
+      "sha256": "84576fce6c52ecb81ec0abca624b893f58faf22ba70d0bd3f6f312a7c7b11947",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 56C SUM. ESTRIBOS LATERALES.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 13,
+      "sha256": "ef4e26ce71e5c060e06896318e5f2b27bca7d582765e674e10b8e52c4baaa1d9",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 59C SUM. ALMOHADILLAS DE HULE.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 28,
+      "sha256": "c2053dd27d24b12a762ef6e9001dae434a837448faefdefea39b3cd7793fcf2d",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 5C SUMINISTRO PANCHUELAS METALICAS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 16,
+      "sha256": "52c1fac5f207835dd2fc862b85873656deb6611f2ecd8eccae879de819f5dbe9",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 62C SUM. RESINA V.L.S.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 10,
+      "sha256": "01bc03386c086a2779dca902f119d0f368d5dbadf043e814a9da7f235cdf280d",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 74C FAB Y SUM. DE ZONAS NEUTRAS.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 15,
+      "sha256": "a79c253faa05b022a10d8796320768e73406df49e864f6ba314cd23b0934bb58",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 81C OPERACIONES DE SEGUIMIENTO DE NIVELACION.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 14,
+      "sha256": "b4ef2582bcd106afe4b3ce8da808f8abddbc7ef03c376194bf45fbdd0a72a878",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "ET 9C SUMINISTRO DE PIZAS  MANIOBRAS Y SEG.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 23,
+      "sha256": "25b771cd411bfdbfb9bfc7e2465a0b4469ea9065a41819cfbe0f8cf468458790",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-14c-sum-aisladores-de-barra-guia.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 24,
+      "sha256": "41c0bf4621c14f46e76b9495b3266a406a475b722e734dfbe2a58c4d107a2ca5",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-28c-recep-aptos-via.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 43,
+      "sha256": "410ef87c8f130971a6ff7f5108bb1668c0cb539be0d63881a1a044aff35603fd",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-30ctrabajos-equipar-vias-sobre-balasto.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 117,
+      "sha256": "8474a3d0a0d44ee84e2867f337bba0152236f334442b756ac8a6475b8db694de",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-35c-sum-lainas-arandelas.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 21,
+      "sha256": "398338f73fdbb2ff5c2561e59787de642a72dd784546a2f1bc4d6af84c9ffdf3",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-4c-fabricacion-y-recep-aptos-de-via-ferreos.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 32,
+      "sha256": "7ff029e790bd4c9c7dc164dd773a622a5d808964b68732029e3e5a6a886b4ed7",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-52c-trab-equipar-vias-tramo-elevado.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 27,
+      "sha256": "fd88f9fe3498fc14df94a82145811bca8b68aa506e5459ff32b45ab04a3ecd4c",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-55c-sum-guarnicion-helicoidal.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 11,
+      "sha256": "ff929fe68d75c7c3deab059f8c0cee3568edfaf648285ed4ffd3b2f693f1e7e1",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-61c-fab-y-sum-lamina-de-resorte.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 21,
+      "sha256": "87661b42aace9ae8c6a3da38cf6d278137dc6eb8f68887a06a0503eed8ca8f4d",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-64c-sum-producto-aislante-bituminoso.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 12,
+      "sha256": "74f8703057668b598da3f9aa1e9853ce01294161cfeb8f7cde38178e75601485",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "et-76c-realineacion-y-renivelacion-vias.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 23,
+      "sha256": "03001bf16bf55577b258fdade9c0135c95c07f2e7072a08dfd5d3d2f5a2e0f91",
+      "category": "Especificación técnica"
+    },
+    {
+      "file": "EXTENSION PARA TIRAFONDERA DE 3-4 Y LARGO 13 4103580 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "47604b73330dd98bfc54e785cf4975473076bb9cd5b9f548337ee4404ff676c8",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "FORRO AISLANTE 4101029  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "82f132b3172b9d8abe22fbe41abcdf7e4fd150f61c0dbe65c2d25dd0b68db621",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA NABLA G-4 PARA DURMIENTE MONOLITICO DE CONCRETO  MRN 4103979  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "b9b730a4c89544d6f6288bde7a459dae11ae57bc1b34ecb2ccd728f808e6368c",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA NYLON NORMAL 4103514-4103478-4103480-4103479-4102455-4102456-4102457-4102459  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 5,
+      "sha256": "1a4711c5af0d6e4b04d4b95a815e445e0c8dafd506c2f74cb923fcaa62049bad",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA NYLON RECORTADA 4103566-4103567-4103568  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 6,
+      "sha256": "1737870ca4b86c9a95a7688fe42e09254dbc4fc858a2d14e2ae02b148a28cbcf",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA RP-80 4102507 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 7,
+      "sha256": "e1ead79d78cfcac890faf2b7b3ff3b82bb273a1fbb807bd4dcfafae250d51908",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA TIPO SAPO PARA PISTA 4102148  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "c27dc1fb6a9f1b1befba470f12b76182401defd3452d10542c5d8f6b868da4db",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GRAPA TIPO SAPO PARA RIEL 4102065 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "a677c3b0d1d079e7f3cfc822f0a60a226b25722010e52a71e225c7ebdd97b7e1",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GUARNICION HELICOIDAL DE 19mm 4102551 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "02daf9ecfb4aae3accc3030c229ef0258564f04002d90162691a8ba934aaaa9d",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "GUARNICION HELICOIDAL PARA PERNO TIRAFONDO DE 22 MM. 211307 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "60401e7bbe7609a1903b04a2e560404af5ef0a8e0f9492bcb38cdd8a6547e060",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "JUNTA AISLANTE DE CONTRARIEL 4102181 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "17ff3f04e978b94761dc8811e287dcd3446d8d631e5bcdba7798f92630866e73",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "JUNTA AISLANTE DE PISTA DE TALON DE CORAZON 4102188 REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "06b08c4dd4cd6a6564eea14c1c9fa37d52a1835abb5fca81fc4389a730b4e432",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "JUNTA AISLANTE DE RIEL 80LB-YD 4102034-410300-4103546  REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "c9e2565fb2afbc223022f7c02b111646e9de82371d180e989835ae3466bf6075",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "JUNTA AISLANTE PARA RIEL DE 100 LB-YD 4102145 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "e4fff07fbf567c8339a5f3506e4e5ed62a6bdee01da2d0b14ec397e62c2a2ada",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "juntas-aislantes-de-pista-end-post-4102037-4103401-4103547.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "3453dba17dd6735f060c175f831b6e66f48448d63b232035d38bca9c766ab077",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "juntas-aislantes-de-pistaend-postsobre-durmiente-4102187-rev-0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "6437b4dd3ba1e771b861d5f4502e8e6c547272ce4f6f9d7b8e6cfa4c0406e927",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAINA DE  AJUSTE PARA CERROJO AXIAL 4102203-4102204-4102205-4102628-4103549  REV 1.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "209202075d2f108c3ff27a9b8141726e5dc2f7d566a6ed6d9747b3a52c57f949",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAINA DE AJUSTE PARA CERROJO INDIVIDUAL 4101271-4102496-4103490-4102497-4102671 REV 2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "47c88a6722254f609db5cf71759b95c642b72f825c7ab8db7fbc43763f0b4e80",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAINA DE AJUSTE PARA TAPA DE BLOCK AISLANTE 410312-4103413-4103414-4103415  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "d8be1f5d132b16636aafab2ee790e78eec3dc7bd1bf05e0f5f575219270f30b9",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAINA DE NIVELACION PARA CERROJO INDIVIDUAL 4101272-4102509-4102498-4102510 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "f54915535ca1a4e36c9f0f3c939529551086e2f5796cae6a0e7f7b610b685304",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAMINA DE CAUCHO LISA PARA AISLADOR 4102599 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "b51578b949b806056a485b7c1c009840c76dac6533766a78969a110ed45863a1",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAMINA DE RESORTE CON RECORTE E.T. 61 C 4103550 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "fb650ef8b3a2c0da629552863a2e764d00e502997ea8fd3c227850e14c3ce61c",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "LAMINA RESORTE 4103505 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "85606053d67026f48de339e9e54b467fb60194ecd4d857f50da858678858960e",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "MANGUITO DE ACOMPLAMIENTO PARA LAS BARRAS DE MANDO 4101286  REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "880f4f38da2cd5455edbf1db64b3e0d11946bc8325e42d40aa324e4662bd245c",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "media-calza-para-ajuste-de-barra-guia-e-12345-mm-4102554-4102555-4102556-4102646.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "ee577e5aa508f61bbf9268c013a4f0b7d360efc6e231580c14cc4f2df1c29222",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PATA DE ARTICULACION 4101025 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "d98e777f47727bb4ead419f3f29c98aa1ed060e24d7d0c2f7a3a7548f0f6d3e2",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PERNO PARA BARRA DE SEPARACION 4102316 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "605dc380df6a90919b7789265fd7d7668d2cea8f9d3a379089b8d6f6964948ac",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PERNO PARA DURMIENTE DE MADERA TIPO S 4102041 REV 3.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "bdfadb5576249d7aa77eccf9f45c8d38cf8f48fd941e692cbede0d95934b7826",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PERNO TIPO NELSON 4102048-4102647 REV 2.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "972358153cc7942e3806fb3a45a44aadf887679ddbd4e65ca9cf3704352738fb",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "PERNO TIRAFONDO DE 19mm CON TUERCA HL-18 4102453 REV 0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 4,
+      "sha256": "82acf91b87190a83e55d7263e9a9084792dab273085fb89a9fcb1f557a56e410",
+      "category": "Ficha / pieza de vía"
+    },
+    {
+      "file": "perno-para-fijacion-de-barra-guia-de-diametro-16-lx-4103134-4103247-rev-0.pdf",
+      "zip": "Nueva carpeta (2).zip",
+      "pages": 3,
+      "sha256": "85402adc8fe1db8bac039f58aa507792d8a01225670405bd9d7bf5df97f032c6",
+      "category": "Ficha / pieza de vía"
+    }
+  ]
+}

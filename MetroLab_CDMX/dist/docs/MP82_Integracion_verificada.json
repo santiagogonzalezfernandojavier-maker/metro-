@@ -1,0 +1,18 @@
+[
+  {
+    "sentido": 1,
+    "coches": 9,
+    "hojas_puerta": 144,
+    "hojas_hacia_anden": 72,
+    "cabeceras_orientadas": true,
+    "interior_y_corte": true
+  },
+  {
+    "sentido": -1,
+    "coches": 9,
+    "hojas_puerta": 144,
+    "hojas_hacia_anden": 72,
+    "cabeceras_orientadas": true,
+    "interior_y_corte": true
+  }
+]

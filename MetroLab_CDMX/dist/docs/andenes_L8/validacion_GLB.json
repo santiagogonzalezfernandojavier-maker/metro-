@@ -1,0 +1,405 @@
+{
+  "passed": true,
+  "estaciones": 19,
+  "resultados": [
+    {
+      "archivo": "L8_01_Garibaldi_Lagunilla.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 175,
+      "meshes_runtime": 34,
+      "triangulos": 108672,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.236289095579651,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_02_Bellas_Artes.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 33,
+      "triangulos": 103664,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.262500151991844,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_03_San_Juan_de_Letran.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 33,
+      "triangulos": 104824,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.236289095579651,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_04_Salto_del_Agua.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 99616,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.236289095579651,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_05_Doctores.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 98656,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.03655949633745,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_06_Obrera.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 98136,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.236289095579651,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_07_Chabacano.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 33,
+      "triangulos": 102704,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.662499770522118,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_08_La_Viga.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 175,
+      "meshes_runtime": 34,
+      "triangulos": 102592,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.3625000566244125,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_09_Santa_Anita.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 97616,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.03655949633745,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_10_Coyuya.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 205,
+      "meshes_runtime": 35,
+      "triangulos": 127368,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.062499865889549,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_11_Iztacalco.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 205,
+      "meshes_runtime": 35,
+      "triangulos": 128048,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.062499865889549,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_12_Apatlaco.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 205,
+      "meshes_runtime": 35,
+      "triangulos": 128048,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.062499865889549,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_13_Aculco.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 205,
+      "meshes_runtime": 35,
+      "triangulos": 127608,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.162499770522118,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_14_Escuadron_201.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 100816,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.03655949633745,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_15_Atlalilco.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 96816,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.03655949633745,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_16_Iztapalapa.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 157,
+      "meshes_runtime": 31,
+      "triangulos": 97536,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.136424857651233,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_17_Cerro_de_la_Estrella.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 175,
+      "meshes_runtime": 33,
+      "triangulos": 109432,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.262500151991844,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_18_UAM_I.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 175,
+      "meshes_runtime": 33,
+      "triangulos": 102232,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          5.236289095579651,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    },
+    {
+      "archivo": "L8_19_Constitucion_de_1917.glb",
+      "imagenes_embebidas": 4,
+      "meshes_con_textura": 205,
+      "meshes_runtime": 35,
+      "triangulos": 132448,
+      "bbox_m": {
+        "min": [
+          -81,
+          -0.42000000178813934,
+          -8.5
+        ],
+        "max": [
+          81,
+          6.262500151991844,
+          8.5
+        ]
+      },
+      "uv_conservadas": true,
+      "cortes_independientes": true
+    }
+  ]
+}

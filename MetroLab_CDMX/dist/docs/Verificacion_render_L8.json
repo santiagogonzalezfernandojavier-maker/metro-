@@ -1,0 +1,28 @@
+{
+  "html": true,
+  "models": [
+    {
+      "key": "NM79_cabina",
+      "meshes": 95,
+      "animatedDoorLeaves": 16,
+      "paintMeshes": 4,
+      "glassMeshes": 20,
+      "boundsPreserved": true
+    },
+    {
+      "key": "NM79_intermedio",
+      "meshes": 76,
+      "animatedDoorLeaves": 16,
+      "paintMeshes": 3,
+      "glassMeshes": 19,
+      "boundsPreserved": true
+    }
+  ],
+  "overview": {
+    "drawCalls": 8,
+    "triangles": 15948,
+    "carriages": 9,
+    "length": 149.83999633789062
+  },
+  "closeCamera": true
+}

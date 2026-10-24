@@ -1,0 +1,399 @@
+{
+  "estaciones": 39,
+  "linea_1": 20,
+  "linea_8": 19,
+  "vias_y_bordes": "alineados",
+  "tipo_medidas": "provisionales",
+  "modelos": [
+    {
+      "id": "L1-01",
+      "estacion": "Pantitlán",
+      "archivo": "models/andenes/L1/L1_01_Pantitlan.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1015,
+      "meshes_vista": 34
+    },
+    {
+      "id": "L1-02",
+      "estacion": "Zaragoza",
+      "archivo": "models/andenes/L1/L1_02_Zaragoza.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1031,
+      "meshes_vista": 31
+    },
+    {
+      "id": "L1-03",
+      "estacion": "Gómez Farías",
+      "archivo": "models/andenes/L1/L1_03_Gomez_Farias.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 32
+    },
+    {
+      "id": "L1-04",
+      "estacion": "Boulevard Puerto Aéreo",
+      "archivo": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-05",
+      "estacion": "Balbuena",
+      "archivo": "models/andenes/L1/L1_05_Balbuena.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 985,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L1-06",
+      "estacion": "Moctezuma",
+      "archivo": "models/andenes/L1/L1_06_Moctezuma.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 985,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-07",
+      "estacion": "San Lázaro",
+      "archivo": "models/andenes/L1/L1_07_San_Lazaro.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1013,
+      "meshes_vista": 35
+    },
+    {
+      "id": "L1-08",
+      "estacion": "Candelaria",
+      "archivo": "models/andenes/L1/L1_08_Candelaria.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-09",
+      "estacion": "Merced",
+      "archivo": "models/andenes/L1/L1_09_Merced.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1013,
+      "meshes_vista": 35
+    },
+    {
+      "id": "L1-10",
+      "estacion": "Pino Suárez",
+      "archivo": "models/andenes/L1/L1_10_Pino_Suarez.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 985,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-11",
+      "estacion": "Isabel la Católica",
+      "archivo": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-12",
+      "estacion": "Salto del Agua",
+      "archivo": "models/andenes/L1/L1_12_Salto_del_Agua.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-13",
+      "estacion": "Balderas",
+      "archivo": "models/andenes/L1/L1_13_Balderas.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1013,
+      "meshes_vista": 35
+    },
+    {
+      "id": "L1-14",
+      "estacion": "Cuauhtémoc",
+      "archivo": "models/andenes/L1/L1_14_Cuauhtemoc.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 997,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-15",
+      "estacion": "Insurgentes",
+      "archivo": "models/andenes/L1/L1_15_Insurgentes.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1013,
+      "meshes_vista": 35
+    },
+    {
+      "id": "L1-16",
+      "estacion": "Sevilla",
+      "archivo": "models/andenes/L1/L1_16_Sevilla.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 985,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-17",
+      "estacion": "Chapultepec",
+      "archivo": "models/andenes/L1/L1_17_Chapultepec.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1013,
+      "meshes_vista": 35
+    },
+    {
+      "id": "L1-18",
+      "estacion": "Juanacatlán",
+      "archivo": "models/andenes/L1/L1_18_Juanacatlan.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 985,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L1-19",
+      "estacion": "Tacubaya",
+      "archivo": "models/andenes/L1/L1_19_Tacubaya.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1061,
+      "meshes_vista": 36
+    },
+    {
+      "id": "L1-20",
+      "estacion": "Observatorio",
+      "archivo": "models/andenes/L1/L1_20_Observatorio.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 1085,
+      "meshes_vista": 30
+    },
+    {
+      "id": "L8-01",
+      "estacion": "Garibaldi/Lagunilla",
+      "archivo": "models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 835,
+      "meshes_vista": 26
+    },
+    {
+      "id": "L8-02",
+      "estacion": "Bellas Artes",
+      "archivo": "models/andenes/L8/L8_02_Bellas_Artes.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 813,
+      "meshes_vista": 26
+    },
+    {
+      "id": "L8-03",
+      "estacion": "San Juan de Letrán",
+      "archivo": "models/andenes/L8/L8_03_San_Juan_de_Letran.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 813,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-04",
+      "estacion": "Salto del Agua",
+      "archivo": "models/andenes/L8/L8_04_Salto_del_Agua.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 791,
+      "meshes_vista": 27
+    },
+    {
+      "id": "L8-05",
+      "estacion": "Doctores",
+      "archivo": "models/andenes/L8/L8_05_Doctores.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 747,
+      "meshes_vista": 25
+    },
+    {
+      "id": "L8-06",
+      "estacion": "Obrera",
+      "archivo": "models/andenes/L8/L8_06_Obrera.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 745,
+      "meshes_vista": 25
+    },
+    {
+      "id": "L8-07",
+      "estacion": "Chabacano",
+      "archivo": "models/andenes/L8/L8_07_Chabacano.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 813,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-08",
+      "estacion": "La Viga",
+      "archivo": "models/andenes/L8/L8_08_La_Viga.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 835,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-09",
+      "estacion": "Santa Anita",
+      "archivo": "models/andenes/L8/L8_09_Santa_Anita.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 745,
+      "meshes_vista": 25
+    },
+    {
+      "id": "L8-10",
+      "estacion": "Coyuya",
+      "archivo": "models/andenes/L8/L8_10_Coyuya.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 772,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-11",
+      "estacion": "Iztacalco",
+      "archivo": "models/andenes/L8/L8_11_Iztacalco.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 772,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-12",
+      "estacion": "Apatlaco",
+      "archivo": "models/andenes/L8/L8_12_Apatlaco.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 772,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-13",
+      "estacion": "Aculco",
+      "archivo": "models/andenes/L8/L8_13_Aculco.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 772,
+      "meshes_vista": 28
+    },
+    {
+      "id": "L8-14",
+      "estacion": "Escuadrón 201",
+      "archivo": "models/andenes/L8/L8_14_Escuadron_201.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 745,
+      "meshes_vista": 23
+    },
+    {
+      "id": "L8-15",
+      "estacion": "Atlalilco",
+      "archivo": "models/andenes/L8/L8_15_Atlalilco.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 745,
+      "meshes_vista": 25
+    },
+    {
+      "id": "L8-16",
+      "estacion": "Iztapalapa",
+      "archivo": "models/andenes/L8/L8_16_Iztapalapa.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 745,
+      "meshes_vista": 25
+    },
+    {
+      "id": "L8-17",
+      "estacion": "Cerro de la Estrella",
+      "archivo": "models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 835,
+      "meshes_vista": 26
+    },
+    {
+      "id": "L8-18",
+      "estacion": "UAM-I",
+      "archivo": "models/andenes/L8/L8_18_UAM_I.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 835,
+      "meshes_vista": 26
+    },
+    {
+      "id": "L8-19",
+      "estacion": "Constitución de 1917",
+      "archivo": "models/andenes/L8/L8_19_Constitucion_de_1917.glb",
+      "importacion": "correcta",
+      "andenes": 2,
+      "geometria_conservada": true,
+      "meshes_originales": 750,
+      "meshes_vista": 25
+    }
+  ]
+}

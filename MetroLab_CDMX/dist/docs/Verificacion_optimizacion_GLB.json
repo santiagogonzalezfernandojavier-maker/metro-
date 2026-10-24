@@ -1,0 +1,321 @@
+{
+  "passed": true,
+  "estaciones": 39,
+  "muestras": 3745918,
+  "max_error_world_m": 0.001792441699372511,
+  "max_error_normal_grados": 0.29134778914385967,
+  "resultados": [
+    {
+      "linea": "L1",
+      "archivo": "L1_01_Pantitlan.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 90650,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_02_Zaragoza.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 93860,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_03_Gomez_Farias.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89460,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_04_Boulevard_Puerto_Aereo.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89420,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_05_Balbuena.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 85130,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_06_Moctezuma.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 85130,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_07_San_Lazaro.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.2913477891426087,
+      "muestras": 89470,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_08_Candelaria.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89460,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_09_Merced.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89590,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_10_Pino_Suarez.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 85160,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_11_Isabel_la_Catolica.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89440,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_12_Salto_del_Agua.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.2913477891426087,
+      "muestras": 89440,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_13_Balderas.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.29134778914385967,
+      "muestras": 89490,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_14_Cuauhtemoc.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89510,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_15_Insurgentes.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.29134778914385967,
+      "muestras": 89460,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_16_Sevilla.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 85240,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_17_Chapultepec.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 89490,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_18_Juanacatlan.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 85210,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_19_Tacubaya.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 97384,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L1",
+      "archivo": "L1_20_Observatorio.glb",
+      "max_error_world_m": 0.0016856485057970992,
+      "max_error_normal_grados": 0.2913477891426087,
+      "muestras": 102440,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_01_Garibaldi_Lagunilla.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 99390,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_02_Bellas_Artes.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.29134778914385967,
+      "muestras": 95934,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_03_San_Juan_de_Letran.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 95914,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_04_Salto_del_Agua.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.2913477891426087,
+      "muestras": 92036,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_05_Doctores.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92116,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_06_Obrera.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92156,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_07_Chabacano.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 95894,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_08_La_Viga.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 99410,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_09_Santa_Anita.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92116,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_10_Coyuya.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 124230,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_11_Iztacalco.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 124240,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_12_Apatlaco.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 124220,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_13_Aculco.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 124290,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_14_Escuadron_201.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92076,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_15_Atlalilco.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92126,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_16_Iztapalapa.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 92086,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_17_Cerro_de_la_Estrella.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 99380,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_18_UAM_I.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.267855766042924,
+      "muestras": 99640,
+      "uv_identicas": true
+    },
+    {
+      "linea": "L8",
+      "archivo": "L8_19_Constitucion_de_1917.glb",
+      "max_error_world_m": 0.001792441699372511,
+      "max_error_normal_grados": 0.29134778914385967,
+      "muestras": 124230,
+      "uv_identicas": true
+    }
+  ]
+}

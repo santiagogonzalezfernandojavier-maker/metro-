@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "modelos": [
+    {
+      "modelo": "NM-22",
+      "ambos_sentidos": true,
+      "hojas_por_convoy": 144,
+      "llegada_y_salida_GLB": true,
+      "geometria_compartida": true,
+      "puertas_y_cortes_independientes": true
+    },
+    {
+      "modelo": "NM-79",
+      "ambos_sentidos": true,
+      "hojas_por_convoy": 144,
+      "llegada_y_salida_GLB": true,
+      "geometria_compartida": true,
+      "puertas_y_cortes_independientes": true
+    },
+    {
+      "modelo": "MP-82",
+      "ambos_sentidos": true,
+      "hojas_por_convoy": 144,
+      "llegada_y_salida_GLB": true,
+      "geometria_compartida": true,
+      "puertas_y_cortes_independientes": true
+    }
+  ]
+}

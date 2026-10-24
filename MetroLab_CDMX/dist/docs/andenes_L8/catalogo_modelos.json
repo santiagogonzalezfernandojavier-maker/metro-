@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "L8-01",
+    "nombre": "Garibaldi-Lagunilla",
+    "segundo": 1530,
+    "fotograma": "L8_01_1530s.jpg",
+    "archivo_glb": "GLB/L8_01_Garibaldi_Lagunilla.glb",
+    "tipo": "subterranea",
+    "columnas": "round",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Ambas perspectivas: columnas claras con basamento verde, paneles claros, franja oscura y banda verde; plafón modular con luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1310,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_01_1530s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1485,
+        "fotograma": "L8-01_1485s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-01_1485s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-02",
+    "nombre": "Bellas Artes",
+    "segundo": 1445,
+    "fotograma": "L8_02_1445s.jpg",
+    "archivo_glb": "GLB/L8_02_Bellas_Artes.glb",
+    "tipo": "subterranea",
+    "columnas": "square",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Columnas claras y grandes escaleras diagonales visibles.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1292,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_02_Bellas_Artes.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_02_1445s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.2,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1412,
+        "fotograma": "L8-02_1412s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-02_1412s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-03",
+    "nombre": "San Juan de Letrán",
+    "segundo": 1390,
+    "fotograma": "L8_03_1390s.jpg",
+    "archivo_glb": "GLB/L8_03_San_Juan_de_Letran.glb",
+    "tipo": "subterranea",
+    "columnas": "square",
+    "acabado": "cream",
+    "confianza_visual": "media",
+    "observado": "Paneles claros, bandas verdes y luminarias longitudinales; distribución completa no visible.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1292,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_03_San_Juan_de_Letran.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_03_1390s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1360,
+        "fotograma": "L8-03_1360s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-03_1360s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-04",
+    "nombre": "Salto del Agua",
+    "segundo": 1350,
+    "fotograma": "L8_04_1350s.jpg",
+    "archivo_glb": "GLB/L8_04_Salto_del_Agua.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "cream",
+    "confianza_visual": "media",
+    "observado": "Andén claro y revestimientos observados oblicuamente; pilares y accesos incompletos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_04_Salto_del_Agua.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_04_1350s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1312,
+        "fotograma": "L8-04_1312s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-04_1312s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-05",
+    "nombre": "Doctores",
+    "segundo": 1290,
+    "fotograma": "L8_05_1290s.jpg",
+    "archivo_glb": "GLB/L8_05_Doctores.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "blue",
+    "confianza_visual": "alta",
+    "observado": "Paneles azules con franja horizontal negra y banda verde superior.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_05_Doctores.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_05_1290s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.9,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1240,
+        "fotograma": "L8-05_1240s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-05_1240s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-06",
+    "nombre": "Obrera",
+    "segundo": 1175,
+    "fotograma": "L8-06_1175s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L8_06_Obrera.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "ochre",
+    "confianza_visual": "media",
+    "observado": "Nueva perspectiva: paneles amarillo ocre, franja oscura, banda verde y plafón longitudinal; vista parcial del andén.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_06_Obrera.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8-06_1175s_perspectiva2.jpg",
+    "fuente": "VIDEO-L8-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1175,
+        "fotograma": "L8-06_1175s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-06_1175s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L8-USUARIO",
+      "segundo": 1230,
+      "url_fotograma": "referencias/L8/L8_06_1230s.jpg"
+    }
+  },
+  {
+    "id": "L8-07",
+    "nombre": "Chabacano",
+    "segundo": 1130,
+    "fotograma": "L8_07_1130s.jpg",
+    "archivo_glb": "GLB/L8_07_Chabacano.glb",
+    "tipo": "subterranea",
+    "columnas": "square",
+    "acabado": "cream",
+    "confianza_visual": "media",
+    "observado": "Extremo de andén claro con circulación lateral; estructura completa no visible.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1292,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_07_Chabacano.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_07_1130s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.6,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1087,
+        "fotograma": "L8-07_1087s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-07_1087s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-08",
+    "nombre": "La Viga",
+    "segundo": 1070,
+    "fotograma": "L8_08_1070s.jpg",
+    "archivo_glb": "GLB/L8_08_La_Viga.glb",
+    "tipo": "subterranea",
+    "columnas": "round",
+    "acabado": "lavender",
+    "confianza_visual": "alta",
+    "observado": "Columnas circulares y paneles lilas; escalera visible entre pilares.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1310,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_08_La_Viga.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_08_1070s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.3,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 1008,
+        "fotograma": "L8-08_1008s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-08_1008s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-09",
+    "nombre": "Santa Anita",
+    "segundo": 980,
+    "fotograma": "L8_09_980s.jpg",
+    "archivo_glb": "GLB/L8_09_Santa_Anita.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "cream",
+    "confianza_visual": "alta",
+    "observado": "Paneles beige claros, zócalo oscuro y banda verde longitudinal.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_09_Santa_Anita.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_09_980s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.9,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 935,
+        "fotograma": "L8-09_935s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-09_935s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-10",
+    "nombre": "Coyuya",
+    "segundo": 887,
+    "fotograma": "L8_10_887s.jpg",
+    "archivo_glb": "GLB/L8_10_Coyuya.glb",
+    "tipo": "superficial",
+    "columnas": "truss",
+    "acabado": "concrete",
+    "confianza_visual": "media",
+    "observado": "Tramo superficial; núcleo de escaleras y concreto visibles, cubierta parcialmente oculta.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1652,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_10_Coyuya.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_10_887s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 854,
+        "fotograma": "L8-10_854s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-10_854s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-11",
+    "nombre": "Iztacalco",
+    "segundo": 810,
+    "fotograma": "L8_11_810s.jpg",
+    "archivo_glb": "GLB/L8_11_Iztacalco.glb",
+    "tipo": "superficial",
+    "columnas": "truss",
+    "acabado": "concrete",
+    "confianza_visual": "media",
+    "observado": "Tramo superficial; núcleos de concreto y estructura parcialmente visibles.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1652,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_11_Iztacalco.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_11_810s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 764,
+        "fotograma": "L8-11_764s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-11_764s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-12",
+    "nombre": "Apatlaco",
+    "segundo": 748,
+    "fotograma": "L8_12_748s.jpg",
+    "archivo_glb": "GLB/L8_12_Apatlaco.glb",
+    "tipo": "superficial",
+    "columnas": "truss",
+    "acabado": "concrete",
+    "confianza_visual": "alta",
+    "observado": "Andenes abiertos, pilares claros y diagonales metálicas en el cerramiento.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1652,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_12_Apatlaco.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_12_748s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 680,
+        "fotograma": "L8-12_680s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-12_680s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-13",
+    "nombre": "Aculco",
+    "segundo": 685,
+    "fotograma": "L8_13_685s.jpg",
+    "archivo_glb": "GLB/L8_13_Aculco.glb",
+    "tipo": "superficial",
+    "columnas": "truss",
+    "acabado": "concrete",
+    "confianza_visual": "alta",
+    "observado": "Celosías triangulares, vidrio alto, cubierta metálica y escaleras visibles.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1652,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_13_Aculco.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_13_685s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 610,
+        "fotograma": "L8-13_610s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-13_610s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-14",
+    "nombre": "Escuadrón 201",
+    "segundo": 610,
+    "fotograma": "L8_14_610s.jpg",
+    "archivo_glb": "GLB/L8_14_Escuadron_201.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Paneles claros con franja negra, banda verde y luminarias continuas.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_14_Escuadron_201.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_14_610s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.9,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 535,
+        "fotograma": "L8-14_535s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-14_535s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-15",
+    "nombre": "Atlalilco",
+    "segundo": 490,
+    "fotograma": "L8_15_490s.jpg",
+    "archivo_glb": "GLB/L8_15_Atlalilco.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "cream",
+    "confianza_visual": "alta",
+    "observado": "Paneles crema segmentados, zócalo oscuro y banda verde longitudinal.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_15_Atlalilco.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_15_490s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.9,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 402,
+        "fotograma": "L8-15_402s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-15_402s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-16",
+    "nombre": "Iztapalapa",
+    "segundo": 332,
+    "fotograma": "L8-16_332s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L8_16_Iztapalapa.glb",
+    "tipo": "subterranea",
+    "columnas": "none",
+    "acabado": "cream",
+    "confianza_visual": "media",
+    "observado": "Nueva perspectiva: paneles crema amarillentos, franja negra, banda verde, equipos rojos y plafón continuo; accesos completos no visibles.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1256,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_16_Iztapalapa.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8-16_332s_perspectiva2.jpg",
+    "fuente": "VIDEO-L8-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 332,
+        "fotograma": "L8-16_332s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-16_332s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L8-USUARIO",
+      "segundo": 410,
+      "url_fotograma": "referencias/L8/L8_16_410s.jpg"
+    }
+  },
+  {
+    "id": "L8-17",
+    "nombre": "Cerro de la Estrella",
+    "segundo": 345,
+    "fotograma": "L8_17_345s.jpg",
+    "archivo_glb": "GLB/L8_17_Cerro_de_la_Estrella.glb",
+    "tipo": "subterranea",
+    "columnas": "round",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Columnas verde claro, paneles y luminarias continuas.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1310,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_17_345s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.2,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 264,
+        "fotograma": "L8-17_264s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-17_264s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-18",
+    "nombre": "UAM-I",
+    "segundo": 270,
+    "fotograma": "L8_18_270s.jpg",
+    "archivo_glb": "GLB/L8_18_UAM_I.glb",
+    "tipo": "subterranea",
+    "columnas": "round",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Columnas lilas, paneles claros/azules y gabinetes rojos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1310,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_18_UAM_I.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_18_270s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 170,
+        "fotograma": "L8-18_170s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-18_170s_perspectiva2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "L8-19",
+    "nombre": "Constitución de 1917",
+    "segundo": 87,
+    "fotograma": "L8_19_87s.jpg",
+    "archivo_glb": "GLB/L8_19_Constitucion_de_1917.glb",
+    "tipo": "superficial",
+    "columnas": "vframe",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Soportes diagonales claros, bases verde claro, cubierta y escaleras visibles.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1652,
+    "linea": 8,
+    "url_glb": "models/andenes/L8/L8_19_Constitucion_de_1917.glb?revision=L8-PBR-20261008",
+    "url_fotograma": "referencias/L8/L8_19_87s.jpg",
+    "fuente": "VIDEO-L8-USUARIO",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.2,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "revision_modelo": "L8-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L8-USUARIO",
+      "VIDEO-L8-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L8-USUARIO-2",
+        "segundo": 35,
+        "fotograma": "L8-19_35s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L8/L8-19_35s_perspectiva2.jpg"
+      }
+    ]
+  }
+]

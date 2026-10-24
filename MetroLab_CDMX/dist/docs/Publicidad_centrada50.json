@@ -1,0 +1,1220 @@
+{
+  "revision": 50,
+  "criterio": "Centro del paño libre delimitado por soportes, zócalo y banda superior. Marco y panel se desplazan juntos.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            3.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.2304881512618504,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.6250160392466455,
+            5.6250160392466455
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.800977889337556
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            3.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.2304881512618504,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.6250160392466455,
+            5.6250160392466455
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.800977889337556
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "eb2bfca34d069641c016c2d1aa740c7783f82e0e65a2710342ba79550026139b"
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "17f00c58e412ddb5ff6910598c1b81177399be6e0334d582a636a5367acedd06"
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "57846798f88284600be6bcd706e5f8cb3dc507864cbef1f5d00ba1460f839d0c"
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.880488008210703,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.6249732963042085,
+            5.6249732963042085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.080979190049116,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.880488008210703,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.6249732963042085,
+            5.6249732963042085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.080979190049116,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "770d39f5aee0748adb35d1e98ddd7dd2e9f2fd9373111ddbc942391473853000"
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.8500554268621423,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.949996859092614,
+            2.8500554268621423,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "a1bb848e9aa81a8430f15195e1b89c6213ad91efc936bd21d1f27e59aa0e9e58"
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.8500554268621423,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.949996859092614,
+            2.8500554268621423,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "99de66b9b347adf7d8515a6582d8a65bd812a428e59e0df2f0bbdf7af0318161"
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "71f7a1690d4c63fc6d2b6f57a02147516757ae2a54eda917738c7206a2d6acb7"
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "d7b794c723dfc382ca82e1b41ba50960c13b3dabbc674e62a990fad899e216b9"
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "bdb44f1728dc0b39a6b9f9f1a93ad6e2774d501709d6d5940e22c5d5a54ff451"
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.9000556175970056,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.949996859092614,
+            2.9000556175970056,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "8b2f369069ed1fb0c8c6fe3ae2375b2096f267a69598f4b4684b297a59a0d152"
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.880488008210703,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.6249732963042085,
+            5.6249732963042085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.080979190049116,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.880488008210703,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.6249732963042085,
+            5.6249732963042085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.080979190049116,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "726242db9b7b62546e6209cd42eb9ec18817a3b71058d26c74549f349e4edb0c"
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "d483940732e68c619b9e1e9eb0120607de0ce3e5bd569e01e0f21e8921278cf2"
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "bcfcc0c580707fac2b4893237192a696375d033564872fec3ddca08fe18352e9"
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            2.9304881989455662,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625025187703758,
+            5.625025187703758
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "4823330f9a5af2196810db3df0569bd3f028122134204ac7822530f860618acc"
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "5a933a6b5f60bf180beef58c7ac69a615d19387f3cf8c5aef67b4652b48b99de"
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.9000556175970056,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.949996859092614,
+            2.9000556175970056,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.200977984704988
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "57fa44c494ada998087ad9e7f43a27465398bf3832acba49da7419a63a82d4b7"
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            0.0,
+            3.0304881035781346,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -5.625009923221085,
+            5.625009923221085
+          ],
+          "limites_pano_y": [
+            1.6599984131861452,
+            4.4009777939701245
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "c9b2a89151f35cf9948a9e9f3caf2d05259e3fa6f4f397fc0121dfa3d25d4b70"
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.8500554268621423,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.949996859092614,
+            2.8500554268621423,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.100977603235261
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "c7581133ed8319015285a412cdab486ba99f94e17c1321d23c6e3e109f964690"
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -30.007251197070538,
+            2.680055588986776,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -74.0,
+            13.985497605858924
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            3.7609779274845287
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 1.801844676995505,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            0.0,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            29.503644627992912,
+            2.680055588986776,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.992710744014179,
+            74.0
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            3.7609779274845287
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 1.801844676995505,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "d9ebc56b3a5995755e9b921510cb2685cefa17a2de034f3d649f9e73a9b9bc2d"
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "paneles": [
+        {
+          "lado": -1,
+          "centro_anterior": [
+            2.75,
+            3.0,
+            -7.9575
+          ],
+          "centro_nuevo": [
+            -20.0,
+            2.9500555699132898,
+            -7.9575
+          ],
+          "limites_pano_x": [
+            -39.72999421001903,
+            -0.2700057899809686
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.300977889337556
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        },
+        {
+          "lado": 1,
+          "centro_anterior": [
+            2.75,
+            3.0,
+            7.9575
+          ],
+          "centro_nuevo": [
+            -7.185006035897869,
+            2.9500555699132898,
+            7.9575
+          ],
+          "limites_pano_x": [
+            -14.10000628181477,
+            -0.2700057899809686
+          ],
+          "limites_pano_y": [
+            1.5991332504890239,
+            4.300977889337556
+          ],
+          "ancho_marco": 4.6,
+          "alto_marco": 2.0999999999999996,
+          "alto_anterior": 2.0999999999999996
+        }
+      ],
+      "sha256": "ae5424c031ff142ca3e309c8a17e6b08b10b1e8a70c018b77bedc7f21de091dd"
+    },
+    {
+      "id": "L8-01",
+      "nombre": "Garibaldi/Lagunilla",
+      "paneles": [],
+      "sha256": "b0e73d0f8375099f3bfd1257f526abb2cefb719ab3f894b2a87fd94b8ebcb64b"
+    },
+    {
+      "id": "L8-02",
+      "nombre": "Bellas Artes",
+      "paneles": [],
+      "sha256": "c8b4b16d4f116ced392b9d7c83026f6b47dfa5ea807d6feb882e7498bb7a5f10"
+    },
+    {
+      "id": "L8-03",
+      "nombre": "San Juan de Letrán",
+      "paneles": [],
+      "sha256": "247e2f0e5aa7511220b890e45daaca9ad0ddd844ed42727e0e6c06cea13fa208"
+    },
+    {
+      "id": "L8-04",
+      "nombre": "Salto del Agua",
+      "paneles": [],
+      "sha256": "cb3fcf8d560d71326bd481b63affa26d9d9dfb13b416e77a8fe5083b0bb28cda"
+    },
+    {
+      "id": "L8-05",
+      "nombre": "Doctores",
+      "paneles": [],
+      "sha256": "5e4d007171bab7fd78e38d71b6f0c2dec1d911c8361a30c2b42553ea54ce2831"
+    },
+    {
+      "id": "L8-06",
+      "nombre": "Obrera",
+      "paneles": [],
+      "sha256": "63dfe1d007f6a4dc3105d52997685f6b730e0b9c4de822a1a63cef54f2b8f486"
+    },
+    {
+      "id": "L8-07",
+      "nombre": "Chabacano",
+      "paneles": [],
+      "sha256": "ee6b2b8688073d0341439a71743fa846d6890e8fa07dae88b1143ce1f8e11b4e"
+    },
+    {
+      "id": "L8-08",
+      "nombre": "La Viga",
+      "paneles": [],
+      "sha256": "dc8d78140a65afca07960d5565ec9d9f54bfca6837086f547ccb6133858346af"
+    },
+    {
+      "id": "L8-09",
+      "nombre": "Santa Anita",
+      "paneles": [],
+      "sha256": "d74d95c2ba51351d4ce69d47a98ab24ddb84aeff89d38ae07add5184a3976701"
+    },
+    {
+      "id": "L8-10",
+      "nombre": "Coyuya",
+      "paneles": [],
+      "sha256": "ddba8d95f8c70ec2f5da2f0ba17cc5307df74c4ab9c81d08649a45b126d4ee27"
+    },
+    {
+      "id": "L8-11",
+      "nombre": "Iztacalco",
+      "paneles": [],
+      "sha256": "3793239df2a8e482e4a5cdc927d63fdd71c747fc96e3262106cdb65ff407b03b"
+    },
+    {
+      "id": "L8-12",
+      "nombre": "Apatlaco",
+      "paneles": [],
+      "sha256": "a6e666c9a12e2f07833c338b067b44b76d4740a37acde5ea46decd5fa98cd130"
+    },
+    {
+      "id": "L8-13",
+      "nombre": "Aculco",
+      "paneles": [],
+      "sha256": "49e6f6153b198eb120417f9de411121651b27c89b6d6599c8267e80e35fd8345"
+    },
+    {
+      "id": "L8-14",
+      "nombre": "Escuadrón 201",
+      "paneles": [],
+      "sha256": "77d4ebb3c9540dd37a5c0b7f83e820711fda28b79a8ae4ae705aea876f41b501"
+    },
+    {
+      "id": "L8-15",
+      "nombre": "Atlalilco",
+      "paneles": [],
+      "sha256": "ca28fc170f045d74e91508aa9cb6b9c90a061a64ffc445ce8337ee4c29ef2111"
+    },
+    {
+      "id": "L8-16",
+      "nombre": "Iztapalapa",
+      "paneles": [],
+      "sha256": "1c8435784e7a915b10bf6d858c31e72847f4c7613c1277e5e31e478187eba596"
+    },
+    {
+      "id": "L8-17",
+      "nombre": "Cerro de la Estrella",
+      "paneles": [],
+      "sha256": "d2b1b2f86c8d0782cf930180322d4ebfcd6b453aa7b685a49af242c425b3469f"
+    },
+    {
+      "id": "L8-18",
+      "nombre": "UAM-I",
+      "paneles": [],
+      "sha256": "9954b83d83565a1899afa82aea416ea77f6652082b6968749519570e69b44f15"
+    },
+    {
+      "id": "L8-19",
+      "nombre": "Constitución de 1917",
+      "paneles": [],
+      "sha256": "d2827f7e2284e9226ed8a1f3137e87a9e880016e637ca4dbea65c654ff1eba01"
+    }
+  ]
+}

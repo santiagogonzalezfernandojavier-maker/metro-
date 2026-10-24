@@ -1,0 +1,105 @@
+{
+  "cambio": "Diagrama L1 retirado de los paneles de publicidad. Se conservan los carteles del mapa general y el recorrido interactivo.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "paneles_blancos": 2,
+      "sha256": "726ffa7a0182358be60258d5fb999495b1e04572b56b4bda173d27ae6a2370a7"
+    },
+    {
+      "id": "L1-02",
+      "paneles_blancos": 2,
+      "sha256": "f9346d19695ee378f2060907bb8c8900772e83e91f6e01d9b94c93e40c05dbd4"
+    },
+    {
+      "id": "L1-03",
+      "paneles_blancos": 2,
+      "sha256": "02e8177d8a8bc151bcd803d8d9b75d89472f935b9fc8893dfec9756cd8d5029d"
+    },
+    {
+      "id": "L1-04",
+      "paneles_blancos": 2,
+      "sha256": "2f19d9edb94f031fbd6619b78afe1fb22cb051128f99e03dfe4fd4afc8e6a0a4"
+    },
+    {
+      "id": "L1-05",
+      "paneles_blancos": 2,
+      "sha256": "fdbecad19346a0a870ce9e4097ac0436b48f3a760fef72d574dcc1600d8a4289"
+    },
+    {
+      "id": "L1-06",
+      "paneles_blancos": 2,
+      "sha256": "8f8d43708837cbdbbda9c8c1dc712f718534b37fbadfb47f190bdd2ebbb58835"
+    },
+    {
+      "id": "L1-07",
+      "paneles_blancos": 2,
+      "sha256": "f8ee81b59b45aa593107fa8770faadcbc18e1ef4ecdb167d74180fcd76ac41f2"
+    },
+    {
+      "id": "L1-08",
+      "paneles_blancos": 2,
+      "sha256": "f68a0a45005b56c7a2af7b02730809e72311093063981720e7bd16d4f16452d2"
+    },
+    {
+      "id": "L1-09",
+      "paneles_blancos": 2,
+      "sha256": "fb99160ccd22ad9cde9fafe25a115bc433fe2386d413c9e22b7f45c251998c9f"
+    },
+    {
+      "id": "L1-10",
+      "paneles_blancos": 2,
+      "sha256": "ed01f2ee62682cd539bda6fcd5b1ad4a8bba199c7714d88f0779c7d88f967c38"
+    },
+    {
+      "id": "L1-11",
+      "paneles_blancos": 2,
+      "sha256": "cb0702574cb7c9e0499830a3b0c955cb26e58873a6878c6c83b758c99efb31f0"
+    },
+    {
+      "id": "L1-12",
+      "paneles_blancos": 2,
+      "sha256": "fca5da009828adc4824e23aa28f3b38c4c047934dd874015fc2787a0d7e97db7"
+    },
+    {
+      "id": "L1-13",
+      "paneles_blancos": 2,
+      "sha256": "78d53a910abb1cc35661fdf8956983481db06b5261bcf8cee2ba63952e84a0f4"
+    },
+    {
+      "id": "L1-14",
+      "paneles_blancos": 2,
+      "sha256": "2b061de49c986a1de39cd378037c773cb81cd3e13ec9647fb27bc59d4aa0b9d4"
+    },
+    {
+      "id": "L1-15",
+      "paneles_blancos": 2,
+      "sha256": "87162a1e125f73c7558fa733a48c2c8079e7c7b2d1f4f6d08a5e1b0fdeafae71"
+    },
+    {
+      "id": "L1-16",
+      "paneles_blancos": 2,
+      "sha256": "3afe10c81195ab7dd5243d731295ac11033a18151523c7bf239c61b7ff2a6cb8"
+    },
+    {
+      "id": "L1-17",
+      "paneles_blancos": 2,
+      "sha256": "e1f3b17bcd1459cb5fe0770a822c92923bcf873f3283b9a4a95aa0ed7a7390f9"
+    },
+    {
+      "id": "L1-18",
+      "paneles_blancos": 2,
+      "sha256": "723a71e41edc0f90948d55b7242a94164b348b42459e6faf039901463533a737"
+    },
+    {
+      "id": "L1-19",
+      "paneles_blancos": 2,
+      "sha256": "f2dccd18c3e9f6457146822e88c72e37ef7808bd3ddee0482bf5be0106c4e145"
+    },
+    {
+      "id": "L1-20",
+      "paneles_blancos": 2,
+      "sha256": "eeb4e3f19f6f4733adb63b9c0ebd8a795f74a762f0460b10826a92750474ece0"
+    }
+  ]
+}

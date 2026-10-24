@@ -1,0 +1,278 @@
+[
+  {
+    "archivo": "models/MP82_cabina.glb",
+    "materiales": 14,
+    "primitivas": 82,
+    "valido": true
+  },
+  {
+    "archivo": "models/MP82_intermedio.glb",
+    "materiales": 11,
+    "primitivas": 70,
+    "valido": true
+  },
+  {
+    "archivo": "models/NM22_cabina.glb",
+    "materiales": 17,
+    "primitivas": 96,
+    "valido": true
+  },
+  {
+    "archivo": "models/NM22_intermedio.glb",
+    "materiales": 15,
+    "primitivas": 83,
+    "valido": true
+  },
+  {
+    "archivo": "models/NM79_cabina.glb",
+    "materiales": 18,
+    "primitivas": 95,
+    "valido": true
+  },
+  {
+    "archivo": "models/NM79_intermedio.glb",
+    "materiales": 13,
+    "primitivas": 76,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_01_Pantitlan.glb",
+    "materiales": 10,
+    "primitivas": 917,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_02_Zaragoza.glb",
+    "materiales": 11,
+    "primitivas": 947,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_03_Gomez_Farias.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_05_Balbuena.glb",
+    "materiales": 10,
+    "primitivas": 867,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_06_Moctezuma.glb",
+    "materiales": 10,
+    "primitivas": 867,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_07_San_Lazaro.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_08_Candelaria.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_09_Merced.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_10_Pino_Suarez.glb",
+    "materiales": 10,
+    "primitivas": 867,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_12_Salto_del_Agua.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_13_Balderas.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_14_Cuauhtemoc.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_15_Insurgentes.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_16_Sevilla.glb",
+    "materiales": 10,
+    "primitivas": 867,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_17_Chapultepec.glb",
+    "materiales": 10,
+    "primitivas": 907,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_18_Juanacatlan.glb",
+    "materiales": 10,
+    "primitivas": 867,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_19_Tacubaya.glb",
+    "materiales": 12,
+    "primitivas": 1023,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L1/L1_20_Observatorio.glb",
+    "materiales": 10,
+    "primitivas": 1027,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb",
+    "materiales": 11,
+    "primitivas": 1115,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_02_Bellas_Artes.glb",
+    "materiales": 11,
+    "primitivas": 1097,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_03_San_Juan_de_Letran.glb",
+    "materiales": 11,
+    "primitivas": 1097,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_04_Salto_del_Agua.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_05_Doctores.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_06_Obrera.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_07_Chabacano.glb",
+    "materiales": 11,
+    "primitivas": 1097,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_08_La_Viga.glb",
+    "materiales": 11,
+    "primitivas": 1115,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_09_Santa_Anita.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_10_Coyuya.glb",
+    "materiales": 11,
+    "primitivas": 1457,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_11_Iztacalco.glb",
+    "materiales": 11,
+    "primitivas": 1457,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_12_Apatlaco.glb",
+    "materiales": 11,
+    "primitivas": 1457,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_13_Aculco.glb",
+    "materiales": 11,
+    "primitivas": 1457,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_14_Escuadron_201.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_15_Atlalilco.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_16_Iztapalapa.glb",
+    "materiales": 10,
+    "primitivas": 1061,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb",
+    "materiales": 11,
+    "primitivas": 1115,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_18_UAM_I.glb",
+    "materiales": 11,
+    "primitivas": 1115,
+    "valido": true
+  },
+  {
+    "archivo": "models/andenes/L8/L8_19_Constitucion_de_1917.glb",
+    "materiales": 11,
+    "primitivas": 1457,
+    "valido": true
+  },
+  {
+    "archivo": "models/usuarios/Usuarios_anden_variantes.glb",
+    "materiales": 1,
+    "primitivas": 1,
+    "valido": true
+  }
+]

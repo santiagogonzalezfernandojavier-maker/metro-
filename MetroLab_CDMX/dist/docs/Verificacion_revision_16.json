@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "camera_full_corners": 32,
+  "platform_fixed": true,
+  "interior_both_directions": true,
+  "audio_once_per_stop": true,
+  "audio_muted_when_paused": true,
+  "uvs_retained": true
+}

@@ -1,0 +1,26 @@
+{
+  "platformPinnedAfterArrival": true,
+  "manualStationSelectionWorks": true,
+  "realTimeLimbAnimation": true,
+  "pauseFreezesLimbs": true,
+  "models": [
+    {
+      "model": "MP-82",
+      "originalMeshes": 654,
+      "meshes": 488,
+      "reductionPercent": 25
+    },
+    {
+      "model": "NM-79",
+      "originalMeshes": 722,
+      "meshes": 507,
+      "reductionPercent": 30
+    },
+    {
+      "model": "NM-22",
+      "originalMeshes": 773,
+      "meshes": 515,
+      "reductionPercent": 33
+    }
+  ]
+}

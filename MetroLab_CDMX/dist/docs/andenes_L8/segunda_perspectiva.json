@@ -1,0 +1,125 @@
+{
+  "fuente": "VIDEO-L8-USUARIO-2",
+  "duracion_s": 1544.730703,
+  "resolucion": [
+    640,
+    360
+  ],
+  "fecha_grabacion": "No confirmada",
+  "fotogramas": [
+    {
+      "id": "L8-01",
+      "nombre": "Garibaldi-Lagunilla",
+      "nuevo_segundo": 1485,
+      "nuevo_fotograma": "L8-01_1485s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-02",
+      "nombre": "Bellas Artes",
+      "nuevo_segundo": 1412,
+      "nuevo_fotograma": "L8-02_1412s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-03",
+      "nombre": "San Juan de Letrán",
+      "nuevo_segundo": 1360,
+      "nuevo_fotograma": "L8-03_1360s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-04",
+      "nombre": "Salto del Agua",
+      "nuevo_segundo": 1312,
+      "nuevo_fotograma": "L8-04_1312s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-05",
+      "nombre": "Doctores",
+      "nuevo_segundo": 1240,
+      "nuevo_fotograma": "L8-05_1240s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-06",
+      "nombre": "Obrera",
+      "nuevo_segundo": 1175,
+      "nuevo_fotograma": "L8-06_1175s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-07",
+      "nombre": "Chabacano",
+      "nuevo_segundo": 1087,
+      "nuevo_fotograma": "L8-07_1087s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-08",
+      "nombre": "La Viga",
+      "nuevo_segundo": 1008,
+      "nuevo_fotograma": "L8-08_1008s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-09",
+      "nombre": "Santa Anita",
+      "nuevo_segundo": 935,
+      "nuevo_fotograma": "L8-09_935s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-10",
+      "nombre": "Coyuya",
+      "nuevo_segundo": 854,
+      "nuevo_fotograma": "L8-10_854s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-11",
+      "nombre": "Iztacalco",
+      "nuevo_segundo": 764,
+      "nuevo_fotograma": "L8-11_764s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-12",
+      "nombre": "Apatlaco",
+      "nuevo_segundo": 680,
+      "nuevo_fotograma": "L8-12_680s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-13",
+      "nombre": "Aculco",
+      "nuevo_segundo": 610,
+      "nuevo_fotograma": "L8-13_610s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-14",
+      "nombre": "Escuadrón 201",
+      "nuevo_segundo": 535,
+      "nuevo_fotograma": "L8-14_535s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-15",
+      "nombre": "Atlalilco",
+      "nuevo_segundo": 402,
+      "nuevo_fotograma": "L8-15_402s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-16",
+      "nombre": "Iztapalapa",
+      "nuevo_segundo": 332,
+      "nuevo_fotograma": "L8-16_332s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-17",
+      "nombre": "Cerro de la Estrella",
+      "nuevo_segundo": 264,
+      "nuevo_fotograma": "L8-17_264s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-18",
+      "nombre": "UAM-I",
+      "nuevo_segundo": 170,
+      "nuevo_fotograma": "L8-18_170s_perspectiva2.jpg"
+    },
+    {
+      "id": "L8-19",
+      "nombre": "Constitución de 1917",
+      "nuevo_segundo": 35,
+      "nuevo_fotograma": "L8-19_35s_perspectiva2.jpg"
+    }
+  ]
+}

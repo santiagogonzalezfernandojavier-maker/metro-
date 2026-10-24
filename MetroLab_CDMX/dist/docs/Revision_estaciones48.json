@@ -1,0 +1,711 @@
+{
+  "revision": 48,
+  "base": "c6435a607436ab5bd11b1f0f24779534c349a384",
+  "metodo": "Comparación de fotografías y dos perspectivas de video aportadas; edición GLB directa. Sin levantamiento de medidas ni verificación WebGL.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-01.jpg",
+      "criterio": "Piedra clara y piso gris; terminal parcialmente visible.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4756640,
+      "bytes_despues": 2354108,
+      "sha256": "09b83d29eb90eefbc57429a7207a65f2d4bd3f3d5abe7f8025baee2852fca5b0"
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-02.jpg",
+      "criterio": "Vetas verticales beige visibles entre los marcos rosas.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4931728,
+      "bytes_despues": 2431748,
+      "sha256": "2a721460407645b656ae35441f9cc464f4a07f4f3defc40892bdc1b9726f35e9"
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-03.jpg",
+      "criterio": "Revestimiento mineral marfil con vetas discretas.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4769552,
+      "bytes_despues": 2333956,
+      "sha256": "92914f45cb5697f3afe004beee90247690664b8acdb254e2dc7b649ee6741aef"
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-04.jpg",
+      "criterio": "Panel claro liso; no usar el túnel como acabado del andén.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4896820,
+      "bytes_despues": 2318924,
+      "sha256": "cd55e0569583674e9c8b59a0d37833d69eaea4dc23cdf1d4ca86d46d484d44b5"
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-05.jpg",
+      "criterio": "Panel blanco y marcos rosas, con piso pétreo gris.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4528840,
+      "bytes_despues": 2198576,
+      "sha256": "f9cb84b0224b1a7d47e61d933bb6f831219c3340be7ef8e2098152104795e552"
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-06.jpg",
+      "criterio": "Panel blanco renovado; las vistas antiguas se mantienen como contexto.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4529828,
+      "bytes_despues": 2199200,
+      "sha256": "226d1fdcda8c30e37a2e6708b8c280787efe372af3d087f618097e6f85fffacb"
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-07.jpg",
+      "criterio": "Piedra clara en las zonas visibles de L1; correspondencia sin extrapolar.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4737200,
+      "bytes_despues": 2331032,
+      "sha256": "537429699bafe48649e4c919fca1090d6c2be05bb3da46c017e3b61eaf0c01de"
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-08.jpg",
+      "criterio": "Panel blanco; pasarela existente conservada.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4732924,
+      "bytes_despues": 2295572,
+      "sha256": "ab249036ff8aff379f6dd35a0be9a614ac5d09a29b5fde1993d58dc1decde7ae"
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-09.jpg",
+      "criterio": "Piedra crema entre anuncios de marco rosa.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4713544,
+      "bytes_despues": 2330184,
+      "sha256": "cfa447f2829ac18cf9be828551f45af50af0fefd6b7f9b3d06205d9d54f38d6b"
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-10.jpg",
+      "criterio": "Revestimiento mineral claro en la toma rotulada Pino Suárez.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4552648,
+      "bytes_despues": 2239144,
+      "sha256": "a1cd124c524d710ca0e3b1747acb0dbad9ab0949eead8675ea87187b5b717d38"
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-11.jpg",
+      "criterio": "Revestimiento mineral gris claro, sin dominante amarilla.",
+      "acabado": "mineral",
+      "cambios": [
+        "Revestimiento mineral con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4801008,
+      "bytes_despues": 2403600,
+      "sha256": "cf527496d2aa36afa9c4db21604b0d66cb93a74aa8ea47b2bdfc58d5943301f3"
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-12.jpg",
+      "criterio": "Paneles blancos y zócalo oscuro en la referencia.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4770960,
+      "bytes_despues": 2306224,
+      "sha256": "b53bde2ff0b9f840667ebdd10f8be67ede96f465e1e6698a3ab19dd1560f1c7f"
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-13.jpg",
+      "criterio": "Piedra beige visible alrededor del gabinete y anuncio.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4739228,
+      "bytes_despues": 2331188,
+      "sha256": "ceee67979deeda75a5bc30ebe90591915f02577d5466eb8874e6991ee4bd5dc5"
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-14.jpg",
+      "criterio": "Panel blanco de la imagen rotulada Cuauhtémoc.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4759272,
+      "bytes_despues": 2300664,
+      "sha256": "00d73ba718bc08a518464f97ca0f99ebb660c197ff8dd93ce92c57c162bb3dec"
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-15.jpg",
+      "criterio": "Piedra cálida con vetas, plafón lateral claro.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4761852,
+      "bytes_despues": 2329944,
+      "sha256": "db5c52fc0d5c12e345dbeda282ff7ca9e07cd42be31875f6661f6a6476d2db2b"
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-16.jpg",
+      "criterio": "Panel blanco de la referencia renovada.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4478916,
+      "bytes_despues": 2187412,
+      "sha256": "5bdf0773f22e44a036af2891c181fc2e1a3bb3e26924eaf2dea3e6f645395f63"
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-17.jpg",
+      "criterio": "Acabado claro de andén y pasarela; toma distante.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 148,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4751604,
+      "bytes_despues": 2295028,
+      "sha256": "b28f990c33af78722ab6023250cf0931e5c9eb834124e21cebafdaf6c5c6e49d"
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-18.jpg",
+      "criterio": "Piedra marfil visible detrás de anuncios; cubierta central oscura.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 4530116,
+      "bytes_despues": 2227532,
+      "sha256": "2a221b33f68c5185e07c0fa090976b4f749b67784bdf00cdb805ec4e5dffc530"
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-19.jpg",
+      "criterio": "Piedra cálida bajo la zona de mural; mural no reconstruido sin textura completa.",
+      "acabado": "stone",
+      "cambios": [
+        "Revestimiento stone con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 5231988,
+      "bytes_despues": 2601324,
+      "sha256": "418130daeabb70f351c88e2625b07ef0b1f2be07fdd179478c4fe6c25c3499d4"
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "linea": 1,
+      "referencia": "referencias/fotos18/L1-20.jpg",
+      "criterio": "Panel claro de terminal; cerchas y cubierta alta existentes.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 12,
+      "bytes_antes": 5453768,
+      "bytes_despues": 2579848,
+      "sha256": "22c6af6c2015496feb4e0111834b6b6000d1abb5e8527871a93d1ba3bd506ac0"
+    },
+    {
+      "id": "L8-01",
+      "nombre": "Garibaldi/Lagunilla",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_01_1530s.jpg",
+      "criterio": "Ambas perspectivas: columnas claras con basamento verde, paneles claros, franja oscura y banda verde; plafón modular con luminarias longitudinales.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5282976,
+      "bytes_despues": 2548828,
+      "sha256": "b0e73d0f8375099f3bfd1257f526abb2cefb719ab3f894b2a87fd94b8ebcb64b"
+    },
+    {
+      "id": "L8-02",
+      "nombre": "Bellas Artes",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_02_1445s.jpg",
+      "criterio": "Columnas claras y grandes escaleras diagonales visibles.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5220536,
+      "bytes_despues": 2529624,
+      "sha256": "c8b4b16d4f116ced392b9d7c83026f6b47dfa5ea807d6feb882e7498bb7a5f10"
+    },
+    {
+      "id": "L8-03",
+      "nombre": "San Juan de Letrán",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_03_1390s.jpg",
+      "criterio": "Paneles claros, bandas verdes y luminarias longitudinales; distribución completa no visible.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5250344,
+      "bytes_despues": 2533580,
+      "sha256": "247e2f0e5aa7511220b890e45daaca9ad0ddd844ed42727e0e6c06cea13fa208"
+    },
+    {
+      "id": "L8-04",
+      "nombre": "Salto del Agua",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_04_1350s.jpg",
+      "criterio": "Andén claro y revestimientos observados oblicuamente; pilares y accesos incompletos.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5030352,
+      "bytes_despues": 2437564,
+      "sha256": "cb3fcf8d560d71326bd481b63affa26d9d9dfb13b416e77a8fe5083b0bb28cda"
+    },
+    {
+      "id": "L8-05",
+      "nombre": "Doctores",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_05_1290s.jpg",
+      "criterio": "Paneles azules con franja horizontal negra y banda verde superior.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5001012,
+      "bytes_despues": 2429592,
+      "sha256": "5e4d007171bab7fd78e38d71b6f0c2dec1d911c8361a30c2b42553ea54ce2831"
+    },
+    {
+      "id": "L8-06",
+      "nombre": "Obrera",
+      "linea": 8,
+      "referencia": "referencias/L8/L8-06_1175s_perspectiva2.jpg",
+      "criterio": "Nueva perspectiva: paneles amarillo ocre, franja oscura, banda verde y plafón longitudinal; vista parcial del andén.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 4991532,
+      "bytes_despues": 2432760,
+      "sha256": "63dfe1d007f6a4dc3105d52997685f6b730e0b9c4de822a1a63cef54f2b8f486"
+    },
+    {
+      "id": "L8-07",
+      "nombre": "Chabacano",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_07_1130s.jpg",
+      "criterio": "Extremo de andén claro con circulación lateral; estructura completa no visible.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5197272,
+      "bytes_despues": 2527172,
+      "sha256": "ee6b2b8688073d0341439a71743fa846d6890e8fa07dae88b1143ce1f8e11b4e"
+    },
+    {
+      "id": "L8-08",
+      "nombre": "La Viga",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_08_1070s.jpg",
+      "criterio": "Columnas circulares y paneles lilas; escalera visible entre pilares.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Columnas y basamentos lilas según fotograma, pintura no metálica",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5145012,
+      "bytes_despues": 2532228,
+      "sha256": "dc8d78140a65afca07960d5565ec9d9f54bfca6837086f547ccb6133858346af"
+    },
+    {
+      "id": "L8-09",
+      "nombre": "Santa Anita",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_09_980s.jpg",
+      "criterio": "Paneles beige claros, zócalo oscuro y banda verde longitudinal.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 4983212,
+      "bytes_despues": 2427528,
+      "sha256": "d74d95c2ba51351d4ce69d47a98ab24ddb84aeff89d38ae07add5184a3976701"
+    },
+    {
+      "id": "L8-10",
+      "nombre": "Coyuya",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_10_887s.jpg",
+      "criterio": "Tramo superficial; núcleo de escaleras y concreto visibles, cubierta parcialmente oculta.",
+      "acabado": "mineral",
+      "cambios": [
+        "Revestimiento mineral con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 6553352,
+      "bytes_despues": 3323192,
+      "sha256": "ddba8d95f8c70ec2f5da2f0ba17cc5307df74c4ab9c81d08649a45b126d4ee27"
+    },
+    {
+      "id": "L8-11",
+      "nombre": "Iztacalco",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_11_810s.jpg",
+      "criterio": "Tramo superficial; núcleos de concreto y estructura parcialmente visibles.",
+      "acabado": "mineral",
+      "cambios": [
+        "Revestimiento mineral con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 6571468,
+      "bytes_despues": 3325468,
+      "sha256": "3793239df2a8e482e4a5cdc927d63fdd71c747fc96e3262106cdb65ff407b03b"
+    },
+    {
+      "id": "L8-12",
+      "nombre": "Apatlaco",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_12_748s.jpg",
+      "criterio": "Andenes abiertos, pilares claros y diagonales metálicas en el cerramiento.",
+      "acabado": "mineral",
+      "cambios": [
+        "Revestimiento mineral con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 6569432,
+      "bytes_despues": 3325236,
+      "sha256": "a6e666c9a12e2f07833c338b067b44b76d4740a37acde5ea46decd5fa98cd130"
+    },
+    {
+      "id": "L8-13",
+      "nombre": "Aculco",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_13_685s.jpg",
+      "criterio": "Celosías triangulares, vidrio alto, cubierta metálica y escaleras visibles.",
+      "acabado": "mineral",
+      "cambios": [
+        "Revestimiento mineral con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 6558864,
+      "bytes_despues": 3324432,
+      "sha256": "49e6f6153b198eb120417f9de411121651b27c89b6d6599c8267e80e35fd8345"
+    },
+    {
+      "id": "L8-14",
+      "nombre": "Escuadrón 201",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_14_610s.jpg",
+      "criterio": "Paneles claros con franja negra, banda verde y luminarias continuas.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5050820,
+      "bytes_despues": 2436084,
+      "sha256": "77d4ebb3c9540dd37a5c0b7f83e820711fda28b79a8ae4ae705aea876f41b501"
+    },
+    {
+      "id": "L8-15",
+      "nombre": "Atlalilco",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_15_490s.jpg",
+      "criterio": "Paneles crema segmentados, zócalo oscuro y banda verde longitudinal.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 4964828,
+      "bytes_despues": 2425176,
+      "sha256": "ca28fc170f045d74e91508aa9cb6b9c90a061a64ffc445ce8337ee4c29ef2111"
+    },
+    {
+      "id": "L8-16",
+      "nombre": "Iztapalapa",
+      "linea": 8,
+      "referencia": "referencias/L8/L8-16_332s_perspectiva2.jpg",
+      "criterio": "Nueva perspectiva: paneles crema amarillentos, franja negra, banda verde, equipos rojos y plafón continuo; accesos completos no visibles.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 4981700,
+      "bytes_despues": 2426728,
+      "sha256": "1c8435784e7a915b10bf6d858c31e72847f4c7613c1277e5e31e478187eba596"
+    },
+    {
+      "id": "L8-17",
+      "nombre": "Cerro de la Estrella",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_17_345s.jpg",
+      "criterio": "Columnas verde claro, paneles y luminarias continuas.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5298156,
+      "bytes_despues": 2551604,
+      "sha256": "d2b1b2f86c8d0782cf930180322d4ebfcd6b453aa7b685a49af242c425b3469f"
+    },
+    {
+      "id": "L8-18",
+      "nombre": "UAM-I",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_18_270s.jpg",
+      "criterio": "Columnas lilas, paneles claros/azules y gabinetes rojos.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Columnas y basamentos lilas según fotograma, pintura no metálica",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 5135976,
+      "bytes_despues": 2530468,
+      "sha256": "9954b83d83565a1899afa82aea416ea77f6652082b6968749519570e69b44f15"
+    },
+    {
+      "id": "L8-19",
+      "nombre": "Constitución de 1917",
+      "linea": 8,
+      "referencia": "referencias/L8/L8_19_87s.jpg",
+      "criterio": "Soportes diagonales claros, bases verde claro, cubierta y escaleras visibles.",
+      "acabado": "panel",
+      "cambios": [
+        "Revestimiento panel con color, microrelieve y rugosidad embebidos",
+        "Piso con escala métrica y rugosidad diferenciada",
+        "Carteles con respaldo o marco y apoyo sobre la pared/pretil"
+      ],
+      "primitivas_uv_metrica": 128,
+      "piezas_cartel_montadas": 2,
+      "bytes_antes": 6674016,
+      "bytes_despues": 3244288,
+      "sha256": "d2827f7e2284e9226ed8a1f3137e87a9e880016e637ca4dbea65c654ff1eba01"
+    }
+  ]
+}

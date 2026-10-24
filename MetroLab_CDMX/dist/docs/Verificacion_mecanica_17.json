@@ -1,0 +1,122 @@
+[
+  {
+    "modelo": "NM79_cabina",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.9,
+        0.24599999189376826,
+        -1.311
+      ],
+      "max": [
+        6.9,
+        1.054,
+        1.311
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "f6121ac640a7a1f7d23f76245a52cf2342900bfe2e893c0d1ec6b1cf993f7760"
+  },
+  {
+    "modelo": "NM22_intermedio",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.9,
+        0.24599999189376826,
+        -1.311
+      ],
+      "max": [
+        6.9,
+        1.054,
+        1.311
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "3706b798d0c68eede7177adcecf077aebcff2e169ea2b8ade017e4c6bd4358c9"
+  },
+  {
+    "modelo": "NM79_intermedio",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.9,
+        0.24599999189376826,
+        -1.311
+      ],
+      "max": [
+        6.9,
+        1.054,
+        1.311
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "a0daff104c4016a2cc5577e0ec2b74b9962e659513b6e32b224ffd431667e86e"
+  },
+  {
+    "modelo": "MP82_intermedio",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.55,
+        0.22599999189376824,
+        -1.3119999999999998
+      ],
+      "max": [
+        6.55,
+        1.054,
+        1.3119999999999998
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "4cb1805dc63d7ced1e9ca9313a364c887dad7de2710c612c8faaa65a9f1cd48c"
+  },
+  {
+    "modelo": "NM22_cabina",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.9,
+        0.24599999189376826,
+        -1.311
+      ],
+      "max": [
+        6.9,
+        1.054,
+        1.311
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "1db607ea47c047be2b117a47d79d917dbeeaf983a40c388b1c736e1a6e9724e6"
+  },
+  {
+    "modelo": "MP82_cabina",
+    "piezas_agregadas": 366,
+    "geometrias_compartidas": 10,
+    "limites_mecanica": {
+      "min": [
+        -6.55,
+        0.22599999189376824,
+        -1.3119999999999998
+      ],
+      "max": [
+        6.55,
+        1.054,
+        1.3119999999999998
+      ]
+    },
+    "puertas_originales_intactas": true,
+    "geometria_original_intacta": true,
+    "sha256": "b9741133252aac56b8512f1fcfe2310209e301d64298908e5e0fc4ab44dc8739"
+  }
+]

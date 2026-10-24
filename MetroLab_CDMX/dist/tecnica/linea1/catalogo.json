@@ -1,0 +1,3068 @@
+{
+  "title": "Planos técnicos de vías · Línea 1",
+  "source_docx": "PLANOS L1 (1).docx",
+  "source_zip": "2026-10-12_metro.cdmx.gob.mx_anexo1_planos.zip",
+  "indexEntries": 93,
+  "pdfFiles": 146,
+  "pages": 147,
+  "scanned": true,
+  "scope": "Documentación histórica de vías. No acredita la geometría actual de estaciones ni especificaciones del NM-22. Kilometrajes con orígenes diferentes; radios y peraltes requieren transcripción y validación.",
+  "items": [
+    {
+      "id": "p001",
+      "file": "69-VI-116-III-06.pdf",
+      "code": "69-VI-116-III-06",
+      "description": "LINEA No. 1 TRAMO JUANACATLAN – TACUBAYA SOBRE – ELEVACIONES CURVA No. 8 (69 Y 70)  UNICO PLANO",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Juanacatlán",
+        "Tacubaya"
+      ],
+      "pages": 1,
+      "sha256_original": "1901c9967f94f8d504b6567a0d7c13dcc7664e1093e1e661456f9744c1f2335e",
+      "indexNumber": 1,
+      "preview": "tecnica/linea1/p001.jpg",
+      "pdf": "tecnica/linea1/p001.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p002",
+      "file": "69-VIA-117-III-51.pdf",
+      "code": "69-VIA-117-III-51",
+      "description": "LINEA No. 1 OTE. TRAMO: CHAPULTEPEC – PERIFERICO SUB TRAMO CONSTITUYENTES - JUANACATLAN PERFIL PROYECTO DEL KM 12+550.00 AL KM 13+480.000",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Chapultepec",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "1a15211375e82cf1ffa286c49f63d9bfafc0ea16cc860a185594b915773893fd",
+      "indexNumber": 2,
+      "preview": "tecnica/linea1/p002.jpg",
+      "pdf": "tecnica/linea1/p002.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p003",
+      "file": "70-VI-118-III-35.pdf",
+      "code": "70-VI-118-III-35",
+      "description": "LINEA No. 1 TRAMO CHAPULTEPEC – PERIFERICO SUB TRAMO: B FRANKLIN – TACUBAYA  SOBRE – ELEVACIONES CURVA No.   (71 Y 72)  UNICO PLANO",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Chapultepec",
+        "Tacubaya"
+      ],
+      "pages": 1,
+      "sha256_original": "2375f8275dccf0cc229678dacf06286345a226547e36a9b8a1973fc15aad05d6",
+      "indexNumber": 3,
+      "preview": "tecnica/linea1/p003.jpg",
+      "pdf": "tecnica/linea1/p003.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p004",
+      "file": "71-VI-116-III-38-SE.pdf",
+      "code": "71-VI-116-III-38-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  77 Y 78 UNICO PLANO",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "91a1b9d6757f0808bfb9db1d5349ea47484d3e3e2401513ed01549336d6b6890",
+      "indexNumber": 5,
+      "preview": "tecnica/linea1/p004.jpg",
+      "pdf": "tecnica/linea1/p004.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p005",
+      "file": "71-VI-116-III-39-SE.pdf",
+      "code": "71-VI-116-III-39-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  79 Y 80  UNICO PLANO",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "79f029d34983585e6bc1c61c37dcb757661f9ec360d94b26c173eb3857b7ae76",
+      "indexNumber": 6,
+      "preview": "tecnica/linea1/p005.jpg",
+      "pdf": "tecnica/linea1/p005.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p006",
+      "file": "71-VI-118-III-36-SE.pdf",
+      "code": "71-VI-118-III-36-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  73 Y 74",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "0942d8367a8ca3e9e845e83bd0e22cc7ef75eba8deb7ccb4630a66dcf55735b4",
+      "indexNumber": 7,
+      "preview": "tecnica/linea1/p006.jpg",
+      "pdf": "tecnica/linea1/p006.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p007",
+      "file": "71-VI-118-III-37-SE.pdf",
+      "code": "71-VI-118-III-37-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  75 Y 76",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "13f8caa0cd6c996ca3904bc629bd29caf4ee70b1a29eb1abad7c0de663dc7f02",
+      "indexNumber": 8,
+      "preview": "tecnica/linea1/p007.jpg",
+      "pdf": "tecnica/linea1/p007.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p008",
+      "file": "71-VI-118-III-41 SE.pdf",
+      "code": "71-VI-118-III-41 SE",
+      "description": "INEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.F.C.C.  CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  83 Y 84",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "ae8084c5a0921dd4fc05347e430f66eb2aa54cb59c0c396196feacd79a560e1c",
+      "indexNumber": 9,
+      "preview": "tecnica/linea1/p008.jpg",
+      "pdf": "tecnica/linea1/p008.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p009",
+      "file": "71-VI-122-III-16.pdf",
+      "code": "71-VI-122-III-16, C",
+      "description": "LÍNEA No ,1  TRAMO: BUCARELI - CHAPULTEPEC. SUBTRAMO: SEVILLA - CHAPULTEPEC. RECTIFICACIÓN DE LA RASANTE DE VÍAS DEL KM. 11+300 AL KM 12+100",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Sevilla",
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "d9a69a73ae19d2d2da0f0a34793ef2b48b81a2fa4558aa3954020089e6e32f03",
+      "indexNumber": 10,
+      "preview": "tecnica/linea1/p009.jpg",
+      "pdf": "tecnica/linea1/p009.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p010",
+      "file": "71-VI-18-III-40S.pdf",
+      "code": "71-VI-18-III-40S",
+      "description": "71-VI-18-III-40S",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "6993549c200b33cc7cbaf3f9d9f53cbd14ea39b81e836fe249277dfb97e7cce4",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p010.jpg",
+      "pdf": "tecnica/linea1/p010.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p011",
+      "file": "81-VI-15-90100-III-3-6858-P.pdf",
+      "code": "81-VI-15-90100-III-3-6858-P",
+      "description": "LINEA No. 1 OTE. IMPLANTACION DE VÍA SOBRE ELEVACIONES PLANO GENERAL DE SOBRE ELEVACIONES TRAMO: ZARAGOZA – PANTITLAN - COLA DEL KM 1+109.124 AL KM -0+934.477",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Pantitlán",
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "7a88830ccf077182236ba1e78b148b93bff34b730796804cef8321c272c0a7c2",
+      "indexNumber": 11,
+      "preview": "tecnica/linea1/p011.jpg",
+      "pdf": "tecnica/linea1/p011.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p012",
+      "file": "CURVA No. 29.pdf",
+      "code": "TV 434",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 29)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "0f19ba86749864c5b9de973422cc6b03e4e439130194101c89cddb719480e8ad",
+      "indexNumber": 49,
+      "preview": "tecnica/linea1/p012.jpg",
+      "pdf": "tecnica/linea1/p012.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p013",
+      "file": "CURVA No. 30.pdf",
+      "code": "TV 435",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 30)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "c48a9c3bf74a1584ebe39ba2f0d9aa1e94503abbd985f36e8e32c8f50a5ec89c",
+      "indexNumber": 50,
+      "preview": "tecnica/linea1/p013.jpg",
+      "pdf": "tecnica/linea1/p013.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p014",
+      "file": "CURVA No. 31.pdf",
+      "code": "TV 436",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 31)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "41a822eb4eb8ba9be5322a70536eb9da122ce7c30db3e0f1db7d5d9716b6f56c",
+      "indexNumber": 51,
+      "preview": "tecnica/linea1/p014.jpg",
+      "pdf": "tecnica/linea1/p014.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p015",
+      "file": "CURVA No. 32.pdf",
+      "code": "TV 437",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 32)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "ee0c3fba3bab90856ee540b0cb9a358d178bc5fa82b364b69bd3f3dbfe5ece17",
+      "indexNumber": 52,
+      "preview": "tecnica/linea1/p015.jpg",
+      "pdf": "tecnica/linea1/p015.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p016",
+      "file": "CURVA No. 33.pdf",
+      "code": "TV 438",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 33)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "cafdeb39847aa42e4ecc125b809faa1aaa3a37d9c9c1d95a0951ff248d47d116",
+      "indexNumber": 53,
+      "preview": "tecnica/linea1/p016.jpg",
+      "pdf": "tecnica/linea1/p016.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p017",
+      "file": "CURVA No. 34.pdf",
+      "code": "TV 439",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 34)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "0d31a870394b1db16b59dc9ae721a0e2f4086a517a2bc78c5ed665ce94b66105",
+      "indexNumber": 54,
+      "preview": "tecnica/linea1/p017.jpg",
+      "pdf": "tecnica/linea1/p017.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p018",
+      "file": "CURVA No. 37.pdf",
+      "code": "TV 441",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVA 37)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "a2736ff1ea1f8c663fe32d57e994c9622572175d8d7e4b52e845ab88ef6ec612",
+      "indexNumber": 56,
+      "preview": "tecnica/linea1/p018.jpg",
+      "pdf": "tecnica/linea1/p018.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p019",
+      "file": "CURVA No. 38.pdf",
+      "code": "TV 442",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS (CURVA 38)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "dcfa9adab9a8374a321f9cefc4881d90c51c297b8b7930868317db65b53f0a8c",
+      "indexNumber": 57,
+      "preview": "tecnica/linea1/p019.jpg",
+      "pdf": "tecnica/linea1/p019.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p020",
+      "file": "CURVA No. 53 Y No. 54.pdf",
+      "code": "TV 47410062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 53 Y 54)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Chapultepec",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "19f116a3426c128ecce20f36ce15272c6389e2bfde81668eb10011030b92ea7a",
+      "indexNumber": 92,
+      "preview": "tecnica/linea1/p020.jpg",
+      "pdf": "tecnica/linea1/p020.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p021",
+      "file": "CURVAS No. 1 Y No. 2.pdf",
+      "code": "CURVAS No. 1 Y No. 2",
+      "description": "CURVAS No. 1 Y No. 2",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "0ce0e49252c4e0454008a6659cdab9296c00ea4a4c660888a9a8ad47367b48cc",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p021.jpg",
+      "pdf": "tecnica/linea1/p021.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Dibujo y cotas principales revisados visualmente",
+      "verifiedReadings": [
+        {
+          "parameter": "Radio indicado",
+          "value": "400 m"
+        },
+        {
+          "parameter": "Peralte indicado",
+          "value": "120 mm"
+        },
+        {
+          "parameter": "Transición a cada lado",
+          "value": "30 m"
+        },
+        {
+          "parameter": "Plena curva de vía 2",
+          "value": "18.064 m"
+        },
+        {
+          "parameter": "Fecha del dibujo",
+          "value": "16 de julio de 1968"
+        }
+      ],
+      "readingScope": "TV 420: curvas 1 y 2, Gómez Farías–Aeropuerto. Valores leídos visualmente del dibujo histórico; no se aplican como parámetros vigentes del recorrido."
+    },
+    {
+      "id": "p022",
+      "file": "CURVAS No. 11 Y No. 12.pdf",
+      "code": "CURVAS No. 11 Y No. 12",
+      "description": "CURVAS No. 11 Y No. 12",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "79e967fd1cf258f002ff54e482df4b4925ce0d7233763a98d904681fb26d9ba8",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p022.jpg",
+      "pdf": "tecnica/linea1/p022.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p023",
+      "file": "CURVAS No. 13 Y No. 14.pdf",
+      "code": "CURVAS No. 13 Y No. 14",
+      "description": "CURVAS No. 13 Y No. 14",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "376578f4cdbf9dec1e7781d80066a34fff01d95d6bb37f3cc72cf81417faa74c",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p023.jpg",
+      "pdf": "tecnica/linea1/p023.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p024",
+      "file": "CURVAS No. 15 Y No. 16.pdf",
+      "code": "CURVAS No. 15 Y No. 16",
+      "description": "CURVAS No. 15 Y No. 16",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "155c5ca71c3bb8f427a61001b768c8ddc2ff960fb0ab223cd0ee347233a96c9f",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p024.jpg",
+      "pdf": "tecnica/linea1/p024.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p025",
+      "file": "CURVAS No. 17 Y No. 18.pdf",
+      "code": "TV 428",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 17 Y 18)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "001b120426de0b269f734809b1e7b336a8ddc28931301fba0a30938b4d780195",
+      "indexNumber": 43,
+      "preview": "tecnica/linea1/p025.jpg",
+      "pdf": "tecnica/linea1/p025.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p026",
+      "file": "CURVAS No. 19 Y No. 20.pdf",
+      "code": "TV 429",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 19 Y 20)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "f9ba75342d9f21ba58480cfcbae6cf51e061e2320c87ee64ff946a8f8cbda295",
+      "indexNumber": 44,
+      "preview": "tecnica/linea1/p026.jpg",
+      "pdf": "tecnica/linea1/p026.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p027",
+      "file": "CURVAS No. 21 Y No. 22.pdf",
+      "code": "CURVAS No. 21 Y No. 22",
+      "description": "CURVAS No. 21 Y No. 22",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "1452e951f53506743021fe3b052899fe1fb35ebd39fc09cfdf399f5cf388b6f7",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p027.jpg",
+      "pdf": "tecnica/linea1/p027.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p028",
+      "file": "CURVAS No. 23 Y No. 24.pdf",
+      "code": "CURVAS No. 23 Y No. 24",
+      "description": "CURVAS No. 23 Y No. 24",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "2f25cce054a2ba61825e96d4606829e4f9911a1fe5b6a3b21e499fbf09ea3f25",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p028.jpg",
+      "pdf": "tecnica/linea1/p028.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p029",
+      "file": "CURVAS No. 25 Y No. 26.pdf",
+      "code": "CURVAS No. 25 Y No. 26",
+      "description": "CURVAS No. 25 Y No. 26",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "2a0262a7585afa88f76e4eef8c481e92a93bc8d6d0eaead31531032f70e9e4bb",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p029.jpg",
+      "pdf": "tecnica/linea1/p029.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p030",
+      "file": "CURVAS No. 27 Y No. 28.pdf",
+      "code": "TV 433",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVAS 27 Y 28)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "d376fbc54dbb63d23cad0c605d4e16b831e139543224812d65a1ff867516fb2d",
+      "indexNumber": 48,
+      "preview": "tecnica/linea1/p030.jpg",
+      "pdf": "tecnica/linea1/p030.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p031",
+      "file": "CURVAS No. 3 Y No. 4.pdf",
+      "code": "CURVAS No. 3 Y No. 4",
+      "description": "CURVAS No. 3 Y No. 4",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "e8724609b83e072b12a5b02cae9d67639235747a41cd9e3dd0a1055ce736975e",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p031.jpg",
+      "pdf": "tecnica/linea1/p031.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p032",
+      "file": "CURVAS No. 35 Y No. 36.pdf",
+      "code": "TV 440",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVAS 35 Y .36)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "8ee7c60655d5d5778ab8d1ec942aee010a7eb41cb963501ec87dcdf767c3d24e",
+      "indexNumber": 55,
+      "preview": "tecnica/linea1/p032.jpg",
+      "pdf": "tecnica/linea1/p032.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p033",
+      "file": "CURVAS No. 39 Y No. 40.pdf",
+      "code": "TV 443",
+      "description": "LÍNEA 1 INTERESTACIÓN BALDERAS - CUAUHTEMOC (CURVAS 39 Y 40)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Balderas",
+        "Cuauhtémoc"
+      ],
+      "pages": 1,
+      "sha256_original": "0c16d34a6fd2950eb11806baf44b009e9159f9f96719442a0d0fb99f3d2f111e",
+      "indexNumber": 58,
+      "preview": "tecnica/linea1/p033.jpg",
+      "pdf": "tecnica/linea1/p033.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p034",
+      "file": "CURVAS No. 41 Y No. 42.pdf",
+      "code": "TV 444",
+      "description": "LÍNEA 1 INTERESTACIÓN  CUAUHTEMOC - INSURGENTES (CURVAS 41 Y 42)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Insurgentes"
+      ],
+      "pages": 1,
+      "sha256_original": "4e7ac27d401ebfaa9804e9c5bbd2297e2948df249c3ae9963d9d9247a9420a04",
+      "indexNumber": 59,
+      "preview": "tecnica/linea1/p034.jpg",
+      "pdf": "tecnica/linea1/p034.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p035",
+      "file": "CURVAS No. 43 Y No. 44.pdf",
+      "code": "TV 445",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - INSURGENTES ( CURVAS 43 Y 44)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Insurgentes"
+      ],
+      "pages": 2,
+      "sha256_original": "33f4e7d56ffb1234dbe855ebc1490ba6af942704f231b66a437c3620fa0842b5",
+      "indexNumber": 60,
+      "preview": "tecnica/linea1/p035.jpg",
+      "pdf": "tecnica/linea1/p035.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p036",
+      "file": "CURVAS No. 47 Y No. 48.pdf",
+      "code": "TV 447",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 47 Y 48)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "3b635300133f22162b882577850405312e4669f9c35c8b9656b2fce7ed825a34",
+      "indexNumber": 62,
+      "preview": "tecnica/linea1/p036.jpg",
+      "pdf": "tecnica/linea1/p036.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p037",
+      "file": "CURVAS No. 49 Y No. 50.pdf",
+      "code": "TV 448",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA (CURVAS 49 Y 50)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "cd009008719283d76b0f9580166d1ed2607f67d9eef3ebe4ab3e071171bd3081",
+      "indexNumber": 63,
+      "preview": "tecnica/linea1/p037.jpg",
+      "pdf": "tecnica/linea1/p037.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p038",
+      "file": "CURVAS No. 5 Y No. 6.pdf",
+      "code": "CURVAS No. 5 Y No. 6",
+      "description": "CURVAS No. 5 Y No. 6",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "12f5df9ad3a8852208254e620b90679343c1efe46af421f9116dbbea7fd1860b",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p038.jpg",
+      "pdf": "tecnica/linea1/p038.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p039",
+      "file": "CURVAS No. 51 Y No. 52.pdf",
+      "code": "TV 449",
+      "description": "LÍNEA 1 INTERESTACIÓN SEVILLA - CHAPULTEPEC ( CURVAS 51 Y 52)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Sevilla",
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "a561500145f447183eabc0a143c7b7b3ec1c3943a1a8b1142969cc5f04b4765f",
+      "indexNumber": 64,
+      "preview": "tecnica/linea1/p039.jpg",
+      "pdf": "tecnica/linea1/p039.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p040",
+      "file": "CURVAS No. 55 Y No. 56.pdf",
+      "code": "TV 47510062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 55 Y 56)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Chapultepec",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "b9cd122ec05f508b084dd202e53b7e8216aee7fd8a73b96401b81919c5c9e8ae",
+      "indexNumber": 93,
+      "preview": "tecnica/linea1/p040.jpg",
+      "pdf": "tecnica/linea1/p040.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p041",
+      "file": "CURVAS No. 57 Y 58.pdf",
+      "code": "TV 476",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - JUANACATLÁN (CURVAS 57 Y 58)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "5f9fc27ee69a5bc8819eebc1fb43433754751753399b276038dc7aed4253b5d1",
+      "indexNumber": 67,
+      "preview": "tecnica/linea1/p041.jpg",
+      "pdf": "tecnica/linea1/p041.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p042",
+      "file": "CURVAS No. 9 Y No. 10.pdf",
+      "code": "TV 424",
+      "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CALENDARIA (CURVAS 9 Y 10)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "San Lázaro",
+        "Candelaria"
+      ],
+      "pages": 1,
+      "sha256_original": "5367e88054e16041c9f230c6ad6ad9d0e8292b0b611cdf425ddd7f44901ba164",
+      "indexNumber": 39,
+      "preview": "tecnica/linea1/p042.jpg",
+      "pdf": "tecnica/linea1/p042.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p043",
+      "file": "CURVAS No.07 Y No. 08.pdf",
+      "code": "CURVAS No.07 Y No. 08",
+      "description": "CURVAS No.07 Y No. 08",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "30e13e629caa2ba834f2a66fc765cf881dcb48178bc9c60e4362b0375a2ae8ed",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p043.jpg",
+      "pdf": "tecnica/linea1/p043.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p044",
+      "file": "SMV 452.pdf",
+      "code": "SMV 452",
+      "description": "LÍNEA 1 PERALTES Y POSICIÓN TRANSVERSAL DE BARRAS DE GUIADO EN CURVA",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "da0993d294fd2b883e0a5ed91a8030c18b6be7f1f2ee63f7f3a686c6fee8e745",
+      "indexNumber": 12,
+      "preview": "tecnica/linea1/p044.jpg",
+      "pdf": "tecnica/linea1/p044.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p045",
+      "file": "TV 367.pdf",
+      "code": "TV 367",
+      "description": "LINEA 1 TERMINAL CHAPULTEPEC, POSE DE LA VOIE SUR LA FOSSE DE LA VISITE",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "43a14b16c3d2b2bc1fb512287f41906dbfc6f09876f96ea41cae18dfe78793cf",
+      "indexNumber": 13,
+      "preview": "tecnica/linea1/p045.jpg",
+      "pdf": "tecnica/linea1/p045.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p046",
+      "file": "TV 370.pdf",
+      "code": "TV 370",
+      "description": "LÍNEA 1 TERMINAL CHAPULTEPEC, PLAN DE POSE SCHÉMATIQUE",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "591a04a9121e9f7eca73626bb3ae32e32bb4a78672a99151131e8d0a5cda3fac",
+      "indexNumber": 14,
+      "preview": "tecnica/linea1/p046.jpg",
+      "pdf": "tecnica/linea1/p046.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p047",
+      "file": "TV 371.pdf",
+      "code": "TV 371",
+      "description": "LÍNEA 1 INTERSTACIÓN BALDERAS- SALTO DEL AGUA, PLAN DE POSE SCHÉMATIQUE DE LA VOIEZ",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "d161e1199b652ff8e59ec844e6aeb259df4c4e01368b75249b3e10abb81c1552",
+      "indexNumber": 15,
+      "preview": "tecnica/linea1/p047.jpg",
+      "pdf": "tecnica/linea1/p047.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p048",
+      "file": "TV 372.pdf",
+      "code": "TV 372",
+      "description": "LIGNE No.1 TERMINUS DE ZARAGOZA PLAN DE POSE SCHÉMATIQUE DES VOIES",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "f4e89aed2a62995f7d03d111777182ea936f4b12084cc4e9e23aad5bcdf70de9",
+      "indexNumber": 16,
+      "preview": "tecnica/linea1/p048.jpg",
+      "pdf": "tecnica/linea1/p048.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p049",
+      "file": "TV 375.pdf",
+      "code": "TV 375",
+      "description": "LIGNE No.1 PLAN SCHÉMATIQUE DES VOIES EN TUNNEL",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "eea9231d8c7fe7972156f08966c774f8320a4fb285331e0a088ea08fdced117a",
+      "indexNumber": 17,
+      "preview": "tecnica/linea1/p049.jpg",
+      "pdf": "tecnica/linea1/p049.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p050",
+      "file": "TV 388.pdf",
+      "code": "TV 388",
+      "description": "LIGNE 1. INTERSTATION BALDERAS- SALTO DEL AGUA,  COMMUNICATION No. 25_ZA2,  TG 0,13 A DROITE ENTREVOIE DE 3,15M VERROU AXIAL, CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN. COMMUNICATION No. 14_ZA1  TG013 A GAUCHE ENTREVOIE DE 3.15M VERROU AXIAL APPAREIL No.ZA1. VERROUS INDIVILUELS APPRIEL No.14 CONFORME AU PLAN D'ENSAMBLE No. TV146 SOUFLS INDICATIONS DO PRÉSENT DESSIN.  BRANCHEMENT No. 24  TG0 ,13  A DROITE VERROUS INDIVIDUELS, CONFORME AU PLAN D'ENSAMBLE No. TV160 SOUFLS INDICATIONS DO PRÉSENT DESSIN. PLAN DE POSE  ECHELLE 0,02",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "99fb3d84105245c96e8a9e48b1fca5f8998245b7bdc8ba0517f77b9507956582",
+      "indexNumber": 18,
+      "preview": "tecnica/linea1/p050.jpg",
+      "pdf": "tecnica/linea1/p050.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p051",
+      "file": "TV 389.pdf",
+      "code": "TV 389",
+      "description": "LIGNE No.1 INTERSTATION BALDERAS- SALTO DEL AGUA  COMMUNICATION No. Zb2_16  TG0 ,13  A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUS CONFORME AU PLAN D'ENSAMBLE No. 140 SOUFLS INDICATIONS DO PRÉSENT DESSIN.  COMMUNICATION No. ZB1_26 TG0.13 A GAUCHE, ENTREVOIE DE 3.15M APPAREIL No.ZB1 VERROU AXIAL_APPARIEL No. 26 VERROUS INDIVIDUALS CONFORME AU PLAN D'ENSAMBLE No. 146 SOUFLS INDICATIONS DO PRÉSENT DESSIN.PLAN DE POSE ECHELLE 0,02",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "87b54d269664775668a6b495c8faa0cef4ac1db2a8137682a482028a7676605d",
+      "indexNumber": 19,
+      "preview": "tecnica/linea1/p051.jpg",
+      "pdf": "tecnica/linea1/p051.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p052",
+      "file": "TV 390.pdf",
+      "code": "TV 390",
+      "description": "LIGNE No. 1 TERMINUS ZARAGOZA,  COMMUNICATION No.1 25 C -25 A  TG 0.13 A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUX CONFORME AU PLAN D'ENSAMBLE No. 140 SOUF LE INDICATIONS DO PRÉSENT DESSIN.,  COMMUNICATION No. 15-25 B  TG 0.13   A GAUCHE ENTREVOIE DE 3.15M APPAREIL NO. 15 VERROU AXIAL_ APPAREIL No. 25B VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. 146 SOUF LE INDICATIONS DO PRÉSENT DESSIN PLAN DE POSE ECHELLE 0,02",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "7ed7a0d794f8c8b51ccf49f017891d2912b96949f2a973980c817cfef6d07cf6",
+      "indexNumber": 20,
+      "preview": "tecnica/linea1/p052.jpg",
+      "pdf": "tecnica/linea1/p052.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p053",
+      "file": "TV 403.pdf",
+      "code": "TV 403",
+      "description": "LIGNE No. 1 PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTATION ZARAGOZA - GOMEZ FARIAS VOIES 1 DU PK 1+185 720 AU PK 2+087 248 ..  VOIE 2 DU PK 1+186 470 AU PK 2+089+348",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Zaragoza",
+        "Gómez Farías"
+      ],
+      "pages": 1,
+      "sha256_original": "641ed8844c43fa47b4970cddc9bee9221cf05aa8acabdca6b06f46745caff0fb",
+      "indexNumber": 21,
+      "preview": "tecnica/linea1/p053.jpg",
+      "pdf": "tecnica/linea1/p053.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p054",
+      "file": "TV 404.pdf",
+      "code": "TV 404",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN GOMEZ FARIAS-AEROPUERTO, VÍA 1 DEL PK 2+087, 248AL PK 2+843,248, VÍA 2 DEL PK 2+089,348 AL PK 2+845,348",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Gómez Farías",
+        "Boulevard Puerto Aéreo"
+      ],
+      "pages": 1,
+      "sha256_original": "1cb5a5e2401bd1b7cbe8fa7505e7e13e402aa3f21108e3be54de5edec3423f85",
+      "indexNumber": 22,
+      "preview": "tecnica/linea1/p054.jpg",
+      "pdf": "tecnica/linea1/p054.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p055",
+      "file": "TV 405.pdf",
+      "code": "TV 405",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALBUENA-AEROPUERTO, VÍA 1 DEL PK 2+843.253 AL PK 3+508.000, VIA 2 DEL PK 2+845.353 AL PK 3+596.500",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Boulevard Puerto Aéreo",
+        "Balbuena"
+      ],
+      "pages": 1,
+      "sha256_original": "3937b625b39dbe6cae9d00491bba1c1c7290b6ff2df48539e2df10e85a69811c",
+      "indexNumber": 23,
+      "preview": "tecnica/linea1/p055.jpg",
+      "pdf": "tecnica/linea1/p055.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p056",
+      "file": "TV 407.pdf",
+      "code": "TV 407",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN MOCTEZUMA-SAN LAZARO, VIA 1 DEL PK 4+462,000 AL PK 5+079,630, VIA 2 DEL PK 4+460,500 AL PK 5+080,680",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Moctezuma",
+        "San Lázaro"
+      ],
+      "pages": 1,
+      "sha256_original": "879a3f9af5f2ed7f637a37d490acfb80d6614b02f0f49b95e929345c3c2eb47f",
+      "indexNumber": 24,
+      "preview": "tecnica/linea1/p056.jpg",
+      "pdf": "tecnica/linea1/p056.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p057",
+      "file": "TV 409.pdf",
+      "code": "TV 409",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-CANDELARIA, VIA 1 DEL PK 5+593,223 AL PK 6+602,652, VIA 2 DEL PK 5+592,473 AL 6+601,872",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Candelaria",
+        "Merced"
+      ],
+      "pages": 1,
+      "sha256_original": "0f13eccd5fe114d9db655ef3cf05a8a0d1d3174caf0117092f10f3b6189be980",
+      "indexNumber": 25,
+      "preview": "tecnica/linea1/p057.jpg",
+      "pdf": "tecnica/linea1/p057.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p058",
+      "file": "TV 410.pdf",
+      "code": "TV 410",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-PINO SUAREZ, VIA 1 DEL PK 5+593,223 AL PK 4+715,143, VIA 2 DEL PK 5+592,473 AL PK 4+717,055",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "87503468e851d5fbdbbf150ea60d4462f129f6ecc2fed9b2dca436155e8fac2b",
+      "indexNumber": 26,
+      "preview": "tecnica/linea1/p058.jpg",
+      "pdf": "tecnica/linea1/p058.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p059",
+      "file": "TV 411.pdf",
+      "code": "TV 411",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN ISABEL LA CATÓLICA-PINO SUAREZ, VIA 1 DEL PK 4+175 925 AL PK 4+715 143, VIA 2 DEL PK 4+177 625 AL PK 4+717 055",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Pino Suárez",
+        "Isabel la Católica"
+      ],
+      "pages": 1,
+      "sha256_original": "26b86f29ebf48a3ae133a896e720ed32847462f5547a654af0052016b588bd17",
+      "indexNumber": 27,
+      "preview": "tecnica/linea1/p059.jpg",
+      "pdf": "tecnica/linea1/p059.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p060",
+      "file": "TV 412.pdf",
+      "code": "TV 412",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SALTO DEL AGUA-ISABEL LA CATÓLICA, VIA 1 DEL PK 3+599,485 AL PK 4+175,925, VIA 2 DEL PK 3+591,321 AL PK 4+171,625",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "c74bc4ca6c722ce9427a057515accf3b6b08bd38772bddbf1628b0276dee3763",
+      "indexNumber": 28,
+      "preview": "tecnica/linea1/p060.jpg",
+      "pdf": "tecnica/linea1/p060.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p061",
+      "file": "TV 413.pdf",
+      "code": "TV 413",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALDERAS-SALTO DEL AGUA, VIA 1 DEL PK 2+982,222 AL PK 3+599,475, VIA 2 DELPK 2+989,892 AL PK 3+591,325",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "2fa0b3c0340d9005854e9b9fddb29ba8076d7355f999a9db0edab460b98e0d18",
+      "indexNumber": 29,
+      "preview": "tecnica/linea1/p061.jpg",
+      "pdf": "tecnica/linea1/p061.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p062",
+      "file": "TV 414.pdf",
+      "code": "TV 414",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CUAUHTEMOC-BALDERAS, VIA 1 DEL PK 2+411,165 AL PK 2+982,222, VIA 2 DEL PK 2+411,165 AL PK 2+989,392",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Balderas",
+        "Cuauhtémoc"
+      ],
+      "pages": 1,
+      "sha256_original": "2141614fd3359a73a9bb38a64d9447f1a88f20fcf212e494c96424e57a3d3bc2",
+      "indexNumber": 30,
+      "preview": "tecnica/linea1/p062.jpg",
+      "pdf": "tecnica/linea1/p062.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p063",
+      "file": "TV 415.pdf",
+      "code": "TV 415",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN INSURGENTES-CUAUHTEMOC, VIA 1 DEL PK 1+473,895 AL PK 2+411,165, VIAS 2 DEL PK 1+475,595 AL PK 2+411,165",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Cuauhtémoc",
+        "Insurgentes"
+      ],
+      "pages": 1,
+      "sha256_original": "ad6154c42ae8cdae326ed3ec46b9ceff16c08c90d9e82b2a3c9181018b5e5121",
+      "indexNumber": 31,
+      "preview": "tecnica/linea1/p063.jpg",
+      "pdf": "tecnica/linea1/p063.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p064",
+      "file": "TV 416.pdf",
+      "code": "TV 416",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SEVILLA-INSURGENTES, VIA 1 DEL PK 0+681,895 AL PK 1+473,895, VIA 2 DEL PK 0+633,595 AL PK 1+475,595",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "f0975bd2ae6737e2eec82651315e2abc87c54982408200ab7ed7097bfed78d99",
+      "indexNumber": 32,
+      "preview": "tecnica/linea1/p064.jpg",
+      "pdf": "tecnica/linea1/p064.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p065",
+      "file": "TV 417.pdf",
+      "code": "TV 417",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CHAPULTEPEC-SEVILLA, VIA 1 DEL PK 11+368,765 AL PK 12+088,765, VIA 2 DEL PK 11+367,065 AL PK 12+087,065",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Sevilla",
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "63f6f5b58a429631307ddd29e3e8945f2eb2c1c025095f907e0b6b214a3edb09",
+      "indexNumber": 33,
+      "preview": "tecnica/linea1/p065.jpg",
+      "pdf": "tecnica/linea1/p065.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p066",
+      "file": "TV 419.pdf",
+      "code": "TV 419",
+      "description": "LINEA 1 NUMERACIÓN, DES COURBES ET DÉVERS( DE CURVAS Y PERALTES)",
+      "category": "Curvas y peraltes",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "fd6e2d704dfffe2f4f1f903df7a61d2ebda801baef0980f4b4fd47562a2ee0ed",
+      "indexNumber": 34,
+      "preview": "tecnica/linea1/p066.jpg",
+      "pdf": "tecnica/linea1/p066.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p067",
+      "file": "TV 420.pdf",
+      "code": "TV 420",
+      "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 1 Y 2)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Gómez Farías",
+        "Boulevard Puerto Aéreo"
+      ],
+      "pages": 1,
+      "sha256_original": "bb24fef15f1b3286baf686a5513ab0dae1d6829109bef8c113aa0bda5f7fd19d",
+      "indexNumber": 35,
+      "preview": "tecnica/linea1/p067.jpg",
+      "pdf": "tecnica/linea1/p067.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Dibujo y cotas principales revisados visualmente",
+      "verifiedReadings": [
+        {
+          "parameter": "Radio indicado",
+          "value": "400 m"
+        },
+        {
+          "parameter": "Peralte indicado",
+          "value": "120 mm"
+        },
+        {
+          "parameter": "Transición a cada lado",
+          "value": "30 m"
+        },
+        {
+          "parameter": "Plena curva de vía 2",
+          "value": "18.064 m"
+        },
+        {
+          "parameter": "Fecha del dibujo",
+          "value": "16 de julio de 1968"
+        }
+      ],
+      "readingScope": "TV 420: curvas 1 y 2, Gómez Farías–Aeropuerto. Valores leídos visualmente del dibujo histórico; no se aplican como parámetros vigentes del recorrido."
+    },
+    {
+      "id": "p068",
+      "file": "TV 421.pdf",
+      "code": "TV 421",
+      "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 3 Y 4)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Gómez Farías",
+        "Boulevard Puerto Aéreo"
+      ],
+      "pages": 1,
+      "sha256_original": "6e545ddd0b7c569b66d34863a6fbe1187f709fcae2ce814ef03163e215f00b8e",
+      "indexNumber": 36,
+      "preview": "tecnica/linea1/p068.jpg",
+      "pdf": "tecnica/linea1/p068.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p069",
+      "file": "TV 422.pdf",
+      "code": "TV 422",
+      "description": "LÍNEA 1 INTERESTACIÓN AEROPUERTO - BALBUENA (CURVAS 5 Y 6)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Boulevard Puerto Aéreo",
+        "Balbuena"
+      ],
+      "pages": 1,
+      "sha256_original": "d369c426c86790507c91232c2db9da02641da8326ab7b0de096a3890d280386a",
+      "indexNumber": 37,
+      "preview": "tecnica/linea1/p069.jpg",
+      "pdf": "tecnica/linea1/p069.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p070",
+      "file": "TV 423.pdf",
+      "code": "TV 423",
+      "description": "LÍNEA 1 INTERESTACIÓN MOCTEZUMA - SAN LAZARO ( CURVAS 7 Y 8)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Moctezuma",
+        "San Lázaro"
+      ],
+      "pages": 1,
+      "sha256_original": "e8df28a4766dc3f7d9e7d3ebe1e1f252f95456887b73810a5f6c45baeb6450ea",
+      "indexNumber": 38,
+      "preview": "tecnica/linea1/p070.jpg",
+      "pdf": "tecnica/linea1/p070.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p071",
+      "file": "TV 424.pdf",
+      "code": "TV 424",
+      "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CALENDARIA (CURVAS 9 Y 10)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "San Lázaro",
+        "Candelaria"
+      ],
+      "pages": 1,
+      "sha256_original": "2de26b19123f3d22cff34eb017fc28ca5be3285baa90d75abe2807e316f094ae",
+      "indexNumber": 39,
+      "preview": "tecnica/linea1/p071.jpg",
+      "pdf": "tecnica/linea1/p071.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p072",
+      "file": "TV 425.pdf",
+      "code": "TV 425",
+      "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CANDELARIA (CURVA 11 Y 12)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "San Lázaro",
+        "Candelaria"
+      ],
+      "pages": 1,
+      "sha256_original": "6049cc22ced13fad04163715b2aec514eac5ee133cae378687dd1439e6b1bd1f",
+      "indexNumber": 40,
+      "preview": "tecnica/linea1/p072.jpg",
+      "pdf": "tecnica/linea1/p072.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p073",
+      "file": "TV 426.pdf",
+      "code": "TV 426",
+      "description": "LÍNEA 1 INTERESTACIÓN CALENDARIA - LA MERCED (CURVAS 13 Y 14)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Candelaria",
+        "Merced"
+      ],
+      "pages": 1,
+      "sha256_original": "ec27f782efb03a5d480ee3397ec53e8191c8abe757fd892b30b90618abe2bf68",
+      "indexNumber": 41,
+      "preview": "tecnica/linea1/p073.jpg",
+      "pdf": "tecnica/linea1/p073.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p074",
+      "file": "TV 427.pdf",
+      "code": "TV 427",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 15 Y 16)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "406f155875f1435fe5510d530ad32fde0406ef7051fff17a23ae6377972c08e1",
+      "indexNumber": 42,
+      "preview": "tecnica/linea1/p074.jpg",
+      "pdf": "tecnica/linea1/p074.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p075",
+      "file": "TV 428.pdf",
+      "code": "TV 428",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 17 Y 18)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "c14fd6e96d69db7f94244c50a26fd19f742d3b98b5b9b372c085e8b3c3f50aed",
+      "indexNumber": 43,
+      "preview": "tecnica/linea1/p075.jpg",
+      "pdf": "tecnica/linea1/p075.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p076",
+      "file": "TV 429.pdf",
+      "code": "TV 429",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 19 Y 20)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "515082e40793d33a86fa0bee332067731692bc58c03204c2c0f9c34e1163af36",
+      "indexNumber": 44,
+      "preview": "tecnica/linea1/p076.jpg",
+      "pdf": "tecnica/linea1/p076.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p077",
+      "file": "TV 430.pdf",
+      "code": "TV 430",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 21 Y 22)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "9f7fe3120e8066a2a1fdb0f38c81a03339d140512b297d302ce2a23d2db801c7",
+      "indexNumber": 45,
+      "preview": "tecnica/linea1/p077.jpg",
+      "pdf": "tecnica/linea1/p077.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p078",
+      "file": "TV 431.pdf",
+      "code": "TV 431",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 23 Y 24)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Merced",
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "5a4aa73c0abe52ee91fef6ede50d43dcba0e6950b870011a3ba215955fc3bbf9",
+      "indexNumber": 46,
+      "preview": "tecnica/linea1/p078.jpg",
+      "pdf": "tecnica/linea1/p078.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p079",
+      "file": "TV 432.pdf",
+      "code": "TV 432",
+      "description": "LÍNEA 1 INTERESTACIÓN PINO SUÁREZ - ISABEL LA CATÓLICA ( CURVAS 25 Y 26)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Pino Suárez",
+        "Isabel la Católica"
+      ],
+      "pages": 1,
+      "sha256_original": "5adf77306d57bd08c16474fbf04280c0499d69a28aeec2b590b7190824ae8f73",
+      "indexNumber": 47,
+      "preview": "tecnica/linea1/p079.jpg",
+      "pdf": "tecnica/linea1/p079.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p080",
+      "file": "TV 433.pdf",
+      "code": "TV 433",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVAS 27 Y 28)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "e6d2a566f86680849bf07675d7cd3bbcd47d9d0fe6587aadd14a581335378990",
+      "indexNumber": 48,
+      "preview": "tecnica/linea1/p080.jpg",
+      "pdf": "tecnica/linea1/p080.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p081",
+      "file": "TV 434.pdf",
+      "code": "TV 434",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 29)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "db73516228f5ac62c7bb42737304a0c070d03781681cd35af12bf1384200dd82",
+      "indexNumber": 49,
+      "preview": "tecnica/linea1/p081.jpg",
+      "pdf": "tecnica/linea1/p081.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p082",
+      "file": "TV 435.pdf",
+      "code": "TV 435",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 30)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "c74611ebb8372554fb414fde09927617d986f319ad00af5f219c4de1ae89ae8d",
+      "indexNumber": 50,
+      "preview": "tecnica/linea1/p082.jpg",
+      "pdf": "tecnica/linea1/p082.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p083",
+      "file": "TV 436.pdf",
+      "code": "TV 436",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 31)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "795791730de2acff9f980394e3acb3dd7033d6b6d874ce148813ea07e485af64",
+      "indexNumber": 51,
+      "preview": "tecnica/linea1/p083.jpg",
+      "pdf": "tecnica/linea1/p083.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p084",
+      "file": "TV 437.pdf",
+      "code": "TV 437",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 32)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "66045e3b9fdfd02e2f77ac3894908dbb11f895468ce5a17fd14899235a861282",
+      "indexNumber": 52,
+      "preview": "tecnica/linea1/p084.jpg",
+      "pdf": "tecnica/linea1/p084.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p085",
+      "file": "TV 438.pdf",
+      "code": "TV 438",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 33)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "c6cbf58e44e07f32aa24d2cfcf5069847daf3a9b3265d5155c68db6260c540e9",
+      "indexNumber": 53,
+      "preview": "tecnica/linea1/p085.jpg",
+      "pdf": "tecnica/linea1/p085.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p086",
+      "file": "TV 439.pdf",
+      "code": "TV 439",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 34)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Isabel la Católica",
+        "Salto del Agua"
+      ],
+      "pages": 1,
+      "sha256_original": "d9f83ac080e01d73f6ab7bee41f5779b567f72fe9c801bbe649b4247a621add1",
+      "indexNumber": 54,
+      "preview": "tecnica/linea1/p086.jpg",
+      "pdf": "tecnica/linea1/p086.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p087",
+      "file": "TV 440.pdf",
+      "code": "TV 440",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVAS 35 Y .36)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "1bc97521b70af2418a40cfb68973b1b40c29df7242f019f1b0cfcfebfef3ac4f",
+      "indexNumber": 55,
+      "preview": "tecnica/linea1/p087.jpg",
+      "pdf": "tecnica/linea1/p087.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p088",
+      "file": "TV 441.pdf",
+      "code": "TV 441",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVA 37)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "9c8772e34c8529fae072e5c4e09e66cb34d3bc19c24680d6da813131598464f4",
+      "indexNumber": 56,
+      "preview": "tecnica/linea1/p088.jpg",
+      "pdf": "tecnica/linea1/p088.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p089",
+      "file": "TV 442.pdf",
+      "code": "TV 442",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS (CURVA 38)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "4e8ce6cf5e2a7b474d16c268a5c67c3a87796b7606943b6fe4910e97750e6e28",
+      "indexNumber": 57,
+      "preview": "tecnica/linea1/p089.jpg",
+      "pdf": "tecnica/linea1/p089.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p090",
+      "file": "TV 443.pdf",
+      "code": "TV 443",
+      "description": "LÍNEA 1 INTERESTACIÓN BALDERAS - CUAUHTEMOC (CURVAS 39 Y 40)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Balderas",
+        "Cuauhtémoc"
+      ],
+      "pages": 1,
+      "sha256_original": "635169df8f5efba30e73d13949820bf2ccf6186de3c4ec8cac8641496dc53db6",
+      "indexNumber": 58,
+      "preview": "tecnica/linea1/p090.jpg",
+      "pdf": "tecnica/linea1/p090.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p091",
+      "file": "TV 444.pdf",
+      "code": "TV 444",
+      "description": "LÍNEA 1 INTERESTACIÓN  CUAUHTEMOC - INSURGENTES (CURVAS 41 Y 42)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Insurgentes"
+      ],
+      "pages": 1,
+      "sha256_original": "871ec0f0b432dbf8582c54ccd3e9e2e7fc59eb90dfca0f703369f3a1d622c423",
+      "indexNumber": 59,
+      "preview": "tecnica/linea1/p091.jpg",
+      "pdf": "tecnica/linea1/p091.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p092",
+      "file": "TV 445.pdf",
+      "code": "TV 445",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - INSURGENTES ( CURVAS 43 Y 44)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Insurgentes"
+      ],
+      "pages": 1,
+      "sha256_original": "7e52f4d6dac93f3ec6215dd2777bf5e3a811190df297558f2a61358d8ef84c0d",
+      "indexNumber": 60,
+      "preview": "tecnica/linea1/p092.jpg",
+      "pdf": "tecnica/linea1/p092.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p093",
+      "file": "TV 446.pdf",
+      "code": "TV 446",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 45 Y 46)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "5b5173583688729c46f1a3a63a486c2830ed5eb564e96c87991a61ca12e3ef67",
+      "indexNumber": 61,
+      "preview": "tecnica/linea1/p093.jpg",
+      "pdf": "tecnica/linea1/p093.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p094",
+      "file": "TV 447.pdf",
+      "code": "TV 447",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 47 Y 48)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "0dee6961e6a3480848a10b5ad876f5c72e990b578eec4eab1d454389c279e33b",
+      "indexNumber": 62,
+      "preview": "tecnica/linea1/p094.jpg",
+      "pdf": "tecnica/linea1/p094.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p095",
+      "file": "TV 448.pdf",
+      "code": "TV 448",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA (CURVAS 49 Y 50)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Insurgentes",
+        "Sevilla"
+      ],
+      "pages": 1,
+      "sha256_original": "e177f803edb6ce5880fd4d20d40d644f8fd980c1ba94482c1864f3ce5043845e",
+      "indexNumber": 63,
+      "preview": "tecnica/linea1/p095.jpg",
+      "pdf": "tecnica/linea1/p095.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p096",
+      "file": "TV 449.pdf",
+      "code": "TV 449",
+      "description": "LÍNEA 1 INTERESTACIÓN SEVILLA - CHAPULTEPEC ( CURVAS 51 Y 52)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Sevilla",
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "b7fc8ff496d7e491c8d06de94f3ac339eac1ca5566eb4b1680a96887489a4782",
+      "indexNumber": 64,
+      "preview": "tecnica/linea1/p096.jpg",
+      "pdf": "tecnica/linea1/p096.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p097",
+      "file": "TV 450.pdf",
+      "code": "TV 450",
+      "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 1)",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "4788fc7af8d8c860b7ae64e3e57e3e999dd8bdd9d6d95b179da184a625f797c2",
+      "indexNumber": 65,
+      "preview": "tecnica/linea1/p097.jpg",
+      "pdf": "tecnica/linea1/p097.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p098",
+      "file": "TV 451.pdf",
+      "code": "TV 451",
+      "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 2)",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "effd2f9c3eb9f9266c3a3c420ce0a4f726eedd4c01b5a3654402979253c991fd",
+      "indexNumber": 66,
+      "preview": "tecnica/linea1/p098.jpg",
+      "pdf": "tecnica/linea1/p098.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p099",
+      "file": "TV 47410062020.pdf",
+      "code": "TV 47410062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 53 Y 54)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Chapultepec",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "5fe4531f3a0a7544ac59f01cb7d7e150712815451905c44e847ada3af930b582",
+      "indexNumber": 92,
+      "preview": "tecnica/linea1/p099.jpg",
+      "pdf": "tecnica/linea1/p099.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p100",
+      "file": "TV 47510062020.pdf",
+      "code": "TV 47510062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 55 Y 56)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Chapultepec",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "3b1b3ae1d3cc20710cceba3565d0e6d620bac106a7776658f0e05c5e5d322a66",
+      "indexNumber": 93,
+      "preview": "tecnica/linea1/p100.jpg",
+      "pdf": "tecnica/linea1/p100.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p101",
+      "file": "TV 476.pdf",
+      "code": "TV 476",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - JUANACATLÁN (CURVAS 57 Y 58)",
+      "category": "Curvas y peraltes",
+      "stations": [
+        "Cuauhtémoc",
+        "Juanacatlán"
+      ],
+      "pages": 1,
+      "sha256_original": "5baa00eb36da588f7662fe69babe70348b22085fd1f2195830a1d6ba3900bc4b",
+      "indexNumber": 67,
+      "preview": "tecnica/linea1/p101.jpg",
+      "pdf": "tecnica/linea1/p101.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p102",
+      "file": "TV 559.pdf",
+      "code": "TV 559",
+      "description": "CONEXIÓN ENTRE LAS LÍNEAS Nº 1 Y 2 EN PINO SUÁREZ, PLAN DE DISEÑO DE LA RUTA",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "b2d030eababdd3af98af309df0bdee27a09e8f5ddde5d75e6cd9764333e3c277",
+      "indexNumber": 68,
+      "preview": "tecnica/linea1/p102.jpg",
+      "pdf": "tecnica/linea1/p102.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p103",
+      "file": "TV 621.pdf",
+      "code": "TV 621",
+      "description": "LÍNEA 1 MATERIAL DE PISTA PARA INTERVENCIONES URGENTES UBICACIÓN DE PRIMEROS AUXILIOS Y DEPÓSITOS SECUNDARIOS",
+      "category": "Talleres",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "50dabebfba4de0ef3106f00da75352ab9b5a3c7a1bec637ff7c2057585eefbce",
+      "indexNumber": 69,
+      "preview": "tecnica/linea1/p103.jpg",
+      "pdf": "tecnica/linea1/p103.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p104",
+      "file": "TV 630.pdf",
+      "code": "TV 630",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO PEINE DE LOS APARATOS DE VÍA, ENSAMBLE ESCALA 2005",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "1c2ce27b496c64bac38e00d1308facdd943eaa69f00f0b7842d9432aec720521",
+      "indexNumber": 70,
+      "preview": "tecnica/linea1/p104.jpg",
+      "pdf": "tecnica/linea1/p104.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p105",
+      "file": "TV 631.pdf",
+      "code": "TV 631",
+      "description": "LINEA 1 TERMINUS OBSERVATORIO  COMMUNICATION No. 13A-23B   TG 0.13 A DROITE ESTRVOIE 3.15. VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN,  BRANCHEMENT No. 23A    Tg  0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV167SOUFLS INDICATIONS DO PRÉSENT DESSIN , BRANCHEMENT  No. 23C   Tg  0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV160SOUFLS INDICATIONS DO PRÉSENT DESSIN, PLAN DE POSE   ECHELLE 0,01",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "bb07335946d2db41ff587c6216b2a2cf90dfcbf9370b9746dbd7e239cea30ee8",
+      "indexNumber": 71,
+      "preview": "tecnica/linea1/p105.jpg",
+      "pdf": "tecnica/linea1/p105.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p106",
+      "file": "TV 632.pdf",
+      "code": "TV 632",
+      "description": "LÍNEA 1 T ERMINAL OBSERVATORIO RAMIFICACIÓN NO. 63A   TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO,  RAMIFICACIÓN NO. 63B  TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO,  PLANO DE COLOCACIÓN  ESCALA 0.01",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "a9275e5b909a4fa7d2fabce63bc18980be8544a9e6c363d55575e0fdaa09b47b",
+      "indexNumber": 72,
+      "preview": "tecnica/linea1/p106.jpg",
+      "pdf": "tecnica/linea1/p106.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p107",
+      "file": "TV 633.pdf",
+      "code": "TV 633",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO  BRANCHEMENT NO. 13B  TG 013 A DROITE - VERROU AXIAL,  BRANCHEMENT NO. 13C  TG 013 A GOUCHE - VERROU AXIAL,  PLAN DE POSE",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "7a61e52e7c54f9ad060356f6f13a2baf2f46b58eba37aef49e5dc26a6a9d0777",
+      "indexNumber": 73,
+      "preview": "tecnica/linea1/p107.jpg",
+      "pdf": "tecnica/linea1/p107.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p108",
+      "file": "TV 708.pdf",
+      "code": "TV 708",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JUAN ACATLAN- TACUBAYA  DEL PK 13-209 979 AL PK 13+840 600",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Juanacatlán",
+        "Tacubaya"
+      ],
+      "pages": 1,
+      "sha256_original": "51aadd97548f17d137685fb805b2c9c2f1d46fef07031daf9831a0c93b42c7f5",
+      "indexNumber": 74,
+      "preview": "tecnica/linea1/p108.jpg",
+      "pdf": "tecnica/linea1/p108.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p109",
+      "file": "TV 746.pdf",
+      "code": "TV 746",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JUAN ACATLAN- TACUBAYA  DEL PK 13-209 979 AL PK 14+405 342",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Juanacatlán",
+        "Tacubaya"
+      ],
+      "pages": 1,
+      "sha256_original": "b06d40eacdd6be5576f99cdfe1049bd33690149f11418df090cc4f3435661b32",
+      "indexNumber": 75,
+      "preview": "tecnica/linea1/p109.jpg",
+      "pdf": "tecnica/linea1/p109.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p110",
+      "file": "TV 747.pdf",
+      "code": "TV 747",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JTACUBAYA- OBSERVATORIO  DEL PK 14+405 342 AL PK 15+993 312",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Tacubaya",
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "755be5d590b0b00bc0c280462f5259d9ca6968dab411db416636d19dff5abc07",
+      "indexNumber": 76,
+      "preview": "tecnica/linea1/p110.jpg",
+      "pdf": "tecnica/linea1/p110.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p111",
+      "file": "TV 748.pdf",
+      "code": "TV 748",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO PLAN DE POSE SCHÉMATIQUE DE VOIES",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "bf6a7b73ba32c3ee581bfc5998d83057276448fc1be53f8ea6772b6944db646a",
+      "indexNumber": 77,
+      "preview": "tecnica/linea1/p111.jpg",
+      "pdf": "tecnica/linea1/p111.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Lectura visual prioritaria"
+    },
+    {
+      "id": "p112",
+      "file": "TV 813.pdf",
+      "code": "TV 813",
+      "description": "LÍNEA 1 TERMINAL ZARAGOZA, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT,  CONTRERAIL",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "06cdd48e6ba620b5f81f92849bbb2e672335ea01c37193ca50f1d35891fa9dbf",
+      "indexNumber": 78,
+      "preview": "tecnica/linea1/p112.jpg",
+      "pdf": "tecnica/linea1/p112.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p113",
+      "file": "TV 819.pdf",
+      "code": "TV 819",
+      "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1 PLAN DE POSE",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "34b5e3f8c1826905ebd7b4a56f02d1a2a51a1bbac0f9532a7234913bdd79b4be",
+      "indexNumber": 79,
+      "preview": "tecnica/linea1/p113.jpg",
+      "pdf": "tecnica/linea1/p113.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p114",
+      "file": "TV 820.pdf",
+      "code": "TV 820",
+      "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1  CONTRARAILS",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pino Suárez"
+      ],
+      "pages": 1,
+      "sha256_original": "b688ca3bc6db04947507ef6e9632d711b397d81dac1dcc978fc53e093f7ac55f",
+      "indexNumber": 80,
+      "preview": "tecnica/linea1/p114.jpg",
+      "pdf": "tecnica/linea1/p114.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p115",
+      "file": "TV 844.pdf",
+      "code": "TV 844",
+      "description": "ZONA TEST LÍNEA 1-2 ET 3, PLANS DE SITUATION",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "a65717830596c4b7d07337e39a3ce65bdf6d965bda45e0debbd6c0dc07ff2c72",
+      "indexNumber": 81,
+      "preview": "tecnica/linea1/p115.jpg",
+      "pdf": "tecnica/linea1/p115.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p116",
+      "file": "TV 856.pdf",
+      "code": "TV 856",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"C\", PARA PASO DE PEATONES",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "9f25fd909771dc0d4c859d188ea28bf58001c32affcb2a8f7dc375a14553b9ba",
+      "indexNumber": 82,
+      "preview": "tecnica/linea1/p116.jpg",
+      "pdf": "tecnica/linea1/p116.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p117",
+      "file": "TV 857.pdf",
+      "code": "TV 857",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"D\", PARA PASO DE PEATONES (ECHELLE 0,2)",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "752e0ca8ca65b676771ca77c6d796885c70c39006d6d6b7707046afb101cbf53",
+      "indexNumber": 83,
+      "preview": "tecnica/linea1/p117.jpg",
+      "pdf": "tecnica/linea1/p117.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p118",
+      "file": "TV 860.pdf",
+      "code": "TV 860",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"F\", PARA PASO DE PEATONES (ECHELLE 0,2)",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "9b84cf75ac33b736197f1282d4bf343a0a78442d307e5c6861be799d2f8ca4a6",
+      "indexNumber": 84,
+      "preview": "tecnica/linea1/p118.jpg",
+      "pdf": "tecnica/linea1/p118.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p119",
+      "file": "TV 861.pdf",
+      "code": "TV 861",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO CORTES DE BARRA CORRESPONDIENTE PARA LA CRUCETA \"A\" DE LA COMUNICACIÓN NO. 11-21 SUR VÍAS 1 Y 2",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "d58d7d73e1742edebd7dd5bff041f90c916445aff678bdce8c40b6d12560d386",
+      "indexNumber": 85,
+      "preview": "tecnica/linea1/p119.jpg",
+      "pdf": "tecnica/linea1/p119.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p120",
+      "file": "TV 862.pdf",
+      "code": "TV 862",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS",
+      "category": "Terminales y conexiones",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "c9572621118cf7dfd7015ced66b771519b322b6417b03f9ee46fc8160b74c274",
+      "indexNumber": 86,
+      "preview": "tecnica/linea1/p120.jpg",
+      "pdf": "tecnica/linea1/p120.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p121",
+      "file": "TV 863.pdf",
+      "code": "TV 863",
+      "description": "LÍNEA 1 ESTACIÓN OBSERVATORIO Y BORDES, DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS DE PK 15+600 A PK 15+954",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "0042f98d57e02472282968aa996be8c948896a5ad241416e08cc19dda86909cb",
+      "indexNumber": 87,
+      "preview": "tecnica/linea1/p121.jpg",
+      "pdf": "tecnica/linea1/p121.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p122",
+      "file": "TV 876.pdf",
+      "code": "TV 876",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA ATELIER DE REVISION GENERALE, PLAN DE POSE DES APPAREILS No. 016- 020",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "416cba5d2e269fdfa47b94a855d771d272a84b94ada40caebf7763642249b9c9",
+      "indexNumber": 88,
+      "preview": "tecnica/linea1/p122.jpg",
+      "pdf": "tecnica/linea1/p122.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p123",
+      "file": "TV 877.pdf",
+      "code": "TV 877",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA GARAGE DE L´EXPLOITATION , PLAN DE POSE DES APPAREILS No. 6011- 6013 - 6014",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "f3efc182edee1fbba7f4b2e2f742c06866d77f57d16f4cdfabf9c980f6f8ccdf",
+      "indexNumber": 89,
+      "preview": "tecnica/linea1/p123.jpg",
+      "pdf": "tecnica/linea1/p123.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p124",
+      "file": "TV 878.pdf",
+      "code": "TV 878",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA EQUIPEMENT DES VOIES G1-2-3-4-5 SUR BALLAST VOIES DES HALLS DU GARAGE DE LÉXPLOITATION",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "e986a596624ff51e9070b1437650b3c6accca26d9f3a8781f2cdb0608f489972",
+      "indexNumber": 90,
+      "preview": "tecnica/linea1/p124.jpg",
+      "pdf": "tecnica/linea1/p124.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p125",
+      "file": "TV 880.pdf",
+      "code": "TV 880",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA POSE DE LA VOIE R6 AUX ABORDS DE LA PLAQUE TOURNANTE",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "8eebd465c67d77662f3043eca899efb34c9865dd4536d1f2e86b865f9b29d417",
+      "indexNumber": 91,
+      "preview": "tecnica/linea1/p125.jpg",
+      "pdf": "tecnica/linea1/p125.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p126",
+      "file": "VI.17  talleres zaragoza colocacion AP-06 y dist de durmientes via de enlace con L-5 90-VI.17-22248-III-11-232-P0.pdf",
+      "code": "VI.17  talleres zaragoza colocacion AP-06 y dist de durmientes via de enlace con L-5 90-VI.17-22248-III-11-232-P0",
+      "description": "VI.17  talleres zaragoza colocacion AP-06 y dist de durmientes via de enlace con L-5 90-VI.17-22248-III-11-232-P0",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "85c6950cb3bb4c8ce4e004e38fd59d909035d75d995029ec2eb8960cc5a57d8c",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p126.jpg",
+      "pdf": "tecnica/linea1/p126.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p127",
+      "file": "VI.17 cola pantitlan colocacion de los aparatos 13-23A y 23B-43 81-VI.17-90152-III-2-6790-P0.pdf",
+      "code": "VI.17 cola pantitlan colocacion de los aparatos 13-23A y 23B-43 81-VI.17-90152-III-2-6790-P0",
+      "description": "VI.17 cola pantitlan colocacion de los aparatos 13-23A y 23B-43 81-VI.17-90152-III-2-6790-P0",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pantitlán"
+      ],
+      "pages": 1,
+      "sha256_original": "868c8d2fc974dd15cbc213a6dd7aaa991423e01e1d3ce2de6a923706986fc3f5",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p127.jpg",
+      "pdf": "tecnica/linea1/p127.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p128",
+      "file": "VI.17 cola-observatorio colocacion de aparatos 23-A 23-C 63-A 63-B 90-VI.17-22232-III-05-39-P0.pdf",
+      "code": "VI.17 cola-observatorio colocacion de aparatos 23-A 23-C 63-A 63-B 90-VI.17-22232-III-05-39-P0",
+      "description": "VI.17 cola-observatorio colocacion de aparatos 23-A 23-C 63-A 63-B 90-VI.17-22232-III-05-39-P0",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "9b25adbed7124dbdbe53d059205183498b570af9965e36c97bfc1930aba9147c",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p128.jpg",
+      "pdf": "tecnica/linea1/p128.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p129",
+      "file": "VI.17 distribucion de durmientes via acceso nave de deposito vias G6 a G10 89-VI.17-46012-III-11-P0.pdf",
+      "code": "VI.17 distribucion de durmientes via acceso nave de deposito vias G6 a G10 89-VI.17-46012-III-11-P0",
+      "description": "VI.17 distribucion de durmientes via acceso nave de deposito vias G6 a G10 89-VI.17-46012-III-11-P0",
+      "category": "Talleres",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "05a875058687466eefd7bd847aca412dcb17aa7cef3896e2e638fbb581ec2d72",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p129.jpg",
+      "pdf": "tecnica/linea1/p129.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p130",
+      "file": "VI.17 talleres Zaragoza plano de colocacion de los aparatos 6006 al 6010 89-VI.17-46012-III-02-P0.pdf",
+      "code": "VI.17 talleres Zaragoza plano de colocacion de los aparatos 6006 al 6010 89-VI.17-46012-III-02-P0",
+      "description": "VI.17 talleres Zaragoza plano de colocacion de los aparatos 6006 al 6010 89-VI.17-46012-III-02-P0",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "8da8ad372bf1d4993bcc81b9a08f735b3ad59d9fbd30fe1edbcf54cc71a2cfc8",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p130.jpg",
+      "pdf": "tecnica/linea1/p130.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p131",
+      "file": "VI.17 talleres zaragoza dist de durmientes acceso a nave de deoposito vias G11 a G15 89-VI.17-46012-III-12-P0.pdf",
+      "code": "VI.17 talleres zaragoza dist de durmientes acceso a nave de deoposito vias G11 a G15 89-VI.17-46012-III-12-P0",
+      "description": "VI.17 talleres zaragoza dist de durmientes acceso a nave de deoposito vias G11 a G15 89-VI.17-46012-III-12-P0",
+      "category": "Talleres",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "5d456b1c7cac6d2b9b0d138ade3c519e58379fdee5dba79a03cfc3ae37131033",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p131.jpg",
+      "pdf": "tecnica/linea1/p131.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p132",
+      "file": "VI.17 vias 8-9 plano de colocacion de los aptos. Yg-0.20 No.8301 y 9301 81-VI.17-553-III-10-3905-P0.pdf",
+      "code": "VI.17 vias 8-9 plano de colocacion de los aptos. Yg-0.20 No.8301 y 9301 81-VI.17-553-III-10-3905-P0",
+      "description": "VI.17 vias 8-9 plano de colocacion de los aptos. Yg-0.20 No.8301 y 9301 81-VI.17-553-III-10-3905-P0",
+      "category": "Implantación y perfiles",
+      "stations": [],
+      "pages": 1,
+      "sha256_original": "3f04a3b4a8e8d5e3a3a2a969fe29f969dbd5abcd737d60d52d9720ce2cf5753d",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p132.jpg",
+      "pdf": "tecnica/linea1/p132.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p133",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-29-balbuena-puerto-aero.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-29-balbuena-puerto-aero",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-29-balbuena-puerto-aero",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Balbuena"
+      ],
+      "pages": 1,
+      "sha256_original": "35b2bffc73b559977656f793115ecd99a154b2d59c07551bb4c7eb3d7754ca76",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p133.jpg",
+      "pdf": "tecnica/linea1/p133.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p134",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-290-aparato-11-21-chapultepec.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-290-aparato-11-21-chapultepec",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-290-aparato-11-21-chapultepec",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Chapultepec"
+      ],
+      "pages": 1,
+      "sha256_original": "06d42e362fc3f4a41691d6b2603d4f70ce524ef8cae225144cc2d499fae1cd98",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p134.jpg",
+      "pdf": "tecnica/linea1/p134.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p135",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-315-aparato-25-za2-balderas-salto-del-agua.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-315-aparato-25-za2-balderas-salto-del-agua",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-315-aparato-25-za2-balderas-salto-del-agua",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "d28e018c270375cba1d1efa20d41c7e307332b25edbbc86f5ff225f857ea57d2",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p135.jpg",
+      "pdf": "tecnica/linea1/p135.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p136",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-315-balderas-salto-del-agua.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-315-balderas-salto-del-agua",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-315-balderas-salto-del-agua",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "3cb73158f3b1909d522beaafc1dcbeeb98b87700e8fd266beab31055ac3b181b",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p136.jpg",
+      "pdf": "tecnica/linea1/p136.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p137",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan-l-1.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan-l-1",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan-l-1",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pantitlán",
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "dbd892040b442da2b8e01cccd1e3185ff638cb815c297d12416f762bb830e0e1",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p137.jpg",
+      "pdf": "tecnica/linea1/p137.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p138",
+      "file": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan.pdf",
+      "code": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan",
+      "description": "comunicacion-tg013-a-la-derecha-con-entrevia-315-zaragoza-pantitlan",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pantitlán",
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "4f96bf1ca8db20cb4a522a5dce7d85f8562d6cbe36ed72c8f77aaf64749c7620",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p138.jpg",
+      "pdf": "tecnica/linea1/p138.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p139",
+      "file": "comunicacion-tg013-a-la-izq-con-entrevia-15-aparato-za1-14-balderas-salto-del-agua.pdf",
+      "code": "comunicacion-tg013-a-la-izq-con-entrevia-15-aparato-za1-14-balderas-salto-del-agua",
+      "description": "comunicacion-tg013-a-la-izq-con-entrevia-15-aparato-za1-14-balderas-salto-del-agua",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "5f25baea6ae15e8a71cbf99d7f1df57bdba5f3116f7a4ef90c877f21f1d3dd45",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p139.jpg",
+      "pdf": "tecnica/linea1/p139.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p140",
+      "file": "comunicacion-tg013-a-la-izq-con-entrevia-315-aparato-zb1-26-balderas-salto-del-agua.pdf",
+      "code": "comunicacion-tg013-a-la-izq-con-entrevia-315-aparato-zb1-26-balderas-salto-del-agua",
+      "description": "comunicacion-tg013-a-la-izq-con-entrevia-315-aparato-zb1-26-balderas-salto-del-agua",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "f93a7ae2f0d6c2058edbcc2118946265ea24de4d888964e2a89e50db2d1f65bb",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p140.jpg",
+      "pdf": "tecnica/linea1/p140.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p141",
+      "file": "comunicacion-tg013-a-la-redecha-con-entrevia-29-balderas-cuauhtemoc.pdf",
+      "code": "comunicacion-tg013-a-la-redecha-con-entrevia-29-balderas-cuauhtemoc",
+      "description": "comunicacion-tg013-a-la-redecha-con-entrevia-29-balderas-cuauhtemoc",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Balderas",
+        "Cuauhtémoc"
+      ],
+      "pages": 1,
+      "sha256_original": "6178804f5b125a7c5ca9ec3559fb996cabca2ed3f300444b6d5f27b25bd1b6f4",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p141.jpg",
+      "pdf": "tecnica/linea1/p141.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p142",
+      "file": "desvia-tg013-a-la-derecha-aparato-13b-terminus-observatorio-l-1.pdf",
+      "code": "desvia-tg013-a-la-derecha-aparato-13b-terminus-observatorio-l-1",
+      "description": "desvia-tg013-a-la-derecha-aparato-13b-terminus-observatorio-l-1",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "b5bf0e467089b8534f5999864902296dcac1be23e372df5bea186b858b28b484",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p142.jpg",
+      "pdf": "tecnica/linea1/p142.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p143",
+      "file": "desvio-tg013-a-la-derecha-aparato-23a-zaragoza-pantitlan.pdf",
+      "code": "desvio-tg013-a-la-derecha-aparato-23a-zaragoza-pantitlan",
+      "description": "desvio-tg013-a-la-derecha-aparato-23a-zaragoza-pantitlan",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Pantitlán",
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "4ac1ce4fd9a5ea0752f98e4d392704b913da6d956b82030c25c5d5116d00c044",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p143.jpg",
+      "pdf": "tecnica/linea1/p143.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p144",
+      "file": "desvio-tg013-a-la-derecha-aparato-24-balderas-salto-del-agua.pdf",
+      "code": "desvio-tg013-a-la-derecha-aparato-24-balderas-salto-del-agua",
+      "description": "desvio-tg013-a-la-derecha-aparato-24-balderas-salto-del-agua",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Salto del Agua",
+        "Balderas"
+      ],
+      "pages": 1,
+      "sha256_original": "6a67c0e2d3f3a6e34c32f8a41537c37eb156fea9372b36cd6abc9bda4d97da0c",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p144.jpg",
+      "pdf": "tecnica/linea1/p144.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p145",
+      "file": "desvio-tg013-a-la-izquierda-aparato-23a-terminus-observatorio-l-1.pdf",
+      "code": "desvio-tg013-a-la-izquierda-aparato-23a-terminus-observatorio-l-1",
+      "description": "desvio-tg013-a-la-izquierda-aparato-23a-terminus-observatorio-l-1",
+      "category": "Aparatos de vía",
+      "stations": [
+        "Observatorio"
+      ],
+      "pages": 1,
+      "sha256_original": "f52769ae26969c0ed8699bbe9fce87abd1218db74e2a8f0a193243e3a4e05dbf",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p145.jpg",
+      "pdf": "tecnica/linea1/p145.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    },
+    {
+      "id": "p146",
+      "file": "vi13-cola-zaragoza-pequena-revision-vias-t8-a-t15-via-de-pruebas-89-vi13-46012-iii-10-p1.pdf",
+      "code": "vi13-cola-zaragoza-pequena-revision-vias-t8-a-t15-via-de-pruebas-89-vi13-46012-iii-10-p1",
+      "description": "vi13-cola-zaragoza-pequena-revision-vias-t8-a-t15-via-de-pruebas-89-vi13-46012-iii-10-p1",
+      "category": "Implantación y perfiles",
+      "stations": [
+        "Zaragoza"
+      ],
+      "pages": 1,
+      "sha256_original": "566dd53dd626debf6866051a0061d01c05b1409966cf38b7ab5551297f965a3d",
+      "indexNumber": null,
+      "preview": "tecnica/linea1/p146.jpg",
+      "pdf": "tecnica/linea1/p146.pdf",
+      "status": "Plano histórico · vigencia pendiente de contraste",
+      "review": "Catalogado; cotas pendientes de transcripción verificada"
+    }
+  ],
+  "index": [
+    {
+      "number": 1,
+      "code": "69-VI-116-III-06",
+      "description": "LINEA No. 1 TRAMO JUANACATLAN – TACUBAYA SOBRE – ELEVACIONES CURVA No. 8 (69 Y 70)  UNICO PLANO"
+    },
+    {
+      "number": 2,
+      "code": "69-VIA-117-III-51",
+      "description": "LINEA No. 1 OTE. TRAMO: CHAPULTEPEC – PERIFERICO SUB TRAMO CONSTITUYENTES - JUANACATLAN PERFIL PROYECTO DEL KM 12+550.00 AL KM 13+480.000"
+    },
+    {
+      "number": 3,
+      "code": "70-VI-118-III-35",
+      "description": "LINEA No. 1 TRAMO CHAPULTEPEC – PERIFERICO SUB TRAMO: B FRANKLIN – TACUBAYA  SOBRE – ELEVACIONES CURVA No.   (71 Y 72)  UNICO PLANO"
+    },
+    {
+      "number": 4,
+      "code": "71-VI-18-III-40 SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  81 Y 82  UNICO PLANO"
+    },
+    {
+      "number": 5,
+      "code": "71-VI-116-III-38-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  77 Y 78 UNICO PLANO"
+    },
+    {
+      "number": 6,
+      "code": "71-VI-116-III-39-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  79 Y 80  UNICO PLANO"
+    },
+    {
+      "number": 7,
+      "code": "71-VI-118-III-36-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  73 Y 74"
+    },
+    {
+      "number": 8,
+      "code": "71-VI-118-III-37-SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  75 Y 76"
+    },
+    {
+      "number": 9,
+      "code": "71-VI-118-III-41 SE",
+      "description": "INEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.F.C.C.  CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  83 Y 84"
+    },
+    {
+      "number": 10,
+      "code": "71-VI-122-III-16, C",
+      "description": "LÍNEA No ,1  TRAMO: BUCARELI - CHAPULTEPEC. SUBTRAMO: SEVILLA - CHAPULTEPEC. RECTIFICACIÓN DE LA RASANTE DE VÍAS DEL KM. 11+300 AL KM 12+100"
+    },
+    {
+      "number": 11,
+      "code": "81-VI-15-90100-III-3-6858-P",
+      "description": "LINEA No. 1 OTE. IMPLANTACION DE VÍA SOBRE ELEVACIONES PLANO GENERAL DE SOBRE ELEVACIONES TRAMO: ZARAGOZA – PANTITLAN - COLA DEL KM 1+109.124 AL KM -0+934.477"
+    },
+    {
+      "number": 12,
+      "code": "SMV 452",
+      "description": "LÍNEA 1 PERALTES Y POSICIÓN TRANSVERSAL DE BARRAS DE GUIADO EN CURVA"
+    },
+    {
+      "number": 13,
+      "code": "TV 367",
+      "description": "LINEA 1 TERMINAL CHAPULTEPEC, POSE DE LA VOIE SUR LA FOSSE DE LA VISITE"
+    },
+    {
+      "number": 14,
+      "code": "TV 370",
+      "description": "LÍNEA 1 TERMINAL CHAPULTEPEC, PLAN DE POSE SCHÉMATIQUE"
+    },
+    {
+      "number": 15,
+      "code": "TV 371",
+      "description": "LÍNEA 1 INTERSTACIÓN BALDERAS- SALTO DEL AGUA, PLAN DE POSE SCHÉMATIQUE DE LA VOIEZ"
+    },
+    {
+      "number": 16,
+      "code": "TV 372",
+      "description": "LIGNE No.1 TERMINUS DE ZARAGOZA PLAN DE POSE SCHÉMATIQUE DES VOIES"
+    },
+    {
+      "number": 17,
+      "code": "TV 375",
+      "description": "LIGNE No.1 PLAN SCHÉMATIQUE DES VOIES EN TUNNEL"
+    },
+    {
+      "number": 18,
+      "code": "TV 388",
+      "description": "LIGNE 1. INTERSTATION BALDERAS- SALTO DEL AGUA,  COMMUNICATION No. 25_ZA2,  TG 0,13 A DROITE ENTREVOIE DE 3,15M VERROU AXIAL, CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN. COMMUNICATION No. 14_ZA1  TG013 A GAUCHE ENTREVOIE DE 3.15M VERROU AXIAL APPAREIL No.ZA1. VERROUS INDIVILUELS APPRIEL No.14 CONFORME AU PLAN D'ENSAMBLE No. TV146 SOUFLS INDICATIONS DO PRÉSENT DESSIN.  BRANCHEMENT No. 24  TG0 ,13  A DROITE VERROUS INDIVIDUELS, CONFORME AU PLAN D'ENSAMBLE No. TV160 SOUFLS INDICATIONS DO PRÉSENT DESSIN. PLAN DE POSE  ECHELLE 0,02"
+    },
+    {
+      "number": 19,
+      "code": "TV 389",
+      "description": "LIGNE No.1 INTERSTATION BALDERAS- SALTO DEL AGUA  COMMUNICATION No. Zb2_16  TG0 ,13  A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUS CONFORME AU PLAN D'ENSAMBLE No. 140 SOUFLS INDICATIONS DO PRÉSENT DESSIN.  COMMUNICATION No. ZB1_26 TG0.13 A GAUCHE, ENTREVOIE DE 3.15M APPAREIL No.ZB1 VERROU AXIAL_APPARIEL No. 26 VERROUS INDIVIDUALS CONFORME AU PLAN D'ENSAMBLE No. 146 SOUFLS INDICATIONS DO PRÉSENT DESSIN.PLAN DE POSE ECHELLE 0,02"
+    },
+    {
+      "number": 20,
+      "code": "TV 390",
+      "description": "LIGNE No. 1 TERMINUS ZARAGOZA,  COMMUNICATION No.1 25 C -25 A  TG 0.13 A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUX CONFORME AU PLAN D'ENSAMBLE No. 140 SOUF LE INDICATIONS DO PRÉSENT DESSIN.,  COMMUNICATION No. 15-25 B  TG 0.13   A GAUCHE ENTREVOIE DE 3.15M APPAREIL NO. 15 VERROU AXIAL_ APPAREIL No. 25B VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. 146 SOUF LE INDICATIONS DO PRÉSENT DESSIN PLAN DE POSE ECHELLE 0,02"
+    },
+    {
+      "number": 21,
+      "code": "TV 403",
+      "description": "LIGNE No. 1 PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTATION ZARAGOZA - GOMEZ FARIAS VOIES 1 DU PK 1+185 720 AU PK 2+087 248 ..  VOIE 2 DU PK 1+186 470 AU PK 2+089+348"
+    },
+    {
+      "number": 22,
+      "code": "TV 404",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN GOMEZ FARIAS-AEROPUERTO, VÍA 1 DEL PK 2+087, 248AL PK 2+843,248, VÍA 2 DEL PK 2+089,348 AL PK 2+845,348"
+    },
+    {
+      "number": 23,
+      "code": "TV 405",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALBUENA-AEROPUERTO, VÍA 1 DEL PK 2+843.253 AL PK 3+508.000, VIA 2 DEL PK 2+845.353 AL PK 3+596.500"
+    },
+    {
+      "number": 24,
+      "code": "TV 407",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN MOCTEZUMA-SAN LAZARO, VIA 1 DEL PK 4+462,000 AL PK 5+079,630, VIA 2 DEL PK 4+460,500 AL PK 5+080,680"
+    },
+    {
+      "number": 25,
+      "code": "TV 409",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-CANDELARIA, VIA 1 DEL PK 5+593,223 AL PK 6+602,652, VIA 2 DEL PK 5+592,473 AL 6+601,872"
+    },
+    {
+      "number": 26,
+      "code": "TV 410",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-PINO SUAREZ, VIA 1 DEL PK 5+593,223 AL PK 4+715,143, VIA 2 DEL PK 5+592,473 AL PK 4+717,055"
+    },
+    {
+      "number": 27,
+      "code": "TV 411",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN ISABEL LA CATÓLICA-PINO SUAREZ, VIA 1 DEL PK 4+175 925 AL PK 4+715 143, VIA 2 DEL PK 4+177 625 AL PK 4+717 055"
+    },
+    {
+      "number": 28,
+      "code": "TV 412",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SALTO DEL AGUA-ISABEL LA CATÓLICA, VIA 1 DEL PK 3+599,485 AL PK 4+175,925, VIA 2 DEL PK 3+591,321 AL PK 4+171,625"
+    },
+    {
+      "number": 29,
+      "code": "TV 413",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALDERAS-SALTO DEL AGUA, VIA 1 DEL PK 2+982,222 AL PK 3+599,475, VIA 2 DELPK 2+989,892 AL PK 3+591,325"
+    },
+    {
+      "number": 30,
+      "code": "TV 414",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CUAUHTEMOC-BALDERAS, VIA 1 DEL PK 2+411,165 AL PK 2+982,222, VIA 2 DEL PK 2+411,165 AL PK 2+989,392"
+    },
+    {
+      "number": 31,
+      "code": "TV 415",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN INSURGENTES-CUAUHTEMOC, VIA 1 DEL PK 1+473,895 AL PK 2+411,165, VIAS 2 DEL PK 1+475,595 AL PK 2+411,165"
+    },
+    {
+      "number": 32,
+      "code": "TV 416",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SEVILLA-INSURGENTES, VIA 1 DEL PK 0+681,895 AL PK 1+473,895, VIA 2 DEL PK 0+633,595 AL PK 1+475,595"
+    },
+    {
+      "number": 33,
+      "code": "TV 417",
+      "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CHAPULTEPEC-SEVILLA, VIA 1 DEL PK 11+368,765 AL PK 12+088,765, VIA 2 DEL PK 11+367,065 AL PK 12+087,065"
+    },
+    {
+      "number": 34,
+      "code": "TV 419",
+      "description": "LINEA 1 NUMERACIÓN, DES COURBES ET DÉVERS( DE CURVAS Y PERALTES)"
+    },
+    {
+      "number": 35,
+      "code": "TV 420",
+      "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 1 Y 2)"
+    },
+    {
+      "number": 36,
+      "code": "TV 421",
+      "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 3 Y 4)"
+    },
+    {
+      "number": 37,
+      "code": "TV 422",
+      "description": "LÍNEA 1 INTERESTACIÓN AEROPUERTO - BALBUENA (CURVAS 5 Y 6)"
+    },
+    {
+      "number": 38,
+      "code": "TV 423",
+      "description": "LÍNEA 1 INTERESTACIÓN MOCTEZUMA - SAN LAZARO ( CURVAS 7 Y 8)"
+    },
+    {
+      "number": 39,
+      "code": "TV 424",
+      "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CALENDARIA (CURVAS 9 Y 10)"
+    },
+    {
+      "number": 40,
+      "code": "TV 425",
+      "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CANDELARIA (CURVA 11 Y 12)"
+    },
+    {
+      "number": 41,
+      "code": "TV 426",
+      "description": "LÍNEA 1 INTERESTACIÓN CALENDARIA - LA MERCED (CURVAS 13 Y 14)"
+    },
+    {
+      "number": 42,
+      "code": "TV 427",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 15 Y 16)"
+    },
+    {
+      "number": 43,
+      "code": "TV 428",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 17 Y 18)"
+    },
+    {
+      "number": 44,
+      "code": "TV 429",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 19 Y 20)"
+    },
+    {
+      "number": 45,
+      "code": "TV 430",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 21 Y 22)"
+    },
+    {
+      "number": 46,
+      "code": "TV 431",
+      "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 23 Y 24)"
+    },
+    {
+      "number": 47,
+      "code": "TV 432",
+      "description": "LÍNEA 1 INTERESTACIÓN PINO SUÁREZ - ISABEL LA CATÓLICA ( CURVAS 25 Y 26)"
+    },
+    {
+      "number": 48,
+      "code": "TV 433",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVAS 27 Y 28)"
+    },
+    {
+      "number": 49,
+      "code": "TV 434",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 29)"
+    },
+    {
+      "number": 50,
+      "code": "TV 435",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 30)"
+    },
+    {
+      "number": 51,
+      "code": "TV 436",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 31)"
+    },
+    {
+      "number": 52,
+      "code": "TV 437",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 32)"
+    },
+    {
+      "number": 53,
+      "code": "TV 438",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 33)"
+    },
+    {
+      "number": 54,
+      "code": "TV 439",
+      "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 34)"
+    },
+    {
+      "number": 55,
+      "code": "TV 440",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVAS 35 Y .36)"
+    },
+    {
+      "number": 56,
+      "code": "TV 441",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVA 37)"
+    },
+    {
+      "number": 57,
+      "code": "TV 442",
+      "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS (CURVA 38)"
+    },
+    {
+      "number": 58,
+      "code": "TV 443",
+      "description": "LÍNEA 1 INTERESTACIÓN BALDERAS - CUAUHTEMOC (CURVAS 39 Y 40)"
+    },
+    {
+      "number": 59,
+      "code": "TV 444",
+      "description": "LÍNEA 1 INTERESTACIÓN  CUAUHTEMOC - INSURGENTES (CURVAS 41 Y 42)"
+    },
+    {
+      "number": 60,
+      "code": "TV 445",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - INSURGENTES ( CURVAS 43 Y 44)"
+    },
+    {
+      "number": 61,
+      "code": "TV 446",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 45 Y 46)"
+    },
+    {
+      "number": 62,
+      "code": "TV 447",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 47 Y 48)"
+    },
+    {
+      "number": 63,
+      "code": "TV 448",
+      "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA (CURVAS 49 Y 50)"
+    },
+    {
+      "number": 64,
+      "code": "TV 449",
+      "description": "LÍNEA 1 INTERESTACIÓN SEVILLA - CHAPULTEPEC ( CURVAS 51 Y 52)"
+    },
+    {
+      "number": 65,
+      "code": "TV 450",
+      "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 1)"
+    },
+    {
+      "number": 66,
+      "code": "TV 451",
+      "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 2)"
+    },
+    {
+      "number": 67,
+      "code": "TV 476",
+      "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - JUANACATLÁN (CURVAS 57 Y 58)"
+    },
+    {
+      "number": 68,
+      "code": "TV 559",
+      "description": "CONEXIÓN ENTRE LAS LÍNEAS Nº 1 Y 2 EN PINO SUÁREZ, PLAN DE DISEÑO DE LA RUTA"
+    },
+    {
+      "number": 69,
+      "code": "TV 621",
+      "description": "LÍNEA 1 MATERIAL DE PISTA PARA INTERVENCIONES URGENTES UBICACIÓN DE PRIMEROS AUXILIOS Y DEPÓSITOS SECUNDARIOS"
+    },
+    {
+      "number": 70,
+      "code": "TV 630",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO PEINE DE LOS APARATOS DE VÍA, ENSAMBLE ESCALA 2005"
+    },
+    {
+      "number": 71,
+      "code": "TV 631",
+      "description": "LINEA 1 TERMINUS OBSERVATORIO  COMMUNICATION No. 13A-23B   TG 0.13 A DROITE ESTRVOIE 3.15. VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN,  BRANCHEMENT No. 23A    Tg  0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV167SOUFLS INDICATIONS DO PRÉSENT DESSIN , BRANCHEMENT  No. 23C   Tg  0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV160SOUFLS INDICATIONS DO PRÉSENT DESSIN, PLAN DE POSE   ECHELLE 0,01"
+    },
+    {
+      "number": 72,
+      "code": "TV 632",
+      "description": "LÍNEA 1 T ERMINAL OBSERVATORIO RAMIFICACIÓN NO. 63A   TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO,  RAMIFICACIÓN NO. 63B  TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO,  PLANO DE COLOCACIÓN  ESCALA 0.01"
+    },
+    {
+      "number": 73,
+      "code": "TV 633",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO  BRANCHEMENT NO. 13B  TG 013 A DROITE - VERROU AXIAL,  BRANCHEMENT NO. 13C  TG 013 A GOUCHE - VERROU AXIAL,  PLAN DE POSE"
+    },
+    {
+      "number": 74,
+      "code": "TV 708",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JUAN ACATLAN- TACUBAYA  DEL PK 13-209 979 AL PK 13+840 600"
+    },
+    {
+      "number": 75,
+      "code": "TV 746",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JUAN ACATLAN- TACUBAYA  DEL PK 13-209 979 AL PK 14+405 342"
+    },
+    {
+      "number": 76,
+      "code": "TV 747",
+      "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES  JTACUBAYA- OBSERVATORIO  DEL PK 14+405 342 AL PK 15+993 312"
+    },
+    {
+      "number": 77,
+      "code": "TV 748",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO PLAN DE POSE SCHÉMATIQUE DE VOIES"
+    },
+    {
+      "number": 78,
+      "code": "TV 813",
+      "description": "LÍNEA 1 TERMINAL ZARAGOZA, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT,  CONTRERAIL"
+    },
+    {
+      "number": 79,
+      "code": "TV 819",
+      "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1 PLAN DE POSE"
+    },
+    {
+      "number": 80,
+      "code": "TV 820",
+      "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1  CONTRARAILS"
+    },
+    {
+      "number": 81,
+      "code": "TV 844",
+      "description": "ZONA TEST LÍNEA 1-2 ET 3, PLANS DE SITUATION"
+    },
+    {
+      "number": 82,
+      "code": "TV 856",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"C\", PARA PASO DE PEATONES"
+    },
+    {
+      "number": 83,
+      "code": "TV 857",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"D\", PARA PASO DE PEATONES (ECHELLE 0,2)"
+    },
+    {
+      "number": 84,
+      "code": "TV 860",
+      "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"F\", PARA PASO DE PEATONES (ECHELLE 0,2)"
+    },
+    {
+      "number": 85,
+      "code": "TV 861",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO CORTES DE BARRA CORRESPONDIENTE PARA LA CRUCETA \"A\" DE LA COMUNICACIÓN NO. 11-21 SUR VÍAS 1 Y 2"
+    },
+    {
+      "number": 86,
+      "code": "TV 862",
+      "description": "LÍNEA 1 TERMINAL OBSERVATORIO DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS"
+    },
+    {
+      "number": 87,
+      "code": "TV 863",
+      "description": "LÍNEA 1 ESTACIÓN OBSERVATORIO Y BORDES, DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS DE PK 15+600 A PK 15+954"
+    },
+    {
+      "number": 88,
+      "code": "TV 876",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA ATELIER DE REVISION GENERALE, PLAN DE POSE DES APPAREILS No. 016- 020"
+    },
+    {
+      "number": 89,
+      "code": "TV 877",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA GARAGE DE L´EXPLOITATION , PLAN DE POSE DES APPAREILS No. 6011- 6013 - 6014"
+    },
+    {
+      "number": 90,
+      "code": "TV 878",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA EQUIPEMENT DES VOIES G1-2-3-4-5 SUR BALLAST VOIES DES HALLS DU GARAGE DE LÉXPLOITATION"
+    },
+    {
+      "number": 91,
+      "code": "TV 880",
+      "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA POSE DE LA VOIE R6 AUX ABORDS DE LA PLAQUE TOURNANTE"
+    },
+    {
+      "number": 92,
+      "code": "TV 47410062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 53 Y 54)"
+    },
+    {
+      "number": 93,
+      "code": "TV 47510062020",
+      "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 55 Y 56)"
+    }
+  ],
+  "indexNotMatched": [
+    {
+      "number": 4,
+      "code": "71-VI-18-III-40 SE",
+      "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  81 Y 82  UNICO PLANO"
+    }
+  ],
+  "exactDuplicates": []
+}

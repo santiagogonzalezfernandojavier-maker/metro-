@@ -1,0 +1,484 @@
+{
+  "fuente": "MANUAL-MI",
+  "titulo": "Manual de integración gráfica y visual para el sistema integrado de transporte",
+  "edicion": "2022; aprobación indicada en página PDF 2",
+  "paginas": 483,
+  "convencion": "Página PDF física, empezando en 1. No confundir con paginación impresa.",
+  "alcance": "Referencia de diseño de 2022, no inventario instalado vigente ni reglamento de circulación ferroviaria.",
+  "secciones": [
+    {
+      "desde": 24,
+      "hasta": 25,
+      "tema": "Usos incorrectos y tipografías"
+    },
+    {
+      "desde": 60,
+      "hasta": 67,
+      "tema": "Diseño iconográfico"
+    },
+    {
+      "desde": 68,
+      "hasta": 86,
+      "tema": "Símbolos de servicio y flechas"
+    },
+    {
+      "desde": 87,
+      "hasta": 91,
+      "tema": "Colores de símbolos"
+    },
+    {
+      "desde": 92,
+      "hasta": 93,
+      "tema": "Servicios y restricciones"
+    },
+    {
+      "desde": 94,
+      "hasta": 95,
+      "tema": "Accesibilidad"
+    },
+    {
+      "desde": 96,
+      "hasta": 96,
+      "tema": "Emergencias"
+    },
+    {
+      "desde": 97,
+      "hasta": 97,
+      "tema": "Precaución"
+    },
+    {
+      "desde": 98,
+      "hasta": 98,
+      "tema": "Residuos"
+    },
+    {
+      "desde": 99,
+      "hasta": 99,
+      "tema": "Protección civil"
+    },
+    {
+      "desde": 100,
+      "hasta": 108,
+      "tema": "Servicios"
+    },
+    {
+      "desde": 109,
+      "hasta": 112,
+      "tema": "Mapas generales"
+    },
+    {
+      "desde": 113,
+      "hasta": 126,
+      "tema": "Señalética general y transbordos"
+    },
+    {
+      "desde": 147,
+      "hasta": 170,
+      "tema": "Identidad STC e integración"
+    },
+    {
+      "desde": 171,
+      "hasta": 183,
+      "tema": "Colores del Metro y sus líneas"
+    },
+    {
+      "desde": 184,
+      "hasta": 185,
+      "tema": "Iconografía del Metro"
+    },
+    {
+      "desde": 186,
+      "hasta": 193,
+      "tema": "Mapas de línea"
+    },
+    {
+      "desde": 194,
+      "hasta": 194,
+      "tema": "Mapa de barrio"
+    },
+    {
+      "desde": 195,
+      "hasta": 195,
+      "tema": "Señalética exterior"
+    },
+    {
+      "desde": 196,
+      "hasta": 199,
+      "tema": "Señalética interior"
+    },
+    {
+      "desde": 200,
+      "hasta": 200,
+      "tema": "Correspondencias"
+    },
+    {
+      "desde": 201,
+      "hasta": 203,
+      "tema": "Transbordos"
+    },
+    {
+      "desde": 204,
+      "hasta": 208,
+      "tema": "Banners y aplicaciones"
+    },
+    {
+      "desde": 210,
+      "hasta": 210,
+      "tema": "Máquinas de venta y recarga"
+    },
+    {
+      "desde": 216,
+      "hasta": 216,
+      "tema": "Espacios exclusivos"
+    }
+  ],
+  "colores": [
+    {
+      "uso": "STC Metro",
+      "pantone": "021 C",
+      "hex": "#FE5000",
+      "rgb": [
+        254,
+        80,
+        0
+      ],
+      "pagina_pdf": 171
+    },
+    {
+      "uso": "Línea 1",
+      "pantone": "212 C",
+      "hex": "#F04E98",
+      "rgb": [
+        240,
+        78,
+        152
+      ],
+      "pagina_pdf": 172
+    },
+    {
+      "uso": "Línea 8",
+      "pantone": "347 C",
+      "hex": "#009A44",
+      "rgb": [
+        0,
+        154,
+        68
+      ],
+      "pagina_pdf": 179
+    },
+    {
+      "uso": "Servicios/restrictivos",
+      "pantone": "485 C",
+      "hex": "#E1251B",
+      "rgb_impreso": [
+        229,
+        35,
+        32
+      ],
+      "pagina_pdf": 87,
+      "inconsistencia": "HEX equivale a RGB(225,37,27); conservar ambas transcripciones y verificar antes de producir recursos."
+    },
+    {
+      "uso": "Emergencia",
+      "pantone": "485 C",
+      "hex": "#E1251B",
+      "rgb_impreso": [
+        229,
+        35,
+        32
+      ],
+      "pagina_pdf": 88,
+      "inconsistencia": "HEX y RGB impresos no coinciden."
+    },
+    {
+      "uso": "Protección civil",
+      "pantone": "340 C",
+      "hex": "#00945E",
+      "rgb_impreso": [
+        23,
+        150,
+        91
+      ],
+      "pagina_pdf": 89,
+      "inconsistencia": "HEX equivale a RGB(0,148,94); conservar ambas transcripciones."
+    },
+    {
+      "uso": "Accesibilidad",
+      "pantone": "300 C",
+      "hex": "#005EB8",
+      "rgb": [
+        0,
+        94,
+        184
+      ],
+      "pagina_pdf": 90
+    },
+    {
+      "uso": "Precaución",
+      "pantone": "1235 C",
+      "hex": "#FFB71B",
+      "rgb_impreso": [
+        255,
+        182,
+        18
+      ],
+      "pagina_pdf": 91,
+      "inconsistencia": "HEX equivale a RGB(255,183,27); conservar ambas transcripciones."
+    }
+  ],
+  "tipografias": {
+    "principal": "Movilidad Integrada CDMX",
+    "secundaria": "Source Sans Pro",
+    "excepcion": "Ciertas aplicaciones STC pueden usar fuente correspondiente; archivos de fuentes no aportados.",
+    "pagina_pdf": 25
+  },
+  "familias": [
+    {
+      "id": "entrada",
+      "funcion": "Orientar hacia acceso",
+      "pagina_pdf": 196,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "salida",
+      "funcion": "Orientar hacia salida; admite calle y colonia",
+      "pagina_pdf": 196,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "andenes",
+      "funcion": "Orientar hacia andenes de una línea",
+      "pagina_pdf": 196,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "direccion_terminal",
+      "funcion": "Identificar destino del sentido de marcha; ejemplo Observatorio",
+      "pagina_pdf": 196,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "no_pase",
+      "funcion": "Restringir el paso peatonal",
+      "pagina_pdf": 196,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "correspondencia",
+      "funcion": "Orientar hacia otra línea con número y terminales",
+      "pagina_pdf": 200,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "transbordo_intermodal",
+      "funcion": "Orientar hacia otros modos y CETRAM",
+      "pagina_pdf": 202,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "acceso_silla_ruedas",
+      "funcion": "Identificar accesibilidad",
+      "pagina_pdf": 94,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "elevador_accesible",
+      "funcion": "Identificar elevador accesible",
+      "pagina_pdf": 94,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "prioridad_uso",
+      "funcion": "Indicar prioridad de uso",
+      "pagina_pdf": 94,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "perro_asistencia",
+      "funcion": "Identificar acceso permitido con perro de asistencia",
+      "pagina_pdf": 94,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "rampa",
+      "funcion": "Identificar rampa accesible",
+      "pagina_pdf": 94,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "extintor",
+      "funcion": "Localizar equipo contra incendio",
+      "pagina_pdf": 96,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "romper_incendio",
+      "funcion": "Identificar elemento para romper en caso de incendio",
+      "pagina_pdf": 96,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "personal_autorizado",
+      "funcion": "Identificar acceso reservado",
+      "pagina_pdf": 96,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "riesgo_electrico",
+      "funcion": "Advertir riesgo eléctrico",
+      "pagina_pdf": 97,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "no_obstruir_puertas",
+      "funcion": "Indicar precaución en puertas",
+      "pagina_pdf": 97,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "ruta_evacuacion",
+      "funcion": "Indicar ruta de evacuación",
+      "pagina_pdf": 99,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "punto_reunion",
+      "funcion": "Identificar punto de reunión",
+      "pagina_pdf": 99,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "enfermeria",
+      "funcion": "Identificar enfermería",
+      "pagina_pdf": 99,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "menor_riesgo",
+      "funcion": "Identificar zona de menor riesgo",
+      "pagina_pdf": 99,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "mujeres_ninas",
+      "funcion": "Identificar espacio exclusivo para mujeres y niñas",
+      "pagina_pdf": 216,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "discapacidad",
+      "funcion": "Identificar espacio exclusivo para personas con discapacidad",
+      "pagina_pdf": 216,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    },
+    {
+      "id": "venta_recarga",
+      "funcion": "Orientar uso de máquinas de tarjeta",
+      "pagina_pdf": 210,
+      "estacion": null,
+      "ubicacion": null,
+      "orientacion": null,
+      "dimensiones_m": null,
+      "estado": "Referencia gráfica; implantación pendiente"
+    }
+  ],
+  "pendientes": [
+    "Señales ferroviarias de circulación y sus aspectos, autorización de movimiento y respuesta del conductor",
+    "Inventario real de letreros por estación, dimensiones y estado actual",
+    "Archivos tipográficos y originales vectoriales con identificación por estación",
+    "Validación de colores secundarios cuyos RGB y HEX difieren en la fuente",
+    "Rutas accesibles y de evacuación verificadas en planos actuales"
+  ]
+}

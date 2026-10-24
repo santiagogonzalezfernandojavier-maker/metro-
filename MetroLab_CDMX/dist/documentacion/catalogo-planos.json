@@ -1,0 +1,651 @@
+[
+  {
+    "number": 1,
+    "code": "69-VI-116-III-06",
+    "description": "LINEA No. 1 TRAMO JUANACATLAN – TACUBAYA SOBRE – ELEVACIONES CURVA No. 8 (69 Y 70) UNICO PLANO",
+    "pdf": "tecnica/linea1/p001.pdf",
+    "preview": "tecnica/linea1/p001.jpg"
+  },
+  {
+    "number": 2,
+    "code": "69-VIA-117-III-51",
+    "description": "LINEA No. 1 OTE. TRAMO: CHAPULTEPEC – PERIFERICO SUB TRAMO CONSTITUYENTES - JUANACATLAN PERFIL PROYECTO DEL KM 12+550.00 AL KM 13+480.000",
+    "pdf": "tecnica/linea1/p002.pdf",
+    "preview": "tecnica/linea1/p002.jpg"
+  },
+  {
+    "number": 3,
+    "code": "70-VI-118-III-35",
+    "description": "LINEA No. 1 TRAMO CHAPULTEPEC – PERIFERICO SUB TRAMO: B FRANKLIN – TACUBAYA  SOBRE – ELEVACIONES CURVA No.   (71 Y 72) UNICO PLANO",
+    "pdf": "tecnica/linea1/p003.pdf",
+    "preview": "tecnica/linea1/p003.jpg"
+  },
+  {
+    "number": 4,
+    "code": "71-VI-18-III-40SE",
+    "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  81 Y 82 UNICO PLANO"
+  },
+  {
+    "number": 5,
+    "code": "71-VI-116-III-38-SE",
+    "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  77 Y 78 UNICO PLANO",
+    "pdf": "tecnica/linea1/p004.pdf",
+    "preview": "tecnica/linea1/p004.jpg"
+  },
+  {
+    "number": 6,
+    "code": "71-VI-116-III-39-SE",
+    "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.C. CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  79 Y 80 UNICO PLANO",
+    "pdf": "tecnica/linea1/p005.pdf",
+    "preview": "tecnica/linea1/p005.jpg"
+  },
+  {
+    "number": 7,
+    "code": "71-VI-118-III-36-SE",
+    "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  73 Y 74",
+    "pdf": "tecnica/linea1/p006.pdf",
+    "preview": "tecnica/linea1/p006.jpg"
+  },
+  {
+    "number": 8,
+    "code": "71-VI-118-III-37-SE",
+    "description": "LINEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: TACUBAYA – F.C. CUERNAVACA   SOBRE – ELEVACIONES CURVA No.  75 Y 76",
+    "pdf": "tecnica/linea1/p007.pdf",
+    "preview": "tecnica/linea1/p007.jpg"
+  },
+  {
+    "number": 9,
+    "code": "71-VI-118-III-41 SE",
+    "description": "INEA No. 1 TRAMO TACUBAYA - OBSERVATORIO SUB TRAMO: F.F.C.C.  CUERNAVACA - OBSERVATORIO   SOBRE – ELEVACIONES CURVA No.  83 Y 84",
+    "pdf": "tecnica/linea1/p008.pdf",
+    "preview": "tecnica/linea1/p008.jpg"
+  },
+  {
+    "number": 10,
+    "code": "71-VI-122-III-16, C",
+    "description": "LÍNEA No,1 TRAMO: BUCARELI - CHAPULTEPEC. SUBTRAMO: SEVILLA - CHAPULTEPEC. RECTIFICACIÓN DE LA RASANTE DE VÍAS DEL KM. 11+300 AL KM 12+100",
+    "pdf": "tecnica/linea1/p009.pdf",
+    "preview": "tecnica/linea1/p009.jpg"
+  },
+  {
+    "number": 11,
+    "code": "81-VI-15-90100-III-3-6858-P",
+    "description": "LINEA No. 1 OTE. IMPLANTACION DE VÍA SOBRE ELEVACIONES PLANO GENERAL DE SOBRE ELEVACIONES TRAMO: ZARAGOZA – PANTITLAN - COLA DEL KM 1+109.124 AL KM -0+934.477",
+    "pdf": "tecnica/linea1/p011.pdf",
+    "preview": "tecnica/linea1/p011.jpg"
+  },
+  {
+    "number": 12,
+    "code": "SMV 452",
+    "description": "LÍNEA 1 PERALTES Y POSICIÓN TRANSVERSAL DE BARRAS DE GUIADO EN CURVA",
+    "pdf": "tecnica/linea1/p044.pdf",
+    "preview": "tecnica/linea1/p044.jpg"
+  },
+  {
+    "number": 13,
+    "code": "TV 367",
+    "description": "LINEA 1 TERMINAL CHAPULTEPEC, POSE DE LA VOIE SUR LA FOSSE DE LA VISITE",
+    "pdf": "tecnica/linea1/p045.pdf",
+    "preview": "tecnica/linea1/p045.jpg"
+  },
+  {
+    "number": 14,
+    "code": "TV 370",
+    "description": "LÍNEA 1 TERMINAL CHAPULTEPEC, PLAN DE POSE SCHÉMATIQUE",
+    "pdf": "tecnica/linea1/p046.pdf",
+    "preview": "tecnica/linea1/p046.jpg"
+  },
+  {
+    "number": 15,
+    "code": "TV 371",
+    "description": "LÍNEA 1 INTERSTACIÓN BALDERAS- SALTO DEL AGUA, PLAN DE POSE SCHÉMATIQUE DE LA VOIEZ",
+    "pdf": "tecnica/linea1/p047.pdf",
+    "preview": "tecnica/linea1/p047.jpg"
+  },
+  {
+    "number": 16,
+    "code": "TV 372",
+    "description": "LIGNE No.1 TERMINUS DE ZARAGOZA PLAN DE POSE SCHÉMATIQUE DES VOIES",
+    "pdf": "tecnica/linea1/p048.pdf",
+    "preview": "tecnica/linea1/p048.jpg"
+  },
+  {
+    "number": 17,
+    "code": "TV 375",
+    "description": "LIGNE No.1 PLAN SCHÉMATIQUE DES VOIES EN TUNNEL",
+    "pdf": "tecnica/linea1/p049.pdf",
+    "preview": "tecnica/linea1/p049.jpg"
+  },
+  {
+    "number": 18,
+    "code": "TV 388",
+    "description": "LIGNE 1. INTERSTATION BALDERAS- SALTO DEL AGUA, COMMUNICATION No. 25_ZA2, TG 0,13 A DROITE ENTREVOIE DE 3,15M VERROU AXIAL, CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN.COMMUNICATION No. 14_ZA1 TG013 A GAUCHE ENTREVOIE DE 3.15M VERROU AXIAL APPAREIL No.ZA1. VERROUS INDIVILUELS APPRIEL No.14 CONFORME AU PLAN D'ENSAMBLE No. TV146 SOUFLS INDICATIONS DO PRÉSENT DESSIN. BRANCHEMENT No. 24 TG0,13 A DROITE VERROUS INDIVIDUELS, CONFORME AU PLAN D'ENSAMBLE No. TV160 SOUFLS INDICATIONS DO PRÉSENT DESSIN.PLAN DE POSE ECHELLE 0,02",
+    "pdf": "tecnica/linea1/p050.pdf",
+    "preview": "tecnica/linea1/p050.jpg"
+  },
+  {
+    "number": 19,
+    "code": "TV 389",
+    "description": "LIGNE No.1 INTERSTATION BALDERAS- SALTO DEL AGUA COMMUNICATION No. Zb2_16 TG0,13 A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUS CONFORME AU PLAN D'ENSAMBLE No. 140 SOUFLS INDICATIONS DO PRÉSENT DESSIN. COMMUNICATION No. ZB1_26TG0.13 A GAUCHE, ENTREVOIE DE 3.15M APPAREIL No.ZB1 VERROU AXIAL_APPARIEL No. 26 VERROUS INDIVIDUALS CONFORME AU PLAN D'ENSAMBLE No. 146 SOUFLS INDICATIONS DO PRÉSENT DESSIN.PLAN DE POSE ECHELLE 0,02",
+    "pdf": "tecnica/linea1/p051.pdf",
+    "preview": "tecnica/linea1/p051.jpg"
+  },
+  {
+    "number": 20,
+    "code": "TV 390",
+    "description": "LIGNE No. 1 TERMINUS ZARAGOZA, COMMUNICATION No.1 25 C -25 A TG 0.13 A DROITE, ENTREVOIE DE 3.15M VERROUS AXIAUX CONFORME AU PLAN D'ENSAMBLE No. 140 SOUF LE INDICATIONS DO PRÉSENT DESSIN., COMMUNICATION No. 15-25 B TG 0.13 A GAUCHE ENTREVOIE DE 3.15M APPAREIL NO. 15 VERROU AXIAL_ APPAREIL No. 25B VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. 146 SOUF LE INDICATIONS DO PRÉSENT DESSIN PLAN DE POSE ECHELLE 0,02",
+    "pdf": "tecnica/linea1/p052.pdf",
+    "preview": "tecnica/linea1/p052.jpg"
+  },
+  {
+    "number": 21,
+    "code": "TV 403",
+    "description": "LIGNE No. 1 PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTATION ZARAGOZA - GOMEZ FARIAS VOIES 1 DU PK 1+185 720 AU PK 2+087 248.. VOIE 2 DU PK 1+186 470 AU PK 2+089+348",
+    "pdf": "tecnica/linea1/p053.pdf",
+    "preview": "tecnica/linea1/p053.jpg"
+  },
+  {
+    "number": 22,
+    "code": "TV 404",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN GOMEZ FARIAS-AEROPUERTO, VÍA 1 DEL PK 2+087, 248AL PK 2+843,248, VÍA 2 DEL PK 2+089,348 AL PK 2+845,348",
+    "pdf": "tecnica/linea1/p054.pdf",
+    "preview": "tecnica/linea1/p054.jpg"
+  },
+  {
+    "number": 23,
+    "code": "TV 405",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALBUENA-AEROPUERTO, VÍA 1 DEL PK 2+843.253 AL PK 3+508.000, VIA 2 DEL PK 2+845.353 AL PK 3+596.500",
+    "pdf": "tecnica/linea1/p055.pdf",
+    "preview": "tecnica/linea1/p055.jpg"
+  },
+  {
+    "number": 24,
+    "code": "TV 407",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN MOCTEZUMA-SAN LAZARO, VIA 1 DEL PK 4+462,000 AL PK 5+079,630, VIA 2 DEL PK 4+460,500 AL PK 5+080,680",
+    "pdf": "tecnica/linea1/p056.pdf",
+    "preview": "tecnica/linea1/p056.jpg"
+  },
+  {
+    "number": 25,
+    "code": "TV 409",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-CANDELARIA, VIA 1 DEL PK 5+593,223 AL PK 6+602,652, VIA 2 DEL PK 5+592,473 AL 6+601,872",
+    "pdf": "tecnica/linea1/p057.pdf",
+    "preview": "tecnica/linea1/p057.jpg"
+  },
+  {
+    "number": 26,
+    "code": "TV 410",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN LA MERCED-PINO SUAREZ, VIA 1 DEL PK 5+593,223 AL PK 4+715,143, VIA 2 DEL PK 5+592,473 AL PK 4+717,055",
+    "pdf": "tecnica/linea1/p058.pdf",
+    "preview": "tecnica/linea1/p058.jpg"
+  },
+  {
+    "number": 27,
+    "code": "TV 411",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN ISABEL LA CATÓLICA-PINO SUAREZ, VIA 1 DEL PK 4+175 925 AL PK 4+715 143, VIA 2 DEL PK 4+177 625 AL PK 4+717 055",
+    "pdf": "tecnica/linea1/p059.pdf",
+    "preview": "tecnica/linea1/p059.jpg"
+  },
+  {
+    "number": 28,
+    "code": "TV 412",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SALTO DEL AGUA-ISABEL LA CATÓLICA, VIA 1 DEL PK 3+599,485 AL PK 4+175,925, VIA 2 DEL PK 3+591,321 AL PK 4+171,625",
+    "pdf": "tecnica/linea1/p060.pdf",
+    "preview": "tecnica/linea1/p060.jpg"
+  },
+  {
+    "number": 29,
+    "code": "TV 413",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN BALDERAS-SALTO DEL AGUA, VIA 1 DEL PK 2+982,222 AL PK 3+599,475, VIA 2 DELPK 2+989,892 AL PK 3+591,325",
+    "pdf": "tecnica/linea1/p061.pdf",
+    "preview": "tecnica/linea1/p061.jpg"
+  },
+  {
+    "number": 30,
+    "code": "TV 414",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CUAUHTEMOC-BALDERAS, VIA 1 DEL PK 2+411,165 AL PK 2+982,222, VIA 2 DEL PK 2+411,165 AL PK 2+989,392",
+    "pdf": "tecnica/linea1/p062.pdf",
+    "preview": "tecnica/linea1/p062.jpg"
+  },
+  {
+    "number": 31,
+    "code": "TV 415",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN INSURGENTES-CUAUHTEMOC, VIA 1 DEL PK 1+473,895 AL PK 2+411,165, VIAS 2 DEL PK 1+475,595 AL PK 2+411,165",
+    "pdf": "tecnica/linea1/p063.pdf",
+    "preview": "tecnica/linea1/p063.jpg"
+  },
+  {
+    "number": 32,
+    "code": "TV 416",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN SEVILLA-INSURGENTES, VIA 1 DEL PK 0+681,895 AL PK 1+473,895, VIA 2 DEL PK 0+633,595 AL PK 1+475,595",
+    "pdf": "tecnica/linea1/p064.pdf",
+    "preview": "tecnica/linea1/p064.jpg"
+  },
+  {
+    "number": 33,
+    "code": "TV 417",
+    "description": "PLAN DE POSE SCHÉMATIQUE DES VOIES INTERESTACIÓN CHAPULTEPEC-SEVILLA, VIA 1 DEL PK 11+368,765 AL PK 12+088,765, VIA 2 DEL PK 11+367,065 AL PK 12+087,065",
+    "pdf": "tecnica/linea1/p065.pdf",
+    "preview": "tecnica/linea1/p065.jpg"
+  },
+  {
+    "number": 34,
+    "code": "TV 419",
+    "description": "LINEA 1 NUMERACIÓN, DES COURBES ET DÉVERS( DE CURVAS Y PERALTES)",
+    "pdf": "tecnica/linea1/p066.pdf",
+    "preview": "tecnica/linea1/p066.jpg"
+  },
+  {
+    "number": 35,
+    "code": "TV 420",
+    "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 1 Y 2)",
+    "pdf": "tecnica/linea1/p067.pdf",
+    "preview": "tecnica/linea1/p067.jpg"
+  },
+  {
+    "number": 36,
+    "code": "TV 421",
+    "description": "LÍNEA 1 INTERESTACIÓN GOMEZ FARIAS - AEROPUERTO (CURVAS 3 Y 4)",
+    "pdf": "tecnica/linea1/p068.pdf",
+    "preview": "tecnica/linea1/p068.jpg"
+  },
+  {
+    "number": 37,
+    "code": "TV 422",
+    "description": "LÍNEA 1 INTERESTACIÓN AEROPUERTO - BALBUENA (CURVAS 5 Y 6)",
+    "pdf": "tecnica/linea1/p069.pdf",
+    "preview": "tecnica/linea1/p069.jpg"
+  },
+  {
+    "number": 38,
+    "code": "TV 423",
+    "description": "LÍNEA 1 INTERESTACIÓN MOCTEZUMA - SAN LAZARO ( CURVAS 7 Y 8)",
+    "pdf": "tecnica/linea1/p070.pdf",
+    "preview": "tecnica/linea1/p070.jpg"
+  },
+  {
+    "number": 39,
+    "code": "TV 424",
+    "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CALENDARIA (CURVAS 9 Y 10)",
+    "pdf": "tecnica/linea1/p042.pdf",
+    "preview": "tecnica/linea1/p042.jpg"
+  },
+  {
+    "number": 40,
+    "code": "TV 425",
+    "description": "LÍNEA 1 INTERESTACIÓN SAN LAZARO - CANDELARIA (CURVA 11 Y 12)",
+    "pdf": "tecnica/linea1/p072.pdf",
+    "preview": "tecnica/linea1/p072.jpg"
+  },
+  {
+    "number": 41,
+    "code": "TV 426",
+    "description": "LÍNEA 1 INTERESTACIÓN CALENDARIA - LA MERCED (CURVAS 13 Y 14)",
+    "pdf": "tecnica/linea1/p073.pdf",
+    "preview": "tecnica/linea1/p073.jpg"
+  },
+  {
+    "number": 42,
+    "code": "TV 427",
+    "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 15 Y 16)",
+    "pdf": "tecnica/linea1/p074.pdf",
+    "preview": "tecnica/linea1/p074.jpg"
+  },
+  {
+    "number": 43,
+    "code": "TV 428",
+    "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ (CURVAS 17 Y 18)",
+    "pdf": "tecnica/linea1/p025.pdf",
+    "preview": "tecnica/linea1/p025.jpg"
+  },
+  {
+    "number": 44,
+    "code": "TV 429",
+    "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 19 Y 20)",
+    "pdf": "tecnica/linea1/p026.pdf",
+    "preview": "tecnica/linea1/p026.jpg"
+  },
+  {
+    "number": 45,
+    "code": "TV 430",
+    "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 21 Y 22)",
+    "pdf": "tecnica/linea1/p077.pdf",
+    "preview": "tecnica/linea1/p077.jpg"
+  },
+  {
+    "number": 46,
+    "code": "TV 431",
+    "description": "LÍNEA 1 INTERESTACIÓN LA MERCED - PINO SUÁREZ ( CURVAS 23 Y 24)",
+    "pdf": "tecnica/linea1/p078.pdf",
+    "preview": "tecnica/linea1/p078.jpg"
+  },
+  {
+    "number": 47,
+    "code": "TV 432",
+    "description": "LÍNEA 1 INTERESTACIÓN PINO SUÁREZ - ISABEL LA CATÓLICA ( CURVAS 25 Y 26)",
+    "pdf": "tecnica/linea1/p079.pdf",
+    "preview": "tecnica/linea1/p079.jpg"
+  },
+  {
+    "number": 48,
+    "code": "TV 433",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVAS 27 Y 28)",
+    "pdf": "tecnica/linea1/p030.pdf",
+    "preview": "tecnica/linea1/p030.jpg"
+  },
+  {
+    "number": 49,
+    "code": "TV 434",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 29)",
+    "pdf": "tecnica/linea1/p012.pdf",
+    "preview": "tecnica/linea1/p012.jpg"
+  },
+  {
+    "number": 50,
+    "code": "TV 435",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 30)",
+    "pdf": "tecnica/linea1/p013.pdf",
+    "preview": "tecnica/linea1/p013.jpg"
+  },
+  {
+    "number": 51,
+    "code": "TV 436",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA (CURVA 31)",
+    "pdf": "tecnica/linea1/p014.pdf",
+    "preview": "tecnica/linea1/p014.jpg"
+  },
+  {
+    "number": 52,
+    "code": "TV 437",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 32)",
+    "pdf": "tecnica/linea1/p015.pdf",
+    "preview": "tecnica/linea1/p015.jpg"
+  },
+  {
+    "number": 53,
+    "code": "TV 438",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 33)",
+    "pdf": "tecnica/linea1/p016.pdf",
+    "preview": "tecnica/linea1/p016.jpg"
+  },
+  {
+    "number": 54,
+    "code": "TV 439",
+    "description": "LÍNEA 1 INTERESTACIÓN ISABEL LA CATÓLICA - SALTO DEL AGUA ( CURVA 34)",
+    "pdf": "tecnica/linea1/p017.pdf",
+    "preview": "tecnica/linea1/p017.jpg"
+  },
+  {
+    "number": 55,
+    "code": "TV 440",
+    "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVAS 35 Y .36)",
+    "pdf": "tecnica/linea1/p032.pdf",
+    "preview": "tecnica/linea1/p032.jpg"
+  },
+  {
+    "number": 56,
+    "code": "TV 441",
+    "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS ( CURVA 37)",
+    "pdf": "tecnica/linea1/p018.pdf",
+    "preview": "tecnica/linea1/p018.jpg"
+  },
+  {
+    "number": 57,
+    "code": "TV 442",
+    "description": "LÍNEA 1 INTERESTACIÓN SALTO DEL AGUA - BALDERAS (CURVA 38)",
+    "pdf": "tecnica/linea1/p019.pdf",
+    "preview": "tecnica/linea1/p019.jpg"
+  },
+  {
+    "number": 58,
+    "code": "TV 443",
+    "description": "LÍNEA 1 INTERESTACIÓN BALDERAS - CUAUHTEMOC (CURVAS 39 Y 40)",
+    "pdf": "tecnica/linea1/p033.pdf",
+    "preview": "tecnica/linea1/p033.jpg"
+  },
+  {
+    "number": 59,
+    "code": "TV 444",
+    "description": "LÍNEA 1 INTERESTACIÓN  CUAUHTEMOC - INSURGENTES (CURVAS 41 Y 42)",
+    "pdf": "tecnica/linea1/p034.pdf",
+    "preview": "tecnica/linea1/p034.jpg"
+  },
+  {
+    "number": 60,
+    "code": "TV 445",
+    "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - INSURGENTES ( CURVAS 43 Y 44)",
+    "pdf": "tecnica/linea1/p035.pdf",
+    "preview": "tecnica/linea1/p035.jpg"
+  },
+  {
+    "number": 61,
+    "code": "TV 446",
+    "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 45 Y 46)",
+    "pdf": "tecnica/linea1/p093.pdf",
+    "preview": "tecnica/linea1/p093.jpg"
+  },
+  {
+    "number": 62,
+    "code": "TV 447",
+    "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA ( CURVAS 47 Y 48)",
+    "pdf": "tecnica/linea1/p036.pdf",
+    "preview": "tecnica/linea1/p036.jpg"
+  },
+  {
+    "number": 63,
+    "code": "TV 448",
+    "description": "LÍNEA 1 INTERESTACIÓN INSURGENTES - SEVILLA (CURVAS 49 Y 50)",
+    "pdf": "tecnica/linea1/p037.pdf",
+    "preview": "tecnica/linea1/p037.jpg"
+  },
+  {
+    "number": 64,
+    "code": "TV 449",
+    "description": "LÍNEA 1 INTERESTACIÓN SEVILLA - CHAPULTEPEC ( CURVAS 51 Y 52)",
+    "pdf": "tecnica/linea1/p039.pdf",
+    "preview": "tecnica/linea1/p039.jpg"
+  },
+  {
+    "number": 65,
+    "code": "TV 450",
+    "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 1)",
+    "pdf": "tecnica/linea1/p097.pdf",
+    "preview": "tecnica/linea1/p097.jpg"
+  },
+  {
+    "number": 66,
+    "code": "TV 451",
+    "description": "LÍNEA 1 TABLA DE PUNTAS (PISTA 2)",
+    "pdf": "tecnica/linea1/p098.pdf",
+    "preview": "tecnica/linea1/p098.jpg"
+  },
+  {
+    "number": 67,
+    "code": "TV 476",
+    "description": "LÍNEA 1 INTERESTACIÓN CUAUHTEMOC - JUANACATLÁN (CURVAS 57 Y 58)",
+    "pdf": "tecnica/linea1/p041.pdf",
+    "preview": "tecnica/linea1/p041.jpg"
+  },
+  {
+    "number": 68,
+    "code": "TV 559",
+    "description": "CONEXIÓN ENTRE LAS LÍNEAS Nº 1 Y 2 EN PINO SUÁREZ, PLAN DE DISEÑO DE LA RUTA",
+    "pdf": "tecnica/linea1/p102.pdf",
+    "preview": "tecnica/linea1/p102.jpg"
+  },
+  {
+    "number": 69,
+    "code": "TV 621",
+    "description": "LÍNEA 1 MATERIAL DE PISTA PARA INTERVENCIONES URGENTES UBICACIÓN DE PRIMEROS AUXILIOS Y DEPÓSITOS SECUNDARIOS",
+    "pdf": "tecnica/linea1/p103.pdf",
+    "preview": "tecnica/linea1/p103.jpg"
+  },
+  {
+    "number": 70,
+    "code": "TV 630",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO PEINE DE LOS APARATOS DE VÍA, ENSAMBLE ESCALA 2005",
+    "pdf": "tecnica/linea1/p104.pdf",
+    "preview": "tecnica/linea1/p104.jpg"
+  },
+  {
+    "number": 71,
+    "code": "TV 631",
+    "description": "LINEA 1 TERMINUS OBSERVATORIO COMMUNICATION No. 13A-23B  TG 0.13 A DROITE ESTRVOIE 3.15. VERROU AXIAL CONFORME AU PLAN D'ENSAMBLE No. TV140 SOUFLS INDICATIONS DO PRÉSENT DESSIN, BRANCHEMENT No. 23A  Tg 0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV167SOUFLS INDICATIONS DO PRÉSENT DESSIN,BRANCHEMENT No. 23C Tg 0.13 A GAUCHE- VERROU AXIAL ONFORME AU PLAN D'ENSAMBLE No. TV160SOUFLS INDICATIONS DO PRÉSENT DESSIN,PLAN DE POSE  ECHELLE 0,01",
+    "pdf": "tecnica/linea1/p105.pdf",
+    "preview": "tecnica/linea1/p105.jpg"
+  },
+  {
+    "number": 72,
+    "code": "TV 632",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO RAMIFICACIÓN NO. 63A  TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO, RAMIFICACIÓN NO. 63B TG 0.13 A LA DERECHA CERROJO AXIAL CONFORME AL PLANO DE ENSAMBLE TV No. 160 A RESERVA DE LAS INDICACIONES DE ESTE DIBUJO, PLANO DE COLOCACIÓN ESCALA 0.01",
+    "pdf": "tecnica/linea1/p106.pdf",
+    "preview": "tecnica/linea1/p106.jpg"
+  },
+  {
+    "number": 73,
+    "code": "TV 633",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO BRANCHEMENT NO. 13B TG 013 A DROITE - VERROU AXIAL, BRANCHEMENT NO. 13C TG 013 A GOUCHE - VERROU AXIAL, PLAN DE POSE",
+    "pdf": "tecnica/linea1/p107.pdf",
+    "preview": "tecnica/linea1/p107.jpg"
+  },
+  {
+    "number": 74,
+    "code": "TV 708",
+    "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES JUAN ACATLAN- TACUBAYA DEL PK 13-209 979 AL PK 13+840 600",
+    "pdf": "tecnica/linea1/p108.pdf",
+    "preview": "tecnica/linea1/p108.jpg"
+  },
+  {
+    "number": 75,
+    "code": "TV 746",
+    "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES JUAN ACATLAN- TACUBAYA DEL PK 13-209 979 AL PK 14+405 342",
+    "pdf": "tecnica/linea1/p109.pdf",
+    "preview": "tecnica/linea1/p109.jpg"
+  },
+  {
+    "number": 76,
+    "code": "TV 747",
+    "description": "LÍNEA 1 PLAN DE POSE SCHÉMATIQUE DES VOIES JTACUBAYA- OBSERVATORIO DEL PK 14+405 342 AL PK 15+993 312",
+    "pdf": "tecnica/linea1/p110.pdf",
+    "preview": "tecnica/linea1/p110.jpg"
+  },
+  {
+    "number": 77,
+    "code": "TV 748",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO PLAN DE POSE SCHÉMATIQUE DE VOIES",
+    "pdf": "tecnica/linea1/p111.pdf",
+    "preview": "tecnica/linea1/p111.jpg"
+  },
+  {
+    "number": 78,
+    "code": "TV 813",
+    "description": "LÍNEA 1 TERMINAL ZARAGOZA, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT, CONTRERAIL",
+    "pdf": "tecnica/linea1/p112.pdf",
+    "preview": "tecnica/linea1/p112.jpg"
+  },
+  {
+    "number": 79,
+    "code": "TV 819",
+    "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1 PLAN DE POSE",
+    "pdf": "tecnica/linea1/p113.pdf",
+    "preview": "tecnica/linea1/p113.jpg"
+  },
+  {
+    "number": 80,
+    "code": "TV 820",
+    "description": "RECORDEMENT ENTRE LES LIGNES NO. 1 ET 2 STATION PINO SUAREZ L, POSE DE CONTRARAILS AU DROIT D´UNE COUPURE DE BARRE DE GUIDAGE ET DE PRISE DE COURANT EN TALON DE L´APPAREIL No. 13 SUR LA LIGNE No. 1 CONTRARAILS",
+    "pdf": "tecnica/linea1/p114.pdf",
+    "preview": "tecnica/linea1/p114.jpg"
+  },
+  {
+    "number": 81,
+    "code": "TV 844",
+    "description": "ZONA TEST LÍNEA 1-2 ET 3, PLANS DE SITUATION",
+    "pdf": "tecnica/linea1/p115.pdf",
+    "preview": "tecnica/linea1/p115.jpg"
+  },
+  {
+    "number": 82,
+    "code": "TV 856",
+    "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"C\", PARA PASO DE PEATONES",
+    "pdf": "tecnica/linea1/p116.pdf",
+    "preview": "tecnica/linea1/p116.jpg"
+  },
+  {
+    "number": 83,
+    "code": "TV 857",
+    "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"D\", PARA PASO DE PEATONES (ECHELLE 0,2)",
+    "pdf": "tecnica/linea1/p117.pdf",
+    "preview": "tecnica/linea1/p117.jpg"
+  },
+  {
+    "number": 84,
+    "code": "TV 860",
+    "description": "TERMINAL OBSERVATORIO CORTES DE BARRA GUÍA PARA CRUCETAS SOBRE VÍA \"F\", PARA PASO DE PEATONES (ECHELLE 0,2)",
+    "pdf": "tecnica/linea1/p118.pdf",
+    "preview": "tecnica/linea1/p118.jpg"
+  },
+  {
+    "number": 85,
+    "code": "TV 861",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO CORTES DE BARRA CORRESPONDIENTE PARA LA CRUCETA \"A\" DE LA COMUNICACIÓN NO. 11-21 SUR VÍAS 1 Y 2",
+    "pdf": "tecnica/linea1/p119.pdf",
+    "preview": "tecnica/linea1/p119.jpg"
+  },
+  {
+    "number": 86,
+    "code": "TV 862",
+    "description": "LÍNEA 1 TERMINAL OBSERVATORIO DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS",
+    "pdf": "tecnica/linea1/p120.pdf",
+    "preview": "tecnica/linea1/p120.jpg"
+  },
+  {
+    "number": 87,
+    "code": "TV 863",
+    "description": "LÍNEA 1 ESTACIÓN OBSERVATORIO Y BORDES, DISPOSICIONES GENERALES DE LAS JUNTAS MECÁNICAS DE PK 15+600 A PK 15+954",
+    "pdf": "tecnica/linea1/p121.pdf",
+    "preview": "tecnica/linea1/p121.jpg"
+  },
+  {
+    "number": 88,
+    "code": "TV 876",
+    "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA ATELIER DE REVISION GENERALE, PLAN DE POSE DES APPAREILS No. 016- 020",
+    "pdf": "tecnica/linea1/p122.pdf",
+    "preview": "tecnica/linea1/p122.jpg"
+  },
+  {
+    "number": 89,
+    "code": "TV 877",
+    "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA GARAGE DE L´EXPLOITATION , PLAN DE POSE DES APPAREILS No. 6011- 6013 - 6014",
+    "pdf": "tecnica/linea1/p123.pdf",
+    "preview": "tecnica/linea1/p123.jpg"
+  },
+  {
+    "number": 90,
+    "code": "TV 878",
+    "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA EQUIPEMENT DES VOIES G1-2-3-4-5 SUR BALLAST VOIES DES HALLS DU GARAGE DE LÉXPLOITATION",
+    "pdf": "tecnica/linea1/p124.pdf",
+    "preview": "tecnica/linea1/p124.jpg"
+  },
+  {
+    "number": 91,
+    "code": "TV 880",
+    "description": "AGRANDISSEMENT DES ATELIERS DE ZARAGOZA POSE DE LA VOIE R6 AUX ABORDS DE LA PLAQUE TOURNANTE",
+    "pdf": "tecnica/linea1/p125.pdf",
+    "preview": "tecnica/linea1/p125.jpg"
+  },
+  {
+    "number": 92,
+    "code": "TV 47410062020",
+    "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 53 Y 54)",
+    "pdf": "tecnica/linea1/p020.pdf",
+    "preview": "tecnica/linea1/p020.jpg"
+  },
+  {
+    "number": 93,
+    "code": "TV 47510062020",
+    "description": "LÍNEA 1 INTERESTACIÓN CHAPULTEPEC - JUANACATLÁN ( CURVAS 55 Y 56)",
+    "pdf": "tecnica/linea1/p040.pdf",
+    "preview": "tecnica/linea1/p040.jpg"
+  }
+]

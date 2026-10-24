@@ -1,0 +1,401 @@
+{
+  "revision": 49,
+  "criterio": "Comparación con captura del usuario y posición de soportes en 39 GLB. Partes de basamento y collar no se tratan como columnas duplicadas.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "soportes_completos_revisados": 30,
+      "retirados": [
+        {
+          "node": 1242,
+          "nombre": "Pilar terminal",
+          "centro_m": [
+            -56.0,
+            3.299999952316284,
+            6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1243,
+          "nombre": "Pilar terminal.001",
+          "centro_m": [
+            -28.0,
+            3.299999952316284,
+            6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1244,
+          "nombre": "Pilar terminal.002",
+          "centro_m": [
+            0.0,
+            3.299999952316284,
+            6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1245,
+          "nombre": "Pilar terminal.003",
+          "centro_m": [
+            28.0,
+            3.299999952316284,
+            6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1246,
+          "nombre": "Pilar terminal.004",
+          "centro_m": [
+            56.0,
+            3.299999952316284,
+            6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1247,
+          "nombre": "Pilar terminal.005",
+          "centro_m": [
+            -56.0,
+            3.299999952316284,
+            -6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1248,
+          "nombre": "Pilar terminal.006",
+          "centro_m": [
+            -28.0,
+            3.299999952316284,
+            -6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1249,
+          "nombre": "Pilar terminal.007",
+          "centro_m": [
+            0.0,
+            3.299999952316284,
+            -6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1250,
+          "nombre": "Pilar terminal.008",
+          "centro_m": [
+            28.0,
+            3.299999952316284,
+            -6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        },
+        {
+          "node": 1251,
+          "nombre": "Pilar terminal.009",
+          "centro_m": [
+            56.0,
+            3.299999952316284,
+            -6.800000190734863
+          ],
+          "motivo": "Fila genérica adicional señalada por el usuario"
+        }
+      ],
+      "sha256": "63fa26e50ac3385f2e101caf6818b6ba1ceb76023dc9f00146395e5f9e383a2f"
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "2a721460407645b656ae35441f9cc464f4a07f4f3defc40892bdc1b9726f35e9"
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "92914f45cb5697f3afe004beee90247690664b8acdb254e2dc7b649ee6741aef"
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "cd55e0569583674e9c8b59a0d37833d69eaea4dc23cdf1d4ca86d46d484d44b5"
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "f9cb84b0224b1a7d47e61d933bb6f831219c3340be7ef8e2098152104795e552"
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "226d1fdcda8c30e37a2e6708b8c280787efe372af3d087f618097e6f85fffacb"
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "537429699bafe48649e4c919fca1090d6c2be05bb3da46c017e3b61eaf0c01de"
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "soportes_completos_revisados": 24,
+      "retirados": [
+        {
+          "node": 1301,
+          "nombre": "Columna pasarela Candelaria",
+          "centro_m": [
+            61.0,
+            4.2,
+            -7.5
+          ],
+          "motivo": "Soporte del extremo opuesto sin pasarela encima"
+        },
+        {
+          "node": 1302,
+          "nombre": "Columna pasarela Candelaria",
+          "centro_m": [
+            61.0,
+            4.2,
+            7.5
+          ],
+          "motivo": "Soporte del extremo opuesto sin pasarela encima"
+        }
+      ],
+      "sha256": "6368dfe304bd4b9172a7a65de9ea3f4e3fc821c50f686e61a2601fcf2d59daa4"
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "cfa447f2829ac18cf9be828551f45af50af0fefd6b7f9b3d06205d9d54f38d6b"
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "a1cd124c524d710ca0e3b1747acb0dbad9ab0949eead8675ea87187b5b717d38"
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "cf527496d2aa36afa9c4db21604b0d66cb93a74aa8ea47b2bdfc58d5943301f3"
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "b53bde2ff0b9f840667ebdd10f8be67ede96f465e1e6698a3ab19dd1560f1c7f"
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "ceee67979deeda75a5bc30ebe90591915f02577d5466eb8874e6991ee4bd5dc5"
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "00d73ba718bc08a518464f97ca0f99ebb660c197ff8dd93ce92c57c162bb3dec"
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "db5c52fc0d5c12e345dbeda282ff7ca9e07cd42be31875f6661f6a6476d2db2b"
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "5bdf0773f22e44a036af2891c181fc2e1a3bb3e26924eaf2dea3e6f645395f63"
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "soportes_completos_revisados": 20,
+      "retirados": [],
+      "sha256": "b28f990c33af78722ab6023250cf0931e5c9eb834124e21cebafdaf6c5c6e49d"
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "2a221b33f68c5185e07c0fa090976b4f749b67784bdf00cdb805ec4e5dffc530"
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "418130daeabb70f351c88e2625b07ef0b1f2be07fdd179478c4fe6c25c3499d4"
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "soportes_completos_revisados": 10,
+      "retirados": [],
+      "sha256": "22c6af6c2015496feb4e0111834b6b6000d1abb5e8527871a93d1ba3bd506ac0"
+    },
+    {
+      "id": "L8-01",
+      "nombre": "Garibaldi/Lagunilla",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "b0e73d0f8375099f3bfd1257f526abb2cefb719ab3f894b2a87fd94b8ebcb64b"
+    },
+    {
+      "id": "L8-02",
+      "nombre": "Bellas Artes",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "c8b4b16d4f116ced392b9d7c83026f6b47dfa5ea807d6feb882e7498bb7a5f10"
+    },
+    {
+      "id": "L8-03",
+      "nombre": "San Juan de Letrán",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "247e2f0e5aa7511220b890e45daaca9ad0ddd844ed42727e0e6c06cea13fa208"
+    },
+    {
+      "id": "L8-04",
+      "nombre": "Salto del Agua",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "cb3fcf8d560d71326bd481b63affa26d9d9dfb13b416e77a8fe5083b0bb28cda"
+    },
+    {
+      "id": "L8-05",
+      "nombre": "Doctores",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "5e4d007171bab7fd78e38d71b6f0c2dec1d911c8361a30c2b42553ea54ce2831"
+    },
+    {
+      "id": "L8-06",
+      "nombre": "Obrera",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "63dfe1d007f6a4dc3105d52997685f6b730e0b9c4de822a1a63cef54f2b8f486"
+    },
+    {
+      "id": "L8-07",
+      "nombre": "Chabacano",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "ee6b2b8688073d0341439a71743fa846d6890e8fa07dae88b1143ce1f8e11b4e"
+    },
+    {
+      "id": "L8-08",
+      "nombre": "La Viga",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "dc8d78140a65afca07960d5565ec9d9f54bfca6837086f547ccb6133858346af"
+    },
+    {
+      "id": "L8-09",
+      "nombre": "Santa Anita",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "d74d95c2ba51351d4ce69d47a98ab24ddb84aeff89d38ae07add5184a3976701"
+    },
+    {
+      "id": "L8-10",
+      "nombre": "Coyuya",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "ddba8d95f8c70ec2f5da2f0ba17cc5307df74c4ab9c81d08649a45b126d4ee27"
+    },
+    {
+      "id": "L8-11",
+      "nombre": "Iztacalco",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "3793239df2a8e482e4a5cdc927d63fdd71c747fc96e3262106cdb65ff407b03b"
+    },
+    {
+      "id": "L8-12",
+      "nombre": "Apatlaco",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "a6e666c9a12e2f07833c338b067b44b76d4740a37acde5ea46decd5fa98cd130"
+    },
+    {
+      "id": "L8-13",
+      "nombre": "Aculco",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "49e6f6153b198eb120417f9de411121651b27c89b6d6599c8267e80e35fd8345"
+    },
+    {
+      "id": "L8-14",
+      "nombre": "Escuadrón 201",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "77d4ebb3c9540dd37a5c0b7f83e820711fda28b79a8ae4ae705aea876f41b501"
+    },
+    {
+      "id": "L8-15",
+      "nombre": "Atlalilco",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "ca28fc170f045d74e91508aa9cb6b9c90a061a64ffc445ce8337ee4c29ef2111"
+    },
+    {
+      "id": "L8-16",
+      "nombre": "Iztapalapa",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "1c8435784e7a915b10bf6d858c31e72847f4c7613c1277e5e31e478187eba596"
+    },
+    {
+      "id": "L8-17",
+      "nombre": "Cerro de la Estrella",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "d2b1b2f86c8d0782cf930180322d4ebfcd6b453aa7b685a49af242c425b3469f"
+    },
+    {
+      "id": "L8-18",
+      "nombre": "UAM-I",
+      "soportes_completos_revisados": 18,
+      "retirados": [],
+      "sha256": "9954b83d83565a1899afa82aea416ea77f6652082b6968749519570e69b44f15"
+    },
+    {
+      "id": "L8-19",
+      "nombre": "Constitución de 1917",
+      "soportes_completos_revisados": 0,
+      "retirados": [],
+      "sha256": "d2827f7e2284e9226ed8a1f3137e87a9e880016e637ca4dbea65c654ff1eba01"
+    }
+  ]
+}

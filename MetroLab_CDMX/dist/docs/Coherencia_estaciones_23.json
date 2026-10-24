@@ -1,0 +1,557 @@
+{
+  "imagenes_accesibles_revisadas": 104,
+  "imagenes_no_legibles": [
+    "image(20261009-054501).png",
+    "image(20261009-055958).png"
+  ],
+  "criterio": "Comparación visual; fecha de captura y dimensiones no verificadas. Vistas rotuladas de la estación preferidas frente a imágenes ambiguas.",
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "nombre": "Pantitlán",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_01_Pantitlan.glb",
+      "referencia_principal": "image(20261010-075535).png",
+      "criterio": "Andén claro con piso gris; mantener separadores y señalización.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "f14ae942e1f1f0cd7dac4f131a68fd2a75c27f818239e34a2f7d78ba87be9c14"
+    },
+    {
+      "id": "L1-02",
+      "nombre": "Zaragoza",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_02_Zaragoza.glb",
+      "referencia_principal": "image(20261010-075429).png",
+      "criterio": "Priorizar la vista con franja rosa y pared clara; excluir la imagen 075421 de señalización verde.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "4782a95ca9d65973729f2f9dcdfeaa625cd4e9bdb488716aae2d7a8509259182"
+    },
+    {
+      "id": "L1-03",
+      "nombre": "Gómez Farías",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_03_Gomez_Farias.glb",
+      "referencia_principal": "image(20261010-075312).png",
+      "criterio": "Pared marfil clara y plafón lateral metálico; evitar un baño amarillo sobre toda la estación.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "d50601adbfc19c0e63a7214a656f4ef7435049794c3c025427f9340838ba4c42"
+    },
+    {
+      "id": "L1-04",
+      "nombre": "Boulevard Puerto Aéreo",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb",
+      "referencia_principal": "image(20261010-074935).png",
+      "criterio": "Panel claro y franja rosa; el túnel oscuro es una vista distinta, no un acabado de la estación.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "8672ee179c322c2e65ab4031eb0038f143a2c0bc182c0e7de0c690891d1d9609"
+    },
+    {
+      "id": "L1-05",
+      "nombre": "Balbuena",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_05_Balbuena.glb",
+      "referencia_principal": "image(20261010-074836).png",
+      "criterio": "Pared clara, piso gris y plafón lateral claro.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "1be8f332f81a913f76cfefe4ca086a315ca619da5f14d00c28b99699ed0ac10d"
+    },
+    {
+      "id": "L1-06",
+      "nombre": "Moctezuma",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_06_Moctezuma.glb",
+      "referencia_principal": "image(20261010-074658).png",
+      "criterio": "La vista renovada muestra panel blanco; las vistas con plafón anterior se conservan como contexto.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "8f515c217ae56051281bb67f7360cfed209f748d9b1c8fd248eafac88e936157"
+    },
+    {
+      "id": "L1-07",
+      "nombre": "San Lázaro",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_07_San_Lazaro.glb",
+      "referencia_principal": "image(20261010-074512).png",
+      "criterio": "Priorizar andén de Línea 1; no mezclarlo con otras zonas del complejo de correspondencia.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "3c5d2afad13227675dce8d86ed182c9d563816da55478ca10d5ecc9465cad3ee"
+    },
+    {
+      "id": "L1-08",
+      "nombre": "Candelaria",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_08_Candelaria.glb",
+      "referencia_principal": "image(20261010-074254).png",
+      "criterio": "Panel claro y pasarela; 074312 contiene iconografía asociada a Pino Suárez y no define el acabado.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "131f7bcee21a8777c3300369e0f9f06c1143388aa31156172c85855026960cee"
+    },
+    {
+      "id": "L1-09",
+      "nombre": "Merced",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_09_Merced.glb",
+      "referencia_principal": "image(20261010-074038).png",
+      "criterio": "Panel blanco enmarcado de rosa; diferenciar las imágenes con plafón anterior.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "3a0389604fbdad249d81cdef975c963c8660d2a855629a737b7097b540851d73"
+    },
+    {
+      "id": "L1-10",
+      "nombre": "Pino Suárez",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_10_Pino_Suarez.glb",
+      "referencia_principal": "image(20261009-063803).png",
+      "criterio": "Las imágenes con murales azules y plafón cuadriculado corresponden a otro acabado; priorizar 063803.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "cc0d105ab323eac6986fabb1a37633b1c4d45cb2ddaac8e5b513d9af6637b36c"
+    },
+    {
+      "id": "L1-11",
+      "nombre": "Isabel la Católica",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb",
+      "referencia_principal": "image(20261009-063446).png",
+      "criterio": "Pared clara de aspecto mineral y remate gris con emblema; evitar tratarla como piedra amarilla.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "e26b826f294d7776134843ff60bcd0b8e48f3cc36d7d98b1dcb5022671339aed"
+    },
+    {
+      "id": "L1-12",
+      "nombre": "Salto del Agua",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_12_Salto_del_Agua.glb",
+      "referencia_principal": "image(20261009-063102).png",
+      "criterio": "Panel blanco y franja rosa; conservar correspondencia y pictograma.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "d7d381622d130ef73b1beec588768e81b9526065279342d13f36ba84f82f7886"
+    },
+    {
+      "id": "L1-13",
+      "nombre": "Balderas",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_13_Balderas.glb",
+      "referencia_principal": "image(20261009-062335).png",
+      "criterio": "Revestimiento mineral claro y correspondencia amarilla; no extrapolar el tren verde de 062256 a la estación.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "151547ba638a80c4a20c8274d25e4ee366251b43f0f275290208f2904f03baad"
+    },
+    {
+      "id": "L1-14",
+      "nombre": "Cuauhtémoc",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_14_Cuauhtemoc.glb",
+      "referencia_principal": "image(20261009-061917).png",
+      "criterio": "Priorizar la imagen rotulada Cuauhtémoc 061917; 061756 repite una vista rotulada Insurgentes.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "dee76cacd496ed241175634be8d79f8112f26f74b2b1bb45f54137492041aed3"
+    },
+    {
+      "id": "L1-15",
+      "nombre": "Insurgentes",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_15_Insurgentes.glb",
+      "referencia_principal": "image(20261009-061608).png",
+      "criterio": "Conservar matiz cálido del revestimiento y separar los acabados antiguos del conjunto renovado.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "c5ac82a244e83e90b63989d3d9659eee5c41f110ae7cbed4342cb2616774c003"
+    },
+    {
+      "id": "L1-16",
+      "nombre": "Sevilla",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_16_Sevilla.glb",
+      "referencia_principal": "image(20261009-061058).png",
+      "criterio": "Las vistas antiguas de pared mineral no sustituyen el panel claro de 061058.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "4669d26edde3a7e3fd0f617b9adeffbea25ec14d43c06bb8ed9d2d6e139b43a7"
+    },
+    {
+      "id": "L1-17",
+      "nombre": "Chapultepec",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_17_Chapultepec.glb",
+      "referencia_principal": "image(20261009-060625).png",
+      "criterio": "Panel claro y pasarela; no usar el interior de un tren como evidencia arquitectónica.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "534f498f6f37c3fba30b99c11491d93ec9b723f27359e533e45025a97ffa4e26"
+    },
+    {
+      "id": "L1-18",
+      "nombre": "Juanacatlán",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_18_Juanacatlan.glb",
+      "referencia_principal": "image(20261009-055539).png",
+      "criterio": "Panel claro y plafón lateral metálico; pictograma de ave propio de la estación.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "be20d78b00682a2ba4449ff4879be57257171e304defc16f33a5f7d0f422f683"
+    },
+    {
+      "id": "L1-19",
+      "nombre": "Tacubaya",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_19_Tacubaya.glb",
+      "referencia_principal": "image(20261009-054914).png",
+      "criterio": "Mantener matiz mineral cálido en el revestimiento; las vistas de plafón cuadriculado y techo oscuro no son intercambiables.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "d51493b38450ecff7a3cba5369079f6283d203d703acf4fd7f54644f7c72ad9e"
+    },
+    {
+      "id": "L1-20",
+      "nombre": "Observatorio",
+      "linea": 1,
+      "modelo": "models/andenes/L1/L1_20_Observatorio.glb",
+      "referencia_principal": "image(20261009-054243).png",
+      "criterio": "Panel claro, cubierta metálica elevada y cerchas; conservar arquitectura específica de terminal.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Franja y marcos con tono rosa coherente",
+        "Piso con reflexión moderada y sin metalicidad",
+        "Revestimiento corregido desde la referencia seleccionada"
+      ],
+      "sha256": "01ed606a7fa05fced3ffc456faf375e1953db77efb98c41fc42412741694e6c5"
+    },
+    {
+      "id": "L8-01",
+      "nombre": "Garibaldi/Lagunilla",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_01_Garibaldi_Lagunilla.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "2dfd5bcbb84f1b635db9150b9483c3458b29370e77f6f457f150002ef38b0ef6"
+    },
+    {
+      "id": "L8-02",
+      "nombre": "Bellas Artes",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_02_Bellas_Artes.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "bd74916036b2842d900200fe552abd69fe8126d1b28a809927e40c0ce33f4217"
+    },
+    {
+      "id": "L8-03",
+      "nombre": "San Juan de Letrán",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_03_San_Juan_de_Letran.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "de6a02d97ec28841c3a12bad3f7bba503a89442024de9078be9381e7e1844425"
+    },
+    {
+      "id": "L8-04",
+      "nombre": "Salto del Agua",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_04_Salto_del_Agua.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "7380f8c4bb766cf139c318e3dd6f84b3a5fea39a7c67f486ef5f7dce6da37710"
+    },
+    {
+      "id": "L8-05",
+      "nombre": "Doctores",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_05_Doctores.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "aa69cecf4a87d6b6bb56650dcc0816c155df85106ee7e2022b6e2c358a2e72f9"
+    },
+    {
+      "id": "L8-06",
+      "nombre": "Obrera",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_06_Obrera.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "6c976eee74d923bae6bb8eca7bb796bb41e0571f90edc01e41416dd39cebdf2d"
+    },
+    {
+      "id": "L8-07",
+      "nombre": "Chabacano",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_07_Chabacano.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "dada0f9c62bb822df491e9916fe095e8236772f082029048b2b3a685f0fa0230"
+    },
+    {
+      "id": "L8-08",
+      "nombre": "La Viga",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_08_La_Viga.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "2e3d8416336a8d3b48818f71cab3cb10a5b2d8db424e763f8e4b9ea0e3befaa6"
+    },
+    {
+      "id": "L8-09",
+      "nombre": "Santa Anita",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_09_Santa_Anita.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "7501c8dd31dc986a79c7a9748d77bebcef25af01eeb6bb4eb9cfa54988cda78c"
+    },
+    {
+      "id": "L8-10",
+      "nombre": "Coyuya",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_10_Coyuya.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "6f820a30c0d998689f7d31497c1ba47d386f9726d4f6d147ae660a8179084b79"
+    },
+    {
+      "id": "L8-11",
+      "nombre": "Iztacalco",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_11_Iztacalco.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "aa25a3d2219aa875bcc90de613eb469c54d523ff92db620468c7d9c1ecc77124"
+    },
+    {
+      "id": "L8-12",
+      "nombre": "Apatlaco",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_12_Apatlaco.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "d11f622b799b050dd52fe4ff9358bfd46388187a626ba576ba4faf54a8ef7862"
+    },
+    {
+      "id": "L8-13",
+      "nombre": "Aculco",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_13_Aculco.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "d5c3dfeeab83e0b3c4540d76113e15b0dab68fc1c457a040c927460dc29d6ec7"
+    },
+    {
+      "id": "L8-14",
+      "nombre": "Escuadrón 201",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_14_Escuadron_201.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "8e0a0914f07e9ca526400404e96e0ae83870a5f943c99e3f92df94a904386ee3"
+    },
+    {
+      "id": "L8-15",
+      "nombre": "Atlalilco",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_15_Atlalilco.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "f09a990482fffac12da34ee3a62b5faf523dac44b1436d7f666e036747d5162b"
+    },
+    {
+      "id": "L8-16",
+      "nombre": "Iztapalapa",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_16_Iztapalapa.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "05ee500ffd2b8285612b024d17e48064b2675216f36e2a0d3565f906b0c2eadb"
+    },
+    {
+      "id": "L8-17",
+      "nombre": "Cerro de la Estrella",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_17_Cerro_de_la_Estrella.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "d96a4eb3a075724276c79e4f9b2c419ca133e161d63d06e3048ebdee5ada36e1"
+    },
+    {
+      "id": "L8-18",
+      "nombre": "UAM-I",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_18_UAM_I.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "90bfe55920a6fa37835f1b780516cc429a9e144b65a32b7cb2d3d3f06aa3556d"
+    },
+    {
+      "id": "L8-19",
+      "nombre": "Constitución de 1917",
+      "linea": 8,
+      "modelo": "models/andenes/L8/L8_19_Constitucion_de_1917.glb",
+      "referencia_principal": null,
+      "criterio": "Revisión común de materiales e iluminación; se conserva la paleta y arquitectura del video de Línea 8. Sin nuevas fotografías por estación en este lote.",
+      "cambios": [
+        "Difusor neutro sin dominante azul",
+        "Piso con reflexión moderada y sin metalicidad"
+      ],
+      "sha256": "f5c0a5e3bb076959416bb70605a3497029d497d68e1291893473785071952dd4"
+    }
+  ]
+}

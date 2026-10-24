@@ -1,0 +1,200 @@
+{
+  "estaciones": [
+    {
+      "id": "L1-01",
+      "elementos_retirados": 10,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-02",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-03",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-04",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-05",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-06",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-07",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-08",
+      "elementos_retirados": 2,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-09",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-10",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-11",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-12",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-13",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-14",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-15",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-16",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-17",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-18",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-19",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L1-20",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-01",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-02",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-03",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-04",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-05",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-06",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-07",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-08",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-09",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-10",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-11",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-12",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-13",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-14",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-15",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-16",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-17",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-18",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    },
+    {
+      "id": "L8-19",
+      "elementos_retirados": 0,
+      "resto_de_geometria_uv_materiales_conservados": true
+    }
+  ],
+  "metodo": "Comparaci\u00f3n de arrays glTF, matrices y materiales contra v48, exceptuando las 12 piezas retiradas; no prueba WebGL."
+}

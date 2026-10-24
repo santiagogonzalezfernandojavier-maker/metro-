@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "L1-01",
+    "nombre": "Pantitlán",
+    "segundo": 14,
+    "fotograma": "L1-01_14s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_01_Pantitlan.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "terminal",
+    "acabado": "stone",
+    "confianza_visual": "media",
+    "observado": "Extremo de terminal claro, bloques sobre accesos y dos bordes de andén; planta longitudinal incompleta. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1332,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_01_Pantitlan.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-01_14s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.4,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Extremo de terminal claro, bloques sobre accesos y dos bordes de andén; planta longitudinal incompleta.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 14,
+        "fotograma": "L1-01_14s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-01_14s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 30,
+      "url_fotograma": "referencias/L1/L1_01_0030s.jpg"
+    }
+  },
+  {
+    "id": "L1-02",
+    "nombre": "Zaragoza",
+    "segundo": 190,
+    "fotograma": "L1-02_190s_perspectiva2.jpg",
+    "fotogramas_complementarios": [
+      {
+        "segundo": 140,
+        "fotograma": "referencias/L1_02_complementaria_0140s.jpg"
+      },
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 190,
+        "fotograma": "L1-02_190s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-02_190s_perspectiva2.jpg"
+      }
+    ],
+    "archivo_glb": "GLB/L1_02_Zaragoza.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "railing",
+    "acabado": "stone",
+    "confianza_visual": "media",
+    "observado": "Barandales rosas delimitan un acceso; plafón blanco, paneles crema y franja rosa. Otro tren oculta el lado opuesto. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1362,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_02_Zaragoza.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-02_190s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Barandales rosas delimitan un acceso; plafón blanco, paneles crema y franja rosa. Otro tren oculta el lado opuesto.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 145,
+      "url_fotograma": "referencias/L1/L1_02_0145s.jpg"
+    }
+  },
+  {
+    "id": "L1-03",
+    "nombre": "Gómez Farías",
+    "segundo": 266,
+    "fotograma": "L1-03_266s_perspectiva2.jpg",
+    "fotogramas_complementarios": [
+      {
+        "segundo": 205,
+        "fotograma": "referencias/L1_03_complementaria_0205s.jpg"
+      },
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 266,
+        "fotograma": "L1-03_266s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-03_266s_perspectiva2.jpg"
+      }
+    ],
+    "archivo_glb": "GLB/L1_03_Gomez_Farias.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "cream",
+    "confianza_visual": "alta",
+    "observado": "Paneles crema, pilastras rectangulares claras y plafones blancos continuos a ambos lados. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_03_Gomez_Farias.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-03_266s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Paneles crema, pilastras rectangulares claras y plafones blancos continuos a ambos lados.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 210,
+      "url_fotograma": "referencias/L1/L1_03_0210s.jpg"
+    }
+  },
+  {
+    "id": "L1-04",
+    "nombre": "Boulevard Puerto Aéreo",
+    "segundo": 338,
+    "fotograma": "L1-04_338s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_04_Boulevard_Puerto_Aereo.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "ivory",
+    "confianza_visual": "media",
+    "observado": "Paredes claras y salientes anchos de acceso; plafón blanco. El tren opuesto limita la vista. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_04_Boulevard_Puerto_Aereo.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-04_338s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.7,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Paredes claras y salientes anchos de acceso; plafón blanco. El tren opuesto limita la vista.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 338,
+        "fotograma": "L1-04_338s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-04_338s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 270,
+      "url_fotograma": "referencias/L1/L1_04_0270s.jpg"
+    }
+  },
+  {
+    "id": "L1-05",
+    "nombre": "Balbuena",
+    "segundo": 394,
+    "fotograma": "L1-05_394s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_05_Balbuena.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "flat",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Andenes largos claros, revestimiento continuo y banda rosa bajo el plafón blanco. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1282,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_05_Balbuena.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-05_394s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.7,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Andenes largos claros, revestimiento continuo y banda rosa bajo el plafón blanco.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 394,
+        "fotograma": "L1-05_394s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-05_394s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 330,
+      "url_fotograma": "referencias/L1/L1_05_0330s.jpg"
+    }
+  },
+  {
+    "id": "L1-06",
+    "nombre": "Moctezuma",
+    "segundo": 474,
+    "fotograma": "L1-06_474s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_06_Moctezuma.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "flat",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Paneles claros con banda rosa, columnas o machones integrados a pared y luminarias continuas. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1282,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_06_Moctezuma.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-06_474s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.7,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Paneles claros con banda rosa, columnas o machones integrados a pared y luminarias continuas.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 474,
+        "fotograma": "L1-06_474s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-06_474s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 390,
+      "url_fotograma": "referencias/L1/L1_06_0390s.jpg"
+    }
+  },
+  {
+    "id": "L1-07",
+    "nombre": "San Lázaro",
+    "segundo": 550,
+    "fotograma": "L1-07_550s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_07_San_Lazaro.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "access",
+    "acabado": "ivory",
+    "confianza_visual": "media",
+    "observado": "Salientes y accesos entre módulos de pared clara; rótulos y gabinete luminoso rojo visibles. Detalles ocultos por personas. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_07_San_Lazaro.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-07_550s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Salientes y accesos entre módulos de pared clara; rótulos y gabinete luminoso rojo visibles. Detalles ocultos por personas.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 550,
+        "fotograma": "L1-07_550s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-07_550s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 450,
+      "url_fotograma": "referencias/L1/L1_07_0450s.jpg"
+    }
+  },
+  {
+    "id": "L1-08",
+    "nombre": "Candelaria",
+    "segundo": 642,
+    "fotograma": "L1-08_642s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_08_Candelaria.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "ivory",
+    "confianza_visual": "media",
+    "observado": "Remates de andén blancos y gabinetes rojos; el fotograma muestra especialmente el extremo. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_08_Candelaria.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-08_642s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Remates de andén blancos y gabinetes rojos; el fotograma muestra especialmente el extremo.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 642,
+        "fotograma": "L1-08_642s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-08_642s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 530,
+      "url_fotograma": "referencias/L1/L1_08_0530s.jpg"
+    }
+  },
+  {
+    "id": "L1-09",
+    "nombre": "Merced",
+    "segundo": 730,
+    "fotograma": "L1-09_730s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_09_Merced.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "access",
+    "acabado": "cream",
+    "confianza_visual": "media",
+    "observado": "Accesos y módulos claros con banda rosa; alta ocupación y tren ocultan parte de la arquitectura. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_09_Merced.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-09_730s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Accesos y módulos claros con banda rosa; alta ocupación y tren ocultan parte de la arquitectura.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 730,
+        "fotograma": "L1-09_730s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-09_730s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 610,
+      "url_fotograma": "referencias/L1/L1_09_0610s.jpg"
+    }
+  },
+  {
+    "id": "L1-10",
+    "nombre": "Pino Suárez",
+    "segundo": 838,
+    "fotograma": "L1-10_838s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_10_Pino_Suarez.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "flat",
+    "acabado": "stone",
+    "confianza_visual": "media",
+    "observado": "Andenes laterales claros y plafones longitudinales; aproximación breve y vista oblicua. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1282,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_10_Pino_Suarez.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-10_838s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Andenes laterales claros y plafones longitudinales; aproximación breve y vista oblicua.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 838,
+        "fotograma": "L1-10_838s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-10_838s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 705,
+      "url_fotograma": "referencias/L1/L1_10_0705s.jpg"
+    }
+  },
+  {
+    "id": "L1-11",
+    "nombre": "Isabel la Católica",
+    "segundo": 894,
+    "fotograma": "L1-11_894s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_11_Isabel_la_Catolica.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "stone",
+    "confianza_visual": "media",
+    "observado": "Banda rosa y paños claros con carteles; un tren oculta buena parte del otro andén. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_11_Isabel_la_Catolica.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-11_894s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.7,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Banda rosa y paños claros con carteles; un tren oculta buena parte del otro andén.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 894,
+        "fotograma": "L1-11_894s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-11_894s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 750,
+      "url_fotograma": "referencias/L1/L1_11_0750s.jpg"
+    }
+  },
+  {
+    "id": "L1-12",
+    "nombre": "Salto del Agua",
+    "segundo": 942,
+    "fotograma": "L1-12_942s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_12_Salto_del_Agua.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Machones claros y techo central oscuro; paños de anuncios y luminarias blancas visibles. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_12_Salto_del_Agua.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-12_942s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Machones claros y techo central oscuro; paños de anuncios y luminarias blancas visibles.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 942,
+        "fotograma": "L1-12_942s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-12_942s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 810,
+      "url_fotograma": "referencias/L1/L1_12_0810s.jpg"
+    }
+  },
+  {
+    "id": "L1-13",
+    "nombre": "Balderas",
+    "segundo": 1002,
+    "fotograma": "L1-13_1002s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_13_Balderas.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "access",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Machones claros, recesos en pared y letreros amarillos sobre accesos; plafón blanco y vías bajo zona oscura. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_13_Balderas.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-13_1002s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Machones claros, recesos en pared y letreros amarillos sobre accesos; plafón blanco y vías bajo zona oscura.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1002,
+        "fotograma": "L1-13_1002s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-13_1002s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 930,
+      "url_fotograma": "referencias/L1/L1_13_0930s.jpg"
+    }
+  },
+  {
+    "id": "L1-14",
+    "nombre": "Cuauhtémoc",
+    "segundo": 1086,
+    "fotograma": "L1-14_1086s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_14_Cuauhtemoc.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "pilaster",
+    "acabado": "ivory",
+    "confianza_visual": "media",
+    "observado": "Remates blancos, plafón continuo y franja rosa; breve vista del extremo del andén. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_14_Cuauhtemoc.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-14_1086s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Remates blancos, plafón continuo y franja rosa; breve vista del extremo del andén.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1086,
+        "fotograma": "L1-14_1086s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-14_1086s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 970,
+      "url_fotograma": "referencias/L1/L1_14_0970s.jpg"
+    }
+  },
+  {
+    "id": "L1-15",
+    "nombre": "Insurgentes",
+    "segundo": 1174,
+    "fotograma": "L1-15_1174s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_15_Insurgentes.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "access",
+    "acabado": "stone",
+    "confianza_visual": "alta",
+    "observado": "Accesos intercalados en paredes claras, letreros amarillos y elementos de delimitación rojos visibles. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_15_Insurgentes.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-15_1174s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Accesos intercalados en paredes claras, letreros amarillos y elementos de delimitación rojos visibles.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1174,
+        "fotograma": "L1-15_1174s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-15_1174s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1050,
+      "url_fotograma": "referencias/L1/L1_15_1050s.jpg"
+    }
+  },
+  {
+    "id": "L1-16",
+    "nombre": "Sevilla",
+    "segundo": 1242,
+    "fotograma": "L1-16_1242s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_16_Sevilla.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "flat",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Paños claros entre salientes y plafón blanco continuo, banda rosa y carteles encuadrados. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1282,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_16_Sevilla.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-16_1242s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.8,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Paños claros entre salientes y plafón blanco continuo, banda rosa y carteles encuadrados.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1242,
+        "fotograma": "L1-16_1242s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-16_1242s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1110,
+      "url_fotograma": "referencias/L1/L1_16_1110s.jpg"
+    }
+  },
+  {
+    "id": "L1-17",
+    "nombre": "Chapultepec",
+    "segundo": 1290,
+    "fotograma": "L1-17_1290s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_17_Chapultepec.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "access",
+    "acabado": "ivory",
+    "confianza_visual": "media",
+    "observado": "Módulos claros con accesos y letreros amarillos; tren opuesto oculta el otro andén. Perspectiva complementaria: paneles claros, banda rosa y plafones iluminados; algunos extremos quedan ocultos.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1322,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_17_Chapultepec.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-17_1290s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 5.0,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Módulos claros con accesos y letreros amarillos; tren opuesto oculta el otro andén.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1290,
+        "fotograma": "L1-17_1290s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-17_1290s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1165,
+      "url_fotograma": "referencias/L1/L1_17_1165s.jpg"
+    }
+  },
+  {
+    "id": "L1-18",
+    "nombre": "Juanacatlán",
+    "segundo": 1398,
+    "fotograma": "L1-18_1398s_perspectiva2.jpg",
+    "archivo_glb": "GLB/L1_18_Juanacatlan.glb",
+    "tipo": "anden cubierto visible",
+    "familia_visual": "flat",
+    "acabado": "stone",
+    "confianza_visual": "alta",
+    "observado": "Paredes beige claras, plafones bajos blancos y paneles publicitarios enmarcados en rosa. Perspectiva complementaria: paños beige con textura pétrea, banda rosa y luminarias longitudinales.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1282,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_18_Juanacatlan.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-18_1398s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 4.7,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Paredes beige claras, plafones bajos blancos y paneles publicitarios enmarcados en rosa.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "fotogramas_complementarios": [
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1398,
+        "fotograma": "L1-18_1398s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-18_1398s_perspectiva2.jpg"
+      }
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1250,
+      "url_fotograma": "referencias/L1/L1_18_1250s.jpg"
+    }
+  },
+  {
+    "id": "L1-19",
+    "nombre": "Tacubaya",
+    "segundo": 1502,
+    "fotograma": "L1-19_1502s_perspectiva2.jpg",
+    "fotogramas_complementarios": [
+      {
+        "segundo": 1340,
+        "fotograma": "referencias/L1_19_complementaria_1340s.jpg"
+      },
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1502,
+        "fotograma": "L1-19_1502s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-19_1502s_perspectiva2.jpg"
+      }
+    ],
+    "archivo_glb": "GLB/L1_19_Tacubaya.glb",
+    "tipo": "cubierta central elevada visible",
+    "familia_visual": "clerestory",
+    "acabado": "stone",
+    "confianza_visual": "alta",
+    "observado": "Gran vano central elevado con paños translúcidos, plafones laterales blancos y accesos marcados. Perspectiva complementaria: mural monocromático sobre paneles beige, banda rosa, plafones laterales y estructura central elevada; fragmento del mural visible en toma lateral.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1438,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_19_Tacubaya.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-19_1502s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 7.1,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Gran vano central elevado con paños translúcidos, plafones laterales blancos y accesos marcados.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1345,
+      "url_fotograma": "referencias/L1/L1_19_1345s.jpg"
+    }
+  },
+  {
+    "id": "L1-20",
+    "nombre": "Observatorio",
+    "segundo": 1638,
+    "fotograma": "L1-20_1638s_perspectiva2.jpg",
+    "fotogramas_complementarios": [
+      {
+        "segundo": 1425,
+        "fotograma": "referencias/L1_20_complementaria_1425s.jpg"
+      },
+      {
+        "segundo": 1435,
+        "fotograma": "referencias/L1_20_complementaria_1435s.jpg"
+      },
+      {
+        "fuente": "VIDEO-L1-USUARIO-2",
+        "segundo": 1638,
+        "fotograma": "L1-20_1638s_perspectiva2.jpg",
+        "url_fotograma": "referencias/L1/L1-20_1638s_perspectiva2.jpg"
+      }
+    ],
+    "archivo_glb": "GLB/L1_20_Observatorio.glb",
+    "tipo": "cubierta central elevada visible",
+    "familia_visual": "metalroof",
+    "acabado": "ivory",
+    "confianza_visual": "alta",
+    "observado": "Cubierta central metálica oscura con vigas expuestas; plafones laterales blancos, banda rosa y pavimento de tonos grises. Perspectiva complementaria: cubierta metálica con vigas expuestas, plafones laterales claros, columnas y banda rosa; vista de terminal y salida al exterior.",
+    "supuestos": [
+      "Cotas provisionales: longitud 150 m; dos andenes laterales de 4.8 m; plataforma a 1.2 m.",
+      "Cara oculta reconstruida por simetría aproximada; los videos no muestran una planta completa.",
+      "Posición y número de pilares, accesos, equipos y letreros aproximados; los mapas de línea son esquemáticos.",
+      "No se dispone de planos acotados ni fecha confirmada de grabación."
+    ],
+    "componentes": 1442,
+    "linea": 1,
+    "url_glb": "models/andenes/L1/L1_20_Observatorio.glb?revision=L1-PBR-20261008",
+    "url_fotograma": "referencias/L1/L1-20_1638s_perspectiva2.jpg",
+    "fuente": "VIDEO-L1-USUARIO-2",
+    "fecha_grabacion": "No confirmada",
+    "tipo_anden_modelado": "dos laterales",
+    "dimensiones_provisionales_m": {
+      "longitud": 150,
+      "ancho_por_anden": 4.8,
+      "altura_plataforma": 1.2,
+      "altura_cubierta_central": 6.3,
+      "centros_vias": [
+        -1.8,
+        1.8
+      ],
+      "borde_andenes": [
+        -3.25,
+        3.25
+      ]
+    },
+    "observado_anterior": "Cubierta central metálica oscura con vigas expuestas; plafones laterales blancos, banda rosa y pavimento de tonos grises.",
+    "revision_modelo": "L1-PBR-2026-10-08",
+    "texturas": "PBR embebidas: terrazo, revestimiento y microrelieve",
+    "fuentes_visuales": [
+      "VIDEO-L1-USUARIO",
+      "VIDEO-L1-USUARIO-2"
+    ],
+    "referencia_anterior": {
+      "fuente": "VIDEO-L1-USUARIO",
+      "segundo": 1455,
+      "url_fotograma": "referencias/L1/L1_20_1455s.jpg"
+    }
+  }
+]
