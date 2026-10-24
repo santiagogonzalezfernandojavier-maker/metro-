@@ -12,3 +12,9 @@ En Subestación → Mantenimiento, pulsa **Entrar en primera persona**. El naveg
 El panel ya no ocupa una columna permanente: se abre sobre la escena. El objetivo actual y la respuesta de la práctica se muestran en una tarjeta breve. El plan conserva el checklist y los controles de lectura/interpretación. Para arrastres precisos de piezas y herramientas también se conserva la interacción con cursor libre.
 
 Comprobación automatizada: `node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_controles181.mjs`, además de imports, andén, mantenimiento de trenes y servidor. Las pruebas CPU/DOM no certifican el rendimiento gráfico en un navegador con GPU.
+
+## Corrección de entrada y colisiones (183)
+
+Al terminar la carga de la práctica se enfoca el canvas después de desbloquear la interfaz: WASD funciona sin hacer clic primero en otro botón. También puedes activar la captura del mouse con el primer clic sobre la escena; Esc conserva el modo de cursor libre para trabajar con precisión.
+
+Las mallas grandes exportadas desde Blender pueden agrupar objetos separados. La colisión ahora usa cajas por triángulo en esas mallas y un índice espacial, para no convertir el espacio entre equipos en una pared. La posición inicial busca un lugar libre con espacio delante; se conservan colisiones con los equipos sólidos.
