@@ -31,6 +31,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Verificar sincronización automática conservadora
+        run: python3 scripts/verificar_servicio_codespace.py
       - name: Verificar módulos y controles
         run: |
           node scripts/verificar_imports122.mjs
