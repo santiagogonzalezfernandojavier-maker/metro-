@@ -13,7 +13,7 @@ async function nativeBag(){
  const base=new T.Mesh(new T.BoxGeometry(.47,.012,.23),lining);base.name='Forro interior acolchado186';base.position.y=-.046;root.add(base);
  const ribs=new T.InstancedMesh(new T.BoxGeometry(.012,.008,.22),lining,7),pose=new T.Matrix4();for(let i=0;i<7;i++){pose.makeTranslation(-.20+i*.066,-.036,0);ribs.setMatrixAt(i,pose);}ribs.name='Refuerzos de lona186';root.add(ribs);
  const seams=new T.InstancedMesh(new T.BoxGeometry(.004,.002,.002),thread,80);for(let i=0;i<80;i++){pose.makeTranslation(-.22+(i%40)*.0113,-.037,i<40?-.105:.105);seams.setMatrixAt(i,pose);}seams.name='Doble costura interior186';root.add(seams);
-refineSurfaceMaterials100(root);mat.visible=false;mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
+refineSurfaceMaterials100(root);mat.visible=false;mat.removeFromParent();mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
 }
 const ease=t=>{t=T.MathUtils.clamp(t,0,1);return t*t*(3-2*t);};
 const names={hand:'Guante de trabajo',screwdriver:'Destornillador',driver:'Destornillador',wrench:'Llave',brush:'Cepillo',meter:'Instrumento de medición',red:'Punta roja',black:'Punta negra'};
@@ -81,5 +81,5 @@ export class PhysicalBag157{
   }else if(this.phase==='preparing')this.hand?.step(now,true);
  }
  close(){if(this.phase==='closed')return;this.phase='closed';if(this.savedPose176){this.view.camera.fov=this.savedPose176.fov;this.view.camera.updateProjectionMatrix();this.view.camera.position.copy(this.savedPose176.position);this.view.camera.quaternion.copy(this.savedPose176.quaternion);if(this.view.controls?.target&&this.savedPose176.target)this.view.controls.target.copy(this.savedPose176.target);this.view.camera.updateMatrixWorld(true);this.savedPose176=null;}this.pendingTool=null;this.model.root.visible=!!this.parked178;this.model.lid.rotation.x=0;for(const o of this.items.values()){o.position.copy(o.userData.home157);o.rotation.copy(o.userData.rot157);}this.hand?.hide();if(this.view.controls&&this.oldControls!==undefined)this.view.controls.enabled=this.oldControls;this.view.canvas.style.cursor='';this.onClose();this.render186();this.view.canvas.focus?.({preventScroll:true});}
- dispose(){this.close();this.hud186?.remove();this.disposed=true;for(const[p,k,f]of this.handlers)p.removeEventListener?.(k,f,true);globalThis.document?.removeEventListener?.('keydown',this.key,true);this.model.root.removeFromParent();const gs=new Set(),ms=new Set();this.model.root.traverse(o=>{if(o.geometry)gs.add(o.geometry);if(o.material)ms.add(o.material);});for(const g of gs)g.dispose();for(const m of ms)m.dispose();}
+ dispose(){this.close();this.hud186?.remove();this.disposed=true;for(const[p,k,f]of this.handlers)p.removeEventListener?.(k,f,true);globalThis.document?.removeEventListener?.('keydown',this.key,true);this.model.root.removeFromParent();const gs=new Set(),ms=new Set();for(const root of [this.model.root,this.model.mat])root.traverse(o=>{if(o.geometry)gs.add(o.geometry);if(o.material)ms.add(o.material);});for(const g of gs)g.dispose();for(const m of ms)m.dispose();}
 }

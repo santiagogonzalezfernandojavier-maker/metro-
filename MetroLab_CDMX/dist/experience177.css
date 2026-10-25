@@ -3,3 +3,11 @@ body[data-workshop-mode=explore] .workshop-center,body[data-workshop-mode=explor
 @media(max-width:760px){.ex171 .ex166-tools{right:10px;bottom:10px!important;padding:7px;gap:6px!important}.ex171 .ex166-tools button{font-size:11px!important;padding:8px!important}.maint177-navigation{gap:8px;padding:8px}.maint177-navigation button{font-size:12px!important;padding:8px 10px!important}}
 .maint177-navigation output{color:#c9d9e4;font:12px/1.4 system-ui;margin-left:auto}.advanced177 summary::marker{color:#dfbe82}
 .ui147-camera-buttons{flex-wrap:wrap;gap:8px!important}#camera-passenger{min-width:122px}#ui147-camera-strip{align-items:flex-start!important}
+
+/* Inspection chrome has its own contrast on the light disassembly background. */
+body[data-workshop-mode=explore] .ex171-title{color:#314a53!important;font:600 12px/1.4 system-ui;letter-spacing:.03em;background:#e3e8e6de;border-radius:4px;padding:5px 8px}
+body[data-workshop-mode=explore] .ex171 .ex166-tools{background:#eff2eeeF;border-color:#a4b4b4;box-shadow:0 3px 12px #21374017}
+body[data-workshop-mode=explore] .ex171 .ex166-tools button{background:#f6f8f3!important;color:#223b43!important;border-color:#7e969e!important}
+body[data-workshop-mode=explore] .ex171 .ex166-tools button[aria-pressed=true]{background:#c7d8d2!important;border-color:#486d6e!important}
+body[data-workshop-mode=explore] .ex171 line{stroke:#49616b!important;opacity:.8}
+body[data-workshop-mode=explore] #workshop-navigation-hint{color:#344c55!important;background:#e3e8e6d9;border-radius:4px}

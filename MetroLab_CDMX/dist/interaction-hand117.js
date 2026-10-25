@@ -1,4 +1,4 @@
-import {Arm177} from './arm177.js?v=194';
+import {Arm177,WRIST195} from './arm177.js?v=195';
 import * as THREE from'three';
 const ease=t=>{t=THREE.MathUtils.clamp(t,0,1);return t*t*t*(10+t*(-15+6*t));};
 // A spatial hand belongs to a contact on the bench, never to the screen cursor.
@@ -21,7 +21,7 @@ export class InteractionHand117{
   const world=c.object.localToWorld(c.local.clone()),target=v.camera.worldToLocal(world);if(target.z>=-.1){this.hide();return;}
   if(v.glove.activeTool&&v.glove.activeTool!=='hand'){const localNormal=c.normal.clone().transformDirection(v.camera.matrixWorldInverse).negate();root.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),localNormal).multiply(new THREE.Quaternion().setFromAxisAngle(new THREE.Vector3(0,0,1),(v.glove.roll139||0)+(v.rollOffset145||0)));}const tip=v.glove.tip().applyQuaternion(root.quaternion).multiply(root.scale);
   const approach=1-ease((now-this.started)/230),withdraw=ease((now-this.until)/240),offset=Math.max(approach,withdraw);
-  root.position.copy(target).sub(tip);root.position.x+=offset*.24;root.position.y-=offset*.26;root.position.z+=offset*.18;root.visible=true;root.updateWorldMatrix(true,true);const wrist=v.camera.worldToLocal(root.localToWorld(new THREE.Vector3(0,-.10,0))),shoulder=new THREE.Vector3(.28,-.32,.08);if(wrist.distanceTo(shoulder)>.66){root.visible=false;if(v.canvas.style)v.canvas.style.cursor='';if(v.onReach179)v.onReach179();return;}this.arm177.pose(wrist,shoulder);root.position.add(this.arm177.wrist.clone().sub(wrist));root.updateWorldMatrix(true,true);
+  root.position.copy(target).sub(tip);root.position.x+=offset*.24;root.position.y-=offset*.26;root.position.z+=offset*.18;root.visible=true;root.updateWorldMatrix(true,true);const wrist=v.camera.worldToLocal(root.localToWorld(new THREE.Vector3(0,WRIST195,0))),shoulder=new THREE.Vector3(.28,-.32,.08);if(wrist.distanceTo(shoulder)>.66){root.visible=false;if(v.canvas.style)v.canvas.style.cursor='';if(v.onReach179)v.onReach179();return;}this.arm177.pose(wrist,shoulder);root.position.add(this.arm177.wrist.clone().sub(wrist));root.updateWorldMatrix(true,true);
   if(this.reticle)this.reticle.hidden=true;
  }
  leave(){if(this.contact)this.until=Math.min(this.until,performance.now());this.pointerInside=false;if(this.reticle)this.reticle.hidden=true;}

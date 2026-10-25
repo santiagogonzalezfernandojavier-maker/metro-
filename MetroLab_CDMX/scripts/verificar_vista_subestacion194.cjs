@@ -27,6 +27,10 @@ const {chromium}=require(process.env.METROLAB_PLAYWRIGHT_PATH||'playwright');
    await page.setViewportSize(size);await page.waitForTimeout(250);
    for(const locked of [false,true]){
     if(locked){const point=await page.evaluate(()=>{const c=sub194.canvas,r=c.getBoundingClientRect();for(const y of [.1,.3,.5,.7,.9])for(const x of [.08,.25,.5,.75,.92]){const clientX=r.left+r.width*x,clientY=r.top+r.height*y;if(document.elementFromPoint(clientX,clientY)===c&&!sub194.service128.play135.pick({clientX,clientY}))return {x:r.width*x,y:r.height*y};}return null;});assert(point,'A visible free point is available for native mouse capture');await page.locator('#sr126-dialog canvas').click({position:point});await page.waitForFunction(()=>document.pointerLockElement===window.sub194.canvas);}
+    // ResizeObserver and Pointer Lock settle on browser frames. Waiting for
+    // their result avoids treating a busy software renderer as a layout bug;
+    // a persistently wrong framebuffer still fails without forcing resize().
+    await page.waitForFunction(()=>{const v=window.sub194,c=v.canvas,r=c.getBoundingClientRect(),d=v.renderer.getPixelRatio();return Math.abs(c.width-r.width*d)<2&&Math.abs(c.height-r.height*d)<2&&Math.abs(v.camera.aspect-r.width/r.height)<.002;},null,{timeout:5000});
     const r=await inspect();
     assert(Math.abs(r.stage.bottom-r.root.bottom)<1,'Scene must reach the maintenance panel bottom');
     for(const key of ['x','y','width','height'])assert(Math.abs(r.canvas[key]-r.stage[key])<1,'Canvas fills stage: '+key);

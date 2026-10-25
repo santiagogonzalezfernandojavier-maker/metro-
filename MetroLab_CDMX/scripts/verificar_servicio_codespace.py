@@ -32,6 +32,16 @@ with tempfile.TemporaryDirectory() as directory:
     run(source, 'push', 'origin', 'main')
     assert service.synchronize().startswith('Actualizado:')
     assert (client / 'app.txt').read_text() == 'v2'
+    # Reproduce prepared cloud checkouts with an origin/main ref but no fetch
+    # refspec. Only FETCH_HEAD then reflects the just-downloaded main commit.
+    stale_tracking = run(client, 'rev-parse', 'origin/main')
+    run(client, 'config', '--unset-all', 'remote.origin.fetch')
+    (source / 'app.txt').write_text('v2.1')
+    run(source, 'commit', '-am', 'fresh fetch without tracking ref')
+    run(source, 'push', 'origin', 'main')
+    assert service.synchronize().startswith('Actualizado:')
+    assert (client / 'app.txt').read_text() == 'v2.1'
+    assert run(client, 'rev-parse', 'origin/main') == stale_tracking
     (client / 'app.txt').write_text('trabajo local')
     (source / 'app.txt').write_text('v3')
     run(source, 'commit', '-am', 'next')
@@ -40,4 +50,4 @@ with tempfile.TemporaryDirectory() as directory:
     assert (client / 'app.txt').read_text() == 'trabajo local'
     run(client, 'switch', '-c', 'otra-rama')
     assert 'no es main' in service.synchronize()
-print('PASS: sincronización fast-forward real, conservación de cambios locales y respeto de otras ramas.')
+print('PASS: sincronización fast-forward real incluso con origin/main obsoleto, conservación de cambios locales y respeto de otras ramas.')

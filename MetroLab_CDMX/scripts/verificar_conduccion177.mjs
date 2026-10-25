@@ -1,4 +1,4 @@
-import './node-textures40.mjs';import * as THREE from 'three';import {Cockpit149,dragCommand149} from '../dist/cockpit149.js';
+import './node-textures40.mjs';import * as THREE from 'three';import {Cockpit149,dragCommand149} from '../dist/cockpit149.js';import {WRIST195} from '../dist/arm177.js';
 import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';
 // DOM-only integration: execute the production scripts and callbacks, without substituting
 // the engine, launchTrainExperience, loop, operator commands or data fetches.
@@ -92,9 +92,18 @@ for(const [w155,h155]of [[1590,747],[760,800],[360,640]]){
 }
 console.log('155 PASS: physical peripheral frame, seals and line accents; 60 central visibility rays across three viewport sizes; upper/side structure retained; geometry reused between resizes. CPU geometry, no browser visual QA.');
 
-for(const h of cockpit149.hands){assert(Math.abs(h.arm177.shoulder.distanceTo(h.arm177.joint)-.32)<1e-6);assert(Math.abs(h.arm177.wrist.distanceTo(h.arm177.joint)-.28)<1e-6);assert(h.arm177.joint.distanceTo(h.arm177.shoulder.clone().lerp(h.arm177.wrist,.5))>.03,'Visible elbow bend');assert.equal(h.arm177.upper.scale.y,1);h.root.traverse(o=>{if(o.isSkinnedMesh){assert(o.userData.trim177);const p=o.geometry.attributes.position,index=o.geometry.index;for(let i=0;i<index.count;i++)assert(p.getY(index.getX(i))>=-.1050001,'No original forearm vertex remains below the wrist');}});}
+for(const h of cockpit149.hands){assert(Math.abs(h.arm177.shoulder.distanceTo(h.arm177.joint)-.32)<1e-6);assert(Math.abs(h.arm177.wrist.distanceTo(h.arm177.joint)-.28)<1e-6);assert(h.arm177.joint.distanceTo(h.arm177.shoulder.clone().lerp(h.arm177.wrist,.5))>.03,'Visible elbow bend');assert.equal(h.arm177.upper.scale.y,1);h.root.traverse(o=>{if(o.isSkinnedMesh){assert(o.userData.trim177);const p=o.geometry.attributes.position,weights=o.geometry.attributes.skinWeight;for(let i=0;i<p.count;i++){assert(p.getY(i)>=WRIST195-.0000001,'No forearm vertex remains in the compact wrist geometry or its bounds');assert(Math.abs(weights.getX(i)+weights.getY(i)+weights.getZ(i)+weights.getW(i)-1)<.00001,'Wrist cut preserves normalized skin weights');}assert(o.geometry.boundingBox.min.y>=WRIST195-.0000001,'Wrist bounds exclude the discarded authored forearm');}});}
 const {CAB_KEYS177,CAB_NAMES177,legend177}=await import('../dist/cab-numbers177.js');const text177=[];legend177({fillText:t=>text177.push(t)});CAB_KEYS177.forEach((id,i)=>{assert(cockpit149.controls.get(id).userData.number177);assert(text177.includes((i+1)+'  '+CAB_NAMES177[i]));});console.log('177 PASS: fixed arm lengths, elbows, original hand bones, rigid sleeve removed; six physical numbers agree with display legend.');
 
 const screens177=[];cockpit149.board.traverse(o=>{if(o.userData.sideLegend177)screens177.push(o);});assert.equal(screens177.length,4);assert.equal(screens177.filter(o=>o.userData.firstNumber177===1).length,2);assert.equal(screens177.filter(o=>o.userData.firstNumber177===4).length,2);console.log('177 PASS: both cab variants have left/right screen legends for keys 1–3 and 4–6.');
 
 cockpit149.line192.value='8';cockpit149.line192.onchange();assert.equal(scope.metroViewState().currentLine,8);assert.equal(scope.metroViewState().engine.trains.find(t=>t.id===scope.metroViewState().engine.operator.trainId).line,8);cockpit149.line192.value='1';cockpit149.line192.onchange();assert.equal(scope.metroViewState().currentLine,1);console.log('192 PASS: visible cab selector starts native operator journeys on lines 8 and 1.');
+
+// Actual fingertip transforms must reach every button without stretching the arm.
+// Hover does not dispatch a command, so this also exercises the resting -> pointing pose.
+let reachClock195=performance.now()+10000;
+for(const model195 of ['NM22','NM79','MP82']){
+ scope.launchTrainExperience(model195,'operator');doc.body.dataset.gameScreen='simulation';doc.body.dataset.driving='true';doc.body.dataset.loading142='false';doc.body.dataset.pause105='false';view149.cameraMode='driver';cockpit149.press=null;cockpit149.update(reachClock195);
+ for(const[id195,object195]of cockpit149.controls){if(id195==='lever')continue;cockpit149.scene.updateMatrixWorld(true);const point195=object195.localToWorld(new THREE.Vector3(0,.03,0));cockpit149.hover={id:id195,object:object195,point:point195};for(let i195=0;i195<100;i195++)cockpit149.update(reachClock195+=16);cockpit149.scene.updateMatrixWorld(true);const hand195=cockpit149.hands[1],tip195=hand195.bones[0][2].localToWorld(new THREE.Vector3(0,.028,0));assert(tip195.distanceTo(point195.clone().add(new THREE.Vector3(0,.035,0)))<.006,'Native index fingertip reaches '+model195+' '+id195+' with the fixed arm lengths');}
+}
+cockpit149.hover=null;console.log('195 PASS: native index fingertip reaches all six controls in all three trains, within 6 mm, without stretching either arm segment.');

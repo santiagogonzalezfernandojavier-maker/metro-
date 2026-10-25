@@ -29,9 +29,16 @@ def synchronize():
     result = git('fetch', 'origin', 'main')
     if result.returncode:
         return 'No se pudo consultar GitHub: ' + result.stdout.strip()
-    if git('rev-parse', 'HEAD').stdout == git('rev-parse', 'origin/main').stdout:
+    # An explicit fetch always writes FETCH_HEAD. Some prepared checkouts do
+    # not configure remote.origin.fetch, leaving origin/main stale forever.
+    fetched = git('rev-parse', '--verify', 'FETCH_HEAD^{commit}')
+    if fetched.returncode:
+        return 'No se pudo identificar la versión descargada: ' + fetched.stdout.strip()
+    if git('branch', '--show-current').stdout.strip() != 'main':
+        return 'Sin sincronizar: la rama activa ya no es main.'
+    if git('rev-parse', 'HEAD').stdout == fetched.stdout:
         return None
-    result = git('-c', 'merge.autoStash=false', 'merge', '--ff-only', 'origin/main')
+    result = git('-c', 'merge.autoStash=false', 'merge', '--ff-only', fetched.stdout.strip())
     return ('Actualizado: ' if result.returncode == 0 else 'Actualización pendiente; se conservan los cambios locales: ') + result.stdout.strip()
 
 

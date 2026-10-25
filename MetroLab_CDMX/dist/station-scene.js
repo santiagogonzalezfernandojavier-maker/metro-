@@ -1,7 +1,7 @@
 import {PlatformPerson178} from './platform-person178.js?v=190';
 import{platformSolids169,clampPlatformCamera169,constrainPlatformActors169}from'./platform-collision169.js?v=181';
 import{finishPlatforms160}from'./platform-finish160.js?v=174';
-import {Cockpit149} from './cockpit149.js?v=194';
+import {Cockpit149} from './cockpit149.js?v=195';
 import {updateCabDisplay147,disposeCabDisplay147} from './cab-display147.js?v=147';
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';
 import {photographicRenderer130,inspectionShadows130,updateInspectionShadows130,shadowModel130} from './photographic130.js?v=130';

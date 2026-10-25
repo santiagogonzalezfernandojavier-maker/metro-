@@ -81,8 +81,21 @@
 #sr126-dialog[data-sr-play136=true] .sr126-viewport{overflow:hidden;align-self:stretch}
 #sr126-dialog[data-sr-play136=true] .sr126-stage{flex:none!important;max-height:none!important}
 
-#game-depot-ui .game-depot-heading{align-items:center;gap:24px}#game-depot-ui .game-depot-heading h1{font:500 clamp(28px,3vw,44px)/1.1 system-ui;margin:0;letter-spacing:-.025em}#game-depot-status:empty{display:none}#technical-open,#route-plans{display:none!important}
-body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:190px minmax(0,1fr)!important}body[data-workshop-mode=explore] .workshop-center{min-width:0;grid-column:2/-1}body[data-workshop-mode=explore] #workshop-stage{height:72dvh!important;min-height:480px!important}body[data-workshop-mode=explore] .workshop-info{grid-column:1/-1}body[data-workshop-mode=explore] #workshop-canvas{background:#dce3e3!important}
-@media(max-width:760px){body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:1fr!important}body[data-workshop-mode=explore] .workshop-center{grid-column:1}body[data-workshop-mode=explore] #workshop-stage{min-height:360px!important;height:65dvh!important}}
+/* A single heading stays clear of the depot and its three train selectors. */
+.game105[data-game-screen=depot]>header,.game105[data-game-screen=depot] #g105-context{display:none!important}
+.game105[data-game-screen=depot] #game-depot-ui{inset:0!important;padding:30px clamp(20px,4vw,70px)!important}
+#game-depot-ui .game-depot-heading{align-items:center;gap:22px;width:max-content;max-width:100%;padding:12px 18px;background:#14272fe8;border:1px solid #b9cbd044;border-radius:10px;box-sizing:border-box}
+#game-depot-ui .game-depot-heading h1{font:600 clamp(28px,3vw,42px)/1.15 system-ui;margin:0;letter-spacing:-.025em;color:#f4f6f1}
+#game-depot-ui .game-depot-heading>div{min-width:0}#game-depot-ui #game-depot-back{margin:0;min-height:44px;font-size:13px;border-color:#9cb4bc;background:#203942}
+.game105[data-game-screen=depot] #game-environment:after{display:none!important}
+#game-depot-status:empty{display:none}
+/* Fixed model choices remain reachable when the scene is rotated, without overlapping. */
+.game105 #game-train-labels{position:absolute;inset:auto auto 28px 50%;transform:translateX(-50%);display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;width:min(660px,calc(100% - 40px));height:auto}
+.game105 #game-train-labels [data-bay-label],.game105 #game-train-labels [data-bay-label]:hover,.game105 #game-train-labels [data-bay-label].hovered{position:static;transform:none;min-width:0;padding:15px 20px;border-radius:8px;letter-spacing:.04em;font-size:22px;border-top:3px solid #2dbb8b;box-shadow:0 5px 20px #10212d3b}
+.game105 #game-train-labels [data-bay-label=NM22]{border-top-color:#ed4f98}
+.game105 #game-train-labels [data-bay-label] small{font-size:10px;letter-spacing:.03em;color:#c4d6db}
+@media(max-width:560px){.game105 #game-train-labels{bottom:22px;gap:8px;width:calc(100% - 28px)}.game105 #game-train-labels [data-bay-label],.game105 #game-train-labels [data-bay-label]:hover,.game105 #game-train-labels [data-bay-label].hovered{padding:13px 5px;font-size:18px}.game105 #game-train-labels [data-bay-label] small{font-size:9px;letter-spacing:0}}
+body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:180px minmax(0,1fr)!important}body[data-workshop-mode=explore] .workshop-center{min-width:0;grid-column:2/-1}body[data-workshop-mode=explore] #workshop-stage{height:78dvh!important;min-height:480px!important}body[data-workshop-mode=explore] .workshop-info{grid-column:1/-1}body[data-workshop-mode=explore] #workshop-canvas{background:#e3e8e6!important}body[data-workshop-mode=explore] #workshop-stage:after{display:none!important}
+@media(max-width:760px){#game-depot-ui .game-depot-heading{gap:14px;padding:10px 12px}#game-depot-ui .game-depot-heading h1{font-size:28px}body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:1fr!important}body[data-workshop-mode=explore] .workshop-center{grid-column:1}body[data-workshop-mode=explore] #workshop-stage{min-height:360px!important;height:74dvh!important}}
 
 .game-depot-load:has(#game-depot-retry[hidden]){position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}

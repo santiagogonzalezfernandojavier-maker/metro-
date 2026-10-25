@@ -11,7 +11,7 @@ import {OrbitControls} from './vendor/OrbitControls.js';
 import {SR_PARTS126} from './rectifier-model126.js?v=194';
 import {createMetroEnvironment} from './metro-render.js?v=194';
 import {loadRectifier127} from './rectifier-assets127.js?v=194';
-import {SubstationMaintenanceUI128} from './substation-maintenance128.js?v=194';
+import {SubstationMaintenanceUI128} from './substation-maintenance128.js?v=195';
 export class RectifierView126{
  static async create(dialog){return new RectifierView126(dialog,await loadRectifier127());}
  constructor(dialog,model){

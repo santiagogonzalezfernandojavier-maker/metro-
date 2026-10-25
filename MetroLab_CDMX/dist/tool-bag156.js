@@ -1,4 +1,4 @@
-import {PhysicalBag157} from './physical-bag157.js?v=194';
+import {PhysicalBag157} from './physical-bag157.js?v=195';
 import * as THREE from 'three';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 export class ToolBag156{
