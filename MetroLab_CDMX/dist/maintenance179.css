@@ -58,3 +58,9 @@
 .student187-hint{position:absolute;top:12px;right:12px;z-index:6;padding:8px 12px;background:#162a34df;color:#deebef;border:1px solid #72899366;border-radius:6px;font:12px/1.5 system-ui;pointer-events:none}
 
 .student187-hint{top:72px;max-width:min(360px,46vw)}
+
+.carry188-panel{position:absolute;right:16px;bottom:18px;z-index:10;max-width:min(350px,calc(100% - 32px));padding:12px 16px;background:#142a35ed;border:1px solid #8aa29e88;border-radius:8px;color:#e3eff1;font:12px/1.5 system-ui}.carry188-panel[hidden]{display:none!important}.carry188-panel strong{color:#e9c58c;font-size:11px;letter-spacing:1px}.carry188-panel p{margin:7px 0}.carry188-panel progress{width:100%;accent-color:#b8d5ae}.carry188-panel button{display:block;width:100%;margin:7px 0;min-height:38px!important;font-size:12px!important}.carry188-panel progress[hidden]{display:none!important}#sr126-dialog[data-physical188=true] .sr135-assist,#sr126-dialog[data-physical188=true] .instrument180-place{display:none!important}
+
+#sr126-dialog[data-physical188=true] .instrument142-card,#sr126-dialog[data-physical188=true] .maint177-navigation{display:none!important}
+/* Keep the carry instructions away from the hand and instrument at the bottom. */
+.carry188-panel{top:68px;bottom:auto}

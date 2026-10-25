@@ -4,22 +4,22 @@ import {SR_TECHNICAL129} from './substation-technical129.js?v=129';
 export const SR_TOOLS128={inspect:'Inspección visual',hand:'Manos libres',driver:'Destornillador',brush:'Cepillo',meter:'Multímetro',spare:'Repuesto',test:'Prueba funcional',red:'Punta roja',black:'Punta negra'};
 export const SR_MISSIONS128={
  ventilation:{title:'Ventilación del transformador',part:'transformer',summary:'El filtro del banco está obstruido. Retíralo, límpialo y comprueba el ventilador.',targets:{filter:'Filtro extraíble',screwL:'Tornillo izquierdo',screwR:'Tornillo superior derecho',screw3:'Tornillo inferior izquierdo',screw4:'Tornillo inferior derecho',fan:'Ventilador'},steps:[
-  {text:'Mide el flujo inicial con el anemómetro del banco.',tool:'meter',target:'fan',effect:'airBefore'},
+  {text:'Toma el anemómetro de la bolsa, llévalo al ventilador y mantén E para medir el flujo inicial.',tool:'meter',target:'fan',effect:'airBefore'},
   {text:'Inspecciona el filtro para identificar la obstrucción.',tool:'inspect',target:'filter',effect:'diagnose'},
   {text:'El flujo es bajo y el filtro tiene depósitos visibles. ¿Qué revisarías primero?',tool:'inspect',target:'filterRestriction',effect:'diagnose',choices:{filterRestriction:'Restricción del filtro',replaceMotor:'Cambiar el motor sin comprobar',ignoreFlow:'Ignorar la lectura de flujo'}},
   {text:'Afloja el tornillo izquierdo con el destornillador.',tool:'driver',target:'screwL',effect:'loosenL'},
   {text:'Afloja el tornillo derecho con el destornillador.',tool:'driver',target:'screwR',effect:'loosenR'},
   {text:'Afloja el tornillo inferior izquierdo.',tool:'driver',target:'screw3',effect:'loosen3'},
   {text:'Afloja el tornillo inferior derecho.',tool:'driver',target:'screw4',effect:'loosen4'},
-  {text:'Con Inspección, arrastra el filtro hasta el contorno marcado para retirarlo.',tool:'inspect',target:'filter',effect:'remove'},
-  {text:'Pasa el cepillo por el filtro retirado: tres pasadas o tres clics.',tool:'brush',target:'filter',repeat:3,effect:'clean'},
-  {text:'Arrastra el filtro limpio al contorno de su alojamiento.',tool:'inspect',target:'filter',effect:'install'},
+  {text:'Toma el filtro liberado con E, llévalo al tapete y apóyalo con E.',tool:'inspect',target:'filter',effect:'remove'},
+  {text:'Prepara el cepillo y mantén E sobre el filtro apoyado para realizar tres pasadas.',tool:'brush',target:'filter',repeat:3,effect:'clean'},
+  {text:'Recoge el filtro limpio, llévalo a su alojamiento y pulsa E para montarlo.',tool:'inspect',target:'filter',effect:'install'},
   {text:'Aprieta el tornillo izquierdo.',tool:'driver',target:'screwL',effect:'tightenL'},
   {text:'Aprieta el tornillo derecho.',tool:'driver',target:'screwR',effect:'tightenR'},
   {text:'Aprieta el tornillo inferior izquierdo.',tool:'driver',target:'screw3',effect:'tighten3'},
   {text:'Aprieta el tornillo inferior derecho.',tool:'driver',target:'screw4',effect:'tighten4'},
-  {text:'Repite la medida de flujo con el anemómetro.',tool:'meter',target:'fan',effect:'airAfter'},
-  {text:'Selecciona Prueba de banco y pulsa el ventilador.',tool:'test',target:'fan',effect:'test'}]},
+  {text:'Recoge el anemómetro donde lo dejaste y repite la medida manteniendo E junto al ventilador.',tool:'meter',target:'fan',effect:'airAfter'},
+  {text:'Deja el anemómetro apoyado o guardado y mantén E en el ventilador para el ensayo funcional.',tool:'test',target:'fan',effect:'test'}]},
  control:{title:'Circuito auxiliar de práctica',part:'control',summary:'Una lámpara de prueba no enciende. Diagnostica el fusible de un circuito ficticio de 24 V CD.',targets:{tpSource:'Punto de medida de fuente',tpLoad:'Punto de medida de salida',fuse:'Portafusible',lamp:'Lámpara de prueba'},steps:[
   {text:'Con el multímetro, mide el punto de fuente del banco (respecto a COM simulado).',tool:'meter',target:'tpSource',effect:'source'},
   {text:'Mide ahora la salida del circuito para comparar las lecturas.',tool:'meter',target:'tpLoad',effect:'load'},

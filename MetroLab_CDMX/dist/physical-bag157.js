@@ -26,7 +26,7 @@ export class PhysicalBag157{
   for(const type of['pointerdown','pointermove','pointerup','pointercancel','wheel','contextmenu']){const fn=e=>this.event(type,e);parent.addEventListener?.(type,fn,{capture:true});this.handlers.push([parent,type,fn]);}
   this.key=e=>{if(this.phase!=='closed'&&e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();this.close();}};globalThis.document?.addEventListener?.('keydown',this.key,true);
  }
- render186(text){const h=this.hud186;if(!h)return;h.hidden=this.phase==='closed';if(text)h.querySelector('[data-bag186-status]').textContent=text;for(const b of h.querySelectorAll('[data-bag186-tool]')){b.disabled=this.phase!=='searching'||!this.items.has(b.dataset.bag186Tool);b.setAttribute('aria-pressed',String(b.dataset.bag186Tool===this.selected));}h.querySelector('[data-bag186-prepare]').hidden=this.phase!=='preparing';}
+ render186(text){const h=this.hud186;if(!h)return;h.hidden=this.phase==='closed';if(text)h.querySelector('[data-bag186-status]').textContent=text;for(const b of h.querySelectorAll('[data-bag186-tool]')){b.disabled=this.phase!=='searching'||!this.items.has(b.dataset.bag186Tool)||this.items.get(b.dataset.bag186Tool)?.userData.outside188;b.setAttribute('aria-pressed',String(b.dataset.bag186Tool===this.selected));}h.querySelector('[data-bag186-prepare]').hidden=this.phase!=='preparing';}
  async load(){
   if(this.ready)return this.ready;
   this.ready=(async()=>{
@@ -40,10 +40,10 @@ export class PhysicalBag157{
     if(!o)continue;o.visible=true;o.name=names[id]||id;const b=new T.Box3().setFromObject(o),s=b.getSize(new T.Vector3()),center=b.getCenter(new T.Vector3());
     const item=new T.Group();item.userData.bagTool157=id;const scale=(id==='meter'?.135:.16)/Math.max(s.x,s.y,s.z);o.scale.multiplyScalar(scale);o.position.sub(center.multiplyScalar(scale));item.add(o);this.items.set(id,item);model.root.add(item);
    }
-   const values=[...this.items.values()];values.forEach((o,i)=>{const step=Math.min(.11,.46/values.length);o.position.set((i-(values.length-1)/2)*step,.12,0);o.rotation.set(-.16,0,0);o.userData.home157=o.position.clone();o.userData.rot157=o.rotation.clone();const hit=new T.Mesh(new T.BoxGeometry(.06,.18,.045),new T.MeshBasicMaterial({visible:false}));hit.userData.bagTool157=o.userData.bagTool157;o.add(hit);});
+   const values=[...this.items.values()].filter(o=>!o.userData.outside188);values.forEach((o,i)=>{const step=Math.min(.11,.46/values.length);o.position.set((i-(values.length-1)/2)*step,.12,0);o.rotation.set(-.16,0,0);o.userData.home157=o.position.clone();o.userData.rot157=o.rotation.clone();const hit=new T.Mesh(new T.BoxGeometry(.06,.18,.045),new T.MeshBasicMaterial({visible:false}));hit.userData.bagTool157=o.userData.bagTool157;o.add(hit);});
   })();try{await this.ready;}catch(e){this.ready=null;throw e;}
  }
- async park178(point){await this.load();this.anchor178=point.clone();this.parked178=true;this.model.root.position.copy(point);const d=this.view.camera.getWorldDirection(new T.Vector3());this.model.root.rotation.set(0,Math.atan2(-d.x,-d.z),0);this.model.root.scale.setScalar(1.15);this.model.lid.rotation.x=0;this.model.root.visible=true;}
+ async park178(point){await this.load();if(this.disposed)return;this.view.bagBrowser157=this;this.anchor178=point.clone();this.parked178=true;this.model.root.position.copy(point);const d=this.view.camera.getWorldDirection(new T.Vector3());this.model.root.rotation.set(0,Math.atan2(-d.x,-d.z),0);this.model.root.scale.setScalar(1.15);this.model.lid.rotation.x=0;this.model.root.visible=true;}
  async open(){
   if(this.anchor178&&Math.hypot(this.view.camera.position.x-this.anchor178.x,this.view.camera.position.z-this.anchor178.z)>1.8){this.notify('Acércate a tu bolsa en el piso para abrirla');return;}
   if(this.phase!=='closed'||this.disposed)return;this.phase='loading';this.view.cameraMove117=null;this.hand?.hide();this.savedPose176={position:this.view.camera.position.clone(),quaternion:this.view.camera.quaternion.clone(),target:this.view.controls?.target.clone(),fov:this.view.camera.fov};this.notify('Abriendo bolsa…');this.oldControls=this.view.controls?.enabled;if(this.view.controls)this.view.controls.enabled=false;this.view.bagBrowser157=this;
@@ -56,7 +56,7 @@ export class PhysicalBag157{
 
  pick(e){
   const r=this.view.canvas.getBoundingClientRect();this.pointer.set((e.clientX-r.left)/r.width*2-1,-(e.clientY-r.top)/r.height*2+1);this.view.camera.updateWorldMatrix(true,true);this.ray.setFromCamera(this.pointer,this.view.camera);
-  const targets=this.phase==='preparing'?[this.model.mat]:[...this.items.values()];
+  const targets=this.phase==='preparing'?[this.model.mat]:[...this.items.values()].filter(o=>!o.userData.outside188);
   for(const hit of this.ray.intersectObjects(targets,true)){let o=hit.object;while(o&&!o.userData.bagTool157&&!o.userData.prepare157)o=o.parent;if(o)return{object:o,point:hit.point,id:o.userData.bagTool157,prepare:o.userData.prepare157};}return null;
  }
  event(type,e){
