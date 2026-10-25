@@ -7,7 +7,12 @@ let bagBytes;
 async function nativeBag(){
  bagBytes||=(async()=>{const r=await fetch('./models/revision157/bolsa157.glb.gz?v=157');if(!r.ok)throw Error('Bolsa Blender '+r.status);return new Response(r.body.pipeThrough(new DecompressionStream('gzip'))).arrayBuffer();})().catch(e=>{bagBytes=null;throw e;});
  const root=(await new GLTFLoader().parseAsync((await bagBytes).slice(0),'')).scene,lid=root.getObjectByName('Solapa157'),mat=root.getObjectByName('Tapete157');
- if(!lid||!mat)throw Error('Bolsa incompleta');refineSurfaceMaterials100(root);mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
+ if(!lid||!mat)throw Error('Bolsa incompleta');
+ const lining=new T.MeshStandardMaterial({name:'Lona acolchada interior186',color:'#4c5754',roughness:.94}),thread=new T.MeshStandardMaterial({name:'Costura textil interior186',color:'#b7a883',roughness:.95});
+ const base=new T.Mesh(new T.BoxGeometry(.47,.012,.23),lining);base.name='Forro interior acolchado186';base.position.y=-.046;root.add(base);
+ const ribs=new T.InstancedMesh(new T.BoxGeometry(.012,.008,.22),lining,7),pose=new T.Matrix4();for(let i=0;i<7;i++){pose.makeTranslation(-.20+i*.066,-.036,0);ribs.setMatrixAt(i,pose);}ribs.name='Refuerzos de lona186';root.add(ribs);
+ const seams=new T.InstancedMesh(new T.BoxGeometry(.004,.002,.002),thread,80);for(let i=0;i<80;i++){pose.makeTranslation(-.22+(i%40)*.0113,-.037,i<40?-.105:.105);seams.setMatrixAt(i,pose);}seams.name='Doble costura interior186';root.add(seams);
+refineSurfaceMaterials100(root);mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
 }
 const ease=t=>{t=T.MathUtils.clamp(t,0,1);return t*t*(3-2*t);};
 const names={hand:'Guante de trabajo',screwdriver:'Destornillador',driver:'Destornillador',wrench:'Llave',brush:'Cepillo',meter:'Instrumento de medición',red:'Punta roja',black:'Punta negra'};
@@ -15,10 +20,13 @@ const names={hand:'Guante de trabajo',screwdriver:'Destornillador',driver:'Desto
 export class PhysicalBag157{
  constructor(view,{glove,hand,ids,onEquip,notify=()=>{},onClose=()=>{},kind='dmm'}){
   Object.assign(this,{view,glove,hand,ids:ids.filter(id=>id!=='hand'),onEquip,notify,onClose,kind});this.model={root:new T.Group(),lid:new T.Group(),mat:new T.Group()};this.model.root.visible=false;this.phase='closed';this.items=new Map();this.ray=new T.Raycaster();this.pointer=new T.Vector2();this.handlers=[];
-  const parent=view.canvas.parentElement||view.canvas;
+  const parent=view.canvas.parentElement||view.canvas,doc=view.dialog?.ownerDocument||globalThis.document;
+  if(doc?.createElement){this.hud186=doc.createElement('section');this.hud186.className='bag186-hud';this.hud186.hidden=true;this.hud186.setAttribute('aria-label','Preparar herramientas de la bolsa');this.hud186.innerHTML='<header><b>BOLSA DE HERRAMIENTAS</b><button type="button" data-bag186-close>Volver a caminar · Tab</button></header><p data-bag186-status role="status"></p><nav data-bag186-tools aria-label="Herramientas disponibles"></nav><button type="button" data-bag186-prepare>Preparar herramienta seleccionada</button><small>WASD: incorporarte y caminar · Ctrl: agacharte · Esc: cancelar</small>';parent.append(this.hud186);this.hud186.querySelector('[data-bag186-close]').onclick=()=>this.close();this.hud186.querySelector('[data-bag186-prepare]').onclick=()=>this.prepare();for(const id of this.ids){const b=doc.createElement('button');b.type='button';b.dataset.bag186Tool=id;b.textContent=id==='meter'?({anemometer:'Anemómetro',megohm:'Megóhmetro',dmm:'Multímetro'}[kind]||names.meter):(names[id]||id);b.onclick=()=>this.take(id);this.hud186.querySelector('[data-bag186-tools]').append(b);}this.notify=text=>{notify(text);this.render186(text);};}
+
   for(const type of['pointerdown','pointermove','pointerup','pointercancel','wheel','contextmenu']){const fn=e=>this.event(type,e);parent.addEventListener?.(type,fn,{capture:true});this.handlers.push([parent,type,fn]);}
   this.key=e=>{if(this.phase!=='closed'&&e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();this.close();}};globalThis.document?.addEventListener?.('keydown',this.key,true);
  }
+ render186(text){const h=this.hud186;if(!h)return;h.hidden=this.phase==='closed';if(text)h.querySelector('[data-bag186-status]').textContent=text;for(const b of h.querySelectorAll('[data-bag186-tool]')){b.disabled=this.phase!=='searching'||!this.items.has(b.dataset.bag186Tool);b.setAttribute('aria-pressed',String(b.dataset.bag186Tool===this.selected));}h.querySelector('[data-bag186-prepare]').hidden=this.phase!=='preparing';}
  async load(){
   if(this.ready)return this.ready;
   this.ready=(async()=>{
@@ -52,6 +60,8 @@ export class PhysicalBag157{
   for(const hit of this.ray.intersectObjects(targets,true)){let o=hit.object;while(o&&!o.userData.bagTool157&&!o.userData.prepare157)o=o.parent;if(o)return{object:o,point:hit.point,id:o.userData.bagTool157,prepare:o.userData.prepare157};}return null;
  }
  event(type,e){
+  if(e.target&&e.target!==this.view.canvas)return;
+  if(this.phase!=='closed'&&type==='pointerdown'&&e.button===2){this.close();return;}
   if(this.phase==='closed'){if(this.parked178&&this.model.root.visible&&type==='pointerdown'&&e.button===0){this.pick(e);if(this.ray.intersectObject(this.model.root,true).length){e.preventDefault?.();e.stopImmediatePropagation?.();void (this.onRequestOpen178?this.onRequestOpen178():this.open());}}return;}e.preventDefault?.();e.stopImmediatePropagation?.();if(type==='pointercancel'){this.close();return;}if(type==='wheel'||type==='contextmenu')return;
   const hit=this.pick(e);
   if(type==='pointermove'){this.view.canvas.style.cursor=this.glove?.root?.visible?'none':hit?'pointer':'default';if(this.phase==='searching')this.notify(hit?.id?'Tomar · '+(names[hit.id]||hit.id):'Busca una herramienta en los bolsillos');return;}
@@ -69,6 +79,6 @@ export class PhysicalBag157{
    if(t>=1){if(extracting){this.phase='preparing';this.notify('Haz clic en el tapete para preparar '+(names[this.selected]||this.selected));}else{this.phase='rising';this.at=now;this.hand?.hide();this.notify('Incorporándote con la herramienta preparada…');}}
   }else if(this.phase==='preparing')this.hand?.step(now,true);
  }
- close(){if(this.phase==='closed')return;this.phase='closed';if(this.savedPose176){this.view.camera.fov=this.savedPose176.fov;this.view.camera.updateProjectionMatrix();this.view.camera.position.copy(this.savedPose176.position);this.view.camera.quaternion.copy(this.savedPose176.quaternion);if(this.view.controls?.target&&this.savedPose176.target)this.view.controls.target.copy(this.savedPose176.target);this.view.camera.updateMatrixWorld(true);this.savedPose176=null;}this.pendingTool=null;this.model.root.visible=!!this.parked178;this.model.lid.rotation.x=0;for(const o of this.items.values()){o.position.copy(o.userData.home157);o.rotation.copy(o.userData.rot157);}this.hand?.hide();if(this.view.controls&&this.oldControls!==undefined)this.view.controls.enabled=this.oldControls;this.view.canvas.style.cursor='';this.onClose();}
- dispose(){this.close();this.disposed=true;for(const[p,k,f]of this.handlers)p.removeEventListener?.(k,f,true);globalThis.document?.removeEventListener?.('keydown',this.key,true);this.model.root.removeFromParent();const gs=new Set(),ms=new Set();this.model.root.traverse(o=>{if(o.geometry)gs.add(o.geometry);if(o.material)ms.add(o.material);});for(const g of gs)g.dispose();for(const m of ms)m.dispose();}
+ close(){if(this.phase==='closed')return;this.phase='closed';if(this.savedPose176){this.view.camera.fov=this.savedPose176.fov;this.view.camera.updateProjectionMatrix();this.view.camera.position.copy(this.savedPose176.position);this.view.camera.quaternion.copy(this.savedPose176.quaternion);if(this.view.controls?.target&&this.savedPose176.target)this.view.controls.target.copy(this.savedPose176.target);this.view.camera.updateMatrixWorld(true);this.savedPose176=null;}this.pendingTool=null;this.model.root.visible=!!this.parked178;this.model.lid.rotation.x=0;for(const o of this.items.values()){o.position.copy(o.userData.home157);o.rotation.copy(o.userData.rot157);}this.hand?.hide();if(this.view.controls&&this.oldControls!==undefined)this.view.controls.enabled=this.oldControls;this.view.canvas.style.cursor='';this.onClose();this.render186();this.view.canvas.focus?.({preventScroll:true});}
+ dispose(){this.close();this.hud186?.remove();this.disposed=true;for(const[p,k,f]of this.handlers)p.removeEventListener?.(k,f,true);globalThis.document?.removeEventListener?.('keydown',this.key,true);this.model.root.removeFromParent();const gs=new Set(),ms=new Set();this.model.root.traverse(o=>{if(o.geometry)gs.add(o.geometry);if(o.material)ms.add(o.material);});for(const g of gs)g.dispose();for(const m of ms)m.dispose();}
 }

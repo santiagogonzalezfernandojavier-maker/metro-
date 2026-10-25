@@ -50,3 +50,5 @@
 /* Keep the menu handle reachable even after scrolling a long practice. */
 #sr126-dialog[data-sr-play136=true] .maint184-close{position:sticky;top:-16px;z-index:2;background:#17252e!important;border-bottom:1px solid #718995!important;border-radius:0!important}
 #sr126-dialog[data-sr-play136=true] .sr126-panel{width:min(320px,calc(100% - 48px))}
+
+.bag186-hud{position:absolute;right:16px;bottom:16px;z-index:16;width:min(320px,calc(100% - 32px));box-sizing:border-box;max-height:60%;overflow:auto;padding:14px;background:#172b35f5;border:1px solid #8b9a9f;border-radius:8px;color:#edf2f3;font:12px/1.5 system-ui}.bag186-hud[hidden]{display:none!important}.bag186-hud header{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.bag186-hud b{font-size:11px;letter-spacing:1px;color:#dfbd83}.bag186-hud nav{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}.bag186-hud small{display:block;color:#b6cbd3;margin-top:10px}.bag186-hud button{min-height:36px!important;padding:7px 10px!important;font-size:12px!important}.bag186-hud button[hidden]{display:none!important}.bag186-hud button[aria-pressed=true]{border-color:#e1bd7a!important;background:#4a4c3e!important}
