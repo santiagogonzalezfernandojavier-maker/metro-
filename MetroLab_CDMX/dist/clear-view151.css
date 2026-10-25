@@ -8,3 +8,10 @@ body[data-cockpit149=true] .sim106-trip{max-width:310px!important;transform:none
 @media(max-width:760px){.c151-labels button{font-size:11px;padding:6px 7px;min-height:29px}body[data-cockpit149=true] .sim106-trip{max-width:170px!important}body[data-cockpit149=true] .sim106-trip h1{font-size:14px!important}body[data-cockpit149=true] .sim106-view-tools{right:12px;top:66px}body[data-cockpit149=true] #cockpit149-hud>button{font-size:10px;padding:7px}[data-design147=true] .home114-layout{grid-template-columns:1fr}[data-design147=true] .home114-brief{max-width:none;justify-self:stretch}}
 .c151-alert{position:absolute;z-index:9;left:50%;top:14px;transform:translateX(-50%);padding:8px 13px;max-width:40%;font:500 13px/1.3 system-ui;color:#f2dbac;background:#25352eee;border:1px solid #9f9878;border-radius:6px;pointer-events:none}.c151-alert[hidden]{display:none}
 @media(max-width:760px){.c151-labels{inset:auto 8px 8px;display:grid;grid-template-columns:repeat(3,1fr);gap:5px}.c151-labels button{position:static;transform:none;white-space:normal;width:auto;min-height:36px}.c151-alert{top:112px;max-width:90%;width:max-content;font-size:11px}}
+
+/* Shared wrapping toolbar keeps camera/map and cockpit actions in separate hit areas. */
+body[data-cockpit149=true] #cockpit149-hud{inset:12px 12px auto auto;width:max-content;max-width:calc(100% - 215px);height:auto;box-sizing:border-box;flex-wrap:wrap;align-items:center;gap:10px;padding:0}
+body[data-cockpit149=true] #cockpit149-hud .sim106-view-tools{position:static!important;inset:auto!important;display:flex;flex-wrap:wrap;gap:10px;margin:0;pointer-events:auto}
+body[data-cockpit149=true] #cockpit149-hud>button{margin:0!important;min-height:44px}
+body[data-cockpit149=true] #cockpit149-hud .c151-help{order:0}
+@media(max-width:760px){body[data-cockpit149=true] #cockpit149-hud{top:76px;max-width:calc(100% - 24px)}body[data-cockpit149=true] #cockpit149-hud[data-help151=true] .c149-hint{top:112px}}

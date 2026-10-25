@@ -1,4 +1,4 @@
-import {crisp180} from './cab-finish180.js?v=180';
+import {crisp180} from './cab-finish180.js?v=190';
 import * as T from 'three';
 export const CAB_KEYS177=['open','close','voice','emergency','align','cab'];
 export const CAB_NAMES177=['Abrir puertas','Cerrar puertas','Aviso de voz','Emergencia','Ajustar parada','Cambiar cabina'];

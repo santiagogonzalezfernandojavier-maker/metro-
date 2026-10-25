@@ -9,7 +9,7 @@ import {mountInstalled150,installedContext150} from './installed-service150.js?v
 import {SubstationDossier146} from './substation-dossier146.js?v=148';
 import {gate142,prepareFrame142} from './resource-gate142.js?v=150';
 import {SubstationPlay136} from './substation-play136.js?v=189';
-import {SubstationHand134} from './substation-hand134.js?v=187';
+import {SubstationHand134} from './substation-hand134.js?v=190';
 import {loadServiceBench134} from './substation-service134.js?v=188';
 import {pickFastener131} from './fastener-picking131.js?v=131';
 import {shadowModel130} from './photographic130.js?v=130';

@@ -66,3 +66,5 @@
 .carry188-panel{top:68px;bottom:auto}
 
 .carry189-guide{position:absolute;z-index:8;transform:translate(-50%,-50%);pointer-events:none;text-align:center;color:#f1d49b;max-width:220px;text-shadow:0 1px 3px #000}.carry189-guide[hidden]{display:none}.carry189-guide>span{display:block;font-size:24px;line-height:28px}.carry189-guide>small{display:block;font-size:12px;padding:4px 7px;background:#14262cdb;border-radius:5px;line-height:1.35}
+
+.person190-help{top:auto!important;bottom:82px;right:18px}.person190-help section{top:auto!important;bottom:48px}
