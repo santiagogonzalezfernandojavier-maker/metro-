@@ -40,7 +40,7 @@ jobs:
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_transporte188.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_juego187.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_mezcla187.mjs
-          node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_materiales185.mjs
+          node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_materiales194.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_controles181.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_anden181.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_tren_montado156.mjs

@@ -1,4 +1,4 @@
-import {preserveFinishUV124} from './surface-finish124.js?v=185';
+import {preserveFinishUV124} from './surface-finish124.js?v=194';
 import * as THREE from 'three';
 import {mergeGeometries} from './vendor/BufferGeometryUtils.js';
 export const TRACK_OFFSET=1.8;

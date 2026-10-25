@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import {materialCategory115} from './material-realism110.js?v=185';
+import {materialCategory115} from './material-realism110.js?v=194';
 const cache=new WeakMap();
 // Restrict fillets to plain rectangular solids. Glass, signs, skin and authored UVs survive.
 export function edgeFinish124(root){if(root.userData.edgeFinish124)return root.userData.edgeFinish124;root.updateMatrixWorld(true);let base=0;root.traverse(o=>{if(o.isMesh)base+=o.geometry.attributes.position?.count||0;});const budget=Math.min(11520,Math.max(576,base*.12));let added=0,count=0;

@@ -1,12 +1,12 @@
-/* Reserve real viewport space; mission controls never intercept clicks on the bench. */
+/* The scene extends to the bottom; the existing mission controls stay as overlays. */
 [data-game117]{--rail143:300px;--top143:72px;--bottom143:125px}
-[data-game117] .m102-stage{left:var(--rail143)!important;top:var(--top143)!important;bottom:var(--bottom143)!important;width:calc(100% - var(--rail143))!important;height:auto!important}
+[data-game117] .m102-stage{left:var(--rail143)!important;top:var(--top143)!important;bottom:0!important;width:calc(100% - var(--rail143))!important;height:auto!important;min-height:0!important;max-height:none!important}
 [data-game117] .m117-objective{left:0;top:var(--top143);bottom:0;width:var(--rail143);box-sizing:border-box;max-height:none;padding:18px 16px 210px;overflow:auto;border-radius:0;border:0;border-right:1px solid #537263;background:#142a2d;box-shadow:none}
 [data-game117] .m102-instruments{left:14px;bottom:60px;width:calc(var(--rail143) - 28px);max-width:none;box-sizing:border-box;padding:10px;z-index:8}
 [data-game117] .m102-tools{left:calc(50% + var(--rail143)/2);bottom:48px;max-width:calc(100% - var(--rail143) - 24px);box-sizing:border-box;flex-wrap:wrap;justify-content:center}
 [data-game117] .m102-tools label{position:static;display:flex;align-items:center;gap:5px;margin:0;background:transparent}
 [data-game117] .m102-work #hands-live-message{left:calc(var(--rail143) + 12px);right:12px;bottom:106px;width:auto;transform:none;text-align:left;padding:8px 10px;white-space:normal;max-height:60px;overflow:auto}
-[data-game117] .m102-stage #repair102-hover{left:50%;bottom:10px;max-width:85%;pointer-events:none}
+[data-game117] .m102-stage #repair102-hover{left:50%;bottom:calc(var(--bottom143) + 10px);max-width:85%;pointer-events:none}
 [data-game117] .m117-bottom{left:calc(var(--rail143) + 12px);right:12px;bottom:7px;flex-wrap:wrap}
 [data-game117] .m102-targets{right:12px;bottom:48px;max-height:50vh;overflow:auto}
 #meter123-panel{background:#102723;border:1px solid #476b54;border-radius:6px;padding:11px;margin-top:14px}

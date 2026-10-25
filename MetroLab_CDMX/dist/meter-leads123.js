@@ -1,9 +1,9 @@
 import {ProbeMotion143,probeParking143,probeContact143,probeTail143} from './measurement-probes143.js?v=143';
 import {updateCable142} from './flexible-cable142.js?v=142';
-import {fitProbe139} from './repair-tools139.js?v=185';
+import {fitProbe139} from './repair-tools139.js?v=194';
 import {mergeGeometries} from './vendor/BufferGeometryUtils.js';
 import * as THREE from 'three';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 const colours={red:'#b4473c',black:'#263033'};
 // Both probes remain scene objects: connecting, disconnecting and parking never delete them.
 export class MeterLeads123{

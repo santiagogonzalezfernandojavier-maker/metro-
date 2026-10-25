@@ -1,10 +1,11 @@
 import * as THREE from 'three';
-const cache=new Map(),hard=new Set(['paint','panel','floor','mineral','brushed','polished','steel','copper','cast','rubber','seat','ceramic']);
+const cache=new Map(),hard=new Set(['paint','panel','floor','mineral','brushed','polished','steel','copper','cast','rubber','seat','ceramic','canvas','filter']);
 // Millimetre/centimetre relief uses its own coordinates; authored decals keep UV0.
 export const finishProfiles124={
  ceramic:{rough:.3,strength:.008,tile:.09},paint:{rough:.42,strength:.085,tile:.18},panel:{rough:.54,strength:.075,tile:.18},seat:{rough:.56,strength:.045,tile:.08},
  brushed:{rough:.36,strength:.07,tile:.16},polished:{rough:.24,strength:.02,tile:.045},steel:{rough:.38,strength:.045,tile:.09},copper:{rough:.34,strength:.04,tile:.065},
  rubber:{rough:.88,strength:.10,tile:.07},cast:{rough:.68,strength:.20,tile:.18},floor:{rough:.78,strength:.20,tile:.75},mineral:{rough:.80,strength:.22,tile:1.2},
+ canvas:{rough:.91,strength:.11,tile:.06},filter:{rough:.94,strength:.045,tile:.045},
  cloth:{rough:.90,strength:.06,tile:.12},skin:{rough:.61,strength:.012,tile:.16},leather:{rough:.60,strength:.06,tile:.10},hair:{rough:.62,strength:.02,tile:.1},diffuser:{rough:.67,strength:.02,tile:.1}
 };
 const fract=n=>n-Math.floor(n),hash=(x,y,seed)=>fract(Math.sin(x*127.1+y*311.7+seed*17.13)*43758.5453123),smooth=t=>t*t*(3-2*t);
@@ -18,6 +19,8 @@ export function surfaceMaps124(kind){if(cache.has(kind))return cache.get(kind);c
   const aggregate=Math.max(0,1-nearest/.29),pores=Math.max(0,nearest-.62),directional=noise(u*2%1,v,96,seed+12),scuff=Math.max(0,noise(u,v,12,seed+13)-.2);
   let h=mid*.18+fine*.2;
   if(kind==='brushed'||kind==='polished')h=brush*.30+directional*.06+fine*.012;
+  else if(kind==='canvas')h=(Math.cos(u*Math.PI*64)*Math.cos(v*Math.PI*64)*.28+Math.cos(u*Math.PI*64)*.08+Math.cos(v*Math.PI*64)*.08)+fine*.13;
+  else if(kind==='filter')h=noise(u,v,54,seed+31)*.12+noise(u,v,110,seed+32)*.06+noise(u*.12,v,88,seed+33)*.10;
   else if(kind==='cloth')h=(weft*warp*.45+(weft+warp)*.14)+fine*.08;
   else if(kind==='skin')h=mid*.055+fine*.08-pore*.13;
   else if(kind==='floor')h=low*.10+mid*.13+fine*.12+aggregate*(stone-.5)*.16-pores*.10;
@@ -31,6 +34,8 @@ export function surfaceMaps124(kind){if(cache.has(kind))return cache.get(kind);c
   if(kind==='floor')value=THREE.MathUtils.clamp(.92+low*.07+mid*.09+aggregate*(stone-.5)*.20-pores*.04,.77,1);
   else if(kind==='mineral')value=THREE.MathUtils.clamp(.91+low*.12+mid*.10-pore*.16-pores*.07,.76,1);
   else if(kind==='brushed'||kind==='polished')value=THREE.MathUtils.clamp(.95+brush*.075+directional*.025+fine*.012,.88,1);
+  else if(kind==='canvas')value=THREE.MathUtils.clamp(.94+low*.05+mid*.045+(weft*warp)*.018,.88,1);
+  else if(kind==='filter')value=THREE.MathUtils.clamp(.96+mid*.025+fine*.035,.92,1);
   else if(kind==='cast'||kind==='rubber')value=THREE.MathUtils.clamp(.94+mid*.08+fine*.07-pore*.15,.82,1);
   else if(kind==='paint'||kind==='panel'||kind==='seat')value=THREE.MathUtils.clamp(.985+low*.014+mid*.018,.96,1);
   colour.set([Math.round(value*255),Math.round(value*255),Math.round(value*255),255],i);

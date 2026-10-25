@@ -4,7 +4,7 @@ import {PassengerContacts122} from './world-contact122.js?v=130';
 import {prepareImported137,selectPassenger137,attachInfant138} from './passenger-cast137.js?v=144';
 import {InstancedPassengers121,selectDetailed121} from './instanced-passengers121.js?v=144';
 import{avatarDetail119,applyCloth120}from'./passenger-cloth119.js?v=130';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 import * as THREE from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 import {prepareWardrobe,applyWardrobe} from './passenger-wardrobe.js?v=144';

@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 import {mergeGeometries} from './vendor/BufferGeometryUtils.js';
 export const SR_PARTS126=[
  ['mt','01 · Celdas de media tensión','Recepción y seccionamiento de CA','Tres celdas abiertas muestran barras trifásicas, aisladores, seccionamiento, interruptor, transformadores de medida y relés. Su disposición es didáctica; no constituye un plano de una instalación.'],

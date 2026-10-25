@@ -1,4 +1,4 @@
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 import * as T from 'three';
 // Keep the authored skinned palm/fingers and remove its rigid sleeve extension.
 export function trimGlove177(root){root.traverse(o=>{if(!o.isSkinnedMesh||o.userData.trim177)return;const g=o.geometry.clone(),p=g.attributes.position,old=g.index,keep=[];for(let i=0;i<(old?.count||p.count);i+=3){const ids=[0,1,2].map(j=>old?old.getX(i+j):i+j);if(ids.every(k=>p.getY(k)>=-.105))keep.push(...ids);}g.setIndex(keep);g.computeBoundingBox();g.computeBoundingSphere();o.geometry=g;o.userData.trim177=true;});if(!root.getObjectByName('Union flexible de muñeca193')){const cuff=new T.Mesh(new T.SphereGeometry(.039,32,20),new T.MeshStandardMaterial({name:'Tejido flexible de muñeca193',color:'#344550',roughness:.92}));cuff.name='Union flexible de muñeca193';cuff.position.y=-.096;cuff.scale.set(1,.8,.9);root.add(cuff);}}

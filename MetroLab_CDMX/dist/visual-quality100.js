@@ -1,6 +1,6 @@
-import {edgeFinish124} from './edge-finish124.js?v=185';
+import {edgeFinish124} from './edge-finish124.js?v=194';
 import * as THREE from 'three';
-import {refineMaterials110} from './material-realism110.js?v=185';
+import {refineMaterials110} from './material-realism110.js?v=194';
 export function refineSurfaceMaterials100(root,anisotropy=4){edgeFinish124(root);return refineMaterials110(root,anisotropy);}
 export function setupCabinLighting100(view){view.cabinLights100=[-1,0,1].map(offset=>{const light=new THREE.PointLight(0xfff4e9,0,32,2);light.userData.offset100=offset;light.visible=true;view.scene.add(light);return light;});
  const head=new THREE.SpotLight(0xfff3db,0,65,.40,.78,2);head.name='Haz_cabecera122';head.castShadow=false;view.scene.add(head,head.target);view.headlight122=head;

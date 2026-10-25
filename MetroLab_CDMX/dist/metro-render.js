@@ -1,7 +1,7 @@
 import{repairClearance174}from'./interior-clearance174.js?v=174';
 import{improveLabels174}from'./label-quality174.js?v=174';
-import {refineMaterials110} from './material-realism110.js?v=185';
-import {preserveFinishUV124} from './surface-finish124.js?v=185';
+import {refineMaterials110} from './material-realism110.js?v=194';
+import {preserveFinishUV124} from './surface-finish124.js?v=194';
 import {reflectionScene122} from './render-environment122.js?v=130';
 import * as THREE from 'three';
 import {mergeGeometries} from './vendor/BufferGeometryUtils.js';

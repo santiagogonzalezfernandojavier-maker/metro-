@@ -1,4 +1,4 @@
-import {Arm177} from './arm177.js?v=193';
+import {Arm177} from './arm177.js?v=194';
 import * as THREE from'three';
 const ease=t=>{t=THREE.MathUtils.clamp(t,0,1);return t*t*t*(10+t*(-15+6*t));};
 // A spatial hand belongs to a contact on the bench, never to the screen cursor.

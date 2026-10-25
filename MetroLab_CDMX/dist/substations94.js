@@ -1,4 +1,4 @@
-import{refineSurfaceMaterials100}from'./visual-quality100.js?v=185';
+import{refineSurfaceMaterials100}from'./visual-quality100.js?v=194';
 import * as THREE from 'three';
 export const SAF_SOURCE94='https://metro.cdmx.gob.mx/storage/app/media/FIMETRO/INFORME-TRIMESTRAL-FIMETRO/2025/Cuarto%20Informe%20Trimestral%202024.pdf';
 // Counts documented for L1; placements are an illustrative layout, not a surveyed plan.
