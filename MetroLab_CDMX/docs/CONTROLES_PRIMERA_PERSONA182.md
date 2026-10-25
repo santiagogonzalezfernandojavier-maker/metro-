@@ -18,3 +18,9 @@ Comprobación automatizada: `node --experimental-loader ./scripts/test-loader.mj
 Al terminar la carga de la práctica se enfoca el canvas después de desbloquear la interfaz: WASD funciona sin hacer clic primero en otro botón. También puedes activar la captura del mouse con el primer clic sobre la escena; Esc conserva el modo de cursor libre para trabajar con precisión.
 
 Las mallas grandes exportadas desde Blender pueden agrupar objetos separados. La colisión ahora usa cajas por triángulo en esas mallas y un índice espacial, para no convertir el espacio entre equipos en una pared. La posición inicial busca un lugar libre con espacio delante; se conservan colisiones con los equipos sólidos.
+
+## Menú deslizable (184)
+
+El botón **☰ Menú · J** despliega el plan desde la izquierda. Puedes desplazarte dentro del panel con la rueda y cerrarlo con **Ocultar menú ×** o **J**. La inspección y PAN se conservan dentro del plan. Al cerrar, el teclado vuelve a la escena y el panel deja de recibir foco y clics. En primera persona se ocultan las barras superiores; Esc recupera el cursor y la navegación.
+
+La revisión 184 actualiza juntas las URLs de los módulos relacionados y la hoja de estilos del menú. Para verla en un Codespace existente, actualiza main con `git pull --ff-only origin main` y recarga el navegador. La web publicada por separado no se actualiza con ese comando.

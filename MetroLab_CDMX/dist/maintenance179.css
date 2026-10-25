@@ -29,3 +29,20 @@
 .maint182-journal-toggle[hidden],.maint182-enter[hidden]{display:none!important}
 #sr126-dialog[data-sr-play136=true][data-journal182=true] .maint177-navigation{display:flex!important;position:absolute;right:14px;top:64px;z-index:12;max-width:min(360px,calc(100% - 28px));box-sizing:border-box;border:1px solid #718995;border-radius:8px;box-shadow:0 8px 24px #0006}
 @media(max-width:800px){#sr126-dialog[data-sr-play136=true][data-journal182=true] .maint177-navigation{top:auto;bottom:12px;right:12px}}
+
+/* Slide-away maintenance menu. Its contents remain scrollable without resizing the scene. */
+#sr126-dialog[data-sr-play136=true] .sr126-panel{display:block!important;visibility:hidden;pointer-events:none;transform:translateX(-105%);transition:transform .22s ease,visibility .22s;position:absolute;left:0;top:0!important;bottom:0;width:min(360px,calc(100% - 48px));box-sizing:border-box;z-index:12;border:0;border-right:1px solid #718995;border-radius:0;overflow:auto;overscroll-behavior:contain;background:#17252ef5!important;box-shadow:8px 0 28px #0006}
+#sr126-dialog[data-sr-play136=true][data-journal182=true] .sr126-panel{visibility:visible;pointer-events:auto;transform:translateX(0);left:0;bottom:0;border-radius:0}
+#sr126-dialog[data-sr-play136=true] .sr126-tools{display:none!important}
+#sr126-dialog[data-sr-play136=true][data-journal182=true] .maint177-navigation{position:static!important;display:flex!important;max-width:100%;margin-top:16px;box-shadow:none;padding:8px!important}
+.maint184-close{display:block;width:100%;margin:0 0 14px!important;text-align:right!important;color:#e9c78f!important}
+#sr126-dialog[data-sr-play136=true] .sr126-header{height:48px;padding:6px 16px}
+#sr126-dialog[data-sr-play136=true] .sr126-header small{display:none}
+#sr126-dialog[data-sr-play136=true] .sr126-header h2{font-size:16px}
+#sr126-dialog[data-sr-play136=true] .sr128-mode-tabs{height:44px;min-height:0;padding:4px 12px;gap:8px}
+#sr126-dialog[data-sr-play136=true] .sr128-mode-tabs button{min-height:34px;padding:6px 12px;font-size:12px}
+#sr126-dialog[data-sr-play136=true] .sr126-layout{height:calc(100% - 92px)}
+#sr126-dialog[data-sr-play136=true][data-fps182=true] .sr126-header,#sr126-dialog[data-sr-play136=true][data-fps182=true] .sr128-mode-tabs{display:none!important}
+#sr126-dialog[data-sr-play136=true][data-fps182=true] .sr126-layout{height:100%}
+#sr126-dialog[data-sr-play136=true][data-fps182=true] .maint182-journal-toggle,#sr126-dialog[data-sr-play136=true][data-fps182=true] .input181-help{opacity:.45}
+@media(prefers-reduced-motion:reduce){#sr126-dialog[data-sr-play136=true] .sr126-panel{transition:none}}

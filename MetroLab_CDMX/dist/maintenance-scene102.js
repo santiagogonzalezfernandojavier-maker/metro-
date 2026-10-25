@@ -1,6 +1,6 @@
 import {stageTrain176} from './instrument-staging176.js?v=180';
 import {mountedTrain156,mountRig156,maintenanceBay156} from './installed-train156.js?v=174';
-import {startBagPickup156,updateBagPickup156,cancelBagPickup156} from './tool-bag156.js?v=181';
+import {startBagPickup156,updateBagPickup156,cancelBagPickup156} from './tool-bag156.js?v=184';
 import {nearestAction143,pickActionCentre143} from './maintenance-picking143.js?v=143';
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';
 import {pickFastener131} from './fastener-picking131.js?v=131';
