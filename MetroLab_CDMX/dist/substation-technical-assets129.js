@@ -1,10 +1,10 @@
 import {drawInstrument146} from './instrument-readout146.js?v=148';
 import {technicalMotion145} from './service-motion145.js?v=145';
 import {ProbeMotion143,probeParking143,probeContact143,probeTail143} from './measurement-probes143.js?v=143';
-import {upgradeTechnical142} from './instruments142.js?v=157';
+import {upgradeTechnical142} from './instruments142.js?v=185';
 import {updateCable142} from './flexible-cable142.js?v=142';
-import {houseSubstation138} from './equipment-housing138.js?v=157';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {houseSubstation138} from './equipment-housing138.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 import * as THREE from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 const cache=new Map();

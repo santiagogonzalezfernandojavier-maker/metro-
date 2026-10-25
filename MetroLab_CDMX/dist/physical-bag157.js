@@ -1,8 +1,8 @@
 import * as T from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
-import {repairTools139} from './repair-tools139.js?v=157';
-import {instrument142} from './instruments142.js?v=157';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {repairTools139} from './repair-tools139.js?v=185';
+import {instrument142} from './instruments142.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 let bagBytes;
 async function nativeBag(){
  bagBytes||=(async()=>{const r=await fetch('./models/revision157/bolsa157.glb.gz?v=157');if(!r.ok)throw Error('Bolsa Blender '+r.status);return new Response(r.body.pipeThrough(new DecompressionStream('gzip'))).arrayBuffer();})().catch(e=>{bagBytes=null;throw e;});

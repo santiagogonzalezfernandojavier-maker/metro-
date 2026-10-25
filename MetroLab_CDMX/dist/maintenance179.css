@@ -46,3 +46,7 @@
 #sr126-dialog[data-sr-play136=true][data-fps182=true] .sr126-layout{height:100%}
 #sr126-dialog[data-sr-play136=true][data-fps182=true] .maint182-journal-toggle,#sr126-dialog[data-sr-play136=true][data-fps182=true] .input181-help{opacity:.45}
 @media(prefers-reduced-motion:reduce){#sr126-dialog[data-sr-play136=true] .sr126-panel{transition:none}}
+
+/* Keep the menu handle reachable even after scrolling a long practice. */
+#sr126-dialog[data-sr-play136=true] .maint184-close{position:sticky;top:-16px;z-index:2;background:#17252e!important;border-bottom:1px solid #718995!important;border-radius:0!important}
+#sr126-dialog[data-sr-play136=true] .sr126-panel{width:min(320px,calc(100% - 48px))}

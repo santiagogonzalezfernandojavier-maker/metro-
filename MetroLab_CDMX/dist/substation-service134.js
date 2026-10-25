@@ -1,12 +1,12 @@
 import {serviceControls148} from './service-controls148.js?v=148';
 import {drawInstrument146} from './instrument-readout146.js?v=148';
 import {serviceMotion145} from './service-motion145.js?v=145';
-import {serviceMeasurement143} from './service-measurement143.js?v=180';
-import {upgradeService142} from './instruments142.js?v=157';
-import {houseSubstation138} from './equipment-housing138.js?v=157';
+import {serviceMeasurement143} from './service-measurement143.js?v=185';
+import {upgradeService142} from './instruments142.js?v=185';
+import {houseSubstation138} from './equipment-housing138.js?v=185';
 import * as THREE from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 const cache=new Map();
 export async function loadServiceBench134(id){
  if(!['ventilation','control','battery'].includes(id))throw Error('Práctica no disponible');

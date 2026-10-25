@@ -96,3 +96,7 @@ camera.position.set(0,1.62,-1.5);controls.target.set(0,1.62,1);view.walk176.resu
 camera.position.set(2,1.62,-1.5);controls.target.set(2,1.62,1);view.walk176.resume178();view.walk176.keys.add('w');for(let i=0;i<50;i++)view.walk176.update(.04);view.walk176.keys.clear();assert(camera.position.z<-.7,'Physical posts still block walking');
 assert(view.walk176.collisionGrid183.size>0,'Collision broad phase is indexed spatially');view.parts=actualParts183;joined183.removeFromParent();geometry183.dispose();for(const g of posts183)g.dispose();
 console.log('183 PASS: movement through joined mesh gaps, real solid collision retained and spatial collision index.');
+
+ui.checklist179.setJournal182(true);ui.nav177.root.querySelector('[data-maint177="work"]').onclick();assert.equal(dialog.dataset.journal182,'false','Choosing walk closes the obstructing menu');
+ui.checklist179.setJournal182(true);dispatch181(dialog,'keydown','w',{code:'KeyW'});assert.equal(dialog.dataset.journal182,'false','W returns the scene to the player');dispatch181(dialog,'keyup','w',{code:'KeyW'});
+console.log('185 PASS: choosing walk or pressing WASD dismisses the maintenance drawer.');

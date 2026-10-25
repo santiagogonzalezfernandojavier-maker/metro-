@@ -1,9 +1,9 @@
 import {finishCab180,crisp180} from './cab-finish180.js?v=180';
 import {numbers177,sideScreens177,CAB_KEYS177} from './cab-numbers177.js?v=180';
-import {Arm177,trimGlove177} from './arm177.js?v=179';
+import {Arm177,trimGlove177} from './arm177.js?v=185';
 import * as THREE from 'three';
-import {createCabinSurround155} from './cabin-surround155.js?v=157';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {createCabinSurround155} from './cabin-surround155.js?v=185';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 const LABELS151={open:'Abrir puertas',close:'Cerrar puertas',voice:'Aviso de voz',emergency:'Emergencia',align:'Ajustar parada',cab:'Cambiar cabina'};
 const ACTIONS={open:'easy-open',close:'easy-close',voice:'operator-door-message',emergency:'operator-emergency',align:'easy-align',cab:'easy-cab-change'};

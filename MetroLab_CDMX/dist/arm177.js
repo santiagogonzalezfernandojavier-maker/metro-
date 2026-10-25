@@ -1,4 +1,4 @@
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 import * as T from 'three';
 // Keep the authored skinned palm/fingers and remove its rigid sleeve extension.
 export function trimGlove177(root){root.traverse(o=>{if(!o.isSkinnedMesh||o.userData.trim177)return;const g=o.geometry.clone(),p=g.attributes.position,old=g.index,keep=[];for(let i=0;i<(old?.count||p.count);i+=3){const ids=[0,1,2].map(j=>old?old.getX(i+j):i+j);if(ids.reduce((n,k)=>n+p.getY(k),0)/3>=-.105)keep.push(...ids);}g.setIndex(keep);g.computeBoundingBox();g.computeBoundingSphere();o.geometry=g;o.userData.trim177=true;});}

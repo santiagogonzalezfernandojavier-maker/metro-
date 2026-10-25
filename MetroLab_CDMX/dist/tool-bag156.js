@@ -1,6 +1,6 @@
-import {PhysicalBag157} from './physical-bag157.js?v=178';
+import {PhysicalBag157} from './physical-bag157.js?v=185';
 import * as THREE from 'three';
-import {refineSurfaceMaterials100} from './visual-quality100.js?v=157';
+import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';
 export class ToolBag156{
  constructor({host,tools,doc=globalThis.document,getId=b=>b.dataset.tool,onEquip=()=>{},getContext=()=>null}){
   Object.assign(this,{host,tools,doc,getId,onEquip,getContext});this.root=doc.createElement('section');this.root.className='bag156';this.toggle=doc.createElement('button');this.toggle.setAttribute('type','button');this.toggle.className='bag156-toggle';this.toggle.innerHTML='<span aria-hidden="true">▱</span><b>Mi bolsa</b><small>Tab · Abrir bolsa</small>';this.toggle.setAttribute('aria-expanded','false');this.status=doc.createElement('output');this.status.className='bag156-equipped';this.status.setAttribute('aria-live','polite');this.drawer=doc.createElement('div');this.drawer.className='bag156-native';this.drawer.hidden=true;this.prepared176=new Set();
