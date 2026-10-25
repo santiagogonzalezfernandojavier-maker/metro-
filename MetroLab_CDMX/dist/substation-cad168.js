@@ -1,6 +1,6 @@
 import './local-doc174.js?v=174';
 import{references171}from'./electrical171.js?v=174';
-import{drawing173,svg173,mountInstallation173}from'./installation173.js?v=174';
+import{drawing173,svg173,mountInstallation173}from'./installation173.js?v=192';
 export const CAD_LAYERS168={MARCO:7,CA:7,CD_POS:7,RETORNO:7,PE:7,CONTROL:7,SIMBOLOS:7,TEXTOS:7};
 export const drawing168=drawing173,svg168=svg173;
 export function dxf168(state){const p=[],add=(...v)=>p.push(...v.map(String)),ascii=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/−|–|→|·|°|²|³/g,c=>({'−':'-','–':'-','→':'->','·':' ','°':'deg','²':'2','³':'3'}[c])).replace(/[^\x20-\x7e]/g,' ');

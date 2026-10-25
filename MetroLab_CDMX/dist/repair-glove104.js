@@ -1,6 +1,6 @@
-import {trimGlove177} from './arm177.js?v=190';
+import {trimGlove177} from './arm177.js?v=192';
 import{repairTools139,disposeTools139}from'./repair-tools139.js?v=185';
-import{gripAngles117}from'./interaction-hand117.js?v=190';
+import{gripAngles117}from'./interaction-hand117.js?v=192';
 import{repairTools116}from'./repair-tools116.js?v=134';
 import{refineSurfaceMaterials100}from'./visual-quality100.js?v=185';
 import * as THREE from'three';import{GLTFLoader}from'./vendor/GLTFLoader.js';import{createGlove102}from'./repair-glove102.js?v=102';

@@ -15,3 +15,7 @@ body[data-cockpit149=true] #cockpit149-hud .sim106-view-tools{position:static!im
 body[data-cockpit149=true] #cockpit149-hud>button{margin:0!important;min-height:44px}
 body[data-cockpit149=true] #cockpit149-hud .c151-help{order:0}
 @media(max-width:760px){body[data-cockpit149=true] #cockpit149-hud{top:76px;max-width:calc(100% - 24px)}body[data-cockpit149=true] #cockpit149-hud[data-help151=true] .c149-hint{top:112px}}
+
+.cab192-line{pointer-events:auto;display:flex;align-items:center;gap:8px;min-height:44px;padding:0 10px;background:#17312bee;border:1px solid #719487;border-radius:8px;color:#e1ebe4;font:12px system-ui}.cab192-line select{min-height:40px;max-width:220px;background:#17312b;color:#e1ebe4;border:0;font:inherit}
+
+.cab192-line{max-width:100%;min-width:0;box-sizing:border-box}.cab192-line select{min-width:0;flex:1}
