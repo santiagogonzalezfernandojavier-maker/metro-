@@ -2,7 +2,7 @@
 export class TrainAudio {
  constructor(){this.enabled=false;this.seen=new Set();this.nodes=new Set();this.volume=.28;this.references=new Map();this.announcementSeen=new Set();this.generation=0;}
  async enable(){
-  if(!this.context){const AudioContext=window.AudioContext||window.webkitAudioContext;if(!AudioContext)throw Error('Audio no disponible');this.context=new AudioContext();this.master=this.context.createGain();this.master.gain.value=this.volume;this.master.connect(this.context.destination);
+  if(!this.context){const AudioContext=window.AudioContext||window.webkitAudioContext;if(!AudioContext)throw Error('Audio no disponible');this.context=new AudioContext({latencyHint:'interactive'});this.master=this.context.createGain();this.master.gain.value=this.volume;const context=this.context,high=context.createBiquadFilter(),low=context.createBiquadFilter();high.type='highpass';high.frequency.value=45;low.type='lowpass';low.frequency.value=Math.min(17000,(context.sampleRate||44100)*.45);if(high.Q)high.Q.value=.7;if(low.Q)low.Q.value=.7;this.master.connect(high).connect(low);let output=low;if(context.createDynamicsCompressor){const c=context.createDynamicsCompressor();for(const[key,value]of Object.entries({threshold:-12,knee:9,ratio:3,attack:.006,release:.18}))if(c[key])c[key].value=value;output.connect(c);output=c;this.compressor187=c;}const headroom=context.createGain();headroom.gain.value=.82;output.connect(headroom).connect(context.destination);this.output187={high,low,headroom};
    this.motorGain=this.context.createGain();this.motorGain.gain.value=0;this.motorGain.connect(this.master);this.rollingGain=this.context.createGain();this.rollingGain.gain.value=0;this.rollingGain.connect(this.master);
 
   }

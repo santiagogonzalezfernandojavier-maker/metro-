@@ -29,7 +29,7 @@ ui.setActive(false);
 console.log('150 PASS:',mouseActions,'projected pointer actions, all six installed missions; original installation visible; no separate workshop; stable equipment mounts. DOM/CPU.');
 
 ui.setActive(true);await ui.start('ventilation');
-ui.nav177.set('orbit');assert.equal(view.controls.enableRotate,true);assert.equal(view.controls.mouseButtons.LEFT,THREE.MOUSE.ROTATE);assert.equal(ui.hit(new THREE.Raycaster()),undefined,'Camera rotation cannot activate a piece');ui.nav177.set('pan');assert.equal(view.controls.mouseButtons.LEFT,THREE.MOUSE.PAN);ui.nav177.set('work');assert.equal(view.controls.mouseButtons.LEFT,null);assert.equal(view.controls.enableRotate,false);
+ui.nav177.set('orbit');assert.equal(view.controls.enableRotate,false);assert.equal(view.maintenanceNav177,'work');assert(view.walk176.enabled);ui.nav177.set('pan');assert.equal(view.maintenanceNav177,'work');assert(view.walk176.enabled);ui.nav177.set('work');assert.equal(view.controls.mouseButtons.LEFT,null);assert.equal(view.controls.enableRotate,false);
 const hand152=dialog.querySelector('[data-sr128-tool="hand"]'),inspect152=dialog.querySelector('[data-sr128-tool="inspect"]');
 assert(hand152&&!hand152.hidden,'Gloved hand is an independent visible tool');assert(inspect152&&!inspect152.hidden);assert(hand152.textContent.includes('Manos libres'));assert(inspect152.textContent.includes('Inspección visual'));
 hand152.click();assert.equal(ui.state.tool,'hand');assert(!ui.play135.guided,'Explicit selection disables auto tool');assert(ui.play135.dock.querySelector('[data-tool152-help]').textContent.includes('Mano con guante'));
@@ -43,7 +43,7 @@ ui.setActive(false);view.walk176.set(false);const {CabinetInteraction135}=await 
 
 ui.hand134=null;ui.setActive(true);
 for(const id of ['ventilation','control','battery','diodes','insulation','relay']){
- await ui.start(id);assert.equal(camera.position.y,1.62);assert(view.walk176.enabled);const initial=camera.position.clone();ui.nav177.set('orbit');assert(!view.walk176.enabled);
+ await ui.start(id);assert.equal(camera.position.y,1.62);assert(view.walk176.enabled);const initial=camera.position.clone();ui.nav177.set('orbit');assert(view.walk176.enabled,'Inspecting never disables player movement');
  const event={key:'s',target:canvas,preventDefault(){},stopImmediatePropagation(){}};for(const f of dialog.events.keydown)f(event);assert(view.walk176.enabled,id+' WASD returns from orbit to walk');assert.equal(view.maintenanceNav177,'work');for(let j=0;j<12;j++)view.walk176.update(.04);for(const f of dialog.events.keyup)f({key:'s'});assert(camera.position.distanceTo(initial)>.18,id+' can leave equipment immediately');
  const before=camera.position.clone();const right=ui.checklist179.pad.querySelector('[data-walk179="d"]');for(const f of right.events.pointerdown)f({button:0,pointerId:32,preventDefault(){}});for(let j=0;j<10;j++)view.walk176.update(.04);for(const f of right.events.pointerup)f({});assert(camera.position.distanceTo(before)>.1,id+' mouse pad moves');const stopped=camera.position.clone();view.walk176.update(.04);assert(camera.position.equals(stopped),'Release stops movement');
  assert.equal(ui.checklist179.root.querySelectorAll('[data-check179-mission]').length,6);assert.equal(ui.checklist179.root.querySelectorAll('li').length,ui.state.mission.steps.length);assert.equal(ui.checklist179.root.querySelector('li').dataset.state,'current');
@@ -81,7 +81,7 @@ dispatch181(dialog,'keydown','j');assert.equal(dialog.dataset.journal182,'false'
 view.walk176.firstPersonButton.onclick();dispatch181(dialog,'keydown','h');assert(!view.walk176.locked182(),'Help releases the mouse');
 view.walk176.firstPersonButton.onclick();view.walk176.keys.add('w');dispatch181(dialog,'keydown','Escape');assert(!view.walk176.locked182());assert.equal(view.walk176.keys.size,0);assert(lockExits182>=3);
 view.walk176.firstPersonButton.onclick();const index182=ui.state.index,oldPick182=ui.play135.pick;ui.play135.pick=()=>null;ui.play135.action();assert.equal(ui.state.index,index182,'E cannot remotely advance a step without an aimed target');ui.play135.pick=oldPick182;
-ui.nav177.set('orbit');assert(!view.walk176.locked182(),'Inspection releases pointer lock');
+ui.nav177.set('orbit');assert(view.walk176.enabled,'Inspection keeps continuous movement');view.walk176.releaseMouse182();
 canvas.requestPointerLock=undefined;view.walk176.firstPersonButton.onclick();assert(view.walk176.firstPersonButton.textContent.includes('botón derecho'),'Unsupported browsers retain drag navigation');
 assert(ui.checklist179.objective182.querySelector('[data-fps182-title]').textContent===ui.state.mission.title);
 console.log('182 PASS: pointer lock entry, relative mouse yaw/pitch, J journal toggle, help/Escape/inspection release, cleared movement, aimed interaction guard, fallback and current mission HUD. CPU/DOM; no GPU rendering.');
@@ -97,7 +97,7 @@ camera.position.set(2,1.62,-1.5);controls.target.set(2,1.62,1);view.walk176.resu
 assert(view.walk176.collisionGrid183.size>0,'Collision broad phase is indexed spatially');view.parts=actualParts183;joined183.removeFromParent();geometry183.dispose();for(const g of posts183)g.dispose();
 console.log('183 PASS: movement through joined mesh gaps, real solid collision retained and spatial collision index.');
 
-ui.checklist179.setJournal182(true);ui.nav177.root.querySelector('[data-maint177="work"]').onclick();assert.equal(dialog.dataset.journal182,'false','Choosing walk closes the obstructing menu');
+ui.checklist179.setJournal182(true);ui.nav177.root.querySelector('[data-maint177="front"]').onclick();assert.equal(dialog.dataset.journal182,'false','Choosing walk closes the obstructing menu');
 ui.checklist179.setJournal182(true);dispatch181(dialog,'keydown','w',{code:'KeyW'});assert.equal(dialog.dataset.journal182,'false','W returns the scene to the player');dispatch181(dialog,'keyup','w',{code:'KeyW'});
 console.log('185 PASS: choosing walk or pressing WASD dismisses the maintenance drawer.');
 

@@ -1,6 +1,6 @@
 import {upgradeTrain142} from './instruments142.js?v=185';
 import {houseTrain138} from './equipment-housing138.js?v=185';
-import {detailBench125,syncDetails125,syncWheelFasteners125} from './maintenance-detail125.js?v=139';
+import {detailBench125,syncDetails125,syncWheelFasteners125} from './maintenance-detail125.js?v=187';
 import {finishBench122} from './maintenance-finish122.js?v=122';
 import{detailBench118}from'./maintenance-detail118.js?v=118';
 import * as THREE from'three';import{mergeGeometries}from'./vendor/BufferGeometryUtils.js';

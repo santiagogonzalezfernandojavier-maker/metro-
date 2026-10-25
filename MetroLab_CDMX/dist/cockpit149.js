@@ -1,6 +1,6 @@
 import {finishCab180,crisp180} from './cab-finish180.js?v=180';
 import {numbers177,sideScreens177,CAB_KEYS177} from './cab-numbers177.js?v=180';
-import {Arm177,trimGlove177} from './arm177.js?v=185';
+import {Arm177,trimGlove177} from './arm177.js?v=187';
 import * as THREE from 'three';
 import {createCabinSurround155} from './cabin-surround155.js?v=185';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=185';

@@ -1,7 +1,7 @@
-import {PlatformPerson178} from './platform-person178.js?v=184';
+import {PlatformPerson178} from './platform-person178.js?v=187';
 import{platformSolids169,clampPlatformCamera169,constrainPlatformActors169}from'./platform-collision169.js?v=181';
 import{finishPlatforms160}from'./platform-finish160.js?v=174';
-import {Cockpit149} from './cockpit149.js?v=185';
+import {Cockpit149} from './cockpit149.js?v=187';
 import {updateCabDisplay147,disposeCabDisplay147} from './cab-display147.js?v=147';
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';
 import {photographicRenderer130,inspectionShadows130,updateInspectionShadows130,shadowModel130} from './photographic130.js?v=130';
@@ -31,7 +31,7 @@ import {createMetroEnvironment,enhanceMetroMaterials,makeNM79Overview,batchTrain
 import {doorOpenness,planPassengerStop} from './passenger-flow.js?v=174';
 import {buildNaturalPassengerFrame} from './passenger-journeys.js?v=174';
 import {preparePocketDoors,updatePocketDoor} from './train-doors.js?v=29';
-import {TrainAudio} from './train-audio.js?v=71';
+import {TrainAudio} from './train-audio.js?v=187';
 import {CabinCharacters} from './cabin-characters.js?v=185';
 import {trainPrefix,loadTrainPair} from './train-assets.js?v=34';
 const $=id=>document.getElementById(id);
