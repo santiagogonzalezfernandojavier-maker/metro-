@@ -1,4 +1,4 @@
-import {floorHazards192,findFloorPlace192,floorLevel192} from './work-area192.js?v=192';
+import {floorHazards192,findFloorPlace192,floorLevel192} from './work-area192.js?v=193';
 import * as T from 'three';
 // Physical ventilation exercise; the existing state machine still owns every result.
 export class SubstationCarry188{

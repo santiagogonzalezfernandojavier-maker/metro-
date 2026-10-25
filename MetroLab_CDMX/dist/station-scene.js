@@ -1,7 +1,7 @@
 import {PlatformPerson178} from './platform-person178.js?v=190';
 import{platformSolids169,clampPlatformCamera169,constrainPlatformActors169}from'./platform-collision169.js?v=181';
 import{finishPlatforms160}from'./platform-finish160.js?v=174';
-import {Cockpit149} from './cockpit149.js?v=192';
+import {Cockpit149} from './cockpit149.js?v=193';
 import {updateCabDisplay147,disposeCabDisplay147} from './cab-display147.js?v=147';
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';
 import {photographicRenderer130,inspectionShadows130,updateInspectionShadows130,shadowModel130} from './photographic130.js?v=130';
@@ -57,7 +57,7 @@ export class StationScene {
   if(surfaceA&&surfaceB){for(const side of [-1,1]){const wall=this.box(group,(a+b)/2,1.5,side*width/2,b-a,3,.35,'#abb2aa');wall.userData.shell='wall';wall.userData.side=side;}}
   else {
    let from=a,to=b;if(surfaceA)from=a+(b-a)*.35;if(surfaceB)to=b-(b-a)*.35;
-   const wallColor=line.stations[i].linea===1?'#686967':'#767c72',length=to-from,center=(from+to)/2;
+   const wallColor=line.stations[i].linea===1?'#96988c':'#9aab9a',length=to-from,center=(from+to)/2;
    for(const side of [-1,1])for(const [wa,wb]of wallSpans94(from,to,side,saf94)){const wall=this.box(group,(wa+wb)/2,height/2,side*width/2,wb-wa,height,.45,wallColor);wall.userData.shell='wall';wall.userData.side=side;}
    const roof=this.box(group,center,height,0,length,.4,width,wallColor);roof.userData.shell='roof';
    for(const side of [-1,1])for(const [ca,cb]of wallSpans94(from,to,side,saf94)){this.box(group,(ca+cb)/2,2.65,side*(width/2-.30),cb-ca,.08,.16,'#252a2b');this.box(group,(ca+cb)/2,1.55,side*(width/2-.32),cb-ca,.055,.15,'#3b3930');}

@@ -75,3 +75,14 @@
 #sr126-dialog[data-sr-play136=true] .sr126-stage{position:absolute;inset:0;min-height:0!important}
 #sr126-dialog[data-sr-play136=true] .sr126-stage canvas{min-height:0!important;width:100%!important;height:100%!important;border:0!important;outline:none}
 #sr126-dialog[data-sr-play136=true] .sr126-viewport>p{display:none!important}
+
+/* Fill the viewport regardless of Pointer Lock state; no reserved toolbar rows. */
+#sr126-dialog[open][data-sr-play136=true]{width:100vw!important;height:100dvh!important;max-width:none!important;max-height:none!important;margin:0!important;inset:0!important;box-sizing:border-box}
+#sr126-dialog[data-sr-play136=true] .sr126-viewport{overflow:hidden;align-self:stretch}
+#sr126-dialog[data-sr-play136=true] .sr126-stage{flex:none!important;max-height:none!important}
+
+#game-depot-ui .game-depot-heading{align-items:center;gap:24px}#game-depot-ui .game-depot-heading h1{font:500 clamp(28px,3vw,44px)/1.1 system-ui;margin:0;letter-spacing:-.025em}#game-depot-status:empty{display:none}#technical-open,#route-plans{display:none!important}
+body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:190px minmax(0,1fr)!important}body[data-workshop-mode=explore] .workshop-center{min-width:0;grid-column:2/-1}body[data-workshop-mode=explore] #workshop-stage{height:72dvh!important;min-height:480px!important}body[data-workshop-mode=explore] .workshop-info{grid-column:1/-1}body[data-workshop-mode=explore] #workshop-canvas{background:#dce3e3!important}
+@media(max-width:760px){body[data-workshop-mode=explore] .workshop-grid{grid-template-columns:1fr!important}body[data-workshop-mode=explore] .workshop-center{grid-column:1}body[data-workshop-mode=explore] #workshop-stage{min-height:360px!important;height:65dvh!important}}
+
+.game-depot-load:has(#game-depot-retry[hidden]){position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}

@@ -1,4 +1,4 @@
-import {floorHazards192,findFloorPlace192,floorLevel192} from './work-area192.js?v=192';
+import {floorHazards192,findFloorPlace192,floorLevel192} from './work-area192.js?v=193';
 import * as T from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 import {repairTools139} from './repair-tools139.js?v=185';
@@ -13,7 +13,7 @@ async function nativeBag(){
  const base=new T.Mesh(new T.BoxGeometry(.47,.012,.23),lining);base.name='Forro interior acolchado186';base.position.y=-.046;root.add(base);
  const ribs=new T.InstancedMesh(new T.BoxGeometry(.012,.008,.22),lining,7),pose=new T.Matrix4();for(let i=0;i<7;i++){pose.makeTranslation(-.20+i*.066,-.036,0);ribs.setMatrixAt(i,pose);}ribs.name='Refuerzos de lona186';root.add(ribs);
  const seams=new T.InstancedMesh(new T.BoxGeometry(.004,.002,.002),thread,80);for(let i=0;i<80;i++){pose.makeTranslation(-.22+(i%40)*.0113,-.037,i<40?-.105:.105);seams.setMatrixAt(i,pose);}seams.name='Doble costura interior186';root.add(seams);
-refineSurfaceMaterials100(root);mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
+refineSurfaceMaterials100(root);mat.visible=false;mat.userData.prepare157=true;root.visible=false;return{root,lid,mat};
 }
 const ease=t=>{t=T.MathUtils.clamp(t,0,1);return t*t*(3-2*t);};
 const names={hand:'Guante de trabajo',screwdriver:'Destornillador',driver:'Destornillador',wrench:'Llave',brush:'Cepillo',meter:'Instrumento de medición',red:'Punta roja',black:'Punta negra'};

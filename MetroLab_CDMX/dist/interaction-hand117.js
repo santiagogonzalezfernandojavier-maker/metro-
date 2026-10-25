@@ -1,4 +1,4 @@
-import {Arm177} from './arm177.js?v=192';
+import {Arm177} from './arm177.js?v=193';
 import * as THREE from'three';
 const ease=t=>{t=THREE.MathUtils.clamp(t,0,1);return t*t*t*(10+t*(-15+6*t));};
 // A spatial hand belongs to a contact on the bench, never to the screen cursor.
@@ -14,7 +14,7 @@ export class InteractionHand117{
   this.view.glove.root.visible=true;if(this.view.canvas.style)this.view.canvas.style.cursor='none';if(this.reticle)this.reticle.hidden=true;
  }
  step(now,held=false){
-  const v=this.view,root=v.glove.root;this.arm177.hide();if(!this.contact){if((v.canvas.ownerDocument||globalThis.document)?.pointerLockElement===v.canvas){root.position.set(.25+Math.sin(now*.0018)*.002,-.35+Math.sin(now*.002)*.002,-.39);root.rotation.set(-.25,Math.PI-.35,-.38);root.visible=true;root.updateWorldMatrix(true,true);const wrist=v.camera.worldToLocal(root.localToWorld(new THREE.Vector3(0,-.1,0)));this.arm177.pose(wrist,new THREE.Vector3(.28,-.32,.08));if(this.reticle)this.reticle.hidden=true;return;}root.visible=false;if(this.reticle)this.reticle.hidden=!this.pointerInside;return;}
+  const v=this.view,root=v.glove.root;this.arm177.hide();if(!this.contact){root.visible=false;if(this.reticle)this.reticle.hidden=!this.pointerInside;return;}
   if(held)this.until=now+120;
   if(now>this.until+240){this.contact=null;root.visible=false;if(this.reticle)this.reticle.hidden=!this.pointerInside;return;}
   const c=this.contact;c.object.updateWorldMatrix(true,false);v.camera.updateMatrixWorld(true);
