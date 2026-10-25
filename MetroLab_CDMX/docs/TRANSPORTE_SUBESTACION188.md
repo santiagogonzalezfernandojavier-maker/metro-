@@ -19,3 +19,6 @@ El tapete, los objetos y las referencias de transporte se limpian al cambiar de 
 ## Verificación
 
 `node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_transporte188.mjs` ejecuta toda la práctica con preparación nativa de la bolsa, transporte, medidas antes/después, interrupciones, guardas contra acciones remotas, filtro colocado/limpiado/reinstalado, fijaciones y ensayo. `verificar_controles181.mjs` conserva las cinco prácticas restantes y los controles compartidos; la ventilación física tiene esta prueba propia. Las pruebas de entrada en navegador no certifican rendimiento con GPU ni procedimientos de mantenimiento real.
+
+## Selección directa y guía · revisión 189
+Seleccionar una herramienta en la bolsa la equipa al terminar la animación, sin confirmar con otro botón ni pulsar el tapete. Una señal discreta marca el destino del paso actual con distancia; fuera de pantalla indica la dirección. Se actualiza al tomar o guardar instrumentos, transportar el filtro y avanzar de operación. Se oculta en la bolsa, durante el diagnóstico y al terminar la práctica. La señal orienta: el estudiante sigue desplazándose y realizando las acciones sobre las piezas.
