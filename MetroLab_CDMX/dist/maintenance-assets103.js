@@ -1,4 +1,4 @@
-import {upgradeTrain142} from './instruments142.js?v=196';
+import {upgradeTrain142} from './instruments142.js?v=197';
 import {houseTrain138} from './equipment-housing138.js?v=194';
 import {detailBench125,syncDetails125,syncWheelFasteners125} from './maintenance-detail125.js?v=187';
 import {finishBench122} from './maintenance-finish122.js?v=122';

@@ -65,7 +65,7 @@ globalThis.fetch=fetch149;Object.defineProperty(globalThis,'performance',{value:
 assert.equal(cockpit149.labelNodes151.size,6);
 assert.deepEqual([...cockpit149.labelNodes151.values()].map(n=>n.textContent.replace(/^\d+ · /,'')),['Abrir puertas','Cerrar puertas','Aviso de voz','Emergencia','Ajustar parada','Cambiar cabina']);
 let traversals151=0;const traverse151=fakecab149.traverse.bind(fakecab149);fakecab149.traverse=fn=>{traversals151++;return traverse151(fn);};cockpit149.restoreCab();
-for(let i=0;i<240;i++)cockpit149.update(performance.now()+i*16);
+cockpit149.cabTargets197=new WeakMap();for(let i=0;i<240;i++){cockpit149.update(performance.now()+i*16);assert(!part149.visible,'Cab hidden only during world render');cockpit149.restoreCab();assert(part149.visible,'Original front restored after each frame');}
 assert.equal(traversals151,1,'Train visibility traversed once, not each frame');
 const help151=cockpit149.hud.querySelector('.c151-help');assert.notEqual(cockpit149.hud.dataset.help151,'true');help151.click();assert.equal(cockpit149.hud.dataset.help151,'true');help151.click();assert.equal(cockpit149.hud.dataset.help151,'false');
 assert(cockpit149.labels151.hidden,'Cab controls stay out of the view until requested');cockpit149.commandToggle176.click();assert(!cockpit149.labels151.hidden);assert(!estate149.emergency);cockpit149.labelNodes151.get('emergency').click();assert(cockpit149.press,'Readable label starts hand interaction');cockpit149.update(performance.now()+210);assert(estate149.emergency,'Readable label dispatches real emergency');cockpit149.update(performance.now()+700);assert(estate149.emergency,'Single dispatch');

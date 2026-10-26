@@ -38,3 +38,6 @@ La base pasó estos checks: 165 módulos, 6 misiones de subestación/155 accione
 No se garantiza fotorrealismo. El entorno anterior no tenía WebGL para QA visual; hay que revisar en navegador local con GPU. Los scripts Blender y fuentes son históricos: inspeccionar rutas y versiones antes de exportar. No todos los adjuntos originales están disponibles; usar solo inventario y referencias reales. No se ha auditado aquí cada plano/afluencia contra una fuente externa actual. El proyecto contiene muchas revisiones heredadas; optimizar con medición y sin borrar recursos por intuición.
 
 Web publicada de referencia: https://metro-cdmx-simulador.santiagogonzal331575.chatgpt.site/
+
+## Actualización 197
+Selector L1/L8 previo a conducción/observación (teclas 1/8), misiones independientes con recolocación de bolsa, respuestas y bolsa por números. Garibaldi ya trae .gz: normalizar antes de añadir la extensión. Cabina restaura el frente tras cada pase con caché de superficies. Véase docs/revision197.md y scripts/verificar_misiones197.cjs.

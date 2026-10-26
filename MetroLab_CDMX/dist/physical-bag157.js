@@ -2,7 +2,7 @@ import {floorHazards192,findFloorPlace192,floorLevel192} from './work-area192.js
 import * as T from 'three';
 import {GLTFLoader} from './vendor/GLTFLoader.js';
 import {repairTools139} from './repair-tools139.js?v=194';
-import {instrument142} from './instruments142.js?v=196';
+import {instrument142} from './instruments142.js?v=197';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 let bagBytes;
 async function nativeBag(){
@@ -23,10 +23,10 @@ export class PhysicalBag157{
  constructor(view,{glove,hand,ids,onEquip,notify=()=>{},onClose=()=>{},kind='dmm'}){
   Object.assign(this,{view,glove,hand,ids:ids.filter(id=>id!=='hand'),onEquip,notify,onClose,kind});this.model={root:new T.Group(),lid:new T.Group(),mat:new T.Group()};this.model.root.visible=false;this.phase='closed';this.items=new Map();this.ray=new T.Raycaster();this.pointer=new T.Vector2();this.handlers=[];
   const parent=view.canvas.parentElement||view.canvas,doc=view.dialog?.ownerDocument||globalThis.document;
-  if(doc?.createElement){this.hud186=doc.createElement('section');this.hud186.className='bag186-hud';this.hud186.hidden=true;this.hud186.setAttribute('aria-label','Preparar herramientas de la bolsa');this.hud186.innerHTML='<header><b>BOLSA DE HERRAMIENTAS</b><button type="button" data-bag186-close>Volver a caminar · Tab</button></header><p data-bag186-status role="status"></p><nav data-bag186-tools aria-label="Herramientas disponibles"></nav><small>WASD: incorporarte y caminar · Ctrl: agacharte · Esc: cancelar</small>';parent.append(this.hud186);this.hud186.querySelector('[data-bag186-close]').onclick=()=>this.close();for(const id of this.ids){const b=doc.createElement('button');b.type='button';b.dataset.bag186Tool=id;b.textContent=id==='meter'?({anemometer:'Anemómetro',megohm:'Megóhmetro',dmm:'Multímetro'}[kind]||names.meter):(names[id]||id);b.onclick=()=>this.take(id);this.hud186.querySelector('[data-bag186-tools]').append(b);}this.notify=text=>{notify(text);this.render186(text);};}
+  if(doc?.createElement){this.hud186=doc.createElement('section');this.hud186.className='bag186-hud';this.hud186.hidden=true;this.hud186.setAttribute('aria-label','Preparar herramientas de la bolsa');this.hud186.innerHTML='<header><b>BOLSA DE HERRAMIENTAS</b><button type="button" data-bag186-close>Volver a caminar · Tab</button></header><p data-bag186-status role="status"></p><nav data-bag186-tools aria-label="Herramientas disponibles"></nav><small>WASD: incorporarte y caminar · Ctrl: agacharte · Esc: cancelar</small>';parent.append(this.hud186);this.hud186.querySelector('[data-bag186-close]').onclick=()=>this.close();for(const id of this.ids){const b=doc.createElement('button');b.type='button';b.dataset.bag186Tool=id;b.textContent=id==='meter'?({anemometer:'Anemómetro',megohm:'Megóhmetro',dmm:'Multímetro'}[kind]||names.meter):(names[id]||id);b.textContent=(this.ids.indexOf(id)+1)+' · '+b.textContent;b.onclick=()=>this.take(id);this.hud186.querySelector('[data-bag186-tools]').append(b);}this.notify=text=>{notify(text);this.render186(text);};}
 
   for(const type of['pointerdown','pointermove','pointerup','pointercancel','wheel','contextmenu']){const fn=e=>this.event(type,e);parent.addEventListener?.(type,fn,{capture:true});this.handlers.push([parent,type,fn]);}
-  this.key=e=>{if(this.phase!=='closed'&&e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();this.close();}};globalThis.document?.addEventListener?.('keydown',this.key,true);
+  this.key=e=>{if(this.phase==='searching'&&!e.ctrlKey&&!e.altKey&&!e.metaKey&&!e.repeat&&/^[1-9]$/.test(e.key)){const id=this.ids[Number(e.key)-1];if(id){e.preventDefault();e.stopImmediatePropagation();this.take(id);}return;}if(this.phase!=='closed'&&e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();this.close();}};globalThis.document?.addEventListener?.('keydown',this.key,true);
  }
  render186(text){const h=this.hud186;if(!h)return;h.hidden=this.phase==='closed';if(text)h.querySelector('[data-bag186-status]').textContent=text;for(const b of h.querySelectorAll('[data-bag186-tool]')){const item=this.items.get(b.dataset.bag186Tool);b.disabled=this.phase!=='searching'||!item||item.userData.outside188||item.userData.outside196;b.setAttribute('aria-pressed',String(b.dataset.bag186Tool===this.selected));}}
  async load(){
