@@ -1,6 +1,6 @@
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';
 import {waitForSimulation95} from './simulation-start95.js?v=97';
-import {Depot,TRAIN_BAYS} from './depot86.js?v=195';
+import {Depot,TRAIN_BAYS} from './depot86.js?v=198';
 const $=id=>document.getElementById(id);let depot,selection='NM22',opening=false,generation=0,pendingSimulation95=null;
 function screen(next){document.body.dataset.gameScreen=next;$('game-home').hidden=next!=='home';$('game-depot-ui').hidden=next!=='depot';$('game-environment').hidden=!['home','depot'].includes(next);$('game-loading').hidden=next!=='loading';depot?.show(next);window.dispatchEvent(new Event('resize'));}
 function back(){pendingSimulation95=null;generation++;opening=false;window.pauseTrainExperience?.();if(document.body.dataset.workspace==='simulation')$('return-workshop').click();window.workshopGame?.hideMaintenance();screen('home');ensureDepot('home');$('game-home-title').focus();}

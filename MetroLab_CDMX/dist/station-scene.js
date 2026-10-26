@@ -17,7 +17,7 @@ import {createAlignment97,bakeInfrastructure97,renderCurved97} from './route-geo
 import {buildTrack99,retireStationTracks99,buildStationSafety99,updateSignals99} from './track-details99.js?v=115';
 import {substationPlan94,wallSpans94,makeSubstation94} from './substations94.js?v=194';
 import {applyMotorRole90} from './motor-runtime90.js?v=111';
-import {loadCompressedGLB} from './compressed-assets89.js?v=197';
+import {loadCompressedGLB} from './compressed-assets89.js?v=198';
 import{WorkshopNavigation}from'./workshop-navigation.js?v=61';
 import{stationLoadPlan,prepareStationTextures}from'./station-streaming.js?v=69';
 import{carReference}from'./train-formation.js?v=64';
@@ -115,7 +115,7 @@ export class StationScene {
  const priority=selected?trainPrefix(selected):line===1?'NM22':'NM79';
  const prefixes=line===1?['NM22']:[priority,priority==='NM79'?'MP82':'NM79'];
  const load=async key=>{
-  const response=await fetch('models/'+key+'.glb.gz'+'?v=147',{signal:AbortSignal.timeout(45000)});
+  const response=await fetch('models/'+key+'.glb.gz'+'?v=198',{signal:AbortSignal.timeout(45000)});
   if(!response.ok)throw Error(key+': HTTP '+response.status);
   const buffer=await new Response(response.body.pipeThrough(new DecompressionStream('gzip'))).arrayBuffer();
   const g=await this.loader.parseAsync(buffer,'models/');

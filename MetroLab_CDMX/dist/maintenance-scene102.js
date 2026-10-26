@@ -1,6 +1,6 @@
 import {WorkshopWalk187} from './workshop-walk187.js?v=196';
 import {stageTrain176} from './instrument-staging176.js?v=188';
-import {mountedTrain156,mountRig156,maintenanceBay156} from './installed-train156.js?v=195';
+import {mountedTrain156,mountRig156,maintenanceBay156} from './installed-train156.js?v=198';
 import {startBagPickup156,updateBagPickup156,cancelBagPickup156} from './tool-bag156.js?v=197';
 import {nearestAction143,pickActionCentre143} from './maintenance-picking143.js?v=143';
 import {gate142,prepareFrame142,waitUntil142} from './resource-gate142.js?v=150';

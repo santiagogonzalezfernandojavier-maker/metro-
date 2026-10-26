@@ -10,10 +10,10 @@ import {createMetroEnvironment} from './metro-render.js?v=194';
 import {motorBench90,motorDescription90,motorEvidence94} from './motor-runtime90.js?v=111';
 import {motorPartMatrix90} from './motor-view90.js';
 import {requestStudy89} from './study-context89.js';
-import {trainAsset,depotEnvironment} from './depot86.js?v=195';
+import {trainAsset,depotEnvironment} from './depot86.js?v=198';
 import{FORMATION9,CAR_TYPES,carReference,TECHNICAL_REFERENCE}from'./train-formation.js?v=64';import * as THREE from 'three';import{WorkshopNavigation}from'./workshop-navigation.js?v=61';import{OrbitControls}from'./vendor/OrbitControls.js';import{GLTFLoader}from'./vendor/GLTFLoader.js';import{MODELS,PARTS,CASES,partCategory}from'./workshop-core.js?v=112';
 import{LESSONS,STAGES,GuidedMaintenance}from'./maintenance-course.js?v=78';
-import{mountHandsMaintenance}from'./maintenance-hands-ui.js?v=197';
+import{mountHandsMaintenance}from'./maintenance-hands-ui.js?v=198';
 const $=id=>document.getElementById(id);let model='NM22',unit='cabina',carIndex=0,mode='explore',viewer,selected='body',request=0;const exercise=new GuidedMaintenance();let maintenanceTimer=0,maintenanceRun=0;
 function setText(id,text){$(id).textContent=text;}
 function dispose(group){const gs=new Set(),ms=new Set(),ts=new Set();group.traverse(o=>{if(o.geometry)gs.add(o.geometry);if(o.material)for(const m of Array.isArray(o.material)?o.material:[o.material]){ms.add(m);for(const v of Object.values(m))if(v?.isTexture)ts.add(v);}});gs.forEach(g=>g.dispose());ms.forEach(m=>m.dispose());ts.forEach(t=>t.dispose());}

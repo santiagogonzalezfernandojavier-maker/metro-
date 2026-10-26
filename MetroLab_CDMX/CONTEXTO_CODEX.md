@@ -41,3 +41,6 @@ Web publicada de referencia: https://metro-cdmx-simulador.santiagogonzal331575.c
 
 ## Actualización 197
 Selector L1/L8 previo a conducción/observación (teclas 1/8), misiones independientes con recolocación de bolsa, respuestas y bolsa por números. Garibaldi ya trae .gz: normalizar antes de añadir la extensión. Cabina restaura el frente tras cada pase con caché de superficies. Véase docs/revision197.md y scripts/verificar_misiones197.cjs.
+
+## Actualización 198
+MP82_cabina.glb.gz tenía ausente el cierre exterior de la cabina (+X). Se añade el frente al GLB conservando todos los datos previos. No invertir la carrocería: el otro extremo es el testero. Script reproducible reparar_frente198.py; prueba verificar_frente198.mjs; carga/cache 198. Véase docs/revision198.md.
