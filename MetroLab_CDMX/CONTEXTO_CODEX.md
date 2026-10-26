@@ -44,3 +44,6 @@ Selector L1/L8 previo a conducción/observación (teclas 1/8), misiones independ
 
 ## Actualización 198
 MP82_cabina.glb.gz tenía ausente el cierre exterior de la cabina (+X). Se añade el frente al GLB conservando todos los datos previos. No invertir la carrocería: el otro extremo es el testero. Script reproducible reparar_frente198.py; prueba verificar_frente198.mjs; carga/cache 198. Véase docs/revision198.md.
+
+## Actualización 199
+Agarre del anemómetro compartido en INSTRUMENT_GRIP199 (punto, orientación), pulgar con oposición recuperable. Taller: WorkshopPlay199 añade E apuntado/mantenido, transporte con WASD, dos manos en piezas grandes y guía; H/J/Esc y bolsa comparten controles. game92.js delega sus atajos antiguos al controlador nuevo para evitar cancelar la selección numérica de bolsa y el enfoque sin traslado. Pruebas verificar_agarre199, verificar_taller199.mjs/cjs; ver docs/revision199.md.

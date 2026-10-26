@@ -1,4 +1,4 @@
-import {PlatformPerson178} from './platform-person178.js?v=190';
+import {PlatformPerson178} from './platform-person178.js?v=199';
 import{platformSolids169,clampPlatformCamera169,constrainPlatformActors169}from'./platform-collision169.js?v=181';
 import{finishPlatforms160}from'./platform-finish160.js?v=174';
 import {Cockpit149} from './cockpit149.js?v=197';

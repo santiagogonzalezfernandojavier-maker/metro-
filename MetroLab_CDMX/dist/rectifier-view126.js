@@ -1,4 +1,4 @@
-import {Walk176} from './walk176.js?v=196';
+import {Walk176} from './walk176.js?v=199';
 import {installCad168} from './substation-cad168.js?v=196';
 import {installSpread144,detailSpread144} from './substation-spread144.js?v=144';
 import {maquetteCamera137,architecture137,installMaquetteUI137} from './substation-maquette137.js?v=138';
@@ -11,7 +11,7 @@ import {OrbitControls} from './vendor/OrbitControls.js';
 import {SR_PARTS126} from './rectifier-model126.js?v=194';
 import {createMetroEnvironment} from './metro-render.js?v=194';
 import {loadRectifier127} from './rectifier-assets127.js?v=196';
-import {SubstationMaintenanceUI128} from './substation-maintenance128.js?v=197';
+import {SubstationMaintenanceUI128} from './substation-maintenance128.js?v=199';
 export class RectifierView126{
  static async create(dialog){return new RectifierView126(dialog,await loadRectifier127());}
  constructor(dialog,model){

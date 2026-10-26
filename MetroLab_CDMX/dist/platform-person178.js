@@ -1,4 +1,4 @@
-import {key181,installKeyHelp181} from './game-keys181.js?v=190';
+import {key181,installKeyHelp181} from './game-keys181.js?v=199';
 import {sweepPeople180,personPad180} from './person-navigation180.js?v=180';
 import * as T from 'three';
 import {sweepPlatform169} from './platform-collision169.js?v=181';

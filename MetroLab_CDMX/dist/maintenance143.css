@@ -23,3 +23,5 @@
 @media(prefers-reduced-motion:reduce){[data-game117] .m117-objective{transition:none}}
 
 :is(#m197-choose,#route197){width:min(560px,calc(100vw - 36px));max-height:90dvh;overflow:auto;background:#162a30;color:#ecf2ee;border:1px solid #758d89;border-radius:12px;padding:24px}:is(#m197-choose,#route197)::backdrop{background:#061119c9}:is(#m197-choose,#route197)>button{display:block;text-align:left;width:100%;padding:14px;margin:10px 0;background:#29413f;color:#edf2ec;border:1px solid #718d83;border-radius:7px}:is(#m197-choose,#route197) p{font-size:13px;color:#bdd1c8}
+
+.work199-progress{position:absolute;left:calc(50% - 65px);top:56%;width:130px;height:7px;accent-color:#dbbb7c;pointer-events:none}.work199-progress[hidden]{display:none}
