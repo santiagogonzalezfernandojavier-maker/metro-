@@ -1,6 +1,6 @@
 import './local-doc174.js?v=174';
-import{svg173,mountInstallation173,save173}from'./installation173.js?v=192';
-import{dxf168}from'./substation-cad168.js?v=192';
+import{svg173,mountInstallation173,save173}from'./installation173.js?v=196';
+import{dxf168}from'./substation-cad168.js?v=196';
 const host=document.querySelector('main'),paper=host.querySelector('.cad168-paper');paper.innerHTML=svg173();let box=[0,0,594,420],drag;
 const apply=()=>paper.querySelector('svg').setAttribute('viewBox',box.join(' '));
 const installation=mountInstallation173(host,()=>{host.querySelector('[data-status]').textContent='Para ubicar el equipo en 3D: Exploración de subestaciones → Unifilar CAD.';},state=>{paper.innerHTML=svg173(state);apply();});

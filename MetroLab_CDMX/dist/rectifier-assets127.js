@@ -1,4 +1,4 @@
-import {coverBattery177} from './battery-cover177.js?v=177';
+import {coverBattery177} from './battery-cover177.js?v=196';
 import {industrialFinish176} from './industrial-finish176.js?v=194';
 import {geometryTransform146} from './geometry-transform146.js?v=148';
 import {partitionSubstation144} from './substation-spread144.js?v=144';

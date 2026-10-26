@@ -1,4 +1,4 @@
-import {PhysicalBag157} from './physical-bag157.js?v=195';
+import {PhysicalBag157} from './physical-bag157.js?v=196';
 import * as THREE from 'three';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 export class ToolBag156{
@@ -11,7 +11,7 @@ export class ToolBag156{
  available194(){const v=this.getContext()?.view;if(v?.service128)return !!v.service128.active&&!!v.dialog?.open;if(v?.visible&&this.doc.body?.dataset.gameScreen==='maintenance')return true;return !!this.host.getClientRects?.().length;}
  title(id){const b=this.buttons.find(b=>this.getId(b)===id);return b?.querySelector('[data-tool145-label]')?.textContent||b?.textContent.replace(/^\s*\d+\s*/,'').trim()||'Manos libres';}
  putAway176(){this.close();const button=this.buttons.find(b=>this.getId(b)==='hand');button?.click();this.sync('hand');}
- sync(id){this.selected=id;this.store.hidden=['hand','inspect','test','spare'].includes(id);if(!this.open)this.status.textContent=['hand','inspect'].includes(id)?'Manos libres · guantes puestos':'En uso · '+this.title(id);}
+ sync(id){this.selected=id;this.store.hidden=['hand','inspect','test','spare'].includes(id);for(const[key,item]of this.browser?.items||[]){item.userData.outside196=key===id&&this.prepared176.has(id);item.visible=!item.userData.outside188&&!item.userData.outside196;}if(!this.open)this.status.textContent=['hand','inspect'].includes(id)?'Manos libres · guantes puestos':'En uso · '+this.title(id);}
  require176(id){if(['hand','inspect','test','spare'].includes(id)||this.prepared176.has(id))return true;this.status.textContent='Abre la bolsa con Tab y prepara '+this.title(id);return false;}
  async place178(point){const ctx=this.getContext();if(!ctx?.view)return;await this.ensure178(ctx);await this.browser.park178(point);}
  async ensure178(ctx){if(this.browser&&(this.browser.view!==ctx.view||this.browser.kind!==(ctx.kind||'dmm'))){this.browser.dispose();this.browser=null;}if(!this.browser)this.create178(ctx);}

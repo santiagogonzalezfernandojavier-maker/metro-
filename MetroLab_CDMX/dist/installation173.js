@@ -1,5 +1,5 @@
-import {circuits171,drawing171} from './electrical171.js?v=174';
-import {initial173,all173,fmt173,scope173,sources173,insulations173} from './cable173.js?v=174';
+import {circuits171,drawing171} from './electrical171.js?v=196';
+import {initial173,all173,fmt173,scope173,sources173,insulations173} from './cable173.js?v=196';
 import {PDF173} from './pdf173.js?v=174';
 export const escape173=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export function drawing173(state=initial173()){
@@ -9,7 +9,7 @@ export function drawing173(state=initial173()){
  replace('23 kV de referencia · fases / Hz pendientes',`${fmt173(state.C01.voltage/1000)} kV · ${state.C01.phases} fases · ${state.C01.hz} Hz [ref./sup.]`);
  replace('Secundarios / V·A / conexión: pendientes',`${fmt173(state.C03.voltage)} V · conexión / placa pendientes`);
  replace('BARRA + / 750 V de referencia',`BARRA + / ${fmt173(state.C04.voltage)} V [ref./sup.]`);
- replace('Q-AUX · calibre pendiente','Q-AUX · ver cédula C06');
+ replace('52-AUX · calibre pendiente','52-AUX · ver cédula C06');
  replace('BARRA AUX / tensión pendiente',`BARRA AUX / ${fmt173(state.C07.voltage)} V [sup.]`);
  // Keep the original circuit geometry uncluttered; a keyed annotation ledger shares the sheet.
  L(420,7,587,7);L(587,7,587,410);L(420,410,587,410);L(420,7,420,410);
@@ -28,7 +28,7 @@ export function drawing173(state=initial173()){
  return a;
 }
 export function svg173(state){return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594 420" role="img" aria-label="Unifilar y cédulas calculadas"><style>line,circle{stroke:#000;stroke-width:.3;fill:none}text{fill:#000;stroke:none;font-family:Arial,sans-serif;font-weight:600}[data-circuit171]{cursor:pointer}[aria-pressed=true] line{stroke-width:.7}</style><rect width="594" height="420" fill="#fff"/>${drawing173(state).map(o=>{let s=o.t==='L'?`<line x1="${o.x}" y1="${o.y}" x2="${o.u}" y2="${o.v}"/>`:o.t==='C'?`<circle cx="${o.x}" cy="${o.y}" r="${o.r}"/>`:`<text x="${o.x}" y="${o.y}" font-size="${o.h}">${escape173(o.s)}</text>`;return o.c?`<g data-circuit171="${o.c}" role="button" tabindex="0" aria-label="Editar circuito ${o.c}">${s}</g>`:s;}).join('')}</svg>`;}
-export function pdf173(state){const p=new PDF173().diagram(drawing173(state));for(const r of all173(state)){p.report(`${r.id} / ${r.destination}`,[...r.rows,['Alcance',r.scope],['Procedencia','Sin placas verificadas. Tensiones 23 kV y 750 V: referencias del simulador en C01/C02/C04; resto de entradas iniciales supuestas.'],['Datos de entrada completos',JSON.stringify(r.input)],...(r.formulas||[]).map((v,i)=>['Fórmula '+(i+1),v]),...r.warnings.map(v=>['Advertencia',v]),...r.pending.map(v=>['Pendiente',v])]);}p.report('Referencias / uso del escenario',sources173.map(s=>[s[1],s[3]]).concat([['Criterios','Archivo local normativa/criterios173.html; tablas del PDF oficial NOM-001-SEDE-2012. Consulta 21 octubre 2026.'],['Simbología','IEEE/ANSI 315-1975 (Inactive-Reserved), funciones IEEE C37.2-2022; cotejo autorizado pendiente. NMX-J-136-ANCE-2019: referencia nacional. No confundir con requisitos NOM de instalación.'],['Limitaciones',scope173]]));return p.finish();}
+export function pdf173(state){const p=new PDF173().diagram(drawing173(state));for(const r of all173(state)){p.report(`${r.id} / ${r.destination}`,[...r.rows,['Alcance',r.scope],['Procedencia','Sin placas verificadas. Tensiones 23 kV y 750 V: referencias del simulador en C01/C02/C04; resto de entradas iniciales supuestas.'],['Datos de entrada completos',JSON.stringify(r.input)],...(r.formulas||[]).map((v,i)=>['Fórmula '+(i+1),v]),...r.warnings.map(v=>['Advertencia',v]),...r.pending.map(v=>['Pendiente',v])]);}p.report('Referencias / uso del escenario',sources173.map(s=>[s[1],s[3]]).concat([['Criterios','Archivo local normativa/criterios173.html; tablas del PDF oficial NOM-001-SEDE-2012. Consulta 21 octubre 2026.'],['Simbología','IEEE/ANSI 315-1975 (Inactive-Reserved), funciones IEEE C37.2-2022: 89, 52 (CA), 72 (CD), 50/51; cotejo autorizado pendiente. NMX-J-136-ANCE-2019: referencia nacional. No confundir con requisitos NOM de instalación.'],['Limitaciones',scope173]]));return p.finish();}
 export function save173(data,type,name){const a=document.createElement('a'),u=URL.createObjectURL(new Blob([data],{type}));a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),30000);}
 const fields173=[
  ['nominal','Corriente nominal / A',.01,10000],['voltage','Tensión entre conductores / V',1,100000],['phases','Sistema',[['0','CD · dos polos'],['1','CA · fase + neutro'],['3','CA · tres fases']]],
@@ -56,7 +56,7 @@ export function mountInstallation173(overlay,onPart,onState){
  pane.querySelector('[data-install-reset]').onclick=()=>{state[selected]=initial173()[selected];select(selected);};
  pane.querySelector('[data-install-json]').onclick=()=>save173(JSON.stringify({version:173,state},null,2),'application/json','MetroLab_Escenario_R173.json');
  pane.querySelector('[data-install-import]').onchange=async e=>{try{const data=JSON.parse(await e.target.files[0].text());if(data.version!==173||!Object.keys(fresh).every(k=>data.state?.[k]&&Object.keys(fresh[k]).every(f=>Object.hasOwn(data.state[k],f))))throw Error('Formato incompatible');const test=all173(data.state);if(test.some(r=>r.status==='Entrada inválida'||r.status==='Entrada manual inválida'))throw Error('Entradas inválidas');state=data.state;select(selected);}catch(err){pane.querySelector('[data-install-status]').textContent='No se pudo importar: '+err.message;}};
- pane.querySelector('[data-schedule-csv]').onclick=async()=>{const {csv173}=await import('./cable173.js?v=174');save173(csv173(all173(state)),'text/csv;charset=utf-8','MetroLab_Cedulas_R173.csv');};
+ pane.querySelector('[data-schedule-csv]').onclick=async()=>{const {csv173}=await import('./cable173.js?v=196');save173(csv173(all173(state)),'text/csv;charset=utf-8','MetroLab_Cedulas_R173.csv');};
  pdf.onclick=()=>{try{save173(pdf173(state),'application/pdf','MetroLab_Unifilar_Cedulas_R173.pdf');}catch(err){pane.querySelector('[data-install-status]').textContent='No se pudo exportar PDF: '+err.message;pane.hidden=false;}};
  onState(state);return {get state(){return state;},select};
 }

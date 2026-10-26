@@ -1,5 +1,5 @@
 // Local educational model. Normative numbers are isolated from editable assumptions.
-import {circuits171} from './electrical171.js?v=174';
+import {circuits171} from './electrical171.js?v=196';
 export const scope173='Estimación para simulación educativa. No es un proyecto ejecutivo ni una declaración de cumplimiento.';
 export const sources173=[
  ['Instalación y tablas','NOM-001-SEDE-2012','./normativa/NOM-001-SEDE-2012.pdf.gz','https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/001sede2012.pdf'],

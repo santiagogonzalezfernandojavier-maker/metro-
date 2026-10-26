@@ -1,8 +1,8 @@
-import './workshop.js?v=195';
-import './game86.js?v=195';
+import './workshop.js?v=196';
+import './game86.js?v=196';
 const $=id=>document.getElementById(id);
-const icons={explore:'M4 20V7l8-4 8 4v13M8 20v-7h8v7M8 8h8',maintenance:'m14 6 4-3 3 3-3 4-4-1-8 11-3-3 10-8z',operator:'M4 18a8 8 0 1 1 16 0M12 16l5-7M5 20h14',automatic:'M5 4h14v14H5zM8 8h8M8 12h8M8 18l-2 3m10-3 2 3'};
-for(const b of document.querySelectorAll('[data-game-mode]')){const svg=document.createElement('span');svg.className='game92-mode-icon';svg.innerHTML=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="${icons[b.dataset.gameMode]}"/></svg>`;b.prepend(svg);}
+const icons={substations:'M4 3h16v18H4zM8 6h8M8 18h8m-5-9-2 4h4l-2 3',explore:'M4 20V7l8-4 8 4v13M8 20v-7h8v7M8 8h8',maintenance:'m14 6 4-3 3 3-3 4-4-1-8 11-3-3 10-8z',operator:'M4 18a8 8 0 1 1 16 0M12 16l5-7M5 20h14',automatic:'M5 4h14v14H5zM8 8h8M8 12h8M8 18l-2 3m10-3 2 3'};
+for(const b of document.querySelectorAll('[data-game-mode]')){const svg=document.createElement('span');svg.className='game92-mode-icon';svg.innerHTML=`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="${icons[b.dataset.gameMode]||icons.explore}"/></svg>`;b.prepend(svg);}
 const hud=document.createElement('div');hud.id='game92-hud';hud.innerHTML='<span class="game92-live-dot"></span><span id="game92-location">CENTRO DE EXPERIENCIAS</span><span id="game92-progress"></span>';document.querySelector('header').append(hud);
 if(!document.getElementById('maintenance-hands-panel').dataset.rebuild102){
 const tools=document.createElement('div');tools.className='game92-repair-actions';tools.innerHTML='<button id="game92-refocus">↗ Encuadrar banco</button><button id="game92-release">Soltar pieza · Esc</button><span>1–5 Herramientas · Clic o arrastrar · Botón derecho para desplazar</span>';$('maintenance-hands-panel').prepend(tools);
