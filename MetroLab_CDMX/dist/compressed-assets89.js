@@ -1,5 +1,5 @@
 export async function loadCompressedGLB(loader,url){
- const plain=url.split(/[?#]/)[0].replace(/\.gz$/,''),r=await fetch(plain+'.gz?v=198',{signal:AbortSignal.timeout(45000)});
+ const plain=url.split(/[?#]/)[0].replace(/\.gz$/,''),r=await fetch(plain+'.gz?v=201',{signal:AbortSignal.timeout(45000)});
  if(!r.ok)throw Error('No se pudo cargar '+plain+': '+r.status);
  return loader.parseAsync(await new Response(r.body.pipeThrough(new DecompressionStream('gzip'))).arrayBuffer(),plain.slice(0,plain.lastIndexOf('/')+1));
 }
