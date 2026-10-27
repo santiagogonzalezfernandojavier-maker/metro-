@@ -56,3 +56,6 @@ Frente nativo MP-82 ajustado a la foto aportada: parabrisas único, marco metál
 
 ## Actualización 202
 Andén: límite real de 24 esqueletos incluyendo flujos; poses instanciadas más ligeras, búsqueda de portales sin recorrer los descendientes y una sola búsqueda por cuadro; RenderBudget mantiene fase en 60/120/144 Hz. Agarre nativo de destornillador cruza palma y varilla sale junto al índice/pulgar; helper screw-grip202. Ventilation-interior202 añade conducto, impulsor/motor y control auxiliar cableado detrás del filtro sin sustituir la misión. Nuevas pruebas fluidez/multitud/destornillador/interior202 y perfil_anden202.cjs. Véase docs/revision202.md para mediciones y límites.
+
+## Actualización 203
+Personas próximas animadas entre cálculos de multitud, caras conservadas en simplificación y pelo nativo corregido (doble cara/cutout). Presentation203 suaviza el dibujo del tren/cámaras entre pasos físicos sin mutar engine; soporta recta/curva y pausa/parada. RenderBudget101 añade resolución adaptativa con recuperación; RectifierView126 utiliza el mismo presupuesto. Pruebas presentacion/personas/camaras203 y docs/revision203.md.

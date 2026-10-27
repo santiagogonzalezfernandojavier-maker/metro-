@@ -4,10 +4,10 @@ import {wardrobeFor} from './passenger-wardrobe.js?v=144';
 import {avatarDetail119,applyCloth120} from './passenger-cloth119.js?v=130';
 
 // Vertex clustering for distant GLB silhouettes. Textures and material roles survive.
-function simplify121(g,step=.024,uvGrid=4){
+function simplify121(g,step=.024,uvGrid=4,headStart=1.35){
  const p=g.getAttribute('position'),uv=g.getAttribute('uv'),colour=g.getAttribute('color'),detail=g.getAttribute('uv3'),map=new Map(),indices=new Uint32Array(p.count),vertices=[];
  for(let i=0;i<p.count;i++){
-  const key=Math.round(p.getX(i)/step)+','+Math.round(p.getY(i)/step)+','+Math.round(p.getZ(i)/step)+':'+Math.floor((uv?.getX(i)||0)*uvGrid)+','+Math.floor((uv?.getY(i)||0)*uvGrid);
+  const detailStep=p.getY(i)>headStart?Math.min(step,.030):step;const key=Math.round(p.getX(i)/detailStep)+','+Math.round(p.getY(i)/detailStep)+','+Math.round(p.getZ(i)/detailStep)+':'+Math.floor((uv?.getX(i)||0)*uvGrid)+','+Math.floor((uv?.getY(i)||0)*uvGrid);
   let n=map.get(key);if(n===undefined){n=vertices.length;map.set(key,n);vertices.push(i);}indices[i]=n;
  }
  const faces=[],seen=new Set(),source=g.index?.array||Array.from({length:p.count},(_,i)=>i);
@@ -53,7 +53,7 @@ export class InstancedPassengers121{
    const g=o.geometry.clone(),m=new THREE.Matrix4().multiplyMatrices(inverse,o.matrixWorld),p=g.getAttribute('position');
    for(let i=0;i<p.count;i++){o.getVertexPosition(i,v);v.applyMatrix4(m);p.setXYZ(i,v.x,v.y,v.z);}
    g.morphAttributes={};for(const a of Object.keys(g.attributes))if(!['position','normal','uv','uv3','color'].includes(a))g.deleteAttribute(a);
-   const low=simplify121(g,template.imported137?.055:.035,template.imported137?2:3);g.dispose();const role=o.userData.wardrobeRole||o.material.userData?.wardrobeRole||(/Std_Eye_[LR]/.test(o.material.name)?'eyes':null),partKey=role||o.material.uuid;
+   const low=simplify121(g,template.imported137?.055:.035,template.imported137?2:3,actor.pose==='seated'?.95:1.35);g.dispose();const role=o.userData.wardrobeRole||o.material.userData?.wardrobeRole||(/Std_Eye_[LR]/.test(o.material.name)?'eyes':null),partKey=role||o.material.uuid;
    if(!parts.has(partKey))parts.set(partKey,{role,material:o.material,geometries:[]});parts.get(partKey).geometries.push(low);
   });
   const meshes=[];

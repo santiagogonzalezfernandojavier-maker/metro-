@@ -38,6 +38,8 @@ jobs:
       - name: Verificar módulos y controles
         run: |
           node scripts/verificar_imports122.mjs
+          node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_presentacion203.mjs
+          node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_personas203.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_fluidez202.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_multitud202.mjs
           node --experimental-loader ./scripts/test-loader.mjs scripts/verificar_destornillador202.mjs

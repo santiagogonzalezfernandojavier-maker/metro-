@@ -1,8 +1,8 @@
-import {refinePassengers180} from './passenger-realism180.js?v=180';
+import {refinePassengers180} from './passenger-realism180.js?v=203';
 import {PASSENGERS145,passengerManifest145} from './passenger-assets145.js?v=180';
 import {PassengerContacts122} from './world-contact122.js?v=130';
 import {prepareImported137,selectPassenger137,attachInfant138} from './passenger-cast137.js?v=144';
-import {InstancedPassengers121,selectDetailed121} from './instanced-passengers121.js?v=202';
+import {InstancedPassengers121,selectDetailed121} from './instanced-passengers121.js?v=203';
 import{avatarDetail119,applyCloth120}from'./passenger-cloth119.js?v=130';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 import * as THREE from 'three';
@@ -136,6 +136,7 @@ export class CabinCharacters{
   if(this.failures120.size&&(this.retryCount120||0)<2){this.retryCount120=(this.retryCount120||0)+1;this.retryTimer120=globalThis.setTimeout?.(()=>{this.loading=this.load();},this.retryCount120*5000);this.retryTimer120?.unref?.();}
  }
  retry(){if(this.pending120)return this.loading;if(this.retryTimer120)clearTimeout(this.retryTimer120);this.retryCount120=0;this.loading=this.load();return this.loading;}
+ animate203(time,running=true){const dt=Math.min(.05,Math.max(0,time-(this.visualAt203??time)));this.visualAt203=time;for(const item of this.pool){if(!item.root.visible||!item.actor203)continue;const a=item.actor203;let p=item.display203;if(!p||p.id!==a.id||Math.hypot(p.x-a.x,p.z-a.z)>3)p=item.display203={id:a.id,x:a.x,y:a.y,z:a.z,yaw:a.yaw||0};const k=a.location==='cabin'||!running?1:1-Math.exp(-22*dt);for(const axis of['x','y','z'])p[axis]+=(a[axis]-p[axis])*k;p.yaw+=Math.atan2(Math.sin((a.yaw||0)-p.yaw),Math.cos((a.yaw||0)-p.yaw))*k;poseCharacter(item,{...a,...p},time+(item.phase203||0));}}
  update(actors,time,running=true){
   if(!this.templates.length)return 0;
   const detailed121=selectDetailed121(actors,this.camera119,24),liveActors121=actors.filter(a=>detailed121.has(a.id)),farEntries121=[];
@@ -151,7 +152,7 @@ export class CabinCharacters{
    item.root.visible=true;item.actorId=actor.id;
    applyWardrobe(item,actor.id);applyCloth120(item,actor.id);const variant119=template.imported137?0:(hash>>>9)&1;if(item.variant119!==variant119){item.variant119=variant119;item.body.traverse(o=>{if(o.morphTargetInfluences?.length)o.morphTargetInfluences[0]=variant119;});}avatarDetail119(item,this.camera119?Math.hypot(actor.x-this.camera119.position.x,actor.y-this.camera119.position.y,actor.z-this.camera119.position.z):0);
    const moving=running?actor.moving:(item.lastMoving??actor.moving);item.lastMoving=moving;
-   poseCharacter(item,{...actor,moving},time+(hash%1000)/1000);
+   item.actor203={...actor,moving,trainId:this.train203};item.root.userData.passenger203=item.actor203;item.phase203=(hash%1000)/1000;poseCharacter(item,item.actor203,time+item.phase203);
   });
   if(farEntries121.length||this.background121){this.background121??=new InstancedPassengers121(this.scene121||this.group.parent||this.group,{create:createCharacter,pose:poseCharacter});this.background121.update(farEntries121,time,this.alignment121);}
   this.contacts122??=new PassengerContacts122(this.scene121||this.group.parent||this.group);this.contacts122.update(actors,time,this.alignment121);

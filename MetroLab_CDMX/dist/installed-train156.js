@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import {trainAsset} from './depot86.js?v=202';
+import {trainAsset} from './depot86.js?v=203';
 import {batchTrainStatics} from './metro-render.js?v=194';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 const templates=new Map();
