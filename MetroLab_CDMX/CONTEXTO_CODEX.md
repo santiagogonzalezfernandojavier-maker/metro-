@@ -47,3 +47,6 @@ MP82_cabina.glb.gz tenía ausente el cierre exterior de la cabina (+X). Se añad
 
 ## Actualización 199
 Agarre del anemómetro compartido en INSTRUMENT_GRIP199 (punto, orientación), pulgar con oposición recuperable. Taller: WorkshopPlay199 añade E apuntado/mantenido, transporte con WASD, dos manos en piezas grandes y guía; H/J/Esc y bolsa comparten controles. game92.js delega sus atajos antiguos al controlador nuevo para evitar cancelar la selección numérica de bolsa y el enfoque sin traslado. Pruebas verificar_agarre199, verificar_taller199.mjs/cjs; ver docs/revision199.md.
+
+## Actualización 200
+Puertas de gabinete manipulables en mantenimiento con E/clic en el tirador nativo, agarre visible, alcance real, oclusión y colisiones móviles. Bolsa con herramientas acostadas; S1 accesible y cámara del taller independiente de OrbitControls durante diálogos; revisión de agarres de cabina/destornillador; terminaciones y cableado visual del transformador. Persona en andén permite subir, caminar dentro del vagón y bajar al detenerse, en los tres modelos y ambos sentidos. Módulos nuevos cab-hand200, bag-layout200, substation-finish200, train-boarding200; pruebas verificar_puertas200 y verificar_embarque200. Véase docs/revision200.md.

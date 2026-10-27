@@ -16,6 +16,7 @@ export function safePlatformPoint169(point,side,solids=[],radius=.28){
 }
 export function sweepPlatform169(from,to,side,solids=[],radius=.28){let p=safePlatformPoint169(from,side,solids,radius);to={x:clamp(to.x,-69,69),z:side*clamp(to.z*side,3.85+radius,7.40-radius)};const count=Math.max(1,Math.ceil(Math.hypot(to.x-p.x,to.z-p.z)/.12)),dx=(to.x-p.x)/count,dz=(to.z-p.z)/count;for(let i=0;i<count;i++)p=safePlatformPoint169({x:p.x+dx,z:p.z+dz},side,solids,radius);return p;}
 export function clampPlatformCamera169(view){
+ if(view.cameraMode==='passenger'&&view.passenger178?.ride200?.trainId){view.previousPlatform169=null;return;}
  if(!['platform','passenger'].includes(view.cameraMode)){view.previousPlatform169=null;return;}const center=view.fixedAnchor??0,side=view.platformSide169??-1,station=view.stationCache.get(view.platformStation??view.cameraStation),solids=station?.userData.solids169||[],c=view.camera.position;
  const desired={x:c.x-center,z:c.z},from=view.previousPlatform169||desired,p=sweepPlatform169(from,desired,side,solids,.30),dx=p.x+center-c.x,dz=p.z-c.z,dy=clamp(c.y,view.cameraMode==='passenger'?2.15:2.25,3.15)-c.y;c.x+=dx;c.z+=dz;c.y+=dy;view.controls.target.add(new T.Vector3(dx,dy,dz));view.camera.lookAt(view.controls.target);view.previousPlatform169=p;
 }
