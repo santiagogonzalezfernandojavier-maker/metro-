@@ -22,8 +22,12 @@ function simplify121(g,step=.024,uvGrid=4){
 }
 export function selectDetailed121(actors,camera,limit=64){
  if(!camera||actors.length<=limit)return new Set(actors.map(a=>a.id));
- const detailed=new Set(actors.filter(a=>a.flow).map(a=>a.id));
- actors.filter(a=>!a.flow).map(a=>({id:a.id,d:Math.hypot(a.x-camera.position.x,a.z-camera.position.z)})).filter(a=>a.d<24).sort((a,b)=>a.d-b.d).slice(0,limit).forEach(a=>detailed.add(a.id));return detailed;
+ // Moving passengers share the same finite skeleton budget. Distant boarding
+ // flows retain their paths through instanced walking poses instead of each
+ // allocating a full animated character.
+ const near=actors.map(a=>({actor:a,d:Math.hypot(a.x-camera.position.x,a.z-camera.position.z)})).filter(p=>p.d<24);
+ near.sort((a,b)=>(a.d-(a.actor.flow?1.5:0))-(b.d-(b.actor.flow?1.5:0)));
+ return new Set(near.slice(0,Math.max(0,limit)).map(p=>p.actor.id));
 }
 export class InstancedPassengers121{
  constructor(scene,factory,capacity=1160){
@@ -49,7 +53,7 @@ export class InstancedPassengers121{
    const g=o.geometry.clone(),m=new THREE.Matrix4().multiplyMatrices(inverse,o.matrixWorld),p=g.getAttribute('position');
    for(let i=0;i<p.count;i++){o.getVertexPosition(i,v);v.applyMatrix4(m);p.setXYZ(i,v.x,v.y,v.z);}
    g.morphAttributes={};for(const a of Object.keys(g.attributes))if(!['position','normal','uv','uv3','color'].includes(a))g.deleteAttribute(a);
-   const low=simplify121(g,template.imported137?.04:.024,template.imported137?2:4);g.dispose();const role=o.userData.wardrobeRole||o.material.userData?.wardrobeRole||(/Std_Eye_[LR]/.test(o.material.name)?'eyes':null),partKey=role||o.material.uuid;
+   const low=simplify121(g,template.imported137?.055:.035,template.imported137?2:3);g.dispose();const role=o.userData.wardrobeRole||o.material.userData?.wardrobeRole||(/Std_Eye_[LR]/.test(o.material.name)?'eyes':null),partKey=role||o.material.uuid;
    if(!parts.has(partKey))parts.set(partKey,{role,material:o.material,geometries:[]});parts.get(partKey).geometries.push(low);
   });
   const meshes=[];

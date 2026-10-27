@@ -1,4 +1,4 @@
-import {SubstationCarry188} from './substation-carry188.js?v=200';
+import {SubstationCarry188} from './substation-carry188.js?v=202';
 import {InstrumentPlacement180} from './instrument-placement180.js?v=188';
 import {MaintenanceChecklist179} from './maintenance-checklist179.js?v=194';
 import {MaintenanceNavigation177} from './maintenance-navigation177.js?v=187';
@@ -9,8 +9,8 @@ import {mountInstalled150,installedContext150} from './installed-service150.js?v
 import {SubstationDossier146} from './substation-dossier146.js?v=148';
 import {gate142,prepareFrame142} from './resource-gate142.js?v=150';
 import {SubstationPlay136} from './substation-play136.js?v=200';
-import {SubstationHand134} from './substation-hand134.js?v=200';
-import {loadServiceBench134} from './substation-service134.js?v=197';
+import {SubstationHand134} from './substation-hand134.js?v=202';
+import {loadServiceBench134} from './substation-service134.js?v=202';
 import {pickFastener131} from './fastener-picking131.js?v=131';
 import {shadowModel130} from './photographic130.js?v=130';
 import * as THREE from 'three';

@@ -53,3 +53,6 @@ Puertas de gabinete manipulables en mantenimiento con E/clic en el tirador nativ
 
 ## Actualización 201
 Frente nativo MP-82 ajustado a la foto aportada: parabrisas único, marco metálico, cuatro ópticas redondas, rotulación 386, soporte acoplador y nervaduras de techo. Se conserva cabina y modelo original; antiguo frente 198 retirado del árbol activo. Script ajustar_mp82_201.py, prueba verificar_mp82_201; verificar_frente198 admite el frente actual. Fetch de trenes/cache 201. Véase docs/revision201.md.
+
+## Actualización 202
+Andén: límite real de 24 esqueletos incluyendo flujos; poses instanciadas más ligeras, búsqueda de portales sin recorrer los descendientes y una sola búsqueda por cuadro; RenderBudget mantiene fase en 60/120/144 Hz. Agarre nativo de destornillador cruza palma y varilla sale junto al índice/pulgar; helper screw-grip202. Ventilation-interior202 añade conducto, impulsor/motor y control auxiliar cableado detrás del filtro sin sustituir la misión. Nuevas pruebas fluidez/multitud/destornillador/interior202 y perfil_anden202.cjs. Véase docs/revision202.md para mediciones y límites.

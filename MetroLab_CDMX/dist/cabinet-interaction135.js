@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import{shoulder196}from'./interaction-hand117.js?v=200';
+import{shoulder196}from'./interaction-hand117.js?v=202';
 const visible=o=>{for(let n=o;n;n=n.parent)if(!n.visible)return false;return true;};
 export class CabinetInteraction135{
  constructor(view){this.view=view;this.rows=[];this.hovered=null;this.lastHover=0;const counts={};

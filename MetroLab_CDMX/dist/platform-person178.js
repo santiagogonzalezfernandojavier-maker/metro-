@@ -1,4 +1,4 @@
-import {TrainBoarding200} from './train-boarding200.js?v=200';
+import {TrainBoarding200} from './train-boarding200.js?v=202';
 import {key181,installKeyHelp181} from './game-keys181.js?v=199';
 import {sweepPeople180,personPad180} from './person-navigation180.js?v=180';
 import * as T from 'three';

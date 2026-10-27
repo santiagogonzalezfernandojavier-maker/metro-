@@ -1,8 +1,8 @@
 import * as T from 'three';
 import {targets102,LABELS102} from './maintenance-session102.js?v=156';
 import {actionObject123} from './meter-leads123.js?v=194';
-import {createGlove104} from './repair-glove104.js?v=200';
-import {InteractionHand117} from './interaction-hand117.js?v=200';
+import {createGlove104} from './repair-glove104.js?v=202';
+import {InteractionHand117} from './interaction-hand117.js?v=202';
 const text=(node,value)=>{if(node.textContent!==value)node.textContent=value;};
 // The workshop uses the same aimed, near-field work and carry loop as the substation.
 export class WorkshopPlay199{

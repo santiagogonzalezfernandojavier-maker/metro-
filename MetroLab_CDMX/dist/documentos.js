@@ -1,4 +1,4 @@
-import {mountInfoShell139} from './info-shell139.js?v=201';
+import {mountInfoShell139} from './info-shell139.js?v=202';
 import {mountKnowledge89,setStudyRequest89} from './knowledge89.js?v=104';
 import {compressedDownloadPath} from './compressed-assets89.js?v=201';
 const $=id=>document.getElementById(id);

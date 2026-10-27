@@ -1,7 +1,7 @@
 import {photographicRenderer130,inspectionShadows130,updateInspectionShadows130,shadowModel130} from './photographic130.js?v=130';
 import {preserveFinishUV124} from './surface-finish124.js?v=194';
 import{createMetroEnvironment}from'./metro-render.js?v=194';import{contactShadow105}from'./contact-shadow105.js?v=105';
-import {RenderBudget101} from './render-budget101.js?v=174';
+import {RenderBudget101} from './render-budget101.js?v=202';
 import {enhanceMetroMaterials} from './metro-render.js?v=194';
 import {refineSurfaceMaterials100} from './visual-quality100.js?v=194';
 import {carReference} from './train-formation.js?v=64';
